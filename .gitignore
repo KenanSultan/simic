@@ -17,6 +17,9 @@ db.sqlite3
 # Environment variables
 .env
 
+# Data
+data/
+
 # OS
 .DS_Store
 Thumbs.db

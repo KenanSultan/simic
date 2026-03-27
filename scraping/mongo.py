@@ -13,3 +13,8 @@ bravo_raw_products = db["bravo_raw_products"]
 araz_raw_products = db["araz_raw_products"]
 bazarstore_raw_products = db["bazarstore_raw_products"]
 neptun_raw_products = db["neptun_raw_products"]
+
+araz_raw_categories = db["araz_raw_categories"]
+bazarstore_raw_categories = db["bazarstore_raw_categories"]
+neptun_raw_categories = db["neptun_raw_categories"]
+wolt_raw_categories = db["wolt_raw_categories"]

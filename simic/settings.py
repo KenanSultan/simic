@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     'market',
     'catalog',
     'product',
-    'pricing'
+    'pricing',
+    'discover',
 ]
 
 MIDDLEWARE = [
