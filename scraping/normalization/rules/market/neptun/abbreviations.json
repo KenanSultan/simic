@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "market": "neptun",
+    "source_type": "website",
+    "description": "Abbreviations used in Neptun website product names (ALL CAPS). Applied before parsing.",
+    "abbreviations": [
+        {"pattern": "PL/Q", "expansion": "Pet"},
+        {"pattern": "S/Q", "expansion": "Şüşə"},
+        {"pattern": "T/P", "expansion": "Tetra pak"},
+        {"pattern": "D/Q", "expansion": "Dəmir qab"}
+    ]
+}

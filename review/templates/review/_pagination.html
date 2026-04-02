@@ -1,0 +1,32 @@
+{% if total_pages > 1 %}
+<div class="pagination-wrap">
+    <nav aria-label="Pagination">
+        <ul class="pagination">
+            <li class="pagination__item">
+                {% if has_previous %}
+                <a href="?{% for k, v in request.GET.items %}{% if k != 'page' %}{{ k }}={{ v }}&{% endif %}{% endfor %}page={{ previous_page }}" class="pagination__link">&larr; Prev</a>
+                {% else %}
+                <span class="pagination__link pagination__link--disabled">&larr; Prev</span>
+                {% endif %}
+            </li>
+            {% for p in page_range %}
+            <li class="pagination__item">
+                {% if p == page %}
+                <a href="#" class="pagination__link" aria-current="page">{{ p }}</a>
+                {% else %}
+                <a href="?{% for k, v in request.GET.items %}{% if k != 'page' %}{{ k }}={{ v }}&{% endif %}{% endfor %}page={{ p }}" class="pagination__link">{{ p }}</a>
+                {% endif %}
+            </li>
+            {% endfor %}
+            <li class="pagination__item">
+                {% if has_next %}
+                <a href="?{% for k, v in request.GET.items %}{% if k != 'page' %}{{ k }}={{ v }}&{% endif %}{% endfor %}page={{ next_page }}" class="pagination__link">Next &rarr;</a>
+                {% else %}
+                <span class="pagination__link pagination__link--disabled">Next &rarr;</span>
+                {% endif %}
+            </li>
+        </ul>
+    </nav>
+    <p class="pagination__info">Page {{ page }} of {{ total_pages }}</p>
+</div>
+{% endif %}

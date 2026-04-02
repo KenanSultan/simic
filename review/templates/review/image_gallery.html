@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+{% load review_tags %}
+{% block title %}Image Gallery - Simic Review{% endblock %}
+
+{% block page_header %}
+<h1 class="main__title">Image Gallery <span class="main__title-count">({{ total }})</span></h1>
+{% endblock %}
+
+{% block content %}
+<!-- Filters -->
+<form method="get" class="filter-panel">
+    <div class="filter-panel__row">
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Category</span>
+            <select name="category">
+                <option value="">All categories</option>
+                {% for cat_id, cat_name in categories %}
+                <option value="{{ cat_id }}" {% if current_filters.category == cat_id|stringformat:"d" %}selected{% endif %}>{{ cat_name }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Brand</span>
+            <select name="brand">
+                <option value="">All brands</option>
+                {% for b in brands %}
+                <option value="{{ b }}" {% if current_filters.brand == b %}selected{% endif %}>{{ b }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field filter-panel__field--search">
+            <span class="filter-panel__label">Search</span>
+            <input type="text" name="q" value="{{ current_filters.q }}" placeholder="Search by name or brand...">
+        </div>
+        <div class="filter-panel__actions">
+            <button type="submit" class="btn-primary">Filter</button>
+            <a href="{% url 'review:image-gallery' market=current_market %}" class="btn btn-outline">Clear</a>
+        </div>
+    </div>
+</form>
+
+{% for record in records %}
+<div class="gallery-card">
+    <div class="gallery-card__header">
+        <span class="gallery-card__title">
+            <a href="{% url 'review:golden-detail' current_market record.match_group_id %}">
+                <strong>{{ record.brand }}</strong> {{ record.product_name }}
+                {% if record.size %}<small>{{ record.size }}{{ record.unit }}</small>{% endif %}
+            </a>
+        </span>
+        <span class="gallery-card__meta">{{ record.category_name }} &middot; {{ record.images|length }} image{{ record.images|length|pluralize:"s" }}</span>
+    </div>
+    <div class="gallery-card__images">
+        {% for img in record.images %}
+        {% with gallery_img=img|img_src %}
+        <div class="gallery-cell" onclick="openLightbox('{{ gallery_img|escapejs }}', '{{ img.branch|escapejs }}')">
+            <img src="{{ gallery_img }}" alt="{{ img.branch }}" class="gallery-thumb" loading="lazy">
+            <span class="gallery-label">{{ img.branch }}</span>
+        </div>
+        {% endwith %}
+        {% endfor %}
+    </div>
+</div>
+{% empty %}
+<div class="empty-state">
+    <div class="empty-state__icon">&#128247;</div>
+    <div class="empty-state__text">No records found.</div>
+</div>
+{% endfor %}
+
+{% include "review/_pagination.html" %}
+
+<!-- Lightbox Dialog -->
+<dialog class="lightbox" id="lightbox">
+    <div class="lightbox__content">
+        <button class="lightbox__close" onclick="closeLightbox()">&times;</button>
+        <img class="lightbox__image" id="lightbox-img" src="" alt="">
+        <div class="lightbox__caption" id="lightbox-caption"></div>
+    </div>
+</dialog>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    var lightboxEl = document.getElementById('lightbox');
+    var lightboxImg = document.getElementById('lightbox-img');
+    var lightboxCaption = document.getElementById('lightbox-caption');
+
+    function openLightbox(url, branch) {
+        lightboxImg.src = url;
+        lightboxCaption.textContent = branch;
+        lightboxEl.showModal();
+    }
+
+    function closeLightbox() {
+        lightboxEl.close();
+        lightboxImg.src = '';
+    }
+
+    lightboxEl.addEventListener('click', function(e) {
+        if (e.target === lightboxEl) closeLightbox();
+    });
+</script>
+{% endblock %}

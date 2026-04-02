@@ -70,9 +70,9 @@ Shared utilities:
 | Market | Data Format | API/Source |
 |---|---|---|
 | Araz | JSON API | `b7x9kq.arazmarket.az/api/products/category` |
-| Bazarstore | JSON API | `bazarstore.az/products.json` |
+| Bazarstore | JSON API | `bazarstore.az/collections/{handle}/products.json` (~494 leaf categories, Shopify) |
 | Bravo | JSON API | `mp-catalog.umico.az/api/v1/products` (category 4497) |
-| Neptun | HTML scraping | `neptun.az` search results, parsed with BeautifulSoup |
+| Neptun | HTML scraping | `neptun.az` category pages (~116 leaf categories), parsed with BeautifulSoup |
 
 ## Key Conventions
 

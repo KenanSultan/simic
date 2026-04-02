@@ -1,0 +1,12 @@
+{
+    "scope": "category",
+    "category": "spirtsiz-ickiler",
+    "description": "Sparkling/still detection patterns for beverages",
+    "patterns": [
+        {"regex": "\\bqazl[ıi]\\b", "value": true},
+        {"regex": "\\bgazl[ıi]\\b", "value": true},
+        {"regex": "\\bqazsiz\\b", "value": false},
+        {"regex": "\\bqazsız\\b", "value": false},
+        {"regex": "\\bsparkling\\b", "value": true}
+    ]
+}

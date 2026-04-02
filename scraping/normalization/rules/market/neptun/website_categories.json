@@ -1,0 +1,56 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "description": "Maps Neptun website categories to canonical category IDs. Website categories are under 'İçkilər' parent. Cleaner than Wolt (product-type based, not brand-based).",
+
+    "direct_mappings": [
+        {"wolt_category": "Meyvə Suları", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Kompotlar", "canonical_category_id": 1404, "canonical_category_name": "Kompot"},
+        {"wolt_category": "Kolalar", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "Soyuq çay", "canonical_category_id": 1409, "canonical_category_name": "Soyuq çay"},
+        {"wolt_category": "Enerji içəcək", "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"}
+    ],
+
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Sular",
+            "rules": [
+                {
+                    "keywords": ["qazoz", "gazoz"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Cola & Soda"
+                },
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "mineral", "maden", "maden suyu"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                },
+                {
+                    "keywords": ["borjomi", "yessentuki", "essentuki", "nabeghlavi", "narzan", "sırma", "sirma", "kızılay", "sarikiz", "sarıkız", "perrier", "sanpellegrino", "dr.essent", "dr. essent", "zapovednik", "alleya", "rical"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Kofe, kakao və s.",
+            "rules": [
+                {
+                    "keywords": ["soyuq kofe", "soyuq qehve", "ice coffee", "cold brew"],
+                    "canonical_category_id": 1410,
+                    "canonical_category_name": "Soyuq kofe"
+                }
+            ],
+            "default_canonical_category_id": null,
+            "default_canonical_category_name": null
+        }
+    ]
+}

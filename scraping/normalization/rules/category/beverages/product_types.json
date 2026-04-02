@@ -1,0 +1,23 @@
+{
+    "scope": "category",
+    "category": "spirtsiz-ickiler",
+    "description": "Product type classification within beverage subcategories. Matched text is removed from name before subsequent extraction steps.",
+    "patterns": [
+        {"regex": "\\bkompot(?:u|lar)?\\b", "type": "Kompot"},
+        {"regex": "\\bnektar(?:ı|i|in)?\\b", "type": "Meyvə şirəsi"},
+        {"regex": "\\bmors(?:ok)?\\b", "type": "Meyvə şirəsi"},
+        {"regex": "\\bsmuz[iı]\\b|\\bsmoothie\\b", "type": "Smuzi"},
+        {"regex": "\\bşirə\\b|\\bsirə\\b|\\bsire\\b|\\bsok\\b|\\bsoku\\b|\\bşirəsi\\b|\\bsiresi\\b", "type": "Meyvə şirəsi"},
+        {"regex": "\\blimonad(?:ı)?\\b|\\blemonade?\\b", "type": "Limonad"},
+        {"regex": "\\bkvas\\b", "type": "Kvas"},
+        {"regex": "\\btonik\\b|\\btonic\\b", "type": "Tonik"},
+        {"regex": "\\bbubble\\s*tea\\b", "type": "Bubble Tea"},
+        {"regex": "\\balkoqolsuz\\b", "type": "Alkoqolsuz pivə"},
+        {"regex": "\\bsoyuq\\s+kof[eə]\\b|\\bsoyuq\\s+q[əe]hv[əe]\\b|\\bice\\s+coffee\\b", "type": "Soyuq kofe"},
+        {"regex": "\\bcoffee\\b|\\bkof[eə]\\b|\\blatte\\b|\\bmocha\\b|\\bcap[pu]+c[cı]ino\\b|\\bmacchiato\\b|\\bmachiato\\b", "type": "Soyuq kofe"},
+        {"regex": "\\bsoyuq\\s+[çc]ay\\b|\\bice\\s+tea\\b", "type": "Soyuq çay"},
+        {"regex": "\\bmineral\\b", "type": "Mineral su"},
+        {"regex": "\\bşalğam\\s*suyu\\b|\\bsalgam\\s*suyu\\b|\\bşalqam\\b|\\bsalgam\\b", "type": "Şalqam suyu"},
+        {"regex": "\\bvitamin\\s*water\\b|\\bvitaminli\\s+su\\b", "type": "Vitamin Water"}
+    ]
+}

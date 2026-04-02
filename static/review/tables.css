@@ -1,0 +1,107 @@
+/* ============================================
+   Tables — Data table styling
+   ============================================ */
+
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-secondary);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--font-size-base);
+  font-variant-numeric: tabular-nums;
+}
+
+thead th {
+  padding: var(--space-3) var(--space-4);
+  text-align: left;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text-muted);
+  background: var(--color-bg-tertiary);
+  border-bottom: 1px solid var(--color-border);
+  white-space: nowrap;
+}
+
+tbody td {
+  padding: var(--space-3) var(--space-4);
+  color: var(--color-text-primary);
+  border-bottom: 1px solid var(--color-border-light);
+  vertical-align: middle;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody tr:hover {
+  background: var(--color-bg-hover);
+}
+
+/* Compact variant */
+.table-compact thead th {
+  padding: var(--space-2) var(--space-3);
+}
+
+.table-compact tbody td {
+  padding: var(--space-2) var(--space-3);
+}
+
+/* Cell types */
+.cell-thumb {
+  width: 52px;
+  padding-right: 0;
+}
+
+.cell-actions {
+  width: 40px;
+  text-align: center;
+}
+
+.cell-num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.cell-badge {
+  width: 100px;
+}
+
+.cell-nowrap {
+  white-space: nowrap;
+}
+
+/* Product name - primary link */
+td a.product-link {
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+
+td a.product-link:hover {
+  color: var(--color-accent);
+}
+
+/* Muted cell */
+.cell-muted {
+  color: var(--color-text-muted);
+}
+
+/* Inline table inside cards (similar groups, etc.) */
+.card table {
+  font-size: var(--font-size-sm);
+}
+
+.card thead th {
+  background: transparent;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.card tbody tr:hover {
+  background: var(--color-bg-tertiary);
+}

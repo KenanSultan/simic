@@ -1,0 +1,23 @@
+{
+    "scope": "category",
+    "category": "spirtsiz-ickiler",
+    "description": "Packaging type patterns for beverages. Order matters — longer/more specific first.",
+    "patterns": [
+        {"regex": "\\(?\\s*şüşə\\s+qabda\\s*\\)?", "type": "glass"},
+        {"regex": "\\(?\\s*dəmir\\s+qabda\\s*\\)?", "type": "can"},
+        {"regex": "\\bdəmir\\s+qab\\b", "type": "can"},
+        {"regex": "\\bdemir\\s+qab\\b", "type": "can"},
+        {"regex": "\\btetra\\s*pa[rc]?k\\b", "type": "tetra"},
+        {"regex": "\\btetrapak\\b", "type": "tetra"},
+        {"regex": "\\balu\\s*can\\b", "type": "can"},
+        {"regex": "\\bşüşə\\b", "type": "glass"},
+        {"regex": "\\bsuse\\b", "type": "glass"},
+        {"regex": "\\bshuse\\b", "type": "glass"},
+        {"regex": "\\bbanka\\b", "type": "can"},
+        {"regex": "\\bdəmir\\b", "type": "can"},
+        {"regex": "\\bdemir\\b", "type": "can"},
+        {"regex": "\\bpet\\b", "type": "pet"},
+        {"regex": "\\bprizma\\b", "type": "tetra"},
+        {"regex": "\\bqutu\\b", "type": "tetra"}
+    ]
+}

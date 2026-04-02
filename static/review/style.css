@@ -1,0 +1,8 @@
+/* Simic Review — Master stylesheet */
+@import url('tokens.css');
+@import url('base.css');
+@import url('layout.css');
+@import url('utilities.css');
+@import url('components.css');
+@import url('tables.css');
+@import url('gallery.css');

@@ -1,0 +1,15 @@
+{
+    "scope": "category",
+    "category": "spirtsiz-ickiler",
+    "description": "Product-type prefixes that appear before the brand name in beverage products",
+    "prefixes": [
+        "soyuq kofe",
+        "qazlı içki",
+        "qazli icki",
+        "sok",
+        "mineral",
+        "meyve şirəsi",
+        "meyve siresi",
+        "su"
+    ]
+}

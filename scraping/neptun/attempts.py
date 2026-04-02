@@ -17,3 +17,12 @@ def get_last_page_for_attempt(attempt: int, search_term: str) -> int:
         projection={"page": 1},
     )
     return doc["page"] if doc else 0
+
+
+def get_last_page_for_category(attempt: int, category_url: str) -> int:
+    doc = neptun_raw_pages.find_one(
+        {"attempt": attempt, "category_url": category_url},
+        sort=[("page", -1)],
+        projection={"page": 1},
+    )
+    return doc["page"] if doc else 0

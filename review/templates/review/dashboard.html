@@ -1,0 +1,242 @@
+{% extends "base.html" %}
+{% load review_tags %}
+{% block title %}Dashboard - Simic Review{% endblock %}
+
+{% block page_header %}
+<h1 class="main__title">Dashboard</h1>
+{% endblock %}
+
+{% block content %}
+<!-- Stat Cards -->
+{% if stats.is_multi_source %}
+<div class="stat-grid">
+    <div class="stat-card stat-card--accent">
+        <div class="stat-card__label">Golden Records</div>
+        <div class="stat-card__value">{{ stats.total_golden }}</div>
+    </div>
+    <div class="stat-card stat-card--info">
+        <div class="stat-card__label"><span class="source-dot source-dot--wolt"></span> Wolt Products</div>
+        <div class="stat-card__value">{{ stats.normalised_by_source.wolt }}</div>
+    </div>
+    <div class="stat-card stat-card--success">
+        <div class="stat-card__label"><span class="source-dot source-dot--website"></span> Website Products</div>
+        <div class="stat-card__value">{{ stats.normalised_by_source.website }}</div>
+    </div>
+    <div class="stat-card stat-card--warning">
+        <div class="stat-card__label">Needs Review</div>
+        <div class="stat-card__value">{{ stats.needs_review }}</div>
+    </div>
+    <div class="stat-card stat-card--danger">
+        <div class="stat-card__label">With Warnings</div>
+        <div class="stat-card__value"><a href="{% url 'review:warnings' market=current_market %}">{{ stats.warnings_count }}</a></div>
+        <div class="stat-card__detail">
+            <span class="source-dot source-dot--wolt"></span> {{ stats.warnings_by_source.wolt }}
+            &nbsp;
+            <span class="source-dot source-dot--website"></span> {{ stats.warnings_by_source.website }}
+        </div>
+    </div>
+</div>
+
+<!-- Source Coverage -->
+{% if stats.coverage %}
+<div class="card mb-6">
+    <div class="card__header">
+        <span class="card__header-title">Source Coverage</span>
+        <span class="card__header-meta">{{ stats.total_golden }} golden records</span>
+    </div>
+    <div class="card__body">
+        {% if stats.total_golden > 0 %}
+        <div class="stacked-bar mb-4">
+            <div class="stacked-bar__segment stacked-bar__segment--both" style="width: {{ stats.coverage.both|pct:stats.total_golden }}%" title="Both sources: {{ stats.coverage.both }}"></div>
+            <div class="stacked-bar__segment stacked-bar__segment--wolt_only" style="width: {{ stats.coverage.wolt_only|pct:stats.total_golden }}%" title="Wolt only: {{ stats.coverage.wolt_only }}"></div>
+            <div class="stacked-bar__segment stacked-bar__segment--website_only" style="width: {{ stats.coverage.website_only|pct:stats.total_golden }}%" title="Website only: {{ stats.coverage.website_only }}"></div>
+        </div>
+        {% endif %}
+        <table class="table-compact">
+            <thead>
+                <tr>
+                    <th>Coverage</th>
+                    <th class="cell-num">Count</th>
+                    <th class="cell-num">%</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="source-dot source-dot--wolt"></span><span class="source-dot source-dot--website"></span> Both sources</td>
+                    <td class="cell-num">{{ stats.coverage.both }}</td>
+                    <td class="cell-num cell-muted">{{ stats.coverage.both|pct:stats.total_golden }}%</td>
+                </tr>
+                <tr>
+                    <td><span class="source-dot source-dot--wolt"></span> Wolt only</td>
+                    <td class="cell-num">{{ stats.coverage.wolt_only }}</td>
+                    <td class="cell-num cell-muted">{{ stats.coverage.wolt_only|pct:stats.total_golden }}%</td>
+                </tr>
+                <tr>
+                    <td><span class="source-dot source-dot--website"></span> Website only</td>
+                    <td class="cell-num">{{ stats.coverage.website_only }}</td>
+                    <td class="cell-num cell-muted">{{ stats.coverage.website_only|pct:stats.total_golden }}%</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endif %}
+
+{% else %}
+<div class="stat-grid">
+    <div class="stat-card stat-card--accent">
+        <div class="stat-card__label">Golden Records</div>
+        <div class="stat-card__value">{{ stats.total_golden }}</div>
+    </div>
+    <div class="stat-card stat-card--info">
+        <div class="stat-card__label">Normalised Products</div>
+        <div class="stat-card__value">{{ stats.total_normalised }}</div>
+    </div>
+    <div class="stat-card stat-card--warning">
+        <div class="stat-card__label">Needs Review</div>
+        <div class="stat-card__value">{{ stats.needs_review }}</div>
+    </div>
+    <div class="stat-card stat-card--danger">
+        <div class="stat-card__label">With Warnings</div>
+        <div class="stat-card__value"><a href="{% url 'review:warnings' market=current_market %}">{{ stats.warnings_count }}</a></div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Match Type + Category -->
+<div class="grid-2 mb-6">
+    <!-- Match Type -->
+    <div class="card">
+        <div class="card__header">
+            <span class="card__header-title">By Match Type</span>
+        </div>
+        <div class="card__body">
+            {% if stats.total_golden > 0 %}
+            <div class="stacked-bar mb-4">
+                {% for item in stats.by_type %}
+                <div class="stacked-bar__segment stacked-bar__segment--{{ item.type }}" style="width: {{ item.count|pct:stats.total_golden }}%" title="{{ item.type }}: {{ item.count }}"></div>
+                {% endfor %}
+            </div>
+            {% endif %}
+            <table class="table-compact">
+                <thead>
+                    <tr>
+                        <th>Type</th>
+                        <th class="cell-num">Count</th>
+                        <th class="cell-num">%</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in stats.by_type %}
+                    <tr>
+                        <td><span class="badge badge-{{ item.type }}">{{ item.type }}</span></td>
+                        <td class="cell-num">
+                            {% if item.type == "single" %}
+                            <a href="{% url 'review:singles' market=current_market %}">{{ item.count }}</a>
+                            {% else %}
+                            <a href="{% url 'review:golden-list' market=current_market %}?match_type={{ item.type }}">{{ item.count }}</a>
+                            {% endif %}
+                        </td>
+                        <td class="cell-num cell-muted">{{ item.count|pct:stats.total_golden }}%</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Category -->
+    <div class="card">
+        <div class="card__header">
+            <span class="card__header-title">By Category</span>
+        </div>
+        <div class="card__body">
+            <table class="table-compact">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th class="cell-num">Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in stats.by_category %}
+                    <tr>
+                        <td><a href="{% url 'review:golden-list' market=current_market %}?category={{ item.category_id }}">{{ item.name }}</a></td>
+                        <td class="cell-num">{{ item.count }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Data Quality -->
+<div class="section-header">
+    <h2>Data Quality</h2>
+</div>
+
+{% for source, q in stats.quality.items %}
+<div class="card mb-4">
+    <div class="card__header">
+        <span class="card__header-title">
+            <span class="source-dot source-dot--{{ source }}"></span>
+            {{ source|title }}
+        </span>
+        <span class="card__header-meta">{{ q.total }} products</span>
+    </div>
+    <div class="card__body">
+        <div class="quality-row">
+            <span class="quality-row__label">No brand</span>
+            <div class="quality-row__bar">
+                <div class="quality-row__fill quality-row__fill--{{ q.no_brand|bar_color:q.total }}" style="width: {{ q.no_brand|bar_width:q.total }}%"></div>
+            </div>
+            <span class="quality-row__value">
+                <a href="{% url 'review:warnings' market=current_market %}?type=brand_not_found&source={{ source }}">{{ q.no_brand }}</a>
+                ({{ q.no_brand|pct:q.total }}%)
+            </span>
+        </div>
+        <div class="quality-row">
+            <span class="quality-row__label">No size</span>
+            <div class="quality-row__bar">
+                <div class="quality-row__fill quality-row__fill--{{ q.no_size|bar_color:q.total }}" style="width: {{ q.no_size|bar_width:q.total }}%"></div>
+            </div>
+            <span class="quality-row__value">
+                <a href="{% url 'review:warnings' market=current_market %}?type=size_not_found&source={{ source }}">{{ q.no_size }}</a>
+                ({{ q.no_size|pct:q.total }}%)
+            </span>
+        </div>
+        <div class="quality-row">
+            <span class="quality-row__label">No barcode</span>
+            <div class="quality-row__bar">
+                <div class="quality-row__fill quality-row__fill--{{ q.no_barcode|bar_color:q.total }}" style="width: {{ q.no_barcode|bar_width:q.total }}%"></div>
+            </div>
+            <span class="quality-row__value">
+                {{ q.no_barcode }}
+                ({{ q.no_barcode|pct:q.total }}%)
+            </span>
+        </div>
+        <div class="quality-row">
+            <span class="quality-row__label">No image</span>
+            <div class="quality-row__bar">
+                <div class="quality-row__fill quality-row__fill--{{ q.no_image|bar_color:q.total }}" style="width: {{ q.no_image|bar_width:q.total }}%"></div>
+            </div>
+            <span class="quality-row__value">
+                {{ q.no_image }}
+                ({{ q.no_image|pct:q.total }}%)
+            </span>
+        </div>
+        <div class="quality-row">
+            <span class="quality-row__label"><strong>Any warning</strong></span>
+            <div class="quality-row__bar">
+                <div class="quality-row__fill quality-row__fill--{{ q.with_warnings|bar_color:q.total }}" style="width: {{ q.with_warnings|bar_width:q.total }}%"></div>
+            </div>
+            <span class="quality-row__value">
+                <a href="{% url 'review:warnings' market=current_market %}?source={{ source }}">{{ q.with_warnings }}</a>
+                ({{ q.with_warnings|pct:q.total }}%)
+            </span>
+        </div>
+    </div>
+</div>
+{% endfor %}
+{% endblock %}

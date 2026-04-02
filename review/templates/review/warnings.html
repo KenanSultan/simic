@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% load review_tags %}
+{% block title %}Warnings - Simic Review{% endblock %}
+
+{% block page_header %}
+<h1 class="main__title">Parse Warnings <span class="main__title-count">({{ total }})</span></h1>
+{% endblock %}
+
+{% block content %}
+<!-- Filters -->
+<form method="get" class="filter-panel">
+    <div class="filter-panel__row">
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Source</span>
+            <select name="source" onchange="this.form.submit()">
+                <option value="">All sources</option>
+                {% for s in sources %}
+                <option value="{{ s }}" {% if current_source == s %}selected{% endif %}>{{ s }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Warning Type</span>
+            <select name="type" onchange="this.form.submit()">
+                <option value="">All warnings</option>
+                {% for wt in warning_types %}
+                <option value="{{ wt }}" {% if current_type == wt %}selected{% endif %}>{{ wt }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__actions">
+            <button type="submit" class="btn-primary">Filter</button>
+            <a href="{% url 'review:warnings' market=current_market %}" class="btn btn-outline">Clear</a>
+        </div>
+    </div>
+</form>
+
+<!-- Table -->
+<div class="table-wrap">
+    <table>
+        <thead>
+            <tr>
+                <th class="cell-thumb"></th>
+                <th>Source</th>
+                <th>Original Name</th>
+                <th>Brand</th>
+                <th>Size</th>
+                <th>Branch</th>
+                <th>Category</th>
+                <th>Warnings</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for p in products %}
+            <tr>
+                <td class="cell-thumb">
+                    {% with warn_img=p|local_or_cdn %}
+                    {% if warn_img %}
+                    <img src="{{ warn_img }}" alt="" class="thumbnail" loading="lazy">
+                    {% else %}
+                    <div class="thumbnail"></div>
+                    {% endif %}
+                    {% endwith %}
+                </td>
+                <td class="nowrap">
+                    <span class="source-dot source-dot--{{ p.source_type }}"></span>{{ p.source_type }}
+                </td>
+                <td>{{ p.original_name }}</td>
+                <td>{{ p.brand|default:"--" }}</td>
+                <td class="nowrap">{% if p.size %}{{ p.size }}{{ p.unit }}{% else %}--{% endif %}</td>
+                <td>{{ p.branch }}</td>
+                <td class="cell-muted">{{ p.category_name }}</td>
+                <td>
+                    {% for w in p.parse_warnings %}
+                    <span class="badge badge-{{ w }}">{{ w }}</span>
+                    {% endfor %}
+                </td>
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="8">
+                    <div class="empty-state">
+                        <div class="empty-state__icon">&#10003;</div>
+                        <div class="empty-state__text">No products with warnings.</div>
+                    </div>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% include "review/_pagination.html" %}
+{% endblock %}

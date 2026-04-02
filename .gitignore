@@ -20,6 +20,12 @@ db.sqlite3
 # Data
 data/
 
+# Media (downloaded product images)
+media/
+
+# Playwright MCP debug artifacts
+.playwright-mcp/
+
 # OS
 .DS_Store
 Thumbs.db

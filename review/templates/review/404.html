@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Not Found - Simic Review{% endblock %}
+
+{% block page_header %}
+<h1 class="main__title">Not Found</h1>
+{% endblock %}
+
+{% block content %}
+<div class="empty-state">
+    <div class="empty-state__icon">&#128533;</div>
+    <div class="empty-state__text">The requested match group could not be found.</div>
+    <div class="empty-state__action">
+        <a href="{% url 'review:golden-list' market=current_market %}" class="btn btn-primary">Back to Golden Records</a>
+    </div>
+</div>
+{% endblock %}

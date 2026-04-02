@@ -1,0 +1,142 @@
+{% extends "base.html" %}
+{% load review_tags %}
+{% block title %}{{ golden.product_name }} - Simic Review{% endblock %}
+
+{% block page_header %}
+<div class="breadcrumb">
+    <a href="{% url 'review:golden-list' market=current_market %}">Golden Records</a>
+    <span class="breadcrumb__sep">/</span>
+    <span class="breadcrumb__current">{{ golden.product_name|default:golden.original_name }}</span>
+</div>
+{% endblock %}
+
+{% block content %}
+<!-- Product Hero -->
+<div class="card mb-6">
+    <div class="card__body">
+        <div class="flex gap-6" style="flex-wrap: wrap;">
+            <div>
+                {% with hero_img=golden|local_or_cdn %}
+                {% if hero_img %}
+                <img src="{{ hero_img }}" alt="{{ golden.product_name }}" class="thumbnail--xl">
+                {% else %}
+                <div class="thumbnail--xl" style="display:flex;align-items:center;justify-content:center;background:var(--color-bg-tertiary);color:var(--color-text-muted);font-size:48px;">&#128247;</div>
+                {% endif %}
+                {% endwith %}
+            </div>
+            <div style="flex:1;min-width:280px;">
+                <h1 class="mb-4">{{ golden.product_name|default:golden.original_name }}</h1>
+                <div class="kv-grid mb-4">
+                    <span class="kv-grid__key">Brand</span>
+                    <span class="kv-grid__value">{{ golden.brand|default:"--" }}</span>
+
+                    <span class="kv-grid__key">Size</span>
+                    <span class="kv-grid__value">{% if golden.size %}{{ golden.size }}{{ golden.unit }}{% if golden.pack_size %} x{{ golden.pack_size }}{% endif %}{% else %}--{% endif %}</span>
+
+                    <span class="kv-grid__key">Barcode</span>
+                    <span class="kv-grid__value"><code>{{ golden.barcode|default:"--" }}</code></span>
+
+                    <span class="kv-grid__key">Category</span>
+                    <span class="kv-grid__value">{{ golden.category_name }}</span>
+
+                    <span class="kv-grid__key">Match Type</span>
+                    <span class="kv-grid__value"><span class="badge badge-{{ match.match_type }}">{{ match.match_type }}</span></span>
+
+                    <span class="kv-grid__key">Confidence</span>
+                    <span class="kv-grid__value">{{ match.match_confidence }}</span>
+
+                    <span class="kv-grid__key">Needs Review</span>
+                    <span class="kv-grid__value">
+                        {% if match.needs_review %}
+                        <span class="badge badge-warning">Yes</span>
+                        {% else %}
+                        <span class="badge badge-success">No</span>
+                        {% endif %}
+                    </span>
+
+                    <span class="kv-grid__key">Branches</span>
+                    <span class="kv-grid__value">{{ golden.branch_count }}</span>
+                </div>
+
+                {% if price_count %}
+                <div class="flex items-center gap-3" style="padding:var(--space-3) var(--space-4);background:var(--color-bg-tertiary);border-radius:var(--radius-md);">
+                    <span class="text-secondary" style="font-size:var(--font-size-sm);">Price range</span>
+                    <span class="font-semibold">{{ price_min }} - {{ price_max }} AZN</span>
+                    <span class="text-muted" style="font-size:var(--font-size-sm);">across {{ price_count }} branch{{ price_count|pluralize:"es" }}</span>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Branch Prices -->
+<div class="section-header">
+    <h2>Branch Prices <span class="text-muted font-tabular">({{ branch_products|length }})</span></h2>
+</div>
+
+<div class="table-wrap">
+    <table>
+        <thead>
+            <tr>
+                <th class="cell-thumb"></th>
+                <th>Branch</th>
+                <th>Price</th>
+                <th>Discount</th>
+                <th>Original Name</th>
+                <th>Barcode</th>
+                <th>Warnings</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for p in branch_products %}
+            <tr>
+                <td class="cell-thumb">
+                    {% with branch_img=p|local_or_cdn %}
+                    {% if branch_img %}
+                    <img src="{{ branch_img }}" alt="" class="thumbnail" loading="lazy">
+                    {% else %}
+                    <div class="thumbnail"></div>
+                    {% endif %}
+                    {% endwith %}
+                </td>
+                <td class="font-medium">{{ p.branch }}</td>
+                <td class="nowrap">
+                    {% if p.discount_price %}
+                    <span class="price-original">{{ p.price }} AZN</span>
+                    {% elif p.price %}
+                    {{ p.price }} AZN
+                    {% else %}
+                    <span class="cell-muted">--</span>
+                    {% endif %}
+                </td>
+                <td class="nowrap">
+                    {% if p.discount_price %}
+                    <span class="price-discount">{{ p.discount_price }} AZN</span>
+                    {% else %}
+                    <span class="cell-muted">--</span>
+                    {% endif %}
+                </td>
+                <td>{{ p.original_name }}</td>
+                <td><code>{{ p.barcode|default:"--" }}</code></td>
+                <td>
+                    {% for w in p.parse_warnings %}
+                    <span class="badge badge-{{ w }}">{{ w }}</span>
+                    {% empty %}
+                    <span class="text-success" style="font-size:var(--font-size-sm);">&#10003;</span>
+                    {% endfor %}
+                </td>
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="7">
+                    <div class="empty-state">
+                        <div class="empty-state__text">No branch products found.</div>
+                    </div>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

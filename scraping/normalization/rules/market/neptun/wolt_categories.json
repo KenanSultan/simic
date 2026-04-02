@@ -1,0 +1,395 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "description": "Maps Wolt Neptun product categories to canonical category IDs. Neptun uses brand-level categories (Coca-Cola, Pepsi, Sirab) instead of product-type categories. Uses two-layer approach: direct 1:1 for unambiguous brand categories, keyword rules for mixed/catch-all categories.",
+
+    "direct_mappings": [
+        {"wolt_category": "Dübrar", "canonical_category_id": 1401, "canonical_category_name": "Qazsız su"},
+        {"wolt_category": "SNO", "canonical_category_id": 1401, "canonical_category_name": "Qazsız su"},
+        {"wolt_category": "Çeşmə", "canonical_category_id": 1401, "canonical_category_name": "Qazsız su"},
+        {"wolt_category": "Gəmiqaya", "canonical_category_id": 1401, "canonical_category_name": "Qazsız su"},
+
+        {"wolt_category": "Kobi", "canonical_category_id": 1402, "canonical_category_name": "Qazlı su & Mineral su"},
+        {"wolt_category": "Nabeghlavi", "canonical_category_id": 1402, "canonical_category_name": "Qazlı su & Mineral su"},
+        {"wolt_category": "Recept Ot Prirodı", "canonical_category_id": 1402, "canonical_category_name": "Qazlı su & Mineral su"},
+
+        {"wolt_category": "Cappy", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Pfanner", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Fruktoviy Sad", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Zolotoy Sad", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Sandora", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Capri-Sun", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Natura", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Lyubimıy", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Soçnaya", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Sonti", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Bahar", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Haitai", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Bizim Tarla", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Bostan", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Frumba", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Rauch Yippy", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "Rauch", "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+
+        {"wolt_category": "Coca-Cola", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "Pepsi", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "Fanta", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "Sprite", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "Mirinda", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "7up", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "Mountain Dew", "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+
+        {"wolt_category": "Qızıl Quyu", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Mia Limonad", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Greenme", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Çernoqolovka", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Natakhtari", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Slavyanka", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Ot Vinta", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Kazbegi", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Zedazeni", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "Early Spring", "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+
+        {"wolt_category": "Red Bull", "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+        {"wolt_category": "Monster", "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+        {"wolt_category": "Hell", "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+        {"wolt_category": "Bizon", "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+        {"wolt_category": "Bombbar", "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+
+        {"wolt_category": "Fuse Tea", "canonical_category_id": 1409, "canonical_category_name": "Soyuq çay"},
+        {"wolt_category": "Fuse Tea Ice Tea", "canonical_category_id": 1409, "canonical_category_name": "Soyuq çay"},
+        {"wolt_category": "I Am Tea", "canonical_category_id": 1409, "canonical_category_name": "Soyuq çay"},
+        {"wolt_category": "Lipton", "canonical_category_id": 1409, "canonical_category_name": "Soyuq çay"},
+
+        {"wolt_category": "Maccoffee", "canonical_category_id": 1410, "canonical_category_name": "Soyuq kofe"}
+    ],
+
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Sirab",
+            "rules": [
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "mineral", "maden"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Bonaqua",
+            "rules": [
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "mineral", "maden"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Badamlı",
+            "rules": [
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "mineral", "maden"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Kəhriz",
+            "rules": [
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "mineral", "maden"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Pınar",
+            "rules": [
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "sparkling"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Aqua Mineral",
+            "rules": [
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "mineral", "maden"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Borjomi",
+            "rules": [
+                {
+                    "keywords": ["limonad", "mandarin", "sitrus", "terxun", "tərxun", "alma"],
+                    "canonical_category_id": 1406,
+                    "canonical_category_name": "Limonad"
+                },
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                }
+            ],
+            "default_canonical_category_id": 1402,
+            "default_canonical_category_name": "Qazlı su & Mineral su"
+        },
+        {
+            "wolt_category": "Sarıkız",
+            "rules": [
+                {
+                    "keywords": ["qazoz", "gazoz"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Cola & Soda"
+                },
+                {
+                    "keywords": ["qazsız", "qazsiz", "sade"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                }
+            ],
+            "default_canonical_category_id": 1402,
+            "default_canonical_category_name": "Qazlı su & Mineral su"
+        },
+        {
+            "wolt_category": "Uludağ",
+            "rules": [
+                {
+                    "keywords": ["qazoz", "frutti"],
+                    "canonical_category_id": 1406,
+                    "canonical_category_name": "Limonad"
+                },
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "maden"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Jalə",
+            "rules": [
+                {
+                    "keywords": ["siresi", "şirəsi", "sire", "nektar"],
+                    "canonical_category_id": 1403,
+                    "canonical_category_name": "Meyvə şirəsi & Nektar"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Diqər Spirtsiz İçkilər",
+            "rules": [
+                {
+                    "keywords": ["qazoz", "gazoz"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Cola & Soda"
+                },
+                {
+                    "keywords": ["kompot", "kompotu", "swell"],
+                    "canonical_category_id": 1404,
+                    "canonical_category_name": "Kompot"
+                },
+                {
+                    "keywords": ["sire", "siresi", "nektar", "sok ", "soku", "meyve suyu", "meyvə suyu", "cappy", "frutmativ", "jumper", "rich"],
+                    "canonical_category_id": 1403,
+                    "canonical_category_name": "Meyvə şirəsi & Nektar"
+                },
+                {
+                    "keywords": ["soyuq cay", "soyuq çay", "ice tea", "fuse tea", "bergtea", "booz tea", "xixo"],
+                    "canonical_category_id": 1409,
+                    "canonical_category_name": "Soyuq çay"
+                },
+                {
+                    "keywords": ["soyuq kofe", "soyuq qehve", "soyuq qəhvə", "coffee", "kofe", "latte", "mocha", "cappuccino", "kapucino"],
+                    "canonical_category_id": 1410,
+                    "canonical_category_name": "Soyuq kofe"
+                },
+                {
+                    "keywords": ["qazsız su", "qazsiz su"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["mineral su", "essentuki", "yessentuki", "maden suyu", "bulaq suyu", "qaynaq suyu", "borjomi", "nabeghlavi", "narzan", "sırma", "sirma", "kızılay", "sarikiz", "sarıkız", "dr.essent", "dr. essent", "zapovednik", "alleya", "rical"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                },
+                {
+                    "keywords": ["enerji", "energy", "energetik", "berg", "bizon", "hell", "red bull", "buzz", "monster", "bombbar"],
+                    "canonical_category_id": 1408,
+                    "canonical_category_name": "Enerji içkiləri"
+                },
+                {
+                    "keywords": ["limonad", "lemonade", "düşes", "duses", "tərxun", "terxun"],
+                    "canonical_category_id": 1406,
+                    "canonical_category_name": "Limonad"
+                },
+                {
+                    "keywords": ["spirtsiz pivə", "spirtsiz pive", "alkoqolsuz", "0%"],
+                    "canonical_category_id": 1407,
+                    "canonical_category_name": "Spirtsiz pivə"
+                },
+                {
+                    "keywords": ["kvas", "şalğam", "salgam", "vitamin water", "vitaminli su"],
+                    "canonical_category_id": 1411,
+                    "canonical_category_name": "Digər"
+                }
+            ],
+            "default_canonical_category_id": 1405,
+            "default_canonical_category_name": "Cola & Soda"
+        },
+        {
+            "wolt_category": "Vita 1000",
+            "rules": [
+                {
+                    "keywords": ["qazlı su", "qazli su", "mineral su"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                },
+                {
+                    "keywords": ["su ", "qazsiz su", "qazsız su"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                }
+            ],
+            "default_canonical_category_id": 1403,
+            "default_canonical_category_name": "Meyvə şirəsi & Nektar"
+        },
+        {
+            "wolt_category": "Aqua Vita",
+            "rules": [
+                {
+                    "keywords": ["qazlı su", "qazli su", "mineral su"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                },
+                {
+                    "keywords": ["su ", "qazsiz su", "qazsız su"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                }
+            ],
+            "default_canonical_category_id": 1406,
+            "default_canonical_category_name": "Limonad"
+        },
+        {
+            "wolt_category": "Full",
+            "rules": [
+                {
+                    "keywords": ["energy", "enerji"],
+                    "canonical_category_id": 1408,
+                    "canonical_category_name": "Enerji içkiləri"
+                },
+                {
+                    "keywords": ["nitro", "extra"],
+                    "canonical_category_id": 1408,
+                    "canonical_category_name": "Enerji içkiləri"
+                },
+                {
+                    "keywords": ["ice tea", "soyuq çay", "soyuq cay"],
+                    "canonical_category_id": 1409,
+                    "canonical_category_name": "Soyuq çay"
+                },
+                {
+                    "keywords": ["coffee", "kofe"],
+                    "canonical_category_id": 1410,
+                    "canonical_category_name": "Soyuq kofe"
+                },
+                {
+                    "keywords": ["meyve suyu", "meyvə suyu", "fresh"],
+                    "canonical_category_id": 1403,
+                    "canonical_category_name": "Meyvə şirəsi & Nektar"
+                },
+                {
+                    "keywords": ["cola", "orange", "lemon", "bubble gum", "lima"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Cola & Soda"
+                }
+            ],
+            "default_canonical_category_id": 1408,
+            "default_canonical_category_name": "Enerji içkiləri"
+        },
+        {
+            "wolt_category": "Berg",
+            "rules": [
+                {
+                    "keywords": ["energy", "enerji", "glucose", "turbo", "skyline"],
+                    "canonical_category_id": 1408,
+                    "canonical_category_name": "Enerji içkiləri"
+                },
+                {
+                    "keywords": ["ice tea", "soyuq çay", "soyuq cay"],
+                    "canonical_category_id": 1409,
+                    "canonical_category_name": "Soyuq çay"
+                },
+                {
+                    "keywords": ["cola"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Cola & Soda"
+                }
+            ],
+            "default_canonical_category_id": 1408,
+            "default_canonical_category_name": "Enerji içkiləri"
+        }
+    ]
+}

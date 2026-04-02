@@ -1,0 +1,190 @@
+{% extends "base.html" %}
+{% load review_tags %}
+{% block title %}Golden Records - Simic Review{% endblock %}
+
+{% block page_header %}
+<h1 class="main__title">Golden Records <span class="main__title-count">({{ total }})</span></h1>
+{% endblock %}
+
+{% block content %}
+<!-- Filters -->
+<form method="get" class="filter-panel">
+    <div class="filter-panel__row">
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Category</span>
+            <select name="category">
+                <option value="">All categories</option>
+                {% for cat_id, cat_name in categories %}
+                <option value="{{ cat_id }}" {% if current_filters.category == cat_id|stringformat:"d" %}selected{% endif %}>{{ cat_name }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Brand</span>
+            <select name="brand">
+                <option value="">All brands</option>
+                <option value="__null__" {% if current_filters.brand == "__null__" %}selected{% endif %}>-- No brand --</option>
+                {% for b in brands %}
+                <option value="{{ b }}" {% if current_filters.brand == b %}selected{% endif %}>{{ b }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Match Type</span>
+            <select name="match_type">
+                <option value="">All types</option>
+                {% for mt in match_types %}
+                <option value="{{ mt }}" {% if current_filters.match_type == mt %}selected{% endif %}>{{ mt }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field filter-panel__field--search">
+            <span class="filter-panel__label">Search</span>
+            <input type="text" name="q" value="{{ current_filters.q }}" placeholder="Search by product name or brand...">
+        </div>
+    </div>
+    <div class="filter-panel__row mt-2">
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Product Type</span>
+            <select name="product_type">
+                <option value="">All types</option>
+                <option value="__null__" {% if current_filters.product_type == "__null__" %}selected{% endif %}>-- No type --</option>
+                {% for pt in product_types %}
+                <option value="{{ pt }}" {% if current_filters.product_type == pt %}selected{% endif %}>{{ pt }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Size</span>
+            <select name="size">
+                <option value="">All sizes</option>
+                <option value="__null__" {% if current_filters.size == "__null__" %}selected{% endif %}>-- No size --</option>
+                {% for s in sizes %}
+                <option value="{{ s }}" {% if current_filters.size == s|stringformat:"g" %}selected{% endif %}>{{ s }}ml</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Flavor</span>
+            <select name="flavor">
+                <option value="">All flavors</option>
+                <option value="__null__" {% if current_filters.flavor == "__null__" %}selected{% endif %}>-- No flavor --</option>
+                {% for f in flavors %}
+                <option value="{{ f }}" {% if current_filters.flavor == f %}selected{% endif %}>{{ f }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Packaging</span>
+            <select name="packaging">
+                <option value="">All packaging</option>
+                <option value="__null__" {% if current_filters.packaging == "__null__" %}selected{% endif %}>-- No packaging --</option>
+                {% for p in packagings %}
+                <option value="{{ p }}" {% if current_filters.packaging == p %}selected{% endif %}>{{ p }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Sparkling</span>
+            <select name="sparkling">
+                <option value="">All</option>
+                <option value="yes" {% if current_filters.sparkling == "yes" %}selected{% endif %}>Sparkling</option>
+                <option value="no" {% if current_filters.sparkling == "no" %}selected{% endif %}>Still</option>
+                <option value="__null__" {% if current_filters.sparkling == "__null__" %}selected{% endif %}>-- Missing --</option>
+            </select>
+        </div>
+        <div class="filter-panel__actions">
+            <button type="submit" class="btn-primary">Filter</button>
+            <a href="{% url 'review:golden-list' market=current_market %}" class="btn btn-outline">Clear</a>
+        </div>
+    </div>
+</form>
+
+<!-- Results bar -->
+<div class="results-bar">
+    <span class="results-bar__count">Showing {{ showing_start }}–{{ showing_end }} of {{ total }}</span>
+    <div class="results-bar__per-page">
+        <span class="results-bar__label">Per page:</span>
+        {% with pp=per_page|stringformat:"d" %}
+        {% for opt in per_page_options %}
+        {% with opt_str=opt|stringformat:"d" %}
+        {% if pp == opt_str %}
+        <span class="results-bar__option results-bar__option--active">{{ opt }}</span>
+        {% else %}
+        <a href="?{% for k, v in request.GET.items %}{% if k != 'per_page' and k != 'page' %}{{ k }}={{ v }}&{% endif %}{% endfor %}per_page={{ opt }}" class="results-bar__option">{{ opt }}</a>
+        {% endif %}
+        {% endwith %}
+        {% endfor %}
+        {% endwith %}
+    </div>
+</div>
+
+<!-- Records -->
+{% for doc in records %}
+{% with gr=doc.golden_record %}
+<a href="{% url 'review:golden-detail' current_market doc.match_group_id %}" class="record-card">
+    <div class="record-card__image">
+        {% with img_url=gr|local_or_cdn %}
+        {% if img_url %}
+        <img src="{{ img_url }}" alt="" loading="lazy">
+        {% else %}
+        <div class="record-card__placeholder">&#128247;</div>
+        {% endif %}
+        {% endwith %}
+    </div>
+    <div class="record-card__body">
+        <div class="record-card__header">
+            <span class="record-card__name">{{ gr.original_name|default:"--" }}</span>
+            <span class="record-card__badges">
+                <span class="badge badge-{{ doc.match_type }}">{{ doc.match_type }}</span>
+                {% if gr.branch_count %}<span class="record-card__branches">{{ gr.branch_count }} branch{{ gr.branch_count|pluralize:"es" }}</span>{% endif %}
+            </span>
+        </div>
+        <div class="record-card__product-name {% if not gr.product_name %}record-card__value--empty{% endif %}">{{ gr.product_name|default:"--" }}</div>
+        <div class="record-card__fields">
+            <div class="record-card__field">
+                <div class="record-card__label">Brand</div>
+                <div class="record-card__value {% if not gr.brand %}record-card__value--missing{% endif %}">{{ gr.brand|default:"--" }}</div>
+            </div>
+            <div class="record-card__field">
+                <div class="record-card__label">Category</div>
+                <div class="record-card__value">{{ gr.category_name }}</div>
+            </div>
+            <div class="record-card__field">
+                <div class="record-card__label">Size</div>
+                <div class="record-card__value {% if not gr.size %}record-card__value--missing{% endif %}">{% if gr.size %}{{ gr.size }}{{ gr.unit }}{% if gr.pack_size %} x{{ gr.pack_size }}{% endif %}{% else %}--{% endif %}</div>
+            </div>
+            <div class="record-card__field">
+                <div class="record-card__label">Flavor</div>
+                <div class="record-card__value {% if not gr.flavor %}record-card__value--empty{% endif %}">{{ gr.flavor|default:"--" }}</div>
+            </div>
+            <div class="record-card__field">
+                <div class="record-card__label">Packaging</div>
+                <div class="record-card__value {% if not gr.packaging %}record-card__value--empty{% endif %}">{{ gr.packaging|default:"--" }}</div>
+            </div>
+            <div class="record-card__field">
+                <div class="record-card__label">Sparkling</div>
+                <div class="record-card__value {% if gr.is_sparkling == None %}record-card__value--empty{% endif %}">{% if gr.is_sparkling %}Yes{% elif gr.is_sparkling == False %}No{% else %}--{% endif %}</div>
+            </div>
+            <div class="record-card__field">
+                <div class="record-card__label">Remaining</div>
+                <div class="record-card__value {% if not gr.remaining %}record-card__value--empty{% endif %}">{{ gr.remaining|default:"--" }}</div>
+            </div>
+            <div class="record-card__field">
+                <div class="record-card__label">Product Type</div>
+                <div class="record-card__value {% if not gr.product_type %}record-card__value--empty{% endif %}">{{ gr.product_type|default:"--" }}</div>
+            </div>
+        </div>
+    </div>
+</a>
+{% endwith %}
+{% empty %}
+<div class="empty-state">
+    <div class="empty-state__icon">&#128269;</div>
+    <div class="empty-state__text">No records match your filters.</div>
+    <a href="{% url 'review:golden-list' market=current_market %}" class="btn btn-outline">Clear filters</a>
+</div>
+{% endfor %}
+
+{% include "review/_pagination.html" %}
+{% endblock %}

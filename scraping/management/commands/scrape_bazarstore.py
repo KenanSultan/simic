@@ -3,7 +3,7 @@ from scraping.bazarstore.scraper import scrape_bazarstore
 
 
 class Command(BaseCommand):
-    help = "Scrape Bazarstore marketplace raw product pages"
+    help = "Scrape Bazarstore category pages (raw JSON)"
 
     def add_arguments(self, parser):
         parser.add_argument(
@@ -15,8 +15,10 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         resume_attempt = options.get("resume_attempt")
 
-        self.stdout.write("[START] Bazarstore scraping")
+        self.stdout.write("[START] Bazarstore category scraping started")
 
         scrape_bazarstore(resume_attempt=resume_attempt)
 
-        self.stdout.write(self.style.SUCCESS("[DONE] Scraping completed"))
+        self.stdout.write(
+            self.style.SUCCESS("[DONE] Bazarstore category scraping finished")
+        )

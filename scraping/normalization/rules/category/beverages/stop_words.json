@@ -1,0 +1,13 @@
+{
+    "scope": "category",
+    "category": "spirtsiz-ickiler",
+    "description": "Noise phrases and words removed from product names in beverage category",
+    "phrases": [
+        "enerji\\s+(?:içkisi|ickisi|ichkisi)",
+        "qazl[ıi]\\s+(?:içki|icki)",
+        "meyvə\\s+(?:şirəsi|siresi)",
+        "meyve\\s+(?:şirəsi|siresi)",
+        "mineral\\s+su"
+    ],
+    "words": ["su", "icki", "içki", "ickileri", "içkiləri", "içkisi", "ickisi", "və", "ve"]
+}

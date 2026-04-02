@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Simic Review{% endblock %}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;600;700&display=swap" rel="stylesheet">
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'review/tokens.css' %}?v=8">
+    <link rel="stylesheet" href="{% static 'review/base.css' %}?v=8">
+    <link rel="stylesheet" href="{% static 'review/layout.css' %}?v=8">
+    <link rel="stylesheet" href="{% static 'review/utilities.css' %}?v=8">
+    <link rel="stylesheet" href="{% static 'review/components.css' %}?v=8">
+    <link rel="stylesheet" href="{% static 'review/tables.css' %}?v=8">
+    <link rel="stylesheet" href="{% static 'review/gallery.css' %}?v=8">
+    {% block extra_css %}{% endblock %}
+    <script>
+        (function() {
+            var t = localStorage.getItem('simic-theme');
+            if (t) { document.documentElement.setAttribute('data-theme', t); }
+            else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                document.documentElement.setAttribute('data-theme', 'dark');
+            }
+            if (localStorage.getItem('simic-sidebar-collapsed') === '1') {
+                document.documentElement.classList.add('sidebar-collapsed');
+            }
+        })();
+    </script>
+</head>
+<body>
+    <div class="app-layout">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar__brand">
+                <div class="sidebar__brand-name">Simic</div>
+                <div class="sidebar__brand-sub">Data Review</div>
+                <button class="sidebar__collapse-btn" id="sidebar-collapse" onclick="toggleSidebar()" aria-label="Collapse sidebar">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="11 17 6 12 11 7"/><polyline points="18 17 13 12 18 7"/></svg>
+                </button>
+            </div>
+
+            <!-- Market Switcher -->
+            {% if markets %}
+            <div class="sidebar__market">
+                {% for code, name in markets %}
+                <a href="{% url 'review:dashboard' market=code %}" class="sidebar__market-btn {% if current_market == code %}sidebar__market-btn--active{% endif %}" data-short="{{ code|make_list|first|upper }}">
+                    <span class="sidebar__market-label">{{ name }}</span>
+                </a>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            <nav class="sidebar__nav">
+                {% with m=current_market|default:"araz" %}
+                <a href="{% url 'review:dashboard' market=m %}" class="sidebar__link" data-tooltip="Dashboard" {% if request.resolver_match.url_name == 'dashboard' %}aria-current="page"{% endif %}>
+                    <svg class="sidebar__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+                    Dashboard
+                </a>
+                <a href="{% url 'review:golden-list' market=m %}" class="sidebar__link" data-tooltip="Golden Records" {% if request.resolver_match.url_name == 'golden-list' or request.resolver_match.url_name == 'golden-detail' %}aria-current="page"{% endif %}>
+                    <svg class="sidebar__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+                    Golden Records
+                </a>
+                <a href="{% url 'review:image-gallery' market=m %}" class="sidebar__link" data-tooltip="Images" {% if request.resolver_match.url_name == 'image-gallery' %}aria-current="page"{% endif %}>
+                    <svg class="sidebar__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+                    Images
+                </a>
+                <a href="{% url 'review:warnings' market=m %}" class="sidebar__link" data-tooltip="Warnings" {% if request.resolver_match.url_name == 'warnings' %}aria-current="page"{% endif %}>
+                    <svg class="sidebar__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                    Warnings
+                </a>
+                <a href="{% url 'review:singles' market=m %}" class="sidebar__link" data-tooltip="Singles" {% if request.resolver_match.url_name == 'singles' %}aria-current="page"{% endif %}>
+                    <svg class="sidebar__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                    Singles
+                </a>
+                <a href="{% url 'review:similar' market=m %}" class="sidebar__link" data-tooltip="Similar" {% if request.resolver_match.url_name == 'similar' %}aria-current="page"{% endif %}>
+                    <svg class="sidebar__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 16v6H8v-6"/><path d="M12 22V2"/><path d="M20 10H4"/><rect x="4" y="4" width="16" height="12" rx="2"/></svg>
+                    Similar
+                </a>
+                {% endwith %}
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <div class="main">
+            <header class="main__header">
+                <div class="main__header-left">
+                    <button class="sidebar-toggle" onclick="document.querySelector('.sidebar').classList.toggle('is-open')" aria-label="Toggle sidebar">&#9776;</button>
+                    {% block page_header %}{% endblock %}
+                </div>
+                <div class="main__header-right">
+                    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme" title="Toggle dark/light mode">
+                        <span class="theme-toggle__icon"></span>
+                    </button>
+                </div>
+            </header>
+
+            <main class="main__content">
+                {% block content %}{% endblock %}
+            </main>
+        </div>
+    </div>
+
+    <script>
+        function toggleTheme() {
+            var html = document.documentElement;
+            var current = html.getAttribute('data-theme');
+            var next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('simic-theme', next);
+            updateThemeIcon();
+        }
+        function updateThemeIcon() {
+            var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            var el = document.querySelector('.theme-toggle__icon');
+            if (el) el.textContent = isDark ? '\u2600' : '\u263E';
+        }
+        updateThemeIcon();
+
+        function toggleSidebar() {
+            var html = document.documentElement;
+            var collapsed = html.classList.toggle('sidebar-collapsed');
+            localStorage.setItem('simic-sidebar-collapsed', collapsed ? '1' : '0');
+        }
+    </script>
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

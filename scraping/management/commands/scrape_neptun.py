@@ -4,7 +4,7 @@ from scraping.neptun.scraper import scrape_neptun
 
 
 class Command(BaseCommand):
-    help = "Scrape Neptun search pages (raw HTML)"
+    help = "Scrape Neptun category pages (raw HTML)"
 
     def add_arguments(self, parser):
         parser.add_argument(
@@ -16,10 +16,10 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         resume_attempt = options.get("resume_attempt")
 
-        self.stdout.write("[START] Neptun page scraping started")
+        self.stdout.write("[START] Neptun category scraping started")
 
         scrape_neptun(resume_attempt=resume_attempt)
 
         self.stdout.write(
-            self.style.SUCCESS("[DONE] Neptun page scraping finished")
+            self.style.SUCCESS("[DONE] Neptun category scraping finished")
         )

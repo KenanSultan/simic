@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% load review_tags %}
+{% block title %}Single-Branch Products - Simic Review{% endblock %}
+
+{% block page_header %}
+<h1 class="main__title">Single-Branch Products <span class="main__title-count">({{ total }})</span></h1>
+{% endblock %}
+
+{% block content %}
+<div class="callout callout--warning mb-6">
+    <span class="callout__icon">&#9888;</span>
+    <span>These products appear in only one branch and may indicate matching failures. Review them to ensure correct deduplication.</span>
+</div>
+
+<div class="table-wrap">
+    <table>
+        <thead>
+            <tr>
+                <th class="cell-thumb"></th>
+                <th>Brand</th>
+                <th>Product</th>
+                <th>Size</th>
+                <th>Barcode</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for doc in records %}
+            {% with gr=doc.golden_record %}
+            <tr>
+                <td class="cell-thumb">
+                    {% with single_img=gr|local_or_cdn %}
+                    {% if single_img %}
+                    <img src="{{ single_img }}" alt="" class="thumbnail" loading="lazy">
+                    {% else %}
+                    <div class="thumbnail"></div>
+                    {% endif %}
+                    {% endwith %}
+                </td>
+                <td>{{ gr.brand|default:"--" }}</td>
+                <td><a href="{% url 'review:golden-detail' current_market doc.match_group_id %}" class="product-link">{{ gr.product_name|default:gr.original_name }}</a></td>
+                <td class="nowrap">{% if gr.size %}{{ gr.size }}{{ gr.unit }}{% else %}--{% endif %}</td>
+                <td><code>{{ gr.barcode|default:"--" }}</code></td>
+                <td class="cell-muted">{{ gr.category_name }}</td>
+            </tr>
+            {% endwith %}
+            {% empty %}
+            <tr>
+                <td colspan="6">
+                    <div class="empty-state">
+                        <div class="empty-state__icon">&#10003;</div>
+                        <div class="empty-state__text">All products are matched to 2+ branches. No orphans found.</div>
+                    </div>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% include "review/_pagination.html" %}
+{% endblock %}

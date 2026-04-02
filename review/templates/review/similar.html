@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% load review_tags %}
+{% block title %}Similar Products - Simic Review{% endblock %}
+
+{% block page_header %}
+<h1 class="main__title">Similar Products <span class="main__title-count">({{ total }} groups)</span></h1>
+{% endblock %}
+
+{% block content %}
+<p class="text-secondary mb-4">Products with the same brand and size but different names -- potential normalization issues.</p>
+
+<!-- Filters -->
+<form method="get" class="filter-panel">
+    <div class="filter-panel__row">
+        <div class="filter-panel__field">
+            <span class="filter-panel__label">Brand</span>
+            <select name="brand" onchange="this.form.submit()">
+                <option value="">All brands</option>
+                {% for b in brands %}
+                <option value="{{ b }}" {% if current_brand == b %}selected{% endif %}>{{ b }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="filter-panel__field" style="flex:0;min-width:auto;">
+            <span class="filter-panel__label">&nbsp;</span>
+            <label style="height:36px;display:flex;align-items:center;">
+                <input type="checkbox" name="has_website" value="1" {% if has_website %}checked{% endif %} onchange="this.form.submit()">
+                Only groups with website products
+            </label>
+        </div>
+        <div class="filter-panel__actions">
+            <button type="submit" class="btn-primary">Filter</button>
+            <a href="{% url 'review:similar' market=current_market %}" class="btn btn-outline">Clear</a>
+        </div>
+    </div>
+</form>
+
+{% for group in groups %}
+<div class="sim-group">
+    <div class="sim-group__head">
+        <span class="sim-group__title">{{ group.brand }} {% if group.size %}{{ group.size }}{{ group.unit }}{% endif %}</span>
+        <span class="sim-group__count">{{ group.count }} products &middot;
+            <span class="badge {% if group.distinct_count >= 3 %}badge-danger{% else %}badge-warning{% endif %}">{{ group.distinct_count }} distinct</span>
+        </span>
+    </div>
+    {% for p in group.products %}
+    <a href="{% url 'review:golden-detail' current_market p.match_group_id %}" class="sim-row">
+        <div class="sim-row__img">
+            {% with sim_img=p|local_or_cdn %}{% if sim_img %}<img src="{{ sim_img }}" alt="" loading="lazy">{% endif %}{% endwith %}
+        </div>
+        <div class="sim-row__main">
+            <div class="sim-row__name">{{ p.original_name|default:"--" }}</div>
+            <div class="sim-row__fields">
+                <div class="sim-field">
+                    <span class="sim-field__label">Type</span>
+                    <span class="sim-field__value {% if not p.product_type %}sim-field__value--empty{% endif %}">{{ p.product_type|default:"--" }}</span>
+                </div>
+                <div class="sim-field">
+                    <span class="sim-field__label">Flavor</span>
+                    <span class="sim-field__value {% if not p.flavor %}sim-field__value--empty{% endif %}">{{ p.flavor|default:"--" }}</span>
+                </div>
+                <div class="sim-field">
+                    <span class="sim-field__label">Packaging</span>
+                    <span class="sim-field__value {% if not p.packaging %}sim-field__value--empty{% endif %}">{{ p.packaging|default:"--" }}</span>
+                </div>
+                <div class="sim-field">
+                    <span class="sim-field__label">Sparkling</span>
+                    <span class="sim-field__value {% if p.is_sparkling == None %}sim-field__value--empty{% endif %}">{% if p.is_sparkling %}Yes{% elif p.is_sparkling == False %}No{% else %}--{% endif %}</span>
+                </div>
+                <div class="sim-field">
+                    <span class="sim-field__label">Price</span>
+                    <span class="sim-field__value">{% if p.price %}{{ p.price }} AZN{% else %}<span class="sim-field__value--empty">--</span>{% endif %}</span>
+                </div>
+            </div>
+        </div>
+        <div class="sim-row__meta">
+            <span class="badge badge-{{ p.match_type }}">{{ p.match_type }}</span>
+            <span class="sim-row__branches">{{ p.branch_count|default:"" }}</span>
+        </div>
+    </a>
+    {% endfor %}
+</div>
+{% empty %}
+<div class="empty-state">
+    <div class="empty-state__icon">&#10003;</div>
+    <div class="empty-state__text">No similar product groups found.</div>
+</div>
+{% endfor %}
+
+{% include "review/_pagination.html" %}
+{% endblock %}

@@ -54,3 +54,35 @@ def fetch_neptun_search_page(
     resp.raise_for_status()
 
     return resp.text
+
+
+def fetch_neptun_category_page(
+    *,
+    category_url: str,
+    page: int,
+    limit: int = 100,
+    timeout: int = 20,
+) -> str:
+    """
+    Fetch Neptun category page HTML.
+
+    This function:
+    - returns RAW HTML
+    - does NOT parse anything
+    - raises on HTTP errors
+    """
+
+    # human-like delay (Cloudflare-safe)
+    time.sleep(random.uniform(0.5, 1.5))
+
+    url = f"{category_url}?page={page}&limit={limit}"
+
+    resp = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=timeout,
+    )
+
+    resp.raise_for_status()
+
+    return resp.text

@@ -21,3 +21,18 @@ def fetch_bazarstore_page(page: int) -> dict:
     )
     resp.raise_for_status()
     return resp.json()
+
+
+def fetch_bazarstore_collection_page(*, handle: str, page: int) -> dict:
+    time.sleep(random.uniform(0.5, 2))
+
+    url = f"https://bazarstore.az/collections/{handle}/products.json"
+
+    resp = requests.get(
+        url,
+        params={"page": page},
+        headers=HEADERS,
+        timeout=15,
+    )
+    resp.raise_for_status()
+    return resp.json()
