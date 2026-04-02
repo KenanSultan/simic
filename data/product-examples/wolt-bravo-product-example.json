@@ -1,0 +1,2488 @@
+[
+  {
+    "market": "Bravo Supermarket Bəşir Safaroğlu",
+    "category": "Nanəli və Meyvəli Konfetlər",
+    "id": "f0b1d56f2387e7a4167b6f32",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "6921211114420",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "92944b9c63c6eb58fe1656fdd92a563f",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/92679d3e-0921-11ef-a405-e6fbc3e1a25f_486827.jpg",
+        "blurhash": "j7:vzTGG;;GGgPCpPtpDX;GF8hpC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Chupa Chups B-pop Tropik 15qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 62,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 243,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 62,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Superstore Bakixanov",
+    "category": "Dietik Məhsullar",
+    "id": "2a36845a85aa9ef2189dc963",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4690329014077",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "29788bb8578aa6cec9f00a7a8f257549",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/9dbd5a04-4e97-11f0-b120-a22c475d18e2_753684.jpg",
+        "blurhash": "j8UufDlq;ZP6h6tEOWGF;:KS4Alq"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "KDV Babyfox Südlü Baton Şokolad 45qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 139,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 24,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 139,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Xırdalan",
+    "category": "Meyvələr",
+    "id": "5dac936a59e1a0e2df90f3c3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ab8e3791773a008bd4f92146246ecacb",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/796e39e0-0927-11ef-aecd-f6ce40ed4f4d_241026.jpg",
+        "blurhash": "ja:;DPGYTLpjLdGFpklCPvBCgOCH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Armud Meşə Gözəli 1kq 3242",
+    "options": [],
+    "original_price": 339,
+    "item_price_discount_validity_period": null,
+    "price": 289,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 15,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": {
+      "grams_per_step": 1000,
+      "input_type": "number_of_items",
+      "price_per_kg": 289
+    },
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": {
+      "base": 1,
+      "original_price": 339,
+      "price": 289,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Zefir Mall",
+    "category": "Energetik və Sport İçkilər",
+    "id": "201c34d9f9b3a276603560c1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "5999860497769",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7e03078927619aa9a7c0c1fc689a9aae",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/fe25bf3c-0922-11ef-abaa-7637bfe16087_601590.jpg",
+        "blurhash": "j8:vvTGG;;qGpCtTKGCpXKpT8yGp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Hell New Generation Enerji İçkisi 449ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 130,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 31,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 130,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket 4 mkr",
+    "category": "Bal, Cem və Mürəbbələr",
+    "id": "64ffea435e0a650036eec718",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760018504773",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "51546fcc3a22a7690d87f052dd426e97",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/36700b62-0c53-11ef-9e07-5e12051e8133_210572.jpg",
+        "blurhash": "jaZ;rRGG;;GGGFC7Cqu9XKCp8ytT"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bizim Tarla Goz Mürəbbəsi 400qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 599,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 22,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 599,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket  Mərdəkan Şosesi",
+    "category": "Zeytun Yağları",
+    "id": "b45773e95726af73d59c72c0",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760161900064",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b6f79287ea97968b40f2d8622f68e674",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/c8daaeea-23fe-11ef-9731-0a5814f46aa8_2876715a_9da8_11ee_bbd7_6ebe12d2b08f_4760161900064_ezgif.com_avif_to_jpg_converter.jpg",
+        "blurhash": "j7:fzUGG;;tTPctTllCpKXtTllGG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Absheron Extra Virgin Zeytun Yağı 0.75l",
+    "options": [],
+    "original_price": 1699,
+    "item_price_discount_validity_period": null,
+    "price": 1349,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 16,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 1699,
+      "price": 1349,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Superstore Lökbatan",
+    "category": "Pendirlər",
+    "id": "c4f985d2fd8a3c57531cd989",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8690565009055",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "49392e0ed1353da8a1065edf62d8093e",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/69822d9c-7bfb-11ef-9f46-c29209507d7c_11111.jpg",
+        "blurhash": "jgZf3IGX;;p5yHtCFSGGX;xCcxuX"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Pınar Sərt Pendir 400qr",
+    "options": [],
+    "original_price": 1546,
+    "item_price_discount_validity_period": null,
+    "price": 1299,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 1546,
+      "price": 1299,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Hipermarket 20 Yanvar",
+    "category": "Kolbasalar",
+    "id": "a996b52be2b602e36001a27c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760165090051",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e4232d6a4a3d0bf602a130b1643868d7",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/b821694a-2408-11ef-ac64-e2108901d819_543585_9d319538a6ed0a7579c456e8a47455ec_photoroom.jpg",
+        "blurhash": "j2;vTYKX;;KXPbtTlnCpXLCp8xpT"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Hicaz Toyuq Kolbasa 500 qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 675,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 36,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 675,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Renessance Palace",
+    "category": "Keks və Kruassanlar",
+    "id": "759a427d0fe6ad18d60b6bf7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760127704491",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "553af4362083f0cab72175270f1b9b06",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/a1ec0714-0920-11ef-a107-b63f55152359_383108.jpg",
+        "blurhash": "j5;vHWGGX;BFKYCplltSTKtTcyCF"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Konfirom Eiffin Keks 28qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 40,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 40,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Renessance Palace",
+    "category": "Vafli və Kurabiyələr",
+    "id": "4d2df93bb3248577b883eaf5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4823077633324",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "50e1337d99bc3eea92654e6f456de19b",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/94808428-27bc-11ef-b35e-8aa6e6d06d72_4823077633324z8p4pka3ddk3x_600x600_photoroom.jpg",
+        "blurhash": "je:fbJGXT;plKYBCpCqGX;tDcxGC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Roshen Lovita Şokoladlı Peçenye 150qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 190,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 34,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 190,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Shokolad Tower",
+    "category": "Bal, Cem və Mürəbbələr",
+    "id": "a92dcd81ad20469fa2d872df",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760068001710",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "dd40fd2a1ae958e1e3c0f2a59547f4c3",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/b8fb3a96-3567-11f0-b272-0e044a95864d_250466.jpg",
+        "blurhash": "jjYeXHGp;;CFuVCpFFtTPttUgPCp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bizim Tarla Çiyələk Mürəbbəsi 400qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 465,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 21,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 465,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Hypermarket Babek pr-ti 2004",
+    "category": "Dondurmalar",
+    "id": "1ebc1130ce9e2b29d7753645",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760016401265",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3a730f9e94ee0f234667b1ddc2a1947e",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/12205af0-d731-11f0-ab3d-e6ca6e43cb8a_371587.png",
+        "blurhash": "j0olVyKX00gP41ll;:Pc1bh3;5TK"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Nastoyasiy Dondurma Rojok Plombir 15%100qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 195,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 195,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Hipermarket 20 Yanvar",
+    "category": "Nanəli və Meyvəli Konfetlər",
+    "id": "b4b2001da67450cdca355b05",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4014400926989",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "27f1ed659623ae22bd46b9254798b995",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/c2197110-0c55-11ef-bc28-7ed8f82906b9_601484.jpg",
+        "blurhash": "je:LjMpVX;KWGWCGtDpCTKGFcylD"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Mamba Frumeladki Jelibon Qarışıq Meyvəli 140qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 400,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 36,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 400,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket 8 noyabr",
+    "category": "Qara Çaylar",
+    "id": "6b4fefe0a00018efff7765d3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760062105377",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4d41887c8208006cc60c8ac19bae02cb",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/bb9b582a-2a6e-11f0-9cc5-5e46486b353b_386431.jpg",
+        "blurhash": "jdZvfMpC;;KXTttTgPGGPuGph2pD"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Berqa Breakfast Qara Çay 450qr Qutuda",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1359,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1359,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Nasimi Metro",
+    "category": "Siqaretlər",
+    "id": "48f584450406fb23817e6cf1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": true
+    },
+    "checksum": "f066e65e482532d52971eb0f0ac7fdc3",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/0d65c0fe-2115-11f0-99fb-6ace879003b6_wmx_6809ebc70b43fc2a1c0096b9.jpeg",
+        "blurhash": "j4:LHWll;;PdcPpCTtGHTuCGcPpC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 3,
+    "min_quantity_per_purchase": null,
+    "name": "Pall Mall American Nights Kapsul Siqaret 47603301",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 310,
+    "product_hierarchy_tags": [
+      "TOBACCO"
+    ],
+    "purchasable_balance": 93,
+    "restrictions": [
+      {
+        "type": "tobacco",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 310,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Dəniz Mall",
+    "category": "Quru Meyvə və Çərəzlər Ədəd ilə",
+    "id": "687f9db7ed0c0ddccb1d8de7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8690787181249",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1679f4eeb4cf61aedbb80195baaa9609",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66f6a23f86a34ceec78687fc/efe018ac-920a-11ef-835d-e227b4a83116_504265.jpg",
+        "blurhash": "joUK3vGH;;plOWuqhmFCHtpCB3GG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tadım Festival Duzlu Qarışıq 75q",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 589,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 589,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket İstanbul Evləri",
+    "category": "Diabetik Məhsullar",
+    "id": "3f1fcf099054c268e58b5882",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8690526097022",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f05c2b691b158833829ecaa45e4a9932",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/852ea6b2-0926-11ef-9c55-cafcb8bb5ae0_223794.jpg",
+        "blurhash": "jlTs;apm;;mGXmKFhqpCX;qGcPJF"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Etimek 15x130qr Duzsuz Ət",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 229,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 229,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Bəşir Safaroğlu",
+    "category": "Yuyucu Mayelər",
+    "id": "859b50a2068fba4264e4a421",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "9000101582772",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "571546f453c50ffc80013a7e810d8a8d",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/a91a77d6-0921-11ef-aead-8a92e9e5950d_493999.jpg",
+        "blurhash": "j7:LzUCp;;KXPttTgPCpX:GG8ipC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Perwoll Universal Yuyucu Gel Qoxu Qayğısı 900ml 9000101582772",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 870,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 870,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Babək pr.94",
+    "category": "Çipslər",
+    "id": "e35586e6c6f4a090aa2ace01",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4690388108977",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ceae17d11cb6d079718a86f135475686",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/e6f15a70-27cf-11f0-b060-22a339cdff1c_wmx_s_111111.jpg",
+        "blurhash": "jeZLbMKY;;l3KZpllAKYPcBSh4qq"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Lays Stax Rebgrill 140qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 605,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 605,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Hipermarket 20 Yanvar",
+    "category": "Digər Souslar",
+    "id": "c76326ca34554afa052ae66c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760060606661",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "03533a3838b26a2b4e219cbb27871d24",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/3be17a42-0ba7-11ef-98df-82442ccc58cd_289827.jpg",
+        "blurhash": "j4:;LYGG;;KXKGtTqGGGXKCp8ypD"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bizim Süfrə Sezar Sousu 230qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 280,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 150,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 280,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Hipermarket 20 Yanvar",
+    "category": "Şampunlar",
+    "id": "98781421e62a1d3a83fb93ed",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "3600541309081",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f47ddf2bf3c616c97e456f2caad9d174",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fructis Şampun İki Uclu Saç Ucları üçün 250 ml",
+    "options": [],
+    "original_price": 595,
+    "item_price_discount_validity_period": null,
+    "price": 399,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 30,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 595,
+      "price": 399,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Zoopark",
+    "category": "Qarğıdalı Yağı",
+    "id": "aa01c028735de4f25245a4b4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760060604186",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "961e4321a132e18ca5ea6aeed65d9a94",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/26056d2a-0925-11ef-9fd1-b63f55152359_210629.jpg",
+        "blurhash": "j4;vPWGGX;GGPcy8h5CoTLy7cxy9"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Zolotoe Solnışko Qarğıdalı Yağı 2l",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1110,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1110,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Qış Parkı",
+    "category": "Makaronlar",
+    "id": "5f7541135ba6d41d76bc1d55",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760013412080",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ba84be099f479cb0f9a248594433a147",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/8fab3e78-0ba8-11ef-a299-b2df45e4422c_623939.jpg",
+        "blurhash": "jaZvnQKG;;llPcCph4pC;;pC8xKG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Harika Makaron Burğu 500qr",
+    "options": [],
+    "original_price": 155,
+    "item_price_discount_validity_period": null,
+    "price": 119,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 155,
+      "price": 119,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Hypermarket Radiozavod",
+    "category": "Yuyucu Mayelər",
+    "id": "a972895a5e071dbff6334f7d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "9000101583526",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0f090239e2b9b75428623b37e77c9c61",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/c6725664-0ba6-11ef-aff7-e26de682dd74_217515.jpg",
+        "blurhash": "j7;fzUGqX;GXPstTl4CpT;CpcitC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Perwoll Yuyucu Gel Rəngli Paltar üçün 2L 9000101583526",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1559,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 17,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1559,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Renessance Palace",
+    "category": "Qara Çaylar",
+    "id": "0954ee5c2afa7639fe9adb6c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760062102420",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ae0aa6325a32b541ee0a5f3c05be3649",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/50706f10-0925-11ef-9fd1-b63f55152359_210983.jpg",
+        "blurhash": "j8:fvSGG;;FCPtpCh3KXXLpCcyKX"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Berqa Earl Grey Qara Çay 225qr Qutuda",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 685,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 73,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 685,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Hipermarket Koroğlu",
+    "category": "Şəkər Məhsulları",
+    "id": "42dc86917df4d43bb8af79e2",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8690629302528",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0e7443ae51d12e59ee5593995f4c71e4",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/99d6edd6-0926-11ef-9294-ee53159dff14_223843.jpg",
+        "blurhash": "jb;fvPCqT;GFqDuqGaFSPvCogOtD"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Dr.Oetker Vanil 5əd",
+    "options": [],
+    "original_price": 95,
+    "item_price_discount_validity_period": null,
+    "price": 80,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1283,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 95,
+      "price": 80,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket Azadlıq Prospekti",
+    "category": "Ağ Şərablar",
+    "id": "36397a5f3cc3355c5fdf6040",
+    "advertising_info": null,
+    "alcohol_permille": 100,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4860038075434",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f6af691ce8eb5aeb1b336ff74880836b",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/09eb15b6-0c6f-11ef-be8d-b2f55972c0f4_4860038075434.jpg",
+        "blurhash": "j3;fPYKX;;GGPctTh4CpXKtT8yGG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Geo Tbilvino Ağ Kəmşirin Al Valey Rkasiteli 750ml",
+    "options": [],
+    "original_price": 2019,
+    "item_price_discount_validity_period": null,
+    "price": 1599,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 2019,
+      "price": 1599,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket 8 noyabr",
+    "category": "Qara Çaylar",
+    "id": "118983a316c446cc92f80866",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760062107050",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d8a02579b6155e91868e7fb2f21c74a2",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/bc6560b4-5031-11f0-8268-feee84aae529_754602.jpg",
+        "blurhash": "jbZvjOKW;;lmGHCpBCpCX;uq8xFS"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Azercay Ətırlı Qara Çay 225qr Qutu",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 699,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 699,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Superstore 28 Mall",
+    "category": "Pişiklər üçün Yem 🐱",
+    "id": "29ad93a1228e2870461ea7ed",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4820215364270",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5f45c08e3dc8dc2f7039b2cbadba377c",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/672b2063a6c24d27db115384/d9a23358-d270-11ef-b9f9-ded4a43f355d_4820215364270.jpg",
+        "blurhash": "jjYKHEKW;;hlLuqqoPKmSWpCdnKW"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Klub 4 Lapi Quzu Əti ilə Pişiklər üçün 100 qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 109,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 109,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Bravo Supermarket M. Mirqasimov",
+    "category": "Dezodarantlar",
+    "id": "19c117e3eb907ae664f6ad91",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4005900839541",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c0da7993cde9f14b47bf3b32c68a1ecd",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/66348f21f221b23d85139cf6/7b965e3c-0927-11ef-ab4a-ceaf381bb64c_241248.jpg",
+        "blurhash": "j4:;LYGG;;GGpltTKXCpXKtT8yCp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Nivea Kişilər üçün Sprey Dezodorant İldırım Yükü 150ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 739,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 739,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

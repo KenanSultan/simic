@@ -1,0 +1,2380 @@
+[
+  {
+    "market": "Araz Xətai-3 Superstore",
+    "category": "Diş pastaları və fırçaları",
+    "id": "d0e9275d2221a65b5bc3c108",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "7891024132470",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a92be605c9519eb1b9e5f97603807f2b",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/d134831c-b609-11ee-aed3-bea85a05fb15_11111.png",
+        "blurhash": "jgYKLEB4X;nsllupKYGG;;zc8xJ4"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Colgate Dis Mec 100ml Herbal 2470",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 315,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 29,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Əliəşrəf",
+    "category": "Çəki şirniyyatları",
+    "id": "37c6fb17008a52e6bcf4c0ff",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f8efa1d6015206ab356d3952b4ed0279",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/99fb0272-bf41-11ee-bf7b-f666e854301d_11111.png",
+        "blurhash": "j4:;HXGG;;CWl5tVLbCD;;qE41FD"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Roshen Galaretka Şokolad kq",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1100,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": {
+      "grams_per_step": 500,
+      "input_type": "number_of_items",
+      "price_per_kg": 1100
+    },
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Planet Superstore",
+    "category": "ZooShop",
+    "id": "e85f3bb40830d5c062908396",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "7613037738391",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ccbf745a205e3438e29032f1df11d00b",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/3933d970-d5a4-11f0-8bba-f2dc122b43c3_1000122225.jpg",
+        "blurhash": "juStPsmX;;NlKGqGpCFlmGBTFCqp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Purina One Pişik Yemi Mal Əti ilə 75qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 98,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 26,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 98,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Binə-4",
+    "category": "Çəki şirniyyatları",
+    "id": "f44145320da36dbf9875d496",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760105915901",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3622bfff7d7136408a9d9db87d7d18e1",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tac Gül Qurabiyə 350qr",
+    "options": [],
+    "original_price": 325,
+    "item_price_discount_validity_period": null,
+    "price": 289,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 22,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 325,
+      "price": 289,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Nərimanov 4",
+    "category": "Pivələr",
+    "id": "0dd670208e1b00209241cd7c",
+    "advertising_info": null,
+    "alcohol_permille": 50,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8690520580902",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a817d64a1e304384fdc85bdc9f5faf87",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": {
+      "disable_text": "Sold out",
+      "disable_reason": null
+    },
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/612dc15a-d250-11ef-b9d9-a24e429ab631_111111.png",
+        "blurhash": "j6:;HUpC;;LcPdCph3pBPtypgPpB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Miller Genuine Draft Pive 0.33lt",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 430,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "BEER"
+    ],
+    "purchasable_balance": 0,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Əhmədli 9 Superstore",
+    "category": "Süd məhsulları",
+    "id": "685c85efe1e9fe28c6b1a97d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4670008560248",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b646c21be70f7f5f4d45c060d664e1a9",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/9e2dadcc-bb63-11ee-b8a4-aa6e4ac875f7_11111.png",
+        "blurhash": "jaYLrQBR;;qJKXKWlmh5;;pX4xKA"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Sıroboqatov Yantar Pendir 45% 200qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 395,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Qutqaşınlı Superstore",
+    "category": "Xanımlar üçün şəxsi baxım",
+    "id": "1f2760484f5733b0ad953342",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8003510021222",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "41b41e5abd1f0e2de9a3f5bccfb5d2e2",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/f54ab822-b8ff-11ee-bc3b-f2d6da2b6bef_11111.png",
+        "blurhash": "j2;fX:KX;KGGqXtTJSCpXstT8QGp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Breeze Deosprey Neutro 150ml",
+    "options": [],
+    "original_price": 655,
+    "item_price_discount_validity_period": null,
+    "price": 299,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 77,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Neftçilər Superstore",
+    "category": "Təmizlik",
+    "id": "a1f932326929c82a06153f2c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8690536921065",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "524b9a8585723649f7b48180634e94c4",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/b01d362e-b46f-11ee-9466-5abf7b666c1f_11111.png",
+        "blurhash": "jiWKLKOX;;h4lmGGKXplTtpCcPKX"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bingo Yuyucu Toz Auto White-color 1.35kg",
+    "options": [],
+    "original_price": 735,
+    "item_price_discount_validity_period": null,
+    "price": 609,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Neftçilər Superstore",
+    "category": "Məktəb və ofis ləvazimatları",
+    "id": "f247a9e1a75b0a5522784f99",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8699435013642",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "65dbd53a854ba014e46913f782aa04cc",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/fd97fdd0-9df2-11f0-940a-02d9a9835b5b_1000125302.jpg",
+        "blurhash": "j3;vHWJ4X;HKN4gyncT;PtHcgykP"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Oyal Marker I-1285",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 90,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 20,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 90,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Space Glass Plaza Superstore",
+    "category": "Çəki şirniyyatları",
+    "id": "ea2d3dff8079aa24720d0189",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760105915888",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "94559043f610869a9116c5b82d0ec859",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tac Günəş Qurabiyə 350qr",
+    "options": [],
+    "original_price": 325,
+    "item_price_discount_validity_period": null,
+    "price": 289,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 325,
+      "price": 289,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Nərimanov 6",
+    "category": "Ümumi hamam məhsulları",
+    "id": "3c6b3d1b849d325e1caa9626",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8693495053860",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "617fe942fc2ebbe9ba84902c902dd208",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/79e11e94-5859-11ee-9b49-9e5ed8f16117_8693495053860.jpg",
+        "blurhash": "jlXeryhk;;TdPulll3PsTtPch4gP"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Palmolive Maye Sabun Makadamiya Yağı ilə 300 ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 455,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Nərimanov 6",
+    "category": "ZooShop",
+    "id": "6a79627fa00b283da8e6b97a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8445290765765",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "91fe5dba92b9d46abe9e999524994155",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/312ac658-d5a4-11f0-8642-7e568db4991e_1000094043.jpg",
+        "blurhash": "jtYZTsCGX;FlOXtTllGpGXBTpCqp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Darling Pişik Yemi Qızılbalıq ilə Cig 26×75qr",
+    "options": [],
+    "original_price": 65,
+    "item_price_discount_validity_period": null,
+    "price": 55,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 27,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 65,
+      "price": 55,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Yasamal Superstore",
+    "category": "Gözəllik və qulluq vasitələri",
+    "id": "145f9acb80de8472946abaa1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "5907609344243",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "24d3609f9dd46f467ec723e1d6e119c9",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/91c1fcc4-9554-11f0-b552-ea629c30a8c6_1000135835.jpg",
+        "blurhash": "jaZvnSGp;;CX8ztTXJCGlmupKGFC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Eveline Gel Tıraş Q10 Aktiv Kişi 200ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 645,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": null,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 645,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Əhmədli 9 Superstore",
+    "category": "Diabetik və dietik qidalar",
+    "id": "6224c5a3d1781126855dad1e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4607032223122",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ec837ce686a8f7d213f5080509590895",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/8c43ebee-ae2f-11ee-8620-c2fee24edfdf_11111.png",
+        "blurhash": "ja:fvPtB;;GYGCCnuHtVX;GH8xpk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Arkom Xrumstik 30qr Fruktoz",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 280,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 21,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz 20 Yanvar Superstore",
+    "category": "Ədviyyat və bişirmə məhsulları",
+    "id": "01c0fed03a9d4dfc38187e24",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8694587132371",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "06750ec164e525e8f413c8dd8ac03d69",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/62ac40c35daa642602a0231b/e71a78d0-95a6-11ef-880d-4e2cbae78c61_8694587132371.jpg",
+        "blurhash": "jcZ;nOtV;;KWX;GF8xpDGYtVpkGm"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Darçın 15qr Soyigit",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 75,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Əhmədli 9 Superstore",
+    "category": "Enerji Içkiləri",
+    "id": "df680c65de2aec2a012f3d38",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "90162800",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a2454436181faaa3a8ed219945709b85",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/9b171efc-7475-11ec-bb85-6efc84398961_red_bull_sugar_free_250_ml.jpeg",
+        "blurhash": "j5:fDWGG;;KGOXpTlmGGXJCp8zpC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Red Bull Sekersiz Enerji 0.25lt",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 349,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 89,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 349,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Bayıl 2",
+    "category": "Makaron və düyü",
+    "id": "70c35634b00a4d2b1d84318b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760013412066",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0009414d40ec3d83ce7af742a2d3c3b8",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/62ac40c35daa642602a0231b/6f28b988-9540-11ef-8b02-062d10dd2871_4760013412066.jpg",
+        "blurhash": "jaZvnQKG;;llPcCph4pT;;pC8xKG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Harika Makaron Qələm 500qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 148,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 23,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz 9 mkr Superstore",
+    "category": "Süd məhsulları",
+    "id": "8116a0d1228579edcf4c00a2",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4810729017144",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9638110ff26544f73f6587ff1b136e4b",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/b3586a2e-eec6-11ef-87d5-b2a05cf56b83_4810729017144.jpg",
+        "blurhash": "jeYvbMpD;LOXCGCpCptT;;KG8ylm"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Belous Sirok Yer Fıstıq Pastası 45qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 100,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 100,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Qutqaşınlı Superstore",
+    "category": "Süd məhsulları",
+    "id": "71d543d2d6b724feb9859a05",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4607161623930",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d3fd58e138c7321d6944472da84852cd",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/c38f6ada-bc42-11ee-9121-eec4898814da_11111.png",
+        "blurhash": "jhV:LJlC;;OWKHpCllKGXJFScQCH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Prostokvaşino Xama 15% 180qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 239,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Yasamal Superstore",
+    "category": "Süd məhsulları",
+    "id": "ab972e0c9c9c526561513644",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4603786012166",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b3ad7ae52606f1c135903ef691ff4c82",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/4a3deb2c-ceae-11f0-b8ff-129071303d7b_1000118371.jpg",
+        "blurhash": "jdYe;Mh4;;TtPcKXh4lkXKKXcyhl"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Burenkin Luq Desert Moruq 7,2 350qr",
+    "options": [],
+    "original_price": 220,
+    "item_price_discount_validity_period": null,
+    "price": 165,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 54,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Novxanı Superstore (F)",
+    "category": "Təmizlik",
+    "id": "7a7573fa369f2481264dfb57",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4620000432951",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f3b19777c4ef799de3bc50e67ff08b7b",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/62ac40c35daa642602a0231b/a0d4063e-9542-11ef-91ed-be546b9954b2_4620000432951.jpg",
+        "blurhash": "j7:LDUGG;;CqPcCoh4pUOXtUhlCn"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Osvejitel Glade 300ml 5b1 Indoneziyskiy Sandal",
+    "options": [],
+    "original_price": 524,
+    "item_price_discount_validity_period": null,
+    "price": 429,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz 20 Yanvar Superstore",
+    "category": "Tum",
+    "id": "ee9c38a6b6203cc09982d744",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760048701135",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7d263553b40fa0f27b55dce60f978698",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/561529e2-adfe-11ee-8f46-0e3e04b17706_11111.png",
+        "blurhash": "jfYL7LKG;;lmh5tVPbGnTupVcPKD"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Mister Tum Ala 100qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 140,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Əliəşrəf",
+    "category": "Quru meyvə",
+    "id": "08b6a2eedf2c3b05dc70420e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "2000040773818",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c36e399e21a60f6b3ef5c19720570219",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tac Araxis Küncütlü 120qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 200,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 200,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Xəzər 2",
+    "category": "Bəylər üçün şəxsi baxim",
+    "id": "d63fa1cf8e45d49c9c2455b7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4005900663702",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "557aef8c49a9c5cccb907cc04d56d513",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/a661e202-b6d0-11ee-8422-1a1fae514e9f_11111.png",
+        "blurhash": "j5:vHXKX;;h4FCypGXtSXKpC8yKX"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Nivea Arctic Cool 48 saat 150ml",
+    "options": [],
+    "original_price": 739,
+    "item_price_discount_validity_period": null,
+    "price": 595,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Qutqaşınlı Superstore",
+    "category": "Dəniz məhsulları",
+    "id": "1960b18cb085e5225697369d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4607010739232",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "78ee4b25ff8281c14ce8c981be82438d",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://image-resizer-proxy.development.dev.woltapi.com/wolt-dev-development-restaurant-api-menu-images/menu-images/62ac40c35daa642602a0231b/018a3edc-95a5-11ef-9447-be0d96f3d78a_4607010739232.jpg",
+        "blurhash": "jlVe7AFT;;uH8zpFTsKDLctCl4uH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Mare Krab Klassik Sousda 150qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 459,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Torgovaya 3",
+    "category": "Xırdavat ləvazimatları",
+    "id": "8e352731a783e1ad9d80abc1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760105909436",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d90eade4ab75fd17390c7c534dd2f129",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Spark Yaglı Bişirmə Kağızı 20m",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 799,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Əhmədli 9 Superstore",
+    "category": "Şirniyyat ədədli",
+    "id": "c70c3ddb0d4126442627dac8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4607084352061",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "19a36a66b88a60066aba3d32dad0de77",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60c2e6054e858ffd60a57f75/bb04fa54-5858-11ee-971a-0256be517c84_4607084352061.jpg",
+        "blurhash": "jlUJXtKX;;llqqpCtCKW;;pC8ytV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Orion Choco Pie Dark 8x12x30 qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 540,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Qutqaşınlı Superstore",
+    "category": "Kişi geyimi",
+    "id": "17a0e0b0ebb3195c17a23e81",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "4760105907715",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "169ee1a6740ca9387a6bafa801bb701e",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Spark Qısaqol Premium Ağ S",
+    "options": [],
+    "original_price": 855,
+    "item_price_discount_validity_period": null,
+    "price": 685,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": 855,
+      "price": 685,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Supermarket Mehdiabad",
+    "category": "Ümumi hamam məhsulları",
+    "id": "b05a2f5fb9e726c8c01dbd5d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8720181219443",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f122f5804f6e3c3594d8338382570afd",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/1ade1a44-bab2-11ee-9eb5-02bd2f6bd519_11111.png",
+        "blurhash": "j3:;LYpC;;PcKXGGCmll;;GX4hl4"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Dove Sabun Exfoliat 90gr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 345,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Araz Qutqaşınlı Superstore",
+    "category": "Konservləşdirilmiş məhsullar",
+    "id": "eb978819036a883569bd2461",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8695608236429",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "301a3eb786147cbd0640a5ef20394913",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/611b9f5c209bfbf807f41e7f/79673e74-b396-11ee-95ad-a66cbc66098b_11111.png",
+        "blurhash": "jeYf7OGH;;tlCYtTBlGGXsFScQqq"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fora Zeytun 800qr",
+    "options": [],
+    "original_price": 1055,
+    "item_price_discount_validity_period": null,
+    "price": 919,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 30,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": null,
+    "variant": null,
+    "vat_category_code": "AZE-2",
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

@@ -1,0 +1,74 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "description": "Maps Wolt Araz product categories to canonical category IDs. Uses two-layer approach: direct 1:1 mappings for clean categories, keyword rules for catch-all categories.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Sadə və mineral sular",
+            "canonical_category_id": 1401,
+            "canonical_category_name": "Su & Mineral su"
+        },
+        {
+            "wolt_category": "Enerji Içkiləri",
+            "canonical_category_id": 1404,
+            "canonical_category_name": "Enerji içkiləri"
+        }
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Şirələr paketləşdirilmiş",
+            "rules": [
+                {
+                    "keywords": ["soyuq cay", "soyuq çay", "ice tea", "fuse tea", "bergtea", "booz tea"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Soyuq çay & Soyuq kofe"
+                },
+                {
+                    "keywords": ["soyuq kofe", "soyuq qehve", "soyuq qəhvə", "coffee", "kofe", "latte", "mocha", "cappuccino", "kapucino"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Soyuq çay & Soyuq kofe"
+                }
+            ],
+            "default_canonical_category_id": 1402,
+            "default_canonical_category_name": "Meyvə şirəsi & Kompot"
+        },
+        {
+            "wolt_category": "Spirtsiz Içkilər",
+            "rules": [
+                {
+                    "keywords": ["kompot", "kompotu"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Meyvə şirəsi & Kompot"
+                },
+                {
+                    "keywords": ["sire", "nektar", "sok ", "soku", "siresi"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Meyvə şirəsi & Kompot"
+                },
+                {
+                    "keywords": ["soyuq cay", "ice tea", "fuse tea", "bergtea", "booz tea", "lipton"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Soyuq çay & Soyuq kofe"
+                },
+                {
+                    "keywords": ["soyuq kofe", "soyuq qehve", "coffee", "kofe", "latte", "mocha", "cappuccino", "macchiato", "nescafe"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Soyuq çay & Soyuq kofe"
+                },
+                {
+                    "keywords": ["mineral su", "essentuki", "yessentuki"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Su & Mineral su"
+                },
+                {
+                    "keywords": ["enerji", "energy"],
+                    "canonical_category_id": 1404,
+                    "canonical_category_name": "Enerji içkiləri"
+                }
+            ],
+            "default_canonical_category_id": 1403,
+            "default_canonical_category_name": "Qazlı içkilər"
+        }
+    ]
+}

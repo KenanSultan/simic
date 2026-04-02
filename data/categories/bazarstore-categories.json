@@ -1,0 +1,3661 @@
+{
+    "data": [
+        {
+            "handle": "meyva-terevaz",
+            "url": "/collections/meyva-terevaz",
+            "children": [
+                {
+                    "handle": "meyv%C9%99",
+                    "url": "/collections/meyv%C9%99",
+                    "children": [
+                        {
+                            "handle": "eqzotik-meyv%C9%99l%C9%99r",
+                            "url": "/collections/eqzotik-meyv%C9%99l%C9%99r",
+                            "children": [],
+                            "title": "Eqzotik Meyvələr"
+                        },
+                        {
+                            "handle": "sitrus-meyv%C9%99l%C9%99ri",
+                            "url": "/collections/sitrus-meyv%C9%99l%C9%99ri",
+                            "children": [],
+                            "title": "Sitrus Meyvələri"
+                        },
+                        {
+                            "handle": "b%C9%99rk-meyv%C9%99l%C9%99r",
+                            "url": "/collections/b%C9%99rk-meyv%C9%99l%C9%99r",
+                            "children": [],
+                            "title": "Bərk Meyvələr"
+                        },
+                        {
+                            "handle": "yumsaq-meyv%C9%99l%C9%99r",
+                            "url": "/collections/yumsaq-meyv%C9%99l%C9%99r",
+                            "children": [],
+                            "title": "Yumşaq Meyvələr"
+                        },
+                        {
+                            "handle": "qarpiz-yemis",
+                            "url": "/collections/qarpiz-yemis",
+                            "children": [],
+                            "title": "Qarpız,Yemiş"
+                        },
+                        {
+                            "handle": "quru-meyv%C9%99-c%C9%99r%C9%99zl%C9%99r",
+                            "url": "/collections/quru-meyv%C9%99-c%C9%99r%C9%99zl%C9%99r",
+                            "children": [],
+                            "title": "Quru Meyvə-Çərəzlər"
+                        },
+                        {
+                            "handle": "dogranmis-meyv%C9%99l%C9%99r",
+                            "url": "/collections/dogranmis-meyv%C9%99l%C9%99r",
+                            "children": [],
+                            "title": "Doğranmış Meyvələr"
+                        }
+                    ],
+                    "title": "Meyvə"
+                },
+                {
+                    "handle": "t%C9%99r%C9%99v%C9%99z",
+                    "url": "/collections/t%C9%99r%C9%99v%C9%99z",
+                    "children": [
+                        {
+                            "handle": "eqzotik-t%C9%99r%C9%99v%C9%99zl%C9%99r",
+                            "url": "/collections/eqzotik-t%C9%99r%C9%99v%C9%99zl%C9%99r",
+                            "children": [],
+                            "title": "Eqzotik Tərəvəzlər"
+                        },
+                        {
+                            "handle": "movsum-t%C9%99r%C9%99v%C9%99zl%C9%99ri",
+                            "url": "/collections/movsum-t%C9%99r%C9%99v%C9%99zl%C9%99ri",
+                            "children": [],
+                            "title": "Mövsüm Tərəvəzləri"
+                        },
+                        {
+                            "handle": "katof-sogan-sarimsaq",
+                            "url": "/collections/katof-sogan-sarimsaq",
+                            "children": [],
+                            "title": "Katof,Soğan,Sarımsaq"
+                        },
+                        {
+                            "handle": "soyulmus-t%C9%99r%C9%99v%C9%99z",
+                            "url": "/collections/soyulmus-t%C9%99r%C9%99v%C9%99z",
+                            "children": [],
+                            "title": "Soyulmuş Tərəvəz"
+                        },
+                        {
+                            "handle": "gob%C9%99l%C9%99k",
+                            "url": "/collections/gob%C9%99l%C9%99k",
+                            "children": [],
+                            "title": "Göbələk"
+                        }
+                    ],
+                    "title": "Tərəvəz"
+                },
+                {
+                    "handle": "goy%C9%99rti-yarpaq",
+                    "url": "/collections/goy%C9%99rti-yarpaq",
+                    "children": [],
+                    "title": "Göyərti, Yarpaq"
+                }
+            ],
+            "title": "Meyvə, Tərəvəz"
+        },
+        {
+            "handle": "%C9%99t-toyuq-baliq",
+            "url": "/collections/%C9%99t-toyuq-baliq",
+            "children": [
+                {
+                    "handle": "qirmizi-%C9%99t",
+                    "url": "/collections/qirmizi-%C9%99t",
+                    "children": [
+                        {
+                            "handle": "dana-%C9%99ti",
+                            "url": "/collections/dana-%C9%99ti",
+                            "children": [],
+                            "title": "Dana Əti"
+                        }
+                    ],
+                    "title": "Qırmızı Ət"
+                },
+                {
+                    "handle": "i%CC%87calat",
+                    "url": "/collections/i%CC%87calat",
+                    "children": [
+                        {
+                            "handle": "dana-i%CC%87calat",
+                            "url": "/collections/dana-i%CC%87calat",
+                            "children": [],
+                            "title": "Dana İçalat"
+                        },
+                        {
+                            "handle": "quzu-i%CC%87calat",
+                            "url": "/collections/quzu-i%CC%87calat",
+                            "children": [],
+                            "title": "Quzu İçalat"
+                        },
+                        {
+                            "handle": "hindi-i%CC%87calat",
+                            "url": "/collections/hindi-i%CC%87calat",
+                            "children": [],
+                            "title": "Hindi İçalat"
+                        },
+                        {
+                            "handle": "toyuq-i%CC%87calat",
+                            "url": "/collections/toyuq-i%CC%87calat",
+                            "children": [],
+                            "title": "Toyuq İçalat"
+                        }
+                    ],
+                    "title": "İçalat"
+                },
+                {
+                    "handle": "ag-%C9%99t",
+                    "url": "/collections/ag-%C9%99t",
+                    "children": [
+                        {
+                            "handle": "#",
+                            "url": "#",
+                            "children": [],
+                            "title": "Bildirçin Əti"
+                        },
+                        {
+                            "handle": "t%C9%99z%C9%99-toyuq",
+                            "url": "/collections/t%C9%99z%C9%99-toyuq",
+                            "children": [],
+                            "title": "Təzə Toyuq"
+                        },
+                        {
+                            "handle": "hinduska-%C9%99ti",
+                            "url": "/collections/hinduska-%C9%99ti",
+                            "children": [],
+                            "title": "Hinduşka Əti"
+                        },
+                        {
+                            "handle": "ord%C9%99y-%C9%99ti",
+                            "url": "/collections/ord%C9%99y-%C9%99ti",
+                            "children": [],
+                            "title": "Ördək Əti"
+                        }
+                    ],
+                    "title": "Ağ Ət"
+                },
+                {
+                    "handle": "dondurulmus-%C9%99t",
+                    "url": "/collections/dondurulmus-%C9%99t",
+                    "children": [
+                        {
+                            "handle": "dondurulmus-%C9%99t-m%C9%99hsullari",
+                            "url": "/collections/dondurulmus-%C9%99t-m%C9%99hsullari",
+                            "children": [],
+                            "title": "Dondurulmuş Ət Məhsulları"
+                        },
+                        {
+                            "handle": "dondurulmus-toyuq",
+                            "url": "/collections/dondurulmus-toyuq",
+                            "children": [],
+                            "title": "Dondurulmuş Toyuq"
+                        },
+                        {
+                            "handle": "dondurulmus-ord%C9%99k-hinduska-bildircin",
+                            "url": "/collections/dondurulmus-ord%C9%99k-hinduska-bildircin",
+                            "children": [],
+                            "title": "Dondurulmuş Ördək, Hinduşka, Bildirçin"
+                        }
+                    ],
+                    "title": "Dondurulmuş Ət"
+                },
+                {
+                    "handle": "%C9%99t-qastronom",
+                    "url": "/collections/%C9%99t-qastronom",
+                    "children": [
+                        {
+                            "handle": "bismis-kolbasa",
+                            "url": "/collections/bismis-kolbasa",
+                            "children": [],
+                            "title": "Bişmiş Kolbasa"
+                        },
+                        {
+                            "handle": "basdirma",
+                            "url": "/collections/basdirma",
+                            "children": [],
+                            "title": "Basdırma"
+                        },
+                        {
+                            "handle": "his%C9%99verilmis-kolbasa",
+                            "url": "/collections/his%C9%99verilmis-kolbasa",
+                            "children": [],
+                            "title": "Hisə verilmiş Kolbasa"
+                        },
+                        {
+                            "handle": "sosis",
+                            "url": "/collections/sosis",
+                            "children": [],
+                            "title": "Sosis"
+                        },
+                        {
+                            "handle": "vetcina-jambon",
+                            "url": "/collections/vetcina-jambon",
+                            "children": [],
+                            "title": "Vetçina, Jambon"
+                        },
+                        {
+                            "handle": "sucuqlar",
+                            "url": "/collections/sucuqlar",
+                            "children": [],
+                            "title": "Sucuqlar"
+                        },
+                        {
+                            "handle": "his%C9%99verilmis-%C9%99t",
+                            "url": "/collections/his%C9%99verilmis-%C9%99t",
+                            "children": [],
+                            "title": "Hisə verilmiş Ət"
+                        }
+                    ],
+                    "title": "Ət Qastronom"
+                },
+                {
+                    "handle": "d%C9%99niz-m%C9%99hsullari",
+                    "url": "/collections/d%C9%99niz-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "baliq",
+                            "url": "/collections/baliq",
+                            "children": [],
+                            "title": "Balıq"
+                        },
+                        {
+                            "handle": "his%C9%99verilmis-baliq",
+                            "url": "/collections/his%C9%99verilmis-baliq",
+                            "children": [],
+                            "title": "Hisə verilmiş Balıq"
+                        },
+                        {
+                            "handle": "hazir-d%C9%99niz-m%C9%99hsullari",
+                            "url": "/collections/hazir-d%C9%99niz-m%C9%99hsullari",
+                            "children": [],
+                            "title": "Hazır Dəniz Məhsulları"
+                        },
+                        {
+                            "handle": "d%C9%99niz-m%C9%99hsullari",
+                            "url": "/collections/d%C9%99niz-m%C9%99hsullari",
+                            "children": [],
+                            "title": "Dəniz Məhsulları"
+                        },
+                        {
+                            "handle": "d%C9%99niz-m%C9%99z%C9%99l%C9%99ri",
+                            "url": "/collections/d%C9%99niz-m%C9%99z%C9%99l%C9%99ri",
+                            "children": [],
+                            "title": "Dəniz Məzələri"
+                        }
+                    ],
+                    "title": "Dəniz Məhsulları"
+                }
+            ],
+            "title": "Ət, Toyuq, Balıq"
+        },
+        {
+            "handle": "sud-seher-yemeyi",
+            "url": "/collections/sud-seher-yemeyi",
+            "children": [
+                {
+                    "handle": "sud",
+                    "url": "/collections/sud",
+                    "children": [
+                        {
+                            "handle": "pasteriz%C9%99-sud",
+                            "url": "/collections/pasteriz%C9%99-sud",
+                            "children": [],
+                            "title": "Uzunömürlü Süd"
+                        },
+                        {
+                            "handle": "xususi-sud",
+                            "url": "/collections/xususi-sud",
+                            "children": [],
+                            "title": "Xüsusi Süd"
+                        },
+                        {
+                            "handle": "uzun-omurlu-aromali",
+                            "url": "/collections/uzun-omurlu-aromali",
+                            "children": [],
+                            "title": "Aromalı"
+                        }
+                    ],
+                    "title": "Süd"
+                },
+                {
+                    "handle": "sud-m%C9%99hsullari",
+                    "url": "/collections/sud-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "dovga",
+                            "url": "/collections/dovga",
+                            "children": [],
+                            "title": "Dovğa"
+                        },
+                        {
+                            "handle": "ayran",
+                            "url": "/collections/ayran",
+                            "children": [],
+                            "title": "Ayran"
+                        },
+                        {
+                            "handle": "xama",
+                            "url": "/collections/xama",
+                            "children": [],
+                            "title": "Xama"
+                        },
+                        {
+                            "handle": "#",
+                            "url": "#",
+                            "children": [],
+                            "title": "Kefir"
+                        },
+                        {
+                            "handle": "k%C9%99smik",
+                            "url": "/collections/k%C9%99smik",
+                            "children": [],
+                            "title": "Kəsmik"
+                        },
+                        {
+                            "handle": "sirok",
+                            "url": "/collections/sirok",
+                            "children": [],
+                            "title": "Sirok"
+                        },
+                        {
+                            "handle": "sor",
+                            "url": "/collections/sor",
+                            "children": [],
+                            "title": "Şor"
+                        },
+                        {
+                            "handle": "qaymaq",
+                            "url": "/collections/qaymaq",
+                            "children": [],
+                            "title": "Qaymaq"
+                        },
+                        {
+                            "handle": "krem",
+                            "url": "/collections/krem",
+                            "children": [],
+                            "title": "Krem"
+                        },
+                        {
+                            "handle": "suzm%C9%99",
+                            "url": "/collections/suzm%C9%99",
+                            "children": [],
+                            "title": "Süzmə"
+                        }
+                    ],
+                    "title": "Süd Məhsulları"
+                },
+                {
+                    "handle": "s%C9%99h%C9%99r-yem%C9%99yi",
+                    "url": "/collections/s%C9%99h%C9%99r-yem%C9%99yi",
+                    "children": [
+                        {
+                            "handle": "s%C9%99h%C9%99r-yem%C9%99kl%C9%99ri",
+                            "url": "/collections/s%C9%99h%C9%99r-yem%C9%99kl%C9%99ri",
+                            "children": [],
+                            "title": "Səhər Yeməkləri"
+                        },
+                        {
+                            "handle": "mur%C9%99bb%C9%99",
+                            "url": "/collections/mur%C9%99bb%C9%99",
+                            "children": [],
+                            "title": "Mürəbbə"
+                        },
+                        {
+                            "handle": "cem",
+                            "url": "/collections/cem",
+                            "children": [],
+                            "title": "Cem"
+                        },
+                        {
+                            "handle": "bal",
+                            "url": "/collections/bal",
+                            "children": [],
+                            "title": "Bal"
+                        },
+                        {
+                            "handle": "halva",
+                            "url": "/collections/halva",
+                            "children": [],
+                            "title": "Halva"
+                        },
+                        {
+                            "handle": "b%C9%99hm%C9%99z",
+                            "url": "/collections/b%C9%99hm%C9%99z",
+                            "children": [],
+                            "title": "Bəkməz"
+                        },
+                        {
+                            "handle": "tahin",
+                            "url": "/collections/tahin",
+                            "children": [],
+                            "title": "Tahin"
+                        },
+                        {
+                            "handle": "povidlo",
+                            "url": "/collections/povidlo",
+                            "children": [],
+                            "title": "Povidlo"
+                        },
+                        {
+                            "handle": "qatilasdirilmis",
+                            "url": "/collections/qatilasdirilmis",
+                            "children": [],
+                            "title": "Qatılaşdırılmış"
+                        },
+                        {
+                            "handle": "krem-ezmeler",
+                            "url": "/collections/krem-ezmeler",
+                            "children": [],
+                            "title": "Krem, Əzmələr"
+                        }
+                    ],
+                    "title": "Səhər Yeməyi"
+                },
+                {
+                    "handle": "pendir",
+                    "url": "/collections/pendir",
+                    "children": [
+                        {
+                            "handle": "ag-pendir-c%C9%99ki",
+                            "url": "/collections/ag-pendir-c%C9%99ki",
+                            "children": [],
+                            "title": "Ağ Pendir Çəki"
+                        },
+                        {
+                            "handle": "ag-pendir-qoyun",
+                            "url": "/collections/ag-pendir-qoyun",
+                            "children": [],
+                            "title": "Ağ Pendir Qoyun"
+                        },
+                        {
+                            "handle": "dig%C9%99r-ag-pendirl%C9%99r",
+                            "url": "/collections/dig%C9%99r-ag-pendirl%C9%99r",
+                            "children": [],
+                            "title": "Digər Ağ Pendirlər"
+                        },
+                        {
+                            "handle": "ag-pendir-%C9%99d%C9%99d",
+                            "url": "/collections/ag-pendir-%C9%99d%C9%99d",
+                            "children": [],
+                            "title": "Ağ Pendir Ədəd"
+                        },
+                        {
+                            "handle": "eridilmis-pendir",
+                            "url": "/collections/eridilmis-pendir",
+                            "children": [],
+                            "title": "Əridilmiş Pendir"
+                        },
+                        {
+                            "handle": "oz%C9%99l-pendirl%C9%99r",
+                            "url": "/collections/oz%C9%99l-pendirl%C9%99r",
+                            "children": [],
+                            "title": "Özəl Pendirlər"
+                        }
+                    ],
+                    "title": "Pendir"
+                },
+                {
+                    "handle": "yoqurt/OZEL-YOGURTLAR",
+                    "url": "/collections/yoqurt/OZEL-YOGURTLAR",
+                    "children": [
+                        {
+                            "handle": "meyv%C9%99li-yogurt",
+                            "url": "/collections/meyv%C9%99li-yogurt",
+                            "children": [],
+                            "title": "Meyvəli Yoqurt"
+                        },
+                        {
+                            "handle": "meyv%C9%99li-i%CC%87cm%C9%99li-yogurt",
+                            "url": "/collections/meyv%C9%99li-i%CC%87cm%C9%99li-yogurt",
+                            "children": [],
+                            "title": "İçməli Yoqurt"
+                        }
+                    ],
+                    "title": "Yoqurt"
+                },
+                {
+                    "handle": "qatiq",
+                    "url": "/collections/qatiq",
+                    "children": [
+                        {
+                            "handle": "camis-qatigi",
+                            "url": "/collections/camis-qatigi",
+                            "children": [],
+                            "title": "Camış qatığı"
+                        },
+                        {
+                            "handle": "k%C9%99nd-qatigi",
+                            "url": "/collections/k%C9%99nd-qatigi",
+                            "children": [],
+                            "title": "Kənd Qatığı"
+                        },
+                        {
+                            "handle": "sad%C9%99-qatiq",
+                            "url": "/collections/sad%C9%99-qatiq",
+                            "children": [],
+                            "title": "Sadə Qatıq"
+                        }
+                    ],
+                    "title": "Qatıq"
+                },
+                {
+                    "handle": "k%C9%99r%C9%99-yagi",
+                    "url": "/collections/k%C9%99r%C9%99-yagi",
+                    "children": [
+                        {
+                            "handle": "k%C9%99r%C9%99-yagi%C9%99d%C9%99d",
+                            "url": "/collections/k%C9%99r%C9%99-yagi%C9%99d%C9%99d",
+                            "children": [],
+                            "title": "Kərə Yağı(ədəd)"
+                        },
+                        {
+                            "handle": "k%C9%99r%C9%99-yagic%C9%99ki",
+                            "url": "/collections/k%C9%99r%C9%99-yagic%C9%99ki",
+                            "children": [],
+                            "title": "Kərə Yağı (çəki)"
+                        },
+                        {
+                            "handle": "melanj-yagi-%C9%99d%C9%99d",
+                            "url": "/collections/melanj-yagi-%C9%99d%C9%99d",
+                            "children": [],
+                            "title": "Melanj yağı (ədəd)"
+                        },
+                        {
+                            "handle": "melanj-yagi-c%C9%99ki",
+                            "url": "/collections/melanj-yagi-c%C9%99ki",
+                            "children": [],
+                            "title": "Melanj yağı (çəki)"
+                        }
+                    ],
+                    "title": "Kərə Yağı"
+                },
+                {
+                    "handle": "zeytun",
+                    "url": "/collections/zeytun",
+                    "children": [],
+                    "title": "Zeytun"
+                },
+                {
+                    "handle": "marqarin",
+                    "url": "/collections/marqarin",
+                    "children": [],
+                    "title": "Marqarin"
+                },
+                {
+                    "handle": "yumurta",
+                    "url": "/collections/yumurta",
+                    "children": [],
+                    "title": "Yumurta"
+                }
+            ],
+            "title": "Süd, Səhər Yeməyi"
+        },
+        {
+            "handle": "t%C9%99m%C9%99l-qida",
+            "url": "/collections/t%C9%99m%C9%99l-qida",
+            "children": [
+                {
+                    "handle": "yag",
+                    "url": "/collections/yag",
+                    "children": [
+                        {
+                            "handle": "duru-yag-gun%C9%99baxan",
+                            "url": "/collections/duru-yag-gun%C9%99baxan",
+                            "children": [],
+                            "title": "Duru Yağ (Günəbaxan)"
+                        },
+                        {
+                            "handle": "#",
+                            "url": "#",
+                            "children": [],
+                            "title": "Duru Yağ (Qarğıdalı)"
+                        },
+                        {
+                            "handle": "qarisiq-yaglar",
+                            "url": "/collections/qarisiq-yaglar",
+                            "children": [],
+                            "title": "Qarışıq Yağlar"
+                        },
+                        {
+                            "handle": "zeytun-yagi",
+                            "url": "/collections/zeytun-yagi",
+                            "children": [],
+                            "title": "Zeytun Yağı"
+                        },
+                        {
+                            "handle": "ghee-yag",
+                            "url": "/collections/ghee-yag",
+                            "children": [],
+                            "title": "Ghee Yağ"
+                        }
+                    ],
+                    "title": "Yağ"
+                },
+                {
+                    "handle": "bakliyyat",
+                    "url": "/collections/bakliyyat",
+                    "children": [
+                        {
+                            "handle": "lobya",
+                            "url": "/collections/lobya",
+                            "children": [],
+                            "title": "Lobya"
+                        },
+                        {
+                            "handle": "noxud",
+                            "url": "/collections/noxud",
+                            "children": [],
+                            "title": "Noxud"
+                        },
+                        {
+                            "handle": "m%C9%99rci",
+                            "url": "/collections/m%C9%99rci",
+                            "children": [],
+                            "title": "Mərci"
+                        },
+                        {
+                            "handle": "qarabasaq",
+                            "url": "/collections/qarabasaq",
+                            "children": [],
+                            "title": "Qarabaşaq"
+                        },
+                        {
+                            "handle": "bugday",
+                            "url": "/collections/bugday",
+                            "children": [],
+                            "title": "Buğday"
+                        },
+                        {
+                            "handle": "qargidali",
+                            "url": "/collections/qargidali",
+                            "children": [],
+                            "title": "Qarğıdalı"
+                        },
+                        {
+                            "handle": "#",
+                            "url": "#",
+                            "children": [],
+                            "title": "Bulğur"
+                        },
+                        {
+                            "handle": "duyu",
+                            "url": "/collections/duyu",
+                            "children": [],
+                            "title": "Düyü"
+                        },
+                        {
+                            "handle": "manni",
+                            "url": "/collections/manni",
+                            "children": [],
+                            "title": "Mannı"
+                        },
+                        {
+                            "handle": "perlova",
+                            "url": "/collections/perlova",
+                            "children": [],
+                            "title": "Perlova"
+                        },
+                        {
+                            "handle": "dari",
+                            "url": "/collections/dari",
+                            "children": [],
+                            "title": "Darı"
+                        },
+                        {
+                            "handle": "kinoa",
+                            "url": "/collections/kinoa",
+                            "children": [],
+                            "title": "Kinoa"
+                        },
+                        {
+                            "handle": "hazir-bakliyyat",
+                            "url": "/collections/hazir-bakliyyat",
+                            "children": [],
+                            "title": "Hazır Bakliyyat"
+                        },
+                        {
+                            "handle": "c%C9%99kili-bakliyyat",
+                            "url": "/collections/c%C9%99kili-bakliyyat",
+                            "children": [],
+                            "title": "Çəkili Bakliyyat"
+                        }
+                    ],
+                    "title": "Bakliyyat"
+                },
+                {
+                    "handle": "makaron",
+                    "url": "/collections/makaron",
+                    "children": [
+                        {
+                            "handle": "normal-makaron",
+                            "url": "/collections/normal-makaron",
+                            "children": [],
+                            "title": "Normal Makaron"
+                        },
+                        {
+                            "handle": "makaron",
+                            "url": "/collections/makaron",
+                            "children": [],
+                            "title": "Makaron"
+                        },
+                        {
+                            "handle": "oz%C9%99l-makaronlar",
+                            "url": "/collections/oz%C9%99l-makaronlar",
+                            "children": [],
+                            "title": "Özəl Makaronlar"
+                        },
+                        {
+                            "handle": "duyu-makaronlari",
+                            "url": "/collections/duyu-makaronlari",
+                            "children": [],
+                            "title": "Düyü Makaronları"
+                        },
+                        {
+                            "handle": "c%C9%99kili-makaron",
+                            "url": "/collections/c%C9%99kili-makaron",
+                            "children": [],
+                            "title": "Çəkili Makaron"
+                        }
+                    ],
+                    "title": "Makaron"
+                },
+                {
+                    "handle": "duz-edviyyat-i%CC%87clikler",
+                    "url": "/collections/duz-edviyyat-i%CC%87clikler",
+                    "children": [
+                        {
+                            "handle": "duz",
+                            "url": "/collections/duz",
+                            "children": [],
+                            "title": "Duz"
+                        },
+                        {
+                            "handle": "%C9%99dviyyat",
+                            "url": "/collections/%C9%99dviyyat",
+                            "children": [],
+                            "title": "Ədviyyat"
+                        },
+                        {
+                            "handle": "i%CC%87clikl%C9%99r",
+                            "url": "/collections/i%CC%87clikl%C9%99r",
+                            "children": [],
+                            "title": "İçliklər"
+                        },
+                        {
+                            "handle": "c%C9%99kili-%C9%99dviyyat",
+                            "url": "/collections/c%C9%99kili-%C9%99dviyyat",
+                            "children": [],
+                            "title": "Çəkili Ədviyyat"
+                        }
+                    ],
+                    "title": "Duz, Ədviyyat, İçliklər"
+                },
+                {
+                    "handle": "un",
+                    "url": "/collections/un",
+                    "children": [
+                        {
+                            "handle": "bugda-unu",
+                            "url": "/collections/bugda-unu",
+                            "children": [],
+                            "title": "Buğda Unu"
+                        },
+                        {
+                            "handle": "covda-unu",
+                            "url": "/collections/covda-unu",
+                            "children": [],
+                            "title": "Çovdar Unu"
+                        },
+                        {
+                            "handle": "qargidali-unu",
+                            "url": "/collections/qargidali-unu",
+                            "children": [],
+                            "title": "Qarğıdalı Unu"
+                        },
+                        {
+                            "handle": "sad%C9%99-unlar",
+                            "url": "/collections/sad%C9%99-unlar",
+                            "children": [],
+                            "title": "Sadə Unlar"
+                        },
+                        {
+                            "handle": "qaleta-unlari",
+                            "url": "/collections/qaleta-unlari",
+                            "children": [],
+                            "title": "Qaleta Unları"
+                        },
+                        {
+                            "handle": "oz%C9%99l-unlar",
+                            "url": "/collections/oz%C9%99l-unlar",
+                            "children": [],
+                            "title": "Özəl Unlar"
+                        }
+                    ],
+                    "title": "Un"
+                },
+                {
+                    "handle": "konserva",
+                    "url": "/collections/konserva",
+                    "children": [
+                        {
+                            "handle": "konservl%C9%99r",
+                            "url": "/collections/konservl%C9%99r",
+                            "children": [],
+                            "title": "Konservlər"
+                        },
+                        {
+                            "handle": "d%C9%99niz-m%C9%99hsulu-konservl%C9%99ri",
+                            "url": "/collections/d%C9%99niz-m%C9%99hsulu-konservl%C9%99ri",
+                            "children": [],
+                            "title": "Dəniz Məhsulu Konservləri"
+                        },
+                        {
+                            "handle": "tomatlar",
+                            "url": "/collections/tomatlar",
+                            "children": [],
+                            "title": "Tomatlar"
+                        },
+                        {
+                            "handle": "tursular",
+                            "url": "/collections/tursular",
+                            "children": [],
+                            "title": "Turşular"
+                        },
+                        {
+                            "handle": "c%C9%99kili-tursular",
+                            "url": "/collections/c%C9%99kili-tursular",
+                            "children": [],
+                            "title": "Çəkili Turşular"
+                        }
+                    ],
+                    "title": "Konserva"
+                },
+                {
+                    "handle": "soslar",
+                    "url": "/collections/soslar",
+                    "children": [
+                        {
+                            "handle": "ketcup",
+                            "url": "/collections/ketcup",
+                            "children": [],
+                            "title": "Ketçup"
+                        },
+                        {
+                            "handle": "mayonez",
+                            "url": "/collections/mayonez",
+                            "children": [],
+                            "title": "Mayonez"
+                        },
+                        {
+                            "handle": "acika",
+                            "url": "/collections/acika",
+                            "children": [],
+                            "title": "Acika"
+                        },
+                        {
+                            "handle": "xardal",
+                            "url": "/collections/xardal",
+                            "children": [],
+                            "title": "Xardal"
+                        },
+                        {
+                            "handle": "makaron-soslari",
+                            "url": "/collections/makaron-soslari",
+                            "children": [],
+                            "title": "Makaron Sosları"
+                        },
+                        {
+                            "handle": "kabab-soslari",
+                            "url": "/collections/kabab-soslari",
+                            "children": [],
+                            "title": "Kabab Sosları"
+                        },
+                        {
+                            "handle": "limonadlar",
+                            "url": "/collections/limonadlar",
+                            "children": [],
+                            "title": "Limon Suyu"
+                        },
+                        {
+                            "handle": "sirk%C9%99",
+                            "url": "/collections/sirk%C9%99",
+                            "children": [],
+                            "title": "Sirkə"
+                        },
+                        {
+                            "handle": "nar-s%C9%99rab",
+                            "url": "/collections/nar-s%C9%99rab",
+                            "children": [],
+                            "title": "Nar Şərab"
+                        },
+                        {
+                            "handle": "dig%C9%99r-soslar",
+                            "url": "/collections/dig%C9%99r-soslar",
+                            "children": [],
+                            "title": "Digər Soslar"
+                        }
+                    ],
+                    "title": "Soslar"
+                },
+                {
+                    "handle": "suplar-v%C9%99-bulyonlar",
+                    "url": "/collections/suplar-v%C9%99-bulyonlar",
+                    "children": [
+                        {
+                            "handle": "bulyon",
+                            "url": "/collections/bulyon",
+                            "children": [],
+                            "title": "Bulyon"
+                        },
+                        {
+                            "handle": "suplar-v%C9%99-bulyonlar",
+                            "url": "/collections/suplar-v%C9%99-bulyonlar",
+                            "children": [],
+                            "title": "Sup"
+                        }
+                    ],
+                    "title": "Suplar və Bulyonlar"
+                },
+                {
+                    "handle": "cay-kofe-seker",
+                    "url": "/collections/cay-kofe-seker",
+                    "children": [
+                        {
+                            "handle": "cay",
+                            "url": "/collections/cay",
+                            "children": [],
+                            "title": "Çay"
+                        },
+                        {
+                            "handle": "kofe",
+                            "url": "/collections/kofe",
+                            "children": [],
+                            "title": "Kofe"
+                        },
+                        {
+                            "handle": "kofe-kremi-kakao-sud-tozu",
+                            "url": "/collections/kofe-kremi-kakao-sud-tozu",
+                            "children": [],
+                            "title": "Kofe Kremi,Kakao,Süd Tozu"
+                        },
+                        {
+                            "handle": "s%C9%99k%C9%99r-tozu",
+                            "url": "/collections/s%C9%99k%C9%99r-tozu",
+                            "children": [],
+                            "title": "Şəkər Tozu"
+                        },
+                        {
+                            "handle": "q%C9%99nd",
+                            "url": "/collections/q%C9%99nd",
+                            "children": [],
+                            "title": "Qənd"
+                        },
+                        {
+                            "handle": "pudra-s%C9%99k%C9%99ri",
+                            "url": "/collections/pudra-s%C9%99k%C9%99ri",
+                            "children": [],
+                            "title": "Pudra Şəkəri"
+                        },
+                        {
+                            "handle": "nogul",
+                            "url": "/collections/nogul",
+                            "children": [],
+                            "title": "Noğul"
+                        },
+                        {
+                            "handle": "c%C9%99kili-cay-s%C9%99k%C9%99r-kofe",
+                            "url": "/collections/c%C9%99kili-cay-s%C9%99k%C9%99r-kofe",
+                            "children": [],
+                            "title": "Çəkili Çay,Şəkər,Kofe"
+                        }
+                    ],
+                    "title": "Çay, Qəhvə, Şəkər"
+                },
+                {
+                    "handle": "susi-m%C9%99hsullari",
+                    "url": "/collections/susi-m%C9%99hsullari",
+                    "children": [],
+                    "title": "Suşi Məhsulları"
+                },
+                {
+                    "handle": "sagliqli-h%C9%99yat-t%C9%99rzi-m%C9%99hsullari",
+                    "url": "/collections/sagliqli-h%C9%99yat-t%C9%99rzi-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "dietik-m%C9%99hsullar",
+                            "url": "/collections/dietik-m%C9%99hsullar",
+                            "children": [],
+                            "title": "Diyetik Məhsullar"
+                        },
+                        {
+                            "handle": "diabetik-m%C9%99hsullar",
+                            "url": "/collections/diabetik-m%C9%99hsullar",
+                            "children": [],
+                            "title": "Diabetik Məhsullar"
+                        },
+                        {
+                            "handle": "qlutensiz",
+                            "url": "/collections/qlutensiz",
+                            "children": [],
+                            "title": "Qlutensiz"
+                        },
+                        {
+                            "handle": "qlutensiz-m%C9%99hsullar",
+                            "url": "/collections/qlutensiz-m%C9%99hsullar",
+                            "children": [],
+                            "title": "Qlutensiz Məhsullar"
+                        }
+                    ],
+                    "title": "Sağlıqlı Həyat Tərzi Məhsulları"
+                }
+            ],
+            "title": "Təməl Qida"
+        },
+        {
+            "handle": "tort-bism%C9%99l%C9%99r-cor%C9%99k",
+            "url": "/collections/tort-bism%C9%99l%C9%99r-cor%C9%99k",
+            "children": [
+                {
+                    "handle": "un-m%C9%99mulatlari",
+                    "url": "/collections/un-m%C9%99mulatlari",
+                    "children": [
+                        {
+                            "handle": "bism%C9%99l%C9%99r",
+                            "url": "/collections/bism%C9%99l%C9%99r",
+                            "children": [],
+                            "title": "Bişmələr"
+                        }
+                    ],
+                    "title": "Un Məmulatları"
+                },
+                {
+                    "handle": "sirniyyatlar",
+                    "url": "/collections/sirniyyatlar",
+                    "children": [
+                        {
+                            "handle": "s%C9%99rb%C9%99tli-sirniyyat",
+                            "url": "/collections/s%C9%99rb%C9%99tli-sirniyyat",
+                            "children": [],
+                            "title": "Şərbətli Şirniyyat"
+                        },
+                        {
+                            "handle": "sudlu-sirniyyat",
+                            "url": "/collections/sudlu-sirniyyat",
+                            "children": [],
+                            "title": "Südlü Şirniyyat"
+                        }
+                    ],
+                    "title": "Şirniyyatlar"
+                },
+                {
+                    "handle": "cor%C9%99kl%C9%99r",
+                    "url": "/collections/cor%C9%99kl%C9%99r",
+                    "children": [
+                        {
+                            "handle": "normal-cor%C9%99k",
+                            "url": "/collections/normal-cor%C9%99k",
+                            "children": [],
+                            "title": "Normal Çörək"
+                        },
+                        {
+                            "handle": "diabetik-cor%C9%99k",
+                            "url": "/collections/diabetik-cor%C9%99k",
+                            "children": [],
+                            "title": "Diabetik Çörək"
+                        },
+                        {
+                            "handle": "xususi-cor%C9%99k",
+                            "url": "/collections/xususi-cor%C9%99k",
+                            "children": [],
+                            "title": "Xüsusi Çörək"
+                        },
+                        {
+                            "handle": "t%C9%99ndir-cor%C9%99yi",
+                            "url": "/collections/t%C9%99ndir-cor%C9%99yi",
+                            "children": [],
+                            "title": "Təndir Çörəyi"
+                        },
+                        {
+                            "handle": "qlutensiz-cor%C9%99k",
+                            "url": "/collections/qlutensiz-cor%C9%99k",
+                            "children": [],
+                            "title": "Qlutensiz Çörək"
+                        },
+                        {
+                            "handle": "zavod-cor%C9%99yi",
+                            "url": "/collections/zavod-cor%C9%99yi",
+                            "children": [],
+                            "title": "Zavod Çörəyi"
+                        },
+                        {
+                            "handle": "form-cor%C9%99kl%C9%99r",
+                            "url": "/collections/form-cor%C9%99kl%C9%99r",
+                            "children": [],
+                            "title": "Form Çörəklər"
+                        }
+                    ],
+                    "title": "Çörəklər"
+                },
+                {
+                    "handle": "maya",
+                    "url": "/collections/maya",
+                    "children": [
+                        {
+                            "handle": "yas-maya",
+                            "url": "/collections/yas-maya",
+                            "children": [],
+                            "title": "Yaş Maya"
+                        }
+                    ],
+                    "title": "Maya"
+                },
+                {
+                    "handle": "tort-sirniyyat-aksesuarlari",
+                    "url": "/collections/tort-sirniyyat-aksesuarlari",
+                    "children": [
+                        {
+                            "handle": "kadayifl%C9%99r",
+                            "url": "/collections/kadayifl%C9%99r",
+                            "children": [],
+                            "title": "Kadayiflər"
+                        },
+                        {
+                            "handle": "manna",
+                            "url": "/collections/manna",
+                            "children": [],
+                            "title": "Manna"
+                        },
+                        {
+                            "handle": "kekun",
+                            "url": "/collections/kekun",
+                            "children": [],
+                            "title": "Kekun"
+                        },
+                        {
+                            "handle": "krem-v%C9%99-souslar",
+                            "url": "/collections/krem-v%C9%99-souslar",
+                            "children": [],
+                            "title": "Krem və Souslar"
+                        },
+                        {
+                            "handle": "krem-santil%C9%99r",
+                            "url": "/collections/krem-santil%C9%99r",
+                            "children": [],
+                            "title": "Krem Şantilər"
+                        },
+                        {
+                            "handle": "mayalar",
+                            "url": "/collections/mayalar",
+                            "children": [],
+                            "title": "Mayalar"
+                        },
+                        {
+                            "handle": "nisastalar",
+                            "url": "/collections/nisastalar",
+                            "children": [],
+                            "title": "Nişastalar"
+                        },
+                        {
+                            "handle": "tort-l%C9%99vazimatlari",
+                            "url": "/collections/tort-l%C9%99vazimatlari",
+                            "children": [],
+                            "title": "Tort ləvazimatları"
+                        },
+                        {
+                            "handle": "qabartma-tozu",
+                            "url": "/collections/qabartma-tozu",
+                            "children": [],
+                            "title": "Qabartma Tozu"
+                        },
+                        {
+                            "handle": "vanil",
+                            "url": "/collections/vanil",
+                            "children": [],
+                            "title": "Vanil"
+                        },
+                        {
+                            "handle": "kakao",
+                            "url": "/collections/kakao",
+                            "children": [],
+                            "title": "Kakao"
+                        },
+                        {
+                            "handle": "duyu-unlari",
+                            "url": "/collections/duyu-unlari",
+                            "children": [],
+                            "title": "Düyü Unları"
+                        },
+                        {
+                            "handle": "soda",
+                            "url": "/collections/soda",
+                            "children": [],
+                            "title": "Soda"
+                        },
+                        {
+                            "handle": "jele",
+                            "url": "/collections/jele",
+                            "children": [],
+                            "title": "Jele"
+                        },
+                        {
+                            "handle": "keksl%C9%99r",
+                            "url": "/collections/keksl%C9%99r",
+                            "children": [],
+                            "title": "Kekslər"
+                        },
+                        {
+                            "handle": "pudinql%C9%99r",
+                            "url": "/collections/pudinql%C9%99r",
+                            "children": [],
+                            "title": "Pudinqlər"
+                        },
+                        {
+                            "handle": "pudra-s%C9%99k%C9%99ri",
+                            "url": "/collections/pudra-s%C9%99k%C9%99ri",
+                            "children": [],
+                            "title": "Pudra Şəkəri"
+                        }
+                    ],
+                    "title": "Tort-Şirniyyat Aksesuarları"
+                },
+                {
+                    "handle": "tortlar",
+                    "url": "/collections/tortlar",
+                    "children": [],
+                    "title": "Tortlar"
+                }
+            ],
+            "title": "Tort, Bişmələr, Çörək"
+        },
+        {
+            "handle": "atisdirmaliq",
+            "url": "/collections/atisdirmaliq",
+            "children": [
+                {
+                    "handle": "c%C9%99r%C9%99zl%C9%99r",
+                    "url": "/collections/c%C9%99r%C9%99zl%C9%99r",
+                    "children": [
+                        {
+                            "handle": "quru-meyv%C9%99",
+                            "url": "/collections/quru-meyv%C9%99",
+                            "children": [],
+                            "title": "Quru Meyvə"
+                        },
+                        {
+                            "handle": "gun%C9%99baxan-tumu",
+                            "url": "/collections/gun%C9%99baxan-tumu",
+                            "children": [],
+                            "title": "Günəbaxan Tumu"
+                        },
+                        {
+                            "handle": "qarisiq-c%C9%99r%C9%99z",
+                            "url": "/collections/qarisiq-c%C9%99r%C9%99z",
+                            "children": [],
+                            "title": "Qarışıq Çərəz"
+                        },
+                        {
+                            "handle": "findiq",
+                            "url": "/collections/findiq",
+                            "children": [],
+                            "title": "Fındıq"
+                        },
+                        {
+                            "handle": "qoz",
+                            "url": "/collections/qoz",
+                            "children": [],
+                            "title": "Qoz"
+                        },
+                        {
+                            "handle": "badam",
+                            "url": "/collections/badam",
+                            "children": [],
+                            "title": "Badam"
+                        },
+                        {
+                            "handle": "qovrulmus-qargidali",
+                            "url": "/collections/qovrulmus-qargidali",
+                            "children": [],
+                            "title": "Qovrulmuş Qarğıdalı"
+                        },
+                        {
+                            "handle": "fistiq",
+                            "url": "/collections/fistiq",
+                            "children": [],
+                            "title": "Fıstıq"
+                        },
+                        {
+                            "handle": "qabaq-toxumu",
+                            "url": "/collections/qabaq-toxumu",
+                            "children": [],
+                            "title": "Qabaq Toxumu"
+                        },
+                        {
+                            "handle": "l%C9%99bl%C9%99bi",
+                            "url": "/collections/l%C9%99bl%C9%99bi",
+                            "children": [],
+                            "title": "Ləbləbi"
+                        },
+                        {
+                            "handle": "kaju",
+                            "url": "/collections/kaju",
+                            "children": [],
+                            "title": "Kaju"
+                        },
+                        {
+                            "handle": "ketan-toxumu",
+                            "url": "/collections/ketan-toxumu",
+                            "children": [],
+                            "title": "Kətan Toxumu"
+                        },
+                        {
+                            "handle": "popkorn",
+                            "url": "/collections/popkorn",
+                            "children": [],
+                            "title": "Popkorn"
+                        }
+                    ],
+                    "title": "Çərəzlər"
+                },
+                {
+                    "handle": "c%C9%99kili-c%C9%99r%C9%99zl%C9%99r",
+                    "url": "/collections/c%C9%99kili-c%C9%99r%C9%99zl%C9%99r",
+                    "children": [
+                        {
+                            "handle": "quru-meyv%C9%99",
+                            "url": "/collections/quru-meyv%C9%99",
+                            "children": [],
+                            "title": "Quru Meyvə"
+                        },
+                        {
+                            "handle": "gun%C9%99baxan-tumu",
+                            "url": "/collections/gun%C9%99baxan-tumu",
+                            "children": [],
+                            "title": "Günəbaxan Tumu"
+                        },
+                        {
+                            "handle": "qarisiq-c%C9%99r%C9%99z",
+                            "url": "/collections/qarisiq-c%C9%99r%C9%99z",
+                            "children": [],
+                            "title": "Qarışıq Çərəz"
+                        },
+                        {
+                            "handle": "findiq",
+                            "url": "/collections/findiq",
+                            "children": [],
+                            "title": "Fındıq"
+                        },
+                        {
+                            "handle": "qoz",
+                            "url": "/collections/qoz",
+                            "children": [],
+                            "title": "Qoz"
+                        },
+                        {
+                            "handle": "badam",
+                            "url": "/collections/badam",
+                            "children": [],
+                            "title": "Badam"
+                        },
+                        {
+                            "handle": "fistiq",
+                            "url": "/collections/fistiq",
+                            "children": [],
+                            "title": "Fıstıq"
+                        },
+                        {
+                            "handle": "fistiq",
+                            "url": "/collections/fistiq",
+                            "children": [],
+                            "title": "Fıstıq"
+                        },
+                        {
+                            "handle": "qabaq-toxumu",
+                            "url": "/collections/qabaq-toxumu",
+                            "children": [],
+                            "title": "Qabaq Toxumu"
+                        },
+                        {
+                            "handle": "kukruz",
+                            "url": "/collections/kukruz",
+                            "children": [],
+                            "title": "Kukruz"
+                        }
+                    ],
+                    "title": "Çəkili Çərəzlər"
+                },
+                {
+                    "handle": "cips",
+                    "url": "/collections/cips",
+                    "children": [
+                        {
+                            "handle": "qargidali-cipsi",
+                            "url": "/collections/qargidali-cipsi",
+                            "children": [],
+                            "title": "Qarğıdalı Çipsi"
+                        },
+                        {
+                            "handle": "kartof-cipsil%C9%99ri",
+                            "url": "/collections/kartof-cipsil%C9%99ri",
+                            "children": [],
+                            "title": "Kartof Çipsiləri"
+                        },
+                        {
+                            "handle": "kukruz",
+                            "url": "/collections/kukruz",
+                            "children": [],
+                            "title": "Kukruz"
+                        },
+                        {
+                            "handle": "suxaril%C9%99r",
+                            "url": "/collections/suxaril%C9%99r",
+                            "children": [],
+                            "title": "Suxarilər"
+                        }
+                    ],
+                    "title": "Çips"
+                },
+                {
+                    "handle": "keks-biskivit",
+                    "url": "/collections/keks-biskivit",
+                    "children": [
+                        {
+                            "handle": "baton-keks",
+                            "url": "/collections/baton-keks",
+                            "children": [],
+                            "title": "Baton Keks"
+                        },
+                        {
+                            "handle": "keks",
+                            "url": "/collections/keks",
+                            "children": [],
+                            "title": "Keks"
+                        },
+                        {
+                            "handle": "mini-keks",
+                            "url": "/collections/mini-keks",
+                            "children": [],
+                            "title": "Mini Keks"
+                        }
+                    ],
+                    "title": "Keks, Biskvit"
+                },
+                {
+                    "handle": "dondurma",
+                    "url": "/collections/dondurma",
+                    "children": [],
+                    "title": "Dondurma"
+                },
+                {
+                    "handle": "kruassan-piryanik",
+                    "url": "/collections/kruassan-piryanik",
+                    "children": [],
+                    "title": "Kruassan,Piryanik"
+                },
+                {
+                    "handle": "vafli-rulet",
+                    "url": "/collections/vafli-rulet",
+                    "children": [
+                        {
+                            "handle": "vafli",
+                            "url": "/collections/vafli",
+                            "children": [],
+                            "title": "Vafli"
+                        },
+                        {
+                            "handle": "rulet",
+                            "url": "/collections/rulet",
+                            "children": [],
+                            "title": "Rulet"
+                        }
+                    ],
+                    "title": "Vafli, Rulet"
+                },
+                {
+                    "handle": "peceny%C9%99-piroq",
+                    "url": "/collections/peceny%C9%99-piroq",
+                    "children": [
+                        {
+                            "handle": "biskivit",
+                            "url": "/collections/biskivit",
+                            "children": [],
+                            "title": "Biskvit"
+                        },
+                        {
+                            "handle": "h%C9%99diyy%C9%99lik-peceny%C9%99",
+                            "url": "/collections/h%C9%99diyy%C9%99lik-peceny%C9%99",
+                            "children": [],
+                            "title": "Hədiyyəlik Peçenye"
+                        },
+                        {
+                            "handle": "kreker",
+                            "url": "/collections/kreker",
+                            "children": [],
+                            "title": "Kreker"
+                        },
+                        {
+                            "handle": "bublik-suski",
+                            "url": "/collections/bublik-suski",
+                            "children": [],
+                            "title": "Bublik-Suski"
+                        },
+                        {
+                            "handle": "mini-rulet",
+                            "url": "/collections/mini-rulet",
+                            "children": [],
+                            "title": "Mini Rulet"
+                        },
+                        {
+                            "handle": "pryanik",
+                            "url": "/collections/pryanik",
+                            "children": [],
+                            "title": "Pryanik"
+                        },
+                        {
+                            "handle": "hazir-tort-v%C9%99-piroqlar",
+                            "url": "/collections/hazir-tort-v%C9%99-piroqlar",
+                            "children": [],
+                            "title": "Hazır Tort  və Piroqlar"
+                        }
+                    ],
+                    "title": "Peçenye, Piroq"
+                },
+                {
+                    "handle": "sokoladlar",
+                    "url": "/collections/sokoladlar",
+                    "children": [
+                        {
+                            "handle": "barlar",
+                            "url": "/collections/barlar",
+                            "children": [],
+                            "title": "Barlar"
+                        },
+                        {
+                            "handle": "baton-sokolad",
+                            "url": "/collections/baton-sokolad",
+                            "children": [],
+                            "title": "Baton Şokolad"
+                        },
+                        {
+                            "handle": "draje-sokolad",
+                            "url": "/collections/draje-sokolad",
+                            "children": [],
+                            "title": "Draje Şokolad"
+                        },
+                        {
+                            "handle": "xususi-sokoladiar",
+                            "url": "/collections/xususi-sokoladiar",
+                            "children": [],
+                            "title": "Xüsusi Şokoladıar"
+                        },
+                        {
+                            "handle": "tablet-sokolad",
+                            "url": "/collections/tablet-sokolad",
+                            "children": [],
+                            "title": "Tablet Şokolad"
+                        },
+                        {
+                            "handle": "oyuncaqli-sokolad",
+                            "url": "/collections/oyuncaqli-sokolad",
+                            "children": [],
+                            "title": "Oyuncaqlı Şokolad"
+                        },
+                        {
+                            "handle": "h%C9%99diyyelik-sokolad",
+                            "url": "/collections/h%C9%99diyyelik-sokolad",
+                            "children": [],
+                            "title": "Hədiyyəlik Şokolad"
+                        }
+                    ],
+                    "title": "Şokoladlar"
+                },
+                {
+                    "handle": "c%C9%99kili-sirniyyat",
+                    "url": "/collections/c%C9%99kili-sirniyyat",
+                    "children": [
+                        {
+                            "handle": "c%C9%99kili-karamel",
+                            "url": "/collections/c%C9%99kili-karamel",
+                            "children": [],
+                            "title": "Çəkili Karamel"
+                        },
+                        {
+                            "handle": "c%C9%99kili-vafli",
+                            "url": "/collections/c%C9%99kili-vafli",
+                            "children": [],
+                            "title": "Çəkili Vafli"
+                        },
+                        {
+                            "handle": "c%C9%99kili-lokum",
+                            "url": "/collections/c%C9%99kili-lokum",
+                            "children": [],
+                            "title": "Çəkili Lokum"
+                        },
+                        {
+                            "handle": "c%C9%99kili-draje",
+                            "url": "/collections/c%C9%99kili-draje",
+                            "children": [],
+                            "title": "Çəkili Draje"
+                        },
+                        {
+                            "handle": "c%C9%99kili-marmalad",
+                            "url": "/collections/c%C9%99kili-marmalad",
+                            "children": [],
+                            "title": "Çəkili Marmalad"
+                        },
+                        {
+                            "handle": "c%C9%99kili-jelibom",
+                            "url": "/collections/c%C9%99kili-jelibom",
+                            "children": [],
+                            "title": "Çəkili Jelibom"
+                        },
+                        {
+                            "handle": "c%C9%99kili-piryanik",
+                            "url": "/collections/c%C9%99kili-piryanik",
+                            "children": [],
+                            "title": "Çəkili Piryanik"
+                        },
+                        {
+                            "handle": "draje-v%C9%99-zefirl%C9%99r",
+                            "url": "/collections/draje-v%C9%99-zefirl%C9%99r",
+                            "children": [],
+                            "title": "Draje və Zefirlər"
+                        },
+                        {
+                            "handle": "c%C9%99kili-kreker",
+                            "url": "/collections/c%C9%99kili-kreker",
+                            "children": [],
+                            "title": "Çəkili Kreker"
+                        }
+                    ],
+                    "title": "Çəkili Şirniyyat"
+                },
+                {
+                    "handle": "c%C9%99kili-peceny%C9%99",
+                    "url": "/collections/c%C9%99kili-peceny%C9%99",
+                    "children": [
+                        {
+                            "handle": "c%C9%99kili-vafli",
+                            "url": "/collections/c%C9%99kili-vafli",
+                            "children": [],
+                            "title": "Çəkili Vafli"
+                        },
+                        {
+                            "handle": "bublik-suski",
+                            "url": "/collections/bublik-suski",
+                            "children": [],
+                            "title": "Bublik-Suski"
+                        },
+                        {
+                            "handle": "c%C9%99kili-biskivit",
+                            "url": "/collections/c%C9%99kili-biskivit",
+                            "children": [],
+                            "title": "Çəkili Biskvit"
+                        }
+                    ],
+                    "title": "Çəkili Peçenye"
+                },
+                {
+                    "handle": "saqqiz-v%C9%99-t%C9%99rav%C9%99tl%C9%99ndiricil%C9%99r",
+                    "url": "/collections/saqqiz-v%C9%99-t%C9%99rav%C9%99tl%C9%99ndiricil%C9%99r",
+                    "children": [
+                        {
+                            "handle": "saqqiz",
+                            "url": "/collections/saqqiz",
+                            "children": [],
+                            "title": "Saqqız"
+                        },
+                        {
+                            "handle": "t%C9%99rav%C9%99tl%C9%99ndirici",
+                            "url": "/collections/t%C9%99rav%C9%99tl%C9%99ndirici",
+                            "children": [],
+                            "title": "Təravətləndirici"
+                        }
+                    ],
+                    "title": "Saqqız və Təravətləndiricilər"
+                },
+                {
+                    "handle": "s%C9%99k%C9%99rl%C9%99m%C9%99",
+                    "url": "/collections/s%C9%99k%C9%99rl%C9%99m%C9%99",
+                    "children": [
+                        {
+                            "handle": "jelibom",
+                            "url": "/collections/jelibom",
+                            "children": [],
+                            "title": "Jelibom"
+                        },
+                        {
+                            "handle": "cubuq-sirniyyatlar",
+                            "url": "/collections/cubuq-sirniyyatlar",
+                            "children": [],
+                            "title": "Çubuq Şirniyyatlar"
+                        },
+                        {
+                            "handle": "draje-sirniyyatlar",
+                            "url": "/collections/draje-sirniyyatlar",
+                            "children": [],
+                            "title": "Draje Şirniyyatlar"
+                        },
+                        {
+                            "handle": "konfet-karamel",
+                            "url": "/collections/konfet-karamel",
+                            "children": [],
+                            "title": "Konfet, Karamel"
+                        },
+                        {
+                            "handle": "lokumlar",
+                            "url": "/collections/lokumlar",
+                            "children": [],
+                            "title": "Lokumlar"
+                        },
+                        {
+                            "handle": "zefirl%C9%99r",
+                            "url": "/collections/zefirl%C9%99r",
+                            "children": [],
+                            "title": "Zefirlər"
+                        },
+                        {
+                            "handle": "pismaniy%C9%99",
+                            "url": "/collections/pismaniy%C9%99",
+                            "children": [],
+                            "title": "Pişmaniyə"
+                        },
+                        {
+                            "handle": "qutu-marmalad",
+                            "url": "/collections/qutu-marmalad",
+                            "children": [],
+                            "title": "Qutu Marmalad"
+                        },
+                        {
+                            "handle": "sucuq",
+                            "url": "/collections/sucuq",
+                            "children": [],
+                            "title": "Sucuq"
+                        },
+                        {
+                            "handle": "marsmellov",
+                            "url": "/collections/marsmellov",
+                            "children": [],
+                            "title": "Marşmellov"
+                        },
+                        {
+                            "handle": "krokan",
+                            "url": "/collections/krokan",
+                            "children": [],
+                            "title": "Krokan"
+                        },
+                        {
+                            "handle": "musli-bar",
+                            "url": "/collections/musli-bar",
+                            "children": [],
+                            "title": "Musli Bar"
+                        }
+                    ],
+                    "title": "Şəkərləmə"
+                }
+            ],
+            "title": "Atışdırmalıq"
+        },
+        {
+            "handle": "ickil%C9%99r",
+            "url": "/collections/ickil%C9%99r",
+            "children": [
+                {
+                    "handle": "toz-i%CC%87ckil%C9%99r",
+                    "url": "/collections/toz-i%CC%87ckil%C9%99r",
+                    "children": [],
+                    "title": "Toz İçkilər"
+                },
+                {
+                    "handle": "mineal-sular",
+                    "url": "/collections/mineal-sular",
+                    "children": [],
+                    "title": "Mineral Sular"
+                },
+                {
+                    "handle": "qazli-i%CC%87ckil%C9%99r",
+                    "url": "/collections/qazli-i%CC%87ckil%C9%99r",
+                    "children": [],
+                    "title": "Qazlı İçkilər"
+                },
+                {
+                    "handle": "qazsiz-i%CC%87ckil%C9%99r",
+                    "url": "/collections/qazsiz-i%CC%87ckil%C9%99r",
+                    "children": [],
+                    "title": "Qazsız İçkilər"
+                },
+                {
+                    "handle": "meyv%C9%99-sulari",
+                    "url": "/collections/meyv%C9%99-sulari",
+                    "children": [],
+                    "title": "Meyvə Suları"
+                },
+                {
+                    "handle": "kolali-i%CC%87ckil%C9%99r",
+                    "url": "/collections/kolali-i%CC%87ckil%C9%99r",
+                    "children": [],
+                    "title": "Kolalı İçkilər"
+                },
+                {
+                    "handle": "limonadlar",
+                    "url": "/collections/limonadlar",
+                    "children": [],
+                    "title": "Limonadlar"
+                },
+                {
+                    "handle": "kompotlar",
+                    "url": "/collections/kompotlar",
+                    "children": [],
+                    "title": "Kompotlar"
+                },
+                {
+                    "handle": "kvaslar",
+                    "url": "/collections/kvaslar",
+                    "children": [],
+                    "title": "Kvaslar"
+                },
+                {
+                    "handle": "enerji-i%CC%87ckil%C9%99ri",
+                    "url": "/collections/enerji-i%CC%87ckil%C9%99ri",
+                    "children": [],
+                    "title": "Enerji İçkiləri"
+                },
+                {
+                    "handle": "bitki-sulari",
+                    "url": "/collections/bitki-sulari",
+                    "children": [],
+                    "title": "Bitki Suları"
+                },
+                {
+                    "handle": "spirtli-i%CC%87ckil%C9%99r",
+                    "url": "/collections/spirtli-i%CC%87ckil%C9%99r",
+                    "children": [
+                        {
+                            "handle": "piv%C9%99",
+                            "url": "/collections/piv%C9%99",
+                            "children": [],
+                            "title": "Pivə"
+                        },
+                        {
+                            "handle": "vodka",
+                            "url": "/collections/vodka",
+                            "children": [],
+                            "title": "Vodka"
+                        },
+                        {
+                            "handle": "viski-burbon",
+                            "url": "/collections/viski-burbon",
+                            "children": [],
+                            "title": "Viski, Burbon"
+                        },
+                        {
+                            "handle": "tekila",
+                            "url": "/collections/tekila",
+                            "children": [],
+                            "title": "Tekila"
+                        },
+                        {
+                            "handle": "s%C9%99rab",
+                            "url": "/collections/s%C9%99rab",
+                            "children": [],
+                            "title": "Şərab"
+                        },
+                        {
+                            "handle": "raki",
+                            "url": "/collections/raki",
+                            "children": [],
+                            "title": "Rakı"
+                        },
+                        {
+                            "handle": "likor",
+                            "url": "/collections/likor",
+                            "children": [],
+                            "title": "Likor"
+                        },
+                        {
+                            "handle": "sapman",
+                            "url": "/collections/sapman",
+                            "children": [],
+                            "title": "Şapman"
+                        },
+                        {
+                            "handle": "cin",
+                            "url": "/collections/cin",
+                            "children": [],
+                            "title": "Cin"
+                        },
+                        {
+                            "handle": "konyak-vermut-rom",
+                            "url": "/collections/konyak-vermut-rom",
+                            "children": [],
+                            "title": "Konyak, Vermut, Rom"
+                        },
+                        {
+                            "handle": "spirtli-kokteyller",
+                            "url": "/collections/spirtli-kokteyller",
+                            "children": [],
+                            "title": "Spirtli Kokteyllər"
+                        }
+                    ],
+                    "title": "Spirtli İçkilər"
+                }
+            ],
+            "title": "İçkilər"
+        },
+        {
+            "handle": "tutun-m%C9%99hsullari-1",
+            "url": "/collections/tutun-m%C9%99hsullari-1",
+            "children": [
+                {
+                    "handle": "siqaret",
+                    "url": "/collections/siqaret",
+                    "children": [],
+                    "title": "Siqaret"
+                },
+                {
+                    "handle": "elektron-siqaret",
+                    "url": "/collections/elektron-siqaret",
+                    "children": [],
+                    "title": "Elektron Siqaret"
+                },
+                {
+                    "handle": "siqar",
+                    "url": "/collections/siqar",
+                    "children": [],
+                    "title": "Siqar"
+                }
+            ],
+            "title": "Tütün Məhsulları"
+        },
+        {
+            "handle": "deterjan-t%C9%99mizlik-1",
+            "url": "/collections/deterjan-t%C9%99mizlik-1",
+            "children": [
+                {
+                    "handle": "paltar-t%C9%99mizlik-m%C9%99hsullari",
+                    "url": "/collections/paltar-t%C9%99mizlik-m%C9%99hsullari",
+                    "children": [],
+                    "title": "Paltar Təmizlik Məhsulları"
+                },
+                {
+                    "handle": "hamam-avadanliqlari",
+                    "url": "/collections/hamam-avadanliqlari",
+                    "children": [],
+                    "title": "Hamam Avadanlıqları"
+                },
+                {
+                    "handle": "zibil-torbalari",
+                    "url": "/collections/zibil-torbalari",
+                    "children": [],
+                    "title": "Zibil Torbaları"
+                },
+                {
+                    "handle": "umumi-t%C9%99mizlik-m%C9%99hsullari",
+                    "url": "/collections/umumi-t%C9%99mizlik-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "m%C9%99tb%C9%99x-hamam-t%C9%99mizliyi",
+                            "url": "/collections/m%C9%99tb%C9%99x-hamam-t%C9%99mizliyi",
+                            "children": [],
+                            "title": "Mətbəx-Hamam Təmizliyi"
+                        },
+                        {
+                            "handle": "s%C9%99th-t%C9%99mizl%C9%99yicil%C9%99r",
+                            "url": "/collections/s%C9%99th-t%C9%99mizl%C9%99yicil%C9%99r",
+                            "children": [],
+                            "title": "Səth Təmizləyicilər"
+                        },
+                        {
+                            "handle": "mebel-t%C9%99mizl%C9%99yici",
+                            "url": "/collections/mebel-t%C9%99mizl%C9%99yici",
+                            "children": [],
+                            "title": "Mebel Təmizləyici"
+                        },
+                        {
+                            "handle": "sus%C9%99-t%C9%99mizl%C9%99yici",
+                            "url": "/collections/sus%C9%99-t%C9%99mizl%C9%99yici",
+                            "children": [],
+                            "title": "Şüşə Təmizləyici"
+                        },
+                        {
+                            "handle": "ayaqqabi-t%C9%99mizliyi",
+                            "url": "/collections/ayaqqabi-t%C9%99mizliyi",
+                            "children": [],
+                            "title": "Ayaqqabı Təmizliyi"
+                        },
+                        {
+                            "handle": "xalca-t%C9%99mizl%C9%99yici",
+                            "url": "/collections/xalca-t%C9%99mizl%C9%99yici",
+                            "children": [],
+                            "title": "Xalça Təmizləyici"
+                        },
+                        {
+                            "handle": "l%C9%99k%C9%99-cixaricilar",
+                            "url": "/collections/l%C9%99k%C9%99-cixaricilar",
+                            "children": [],
+                            "title": "Ləkə Çıxarıcılar"
+                        },
+                        {
+                            "handle": "kir%C9%99c-t%C9%99mizl%C9%99yici",
+                            "url": "/collections/kir%C9%99c-t%C9%99mizl%C9%99yici",
+                            "children": [],
+                            "title": "Kirəc Təmizləyici"
+                        },
+                        {
+                            "handle": "boru-acici",
+                            "url": "/collections/boru-acici",
+                            "children": [],
+                            "title": "Boru Açıcı"
+                        },
+                        {
+                            "handle": "tualet-t%C9%99mizl%C9%99yici",
+                            "url": "/collections/tualet-t%C9%99mizl%C9%99yici",
+                            "children": [],
+                            "title": "Tualet Təmizləyici"
+                        },
+                        {
+                            "handle": "%C9%99tirl%C9%99ri-aerozollar",
+                            "url": "/collections/%C9%99tirl%C9%99ri-aerozollar",
+                            "children": [],
+                            "title": "Ev ətirləri, Aerozollar"
+                        },
+                        {
+                            "handle": "h%C9%99s%C9%99rat-oldurucul%C9%99r",
+                            "url": "/collections/h%C9%99s%C9%99rat-oldurucul%C9%99r",
+                            "children": [],
+                            "title": "Həşərat Öldürücülər"
+                        }
+                    ],
+                    "title": "Ümumi Təmizlik Məhsulları"
+                },
+                {
+                    "handle": "paltar-yuma-m%C9%99hsullari",
+                    "url": "/collections/paltar-yuma-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "yuyucu-toz-avtomat",
+                            "url": "/collections/yuyucu-toz-avtomat",
+                            "children": [],
+                            "title": "Yuyucu Toz (Avtomat)"
+                        },
+                        {
+                            "handle": "yuyucu-toz-%C9%99l",
+                            "url": "/collections/yuyucu-toz-%C9%99l",
+                            "children": [],
+                            "title": "Yuyucu Toz (Əl)"
+                        },
+                        {
+                            "handle": "paltar-yumsaldici",
+                            "url": "/collections/paltar-yumsaldici",
+                            "children": [],
+                            "title": "Paltar Yumşaldıcı"
+                        },
+                        {
+                            "handle": "yuyucu-gel",
+                            "url": "/collections/yuyucu-gel",
+                            "children": [],
+                            "title": "Yuyucu Gel"
+                        },
+                        {
+                            "handle": "yuyucu-vasit%C9%99l%C9%99r",
+                            "url": "/collections/yuyucu-vasit%C9%99l%C9%99r",
+                            "children": [],
+                            "title": "Yuyucu Vasitələr"
+                        },
+                        {
+                            "handle": "paltar-agardicilar",
+                            "url": "/collections/paltar-agardicilar",
+                            "children": [],
+                            "title": "Paltar Ağardıcılar"
+                        },
+                        {
+                            "handle": "yuyucu-kapsul",
+                            "url": "/collections/yuyucu-kapsul",
+                            "children": [],
+                            "title": "Yuyucu Kapsul"
+                        },
+                        {
+                            "handle": "paltar-sabunu",
+                            "url": "/collections/paltar-sabunu",
+                            "children": [],
+                            "title": "Paltar Sabunu"
+                        }
+                    ],
+                    "title": "Paltar Yuma Məhsulları"
+                },
+                {
+                    "handle": "qabyuma-m%C9%99hsullari",
+                    "url": "/collections/qabyuma-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "qabyuyan-maye",
+                            "url": "/collections/qabyuyan-maye",
+                            "children": [],
+                            "title": "Qabyuyan Maye"
+                        },
+                        {
+                            "handle": "qabyuyucu-toz",
+                            "url": "/collections/qabyuyucu-toz",
+                            "children": [],
+                            "title": "Qabyuyucu Toz"
+                        },
+                        {
+                            "handle": "parildadici",
+                            "url": "/collections/parildadici",
+                            "children": [],
+                            "title": "Parıldadıcı"
+                        },
+                        {
+                            "handle": "qoruyucu-duz",
+                            "url": "/collections/qoruyucu-duz",
+                            "children": [],
+                            "title": "Qoruyucu Duz"
+                        },
+                        {
+                            "handle": "qoxu-aparici",
+                            "url": "/collections/qoxu-aparici",
+                            "children": [],
+                            "title": "Qoxu Aparıcı"
+                        },
+                        {
+                            "handle": "qabyuyucu-duz",
+                            "url": "/collections/qabyuyucu-duz",
+                            "children": [],
+                            "title": "Qabyuyucu Duz"
+                        },
+                        {
+                            "handle": "qabyuyucu-gel",
+                            "url": "/collections/qabyuyucu-gel",
+                            "children": [],
+                            "title": "Qabyuyucu Gel"
+                        },
+                        {
+                            "handle": "qabyuyucu-tablet",
+                            "url": "/collections/qabyuyucu-tablet",
+                            "children": [],
+                            "title": "Qabyuyucu Tablet"
+                        }
+                    ],
+                    "title": "Qabyuma Məhsulları"
+                },
+                {
+                    "handle": "t%C9%99mizlik-%C9%99syalari",
+                    "url": "/collections/t%C9%99mizlik-%C9%99syalari",
+                    "children": [
+                        {
+                            "handle": "sung%C9%99r-sim-top",
+                            "url": "/collections/sung%C9%99r-sim-top",
+                            "children": [],
+                            "title": "Süngər, Sim, Top"
+                        },
+                        {
+                            "handle": "temizlik-bezi",
+                            "url": "/collections/temizlik-bezi",
+                            "children": [],
+                            "title": "Təmizlik Bezi"
+                        },
+                        {
+                            "handle": "fircalar",
+                            "url": "/collections/fircalar",
+                            "children": [],
+                            "title": "Fırçalar"
+                        },
+                        {
+                            "handle": "maska-%C9%99lc%C9%99k",
+                            "url": "/collections/maska-%C9%99lc%C9%99k",
+                            "children": [],
+                            "title": "Maska, Əlcək"
+                        },
+                        {
+                            "handle": "t%C9%99mizlik-set-sap-mop",
+                            "url": "/collections/t%C9%99mizlik-set-sap-mop",
+                            "children": [],
+                            "title": "Təmizlik Seti, Sap, Mop"
+                        },
+                        {
+                            "handle": "dig%C9%99r-t%C9%99mizlik-m%C9%99hsullari",
+                            "url": "/collections/dig%C9%99r-t%C9%99mizlik-m%C9%99hsullari",
+                            "children": [],
+                            "title": "Digər Təmizlik Məhsulları"
+                        }
+                    ],
+                    "title": "Təmizlik Əşyaları"
+                },
+                {
+                    "handle": "t%C9%99mizlik-kagizlari",
+                    "url": "/collections/t%C9%99mizlik-kagizlari",
+                    "children": [
+                        {
+                            "handle": "m%C9%99tb%C9%99x-kagizlari",
+                            "url": "/collections/m%C9%99tb%C9%99x-kagizlari",
+                            "children": [],
+                            "title": "Mətbəx Kağızları"
+                        },
+                        {
+                            "handle": "qutu-salfet",
+                            "url": "/collections/qutu-salfet",
+                            "children": [],
+                            "title": "Qutu Salfet"
+                        },
+                        {
+                            "handle": "tualet-kagizi",
+                            "url": "/collections/tualet-kagizi",
+                            "children": [],
+                            "title": "Tualet Kağızı"
+                        },
+                        {
+                            "handle": "cib-salfeti",
+                            "url": "/collections/cib-salfeti",
+                            "children": [],
+                            "title": "Cib Salfeti"
+                        },
+                        {
+                            "handle": "nem-salfet",
+                            "url": "/collections/nem-salfet",
+                            "children": [],
+                            "title": "Nəm Salfet"
+                        }
+                    ],
+                    "title": "Təmizlik Kağızları"
+                }
+            ],
+            "title": "Deterjan, Təmizlik"
+        },
+        {
+            "handle": "kisis%C9%99l-baxim-kosmetik-sagliq",
+            "url": "/collections/kisis%C9%99l-baxim-kosmetik-sagliq",
+            "children": [
+                {
+                    "handle": "agiz-bosluguna-qulluq",
+                    "url": "/collections/agiz-bosluguna-qulluq",
+                    "children": [
+                        {
+                            "handle": "dis-m%C9%99cunu",
+                            "url": "/collections/dis-m%C9%99cunu",
+                            "children": [],
+                            "title": "Diş Məcunu"
+                        },
+                        {
+                            "handle": "dis-fircasi",
+                            "url": "/collections/dis-fircasi",
+                            "children": [],
+                            "title": "Diş Fırçası"
+                        },
+                        {
+                            "handle": "elektrikli-dis-fircasi",
+                            "url": "/collections/elektrikli-dis-fircasi",
+                            "children": [],
+                            "title": "Elektrikli Diş Fırçası"
+                        },
+                        {
+                            "handle": "agiz-yaxalayicilar",
+                            "url": "/collections/agiz-yaxalayicilar",
+                            "children": [],
+                            "title": "Ağız Yaxalayıcılar"
+                        },
+                        {
+                            "handle": "dis-i%CC%87pl%C9%99ri-v%C9%99-t%C9%99mizliyi",
+                            "url": "/collections/dis-i%CC%87pl%C9%99ri-v%C9%99-t%C9%99mizliyi",
+                            "children": [],
+                            "title": "Diş İpləri və Təmizliyi"
+                        }
+                    ],
+                    "title": "Ağız boşluğuna qulluq"
+                },
+                {
+                    "handle": "t%C9%99ras-l%C9%99vazimatlari",
+                    "url": "/collections/t%C9%99ras-l%C9%99vazimatlari",
+                    "children": [
+                        {
+                            "handle": "birdefelik-t%C9%99ras-ulgucl%C9%99ri",
+                            "url": "/collections/birdefelik-t%C9%99ras-ulgucl%C9%99ri",
+                            "children": [],
+                            "title": "Birdəfəlik Təraş Ülgücləri"
+                        },
+                        {
+                            "handle": "t%C9%99ras-ulgucl%C9%99ri",
+                            "url": "/collections/t%C9%99ras-ulgucl%C9%99ri",
+                            "children": [],
+                            "title": "Təraş Ülgücləri"
+                        },
+                        {
+                            "handle": "t%C9%99ras-kopukl%C9%99ri",
+                            "url": "/collections/t%C9%99ras-kopukl%C9%99ri",
+                            "children": [],
+                            "title": "Təraş Köpükləri"
+                        },
+                        {
+                            "handle": "t%C9%99ras-gell%C9%99ri",
+                            "url": "/collections/t%C9%99ras-gell%C9%99ri",
+                            "children": [],
+                            "title": "Təraş Gelləri"
+                        },
+                        {
+                            "handle": "t%C9%99ras-kreml%C9%99ri",
+                            "url": "/collections/t%C9%99ras-kreml%C9%99ri",
+                            "children": [],
+                            "title": "Təraş Kremləri"
+                        },
+                        {
+                            "handle": "t%C9%99ras-sabunlari",
+                            "url": "/collections/t%C9%99ras-sabunlari",
+                            "children": [],
+                            "title": "Təraş Sabunları"
+                        },
+                        {
+                            "handle": "t%C9%99ras-sonrasi-losyon",
+                            "url": "/collections/t%C9%99ras-sonrasi-losyon",
+                            "children": [],
+                            "title": "Təraş Sonrası Losyon"
+                        }
+                    ],
+                    "title": "Təraş Ləvazimatları"
+                },
+                {
+                    "handle": "saclara-qulluq",
+                    "url": "/collections/saclara-qulluq",
+                    "children": [
+                        {
+                            "handle": "sampun",
+                            "url": "/collections/sampun",
+                            "children": [],
+                            "title": "Şampun"
+                        },
+                        {
+                            "handle": "balzam",
+                            "url": "/collections/balzam",
+                            "children": [],
+                            "title": "Balzam"
+                        },
+                        {
+                            "handle": "sac-gucl%C9%99ndirici",
+                            "url": "/collections/sac-gucl%C9%99ndirici",
+                            "children": [],
+                            "title": "Saç Gücləndirici"
+                        },
+                        {
+                            "handle": "sac-spreyl%C9%99ri",
+                            "url": "/collections/sac-spreyl%C9%99ri",
+                            "children": [],
+                            "title": "Saç Spreyləri"
+                        },
+                        {
+                            "handle": "sac-kopuyu",
+                            "url": "/collections/sac-kopuyu",
+                            "children": [],
+                            "title": "Saç Köpüyü"
+                        },
+                        {
+                            "handle": "sac-jelesi",
+                            "url": "/collections/sac-jelesi",
+                            "children": [],
+                            "title": "Saç Jelesi"
+                        },
+                        {
+                            "handle": "sac-boyasi",
+                            "url": "/collections/sac-boyasi",
+                            "children": [],
+                            "title": "Saç Boyası"
+                        }
+                    ],
+                    "title": "Saçlara Qulluq"
+                },
+                {
+                    "handle": "dus-hamam-sabun",
+                    "url": "/collections/dus-hamam-sabun",
+                    "children": [
+                        {
+                            "handle": "qati-sabun",
+                            "url": "/collections/qati-sabun",
+                            "children": [],
+                            "title": "Qatı Sabun"
+                        },
+                        {
+                            "handle": "maye-sabun",
+                            "url": "/collections/maye-sabun",
+                            "children": [],
+                            "title": "Maye Sabun"
+                        },
+                        {
+                            "handle": "gel-sabun",
+                            "url": "/collections/gel-sabun",
+                            "children": [],
+                            "title": "Gel Sabun"
+                        },
+                        {
+                            "handle": "dus-geli",
+                            "url": "/collections/dus-geli",
+                            "children": [],
+                            "title": "Duş Geli"
+                        },
+                        {
+                            "handle": "hamam-kopukl%C9%99ri",
+                            "url": "/collections/hamam-kopukl%C9%99ri",
+                            "children": [],
+                            "title": "Hamam Köpükləri"
+                        },
+                        {
+                            "handle": "hamam-duzlari",
+                            "url": "/collections/hamam-duzlari",
+                            "children": [],
+                            "title": "Hamam Duzları"
+                        },
+                        {
+                            "handle": "hamam-setl%C9%99ri",
+                            "url": "/collections/hamam-setl%C9%99ri",
+                            "children": [],
+                            "title": "Hamam Setləri"
+                        },
+                        {
+                            "handle": "hamam-lif-sung%C9%99rl%C9%99ri",
+                            "url": "/collections/hamam-lif-sung%C9%99rl%C9%99ri",
+                            "children": [],
+                            "title": "Hamam Lif-Süngərləri"
+                        }
+                    ],
+                    "title": "Duş, Hamam, Sabun"
+                },
+                {
+                    "handle": "d%C9%99riy%C9%99-qulluq-tuk-tokucul%C9%99r",
+                    "url": "/collections/d%C9%99riy%C9%99-qulluq-tuk-tokucul%C9%99r",
+                    "children": [
+                        {
+                            "handle": "b%C9%99d%C9%99n-%C9%99l-kreml%C9%99ri",
+                            "url": "/collections/b%C9%99d%C9%99n-%C9%99l-kreml%C9%99ri",
+                            "children": [],
+                            "title": "Bədən, Əl Kremləri"
+                        },
+                        {
+                            "handle": "losyonlar",
+                            "url": "/collections/losyonlar",
+                            "children": [],
+                            "title": "Losyonlar"
+                        },
+                        {
+                            "handle": "dodaq-qoruyucular",
+                            "url": "/collections/dodaq-qoruyucular",
+                            "children": [],
+                            "title": "Dodaq Qoruyucular"
+                        },
+                        {
+                            "handle": "baxim-kreml%C9%99ri",
+                            "url": "/collections/baxim-kreml%C9%99ri",
+                            "children": [],
+                            "title": "Baxım Kremləri"
+                        },
+                        {
+                            "handle": "uz-maskalari",
+                            "url": "/collections/uz-maskalari",
+                            "children": [],
+                            "title": "Üz Maskaları"
+                        },
+                        {
+                            "handle": "t%C9%99mizl%C9%99m%C9%99-gel-v%C9%99-kremi",
+                            "url": "/collections/t%C9%99mizl%C9%99m%C9%99-gel-v%C9%99-kremi",
+                            "children": [],
+                            "title": "Təmizləmə Gel və Kremi"
+                        },
+                        {
+                            "handle": "t%C9%99mizl%C9%99m%C9%99-tonikl%C9%99ri",
+                            "url": "/collections/t%C9%99mizl%C9%99m%C9%99-tonikl%C9%99ri",
+                            "children": [],
+                            "title": "Təmizləmə Tonikləri"
+                        },
+                        {
+                            "handle": "agda-bantlari",
+                            "url": "/collections/agda-bantlari",
+                            "children": [],
+                            "title": "Ağda Bantları"
+                        },
+                        {
+                            "handle": "tuk-tokucu-kreml%C9%99r",
+                            "url": "/collections/tuk-tokucu-kreml%C9%99r",
+                            "children": [],
+                            "title": "Tük Tökücü Kremlər"
+                        }
+                    ],
+                    "title": "Dəriyə Qulluq, Tük Tökücülər"
+                },
+                {
+                    "handle": "makiyaj-aksesuarlar",
+                    "url": "/collections/makiyaj-aksesuarlar",
+                    "children": [
+                        {
+                            "handle": "makyaj-salfeti",
+                            "url": "/collections/makyaj-salfeti",
+                            "children": [],
+                            "title": "Makyaj Salfeti"
+                        },
+                        {
+                            "handle": "aseton",
+                            "url": "/collections/aseton",
+                            "children": [],
+                            "title": "Aseton"
+                        },
+                        {
+                            "handle": "makyaj-fircasi",
+                            "url": "/collections/makyaj-fircasi",
+                            "children": [],
+                            "title": "Makyaj Fırçası"
+                        },
+                        {
+                            "handle": "manikur-pedikur",
+                            "url": "/collections/manikur-pedikur",
+                            "children": [],
+                            "title": "Manikur, Pedikur"
+                        },
+                        {
+                            "handle": "makyaj-bezi",
+                            "url": "/collections/makyaj-bezi",
+                            "children": [],
+                            "title": "Makyaj Bezi"
+                        },
+                        {
+                            "handle": "guzgu",
+                            "url": "/collections/guzgu",
+                            "children": [],
+                            "title": "Güzgü"
+                        },
+                        {
+                            "handle": "daraq",
+                            "url": "/collections/daraq",
+                            "children": [],
+                            "title": "Daraq"
+                        },
+                        {
+                            "handle": "goz-q%C9%99l%C9%99mi",
+                            "url": "/collections/goz-q%C9%99l%C9%99mi",
+                            "children": [],
+                            "title": "Göz Qələmi"
+                        },
+                        {
+                            "handle": "lak-q%C9%99l%C9%99m",
+                            "url": "/collections/lak-q%C9%99l%C9%99m",
+                            "children": [],
+                            "title": "Dırnaq boyası, Qələm"
+                        }
+                    ],
+                    "title": "Makiyaj, Aksesuarlar"
+                },
+                {
+                    "handle": "etir-dezodrant-kolonya",
+                    "url": "/collections/etir-dezodrant-kolonya",
+                    "children": [
+                        {
+                            "handle": "roll-on-kisi",
+                            "url": "/collections/roll-on-kisi",
+                            "children": [],
+                            "title": "Roll-On Kişi"
+                        },
+                        {
+                            "handle": "roll-on-qadin",
+                            "url": "/collections/roll-on-qadin",
+                            "children": [],
+                            "title": "Roll-On Qadın"
+                        },
+                        {
+                            "handle": "sprey-kisi",
+                            "url": "/collections/sprey-kisi",
+                            "children": [],
+                            "title": "Sprey Kişi"
+                        },
+                        {
+                            "handle": "sprey-qadin",
+                            "url": "/collections/sprey-qadin",
+                            "children": [],
+                            "title": "Sprey Qadın"
+                        },
+                        {
+                            "handle": "stick-kisi",
+                            "url": "/collections/stick-kisi",
+                            "children": [],
+                            "title": "Stick Kişi"
+                        },
+                        {
+                            "handle": "stick-qadin",
+                            "url": "/collections/stick-qadin",
+                            "children": [],
+                            "title": "Stick Qadın"
+                        },
+                        {
+                            "handle": "kisi-%C9%99tirl%C9%99ri",
+                            "url": "/collections/kisi-%C9%99tirl%C9%99ri",
+                            "children": [],
+                            "title": "Kişi Ətirləri"
+                        },
+                        {
+                            "handle": "qadin-%C9%99tirl%C9%99ri",
+                            "url": "/collections/qadin-%C9%99tirl%C9%99ri",
+                            "children": [],
+                            "title": "Qadın Ətirləri"
+                        },
+                        {
+                            "handle": "kolonya",
+                            "url": "/collections/kolonya",
+                            "children": [],
+                            "title": "Kolonya"
+                        },
+                        {
+                            "handle": "%C9%99tir-seti",
+                            "url": "/collections/%C9%99tir-seti",
+                            "children": [],
+                            "title": "Ətir Seti"
+                        }
+                    ],
+                    "title": "Ətir, Dezodorant, Kolonya"
+                },
+                {
+                    "handle": "sagliq-t%C9%99mizlik-m%C9%99hsullari",
+                    "url": "/collections/sagliq-t%C9%99mizlik-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "x%C9%99st%C9%99-bezi",
+                            "url": "/collections/x%C9%99st%C9%99-bezi",
+                            "children": [],
+                            "title": "Xəstə Bezi"
+                        },
+                        {
+                            "handle": "gunluk-bez",
+                            "url": "/collections/gunluk-bez",
+                            "children": [],
+                            "title": "Günlük Bez"
+                        },
+                        {
+                            "handle": "normal-bez",
+                            "url": "/collections/normal-bez",
+                            "children": [],
+                            "title": "Normal Bez"
+                        },
+                        {
+                            "handle": "tampon",
+                            "url": "/collections/tampon",
+                            "children": [],
+                            "title": "Tampon"
+                        },
+                        {
+                            "handle": "pambiq-qulaq-copu",
+                            "url": "/collections/pambiq-qulaq-copu",
+                            "children": [],
+                            "title": "Pambıq, Qulaq Çöpü"
+                        },
+                        {
+                            "handle": "i%CC%87ntim-salfet",
+                            "url": "/collections/i%CC%87ntim-salfet",
+                            "children": [],
+                            "title": "İntim Salfet"
+                        },
+                        {
+                            "handle": "ayaq-kreml%C9%99ri",
+                            "url": "/collections/ayaq-kreml%C9%99ri",
+                            "children": [],
+                            "title": "Ayaq Kremləri"
+                        },
+                        {
+                            "handle": "https://bazar-store-az.myshopify.comxirdavat-3",
+                            "url": "https://bazar-store-az.myshopify.com/collections/xirdavat-3",
+                            "children": [],
+                            "title": "Xırdavat"
+                        },
+                        {
+                            "handle": "prezervativ",
+                            "url": "/collections/prezervativ",
+                            "children": [],
+                            "title": "Prezervativ"
+                        }
+                    ],
+                    "title": "Sağlıq Təmizlik Məhsulları"
+                },
+                {
+                    "handle": "gun%C9%99s-kreml%C9%99ri-1",
+                    "url": "/collections/gun%C9%99s-kreml%C9%99ri-1",
+                    "children": [
+                        {
+                            "handle": "gun%C9%99s-sonrasi-m%C9%99hsullar",
+                            "url": "/collections/gun%C9%99s-sonrasi-m%C9%99hsullar",
+                            "children": [],
+                            "title": "Günəş Sonrası Məhsullar"
+                        }
+                    ],
+                    "title": "Günəş Kremləri"
+                },
+                {
+                    "handle": "sagliq-t%C9%99mizlik-m%C9%99hsullari",
+                    "url": "/collections/sagliq-t%C9%99mizlik-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "i%CC%87ntim-gel",
+                            "url": "/collections/i%CC%87ntim-gel",
+                            "children": [],
+                            "title": "İntim Gel"
+                        },
+                        {
+                            "handle": "spirt",
+                            "url": "/collections/spirt",
+                            "children": [],
+                            "title": "Spirt"
+                        }
+                    ],
+                    "title": "Sağlıq Təmizlik Məhsulları"
+                }
+            ],
+            "title": "Baxım, Kosmetik, Sağlıq"
+        },
+        {
+            "handle": "usaq-dunyasi-1",
+            "url": "/collections/usaq-dunyasi-1",
+            "children": [
+                {
+                    "handle": "usaq-bezi",
+                    "url": "/collections/usaq-bezi",
+                    "children": [],
+                    "title": "Uşaq Bezi"
+                },
+                {
+                    "handle": "usaq-baxim-m%C9%99hsullari",
+                    "url": "/collections/usaq-baxim-m%C9%99hsullari",
+                    "children": [],
+                    "title": "Uşaq Baxım Məhsulları"
+                },
+                {
+                    "handle": "usaq-baxim-%C9%99syalari",
+                    "url": "/collections/usaq-baxim-%C9%99syalari",
+                    "children": [],
+                    "title": "Uşaq Baxım Əşyaları"
+                },
+                {
+                    "handle": "usaq-qidasi",
+                    "url": "/collections/usaq-qidasi",
+                    "children": [
+                        {
+                            "handle": "usaq-sudu",
+                            "url": "/collections/usaq-sudu",
+                            "children": [],
+                            "title": "Uşaq Südü"
+                        },
+                        {
+                            "handle": "usaq-siyigi",
+                            "url": "/collections/usaq-siyigi",
+                            "children": [],
+                            "title": "Uşaq Sıyığı"
+                        },
+                        {
+                            "handle": "usaq-caylari",
+                            "url": "/collections/usaq-caylari",
+                            "children": [],
+                            "title": "Uşaq Çayları"
+                        },
+                        {
+                            "handle": "usaq-purel%C9%99ri",
+                            "url": "/collections/usaq-purel%C9%99ri",
+                            "children": [],
+                            "title": "Uşaq Püreləri"
+                        },
+                        {
+                            "handle": "usaq-peceny%C9%99si",
+                            "url": "/collections/usaq-peceny%C9%99si",
+                            "children": [],
+                            "title": "Uşaq Peçenyesi"
+                        },
+                        {
+                            "handle": "usaq-sir%C9%99l%C9%99ri",
+                            "url": "/collections/usaq-sir%C9%99l%C9%99ri",
+                            "children": [],
+                            "title": "Uşaq Şirələri"
+                        },
+                        {
+                            "handle": "usaq-makaronlari",
+                            "url": "/collections/usaq-makaronlari",
+                            "children": [],
+                            "title": "Uşaq Makaronları"
+                        },
+                        {
+                            "handle": "ucaq-sulari",
+                            "url": "/collections/ucaq-sulari",
+                            "children": [],
+                            "title": "Uşaq Suları"
+                        }
+                    ],
+                    "title": "Uşaq Qidası"
+                },
+                {
+                    "handle": "usaq-deterjan-yumsaldici",
+                    "url": "/collections/usaq-deterjan-yumsaldici",
+                    "children": [
+                        {
+                            "handle": "paltar-yuma-qatqilari",
+                            "url": "/collections/paltar-yuma-qatqilari",
+                            "children": [],
+                            "title": "Paltar Yuma Qatqıları"
+                        },
+                        {
+                            "handle": "usaq-yuyiucu-toz",
+                            "url": "/collections/usaq-yuyiucu-toz",
+                            "children": [],
+                            "title": "Uşaq (Yuyucu Toz)"
+                        }
+                    ],
+                    "title": "Uşaq Deterjanı, Yumşaldıcı"
+                },
+                {
+                    "handle": "usaq-baxim-m%C9%99hsullari-1",
+                    "url": "/collections/usaq-baxim-m%C9%99hsullari-1",
+                    "children": [
+                        {
+                            "handle": "usaq-hamam-kopuyu",
+                            "url": "/collections/usaq-hamam-kopuyu",
+                            "children": [],
+                            "title": "Uşaq Hamam Köpüyü"
+                        },
+                        {
+                            "handle": "usaq-kreml%C9%99ri",
+                            "url": "/collections/usaq-kreml%C9%99ri",
+                            "children": [],
+                            "title": "Uşaq Kremləri"
+                        },
+                        {
+                            "handle": "usaq-pudarasi",
+                            "url": "/collections/usaq-pudarasi",
+                            "children": [],
+                            "title": "Uşaq Pudrası"
+                        },
+                        {
+                            "handle": "usaq-sabunu",
+                            "url": "/collections/usaq-sabunu",
+                            "children": [],
+                            "title": "Uşaq Sabunu"
+                        },
+                        {
+                            "handle": "ucaq-yaglari",
+                            "url": "/collections/ucaq-yaglari",
+                            "children": [],
+                            "title": "Uşaq Yağları"
+                        },
+                        {
+                            "handle": "ucaq-sampunlari",
+                            "url": "/collections/ucaq-sampunlari",
+                            "children": [],
+                            "title": "Uçaq Şampunları"
+                        },
+                        {
+                            "handle": "usaq-dis-fircalari",
+                            "url": "/collections/usaq-dis-fircalari",
+                            "children": [],
+                            "title": "Uşaq Diş Fırçaları"
+                        },
+                        {
+                            "handle": "#",
+                            "url": "#",
+                            "children": [],
+                            "title": "Uşaq Baxım Məhsulları"
+                        }
+                    ],
+                    "title": "Uşaq Baxım Məhsulları"
+                },
+                {
+                    "handle": "usaq-tekstili",
+                    "url": "/collections/usaq-tekstili",
+                    "children": [
+                        {
+                            "handle": "c%C9%99k%C9%99n%C9%99k",
+                            "url": "/collections/c%C9%99k%C9%99n%C9%99k",
+                            "children": [],
+                            "title": "Çəkənək"
+                        },
+                        {
+                            "handle": "corab",
+                            "url": "/collections/corab",
+                            "children": [],
+                            "title": "Corab"
+                        },
+                        {
+                            "handle": "alt-geyiml%C9%99ri",
+                            "url": "/collections/alt-geyiml%C9%99ri",
+                            "children": [],
+                            "title": "Alt Geyimləri"
+                        },
+                        {
+                            "handle": "xalatlar",
+                            "url": "/collections/xalatlar",
+                            "children": [],
+                            "title": "Xalatlar"
+                        }
+                    ],
+                    "title": "Uşaq Tekstili"
+                },
+                {
+                    "handle": "oyuncaqlar",
+                    "url": "/collections/oyuncaqlar",
+                    "children": [
+                        {
+                            "handle": "ail%C9%99-oyunlari",
+                            "url": "/collections/ail%C9%99-oyunlari",
+                            "children": [],
+                            "title": "Ailə Oyunları"
+                        },
+                        {
+                            "handle": "usaq-oyuncaqlari",
+                            "url": "/collections/usaq-oyuncaqlari",
+                            "children": [],
+                            "title": "Uşaq Oyuncaqları"
+                        },
+                        {
+                            "handle": "oyr%C9%99dici-oyuncaqlar",
+                            "url": "/collections/oyr%C9%99dici-oyuncaqlar",
+                            "children": [],
+                            "title": "Öyrədici Oyuncaqlar"
+                        },
+                        {
+                            "handle": "yumsaq-oyuncaqlar",
+                            "url": "/collections/yumsaq-oyuncaqlar",
+                            "children": [],
+                            "title": "Yumşaq Oyuncaqlar"
+                        },
+                        {
+                            "handle": "qiz-oyuncaqlari",
+                            "url": "/collections/qiz-oyuncaqlari",
+                            "children": [],
+                            "title": "Qız Oyuncaqları"
+                        },
+                        {
+                            "handle": "oglan-oyuncaqlari",
+                            "url": "/collections/oglan-oyuncaqlari",
+                            "children": [],
+                            "title": "Oğlan Oyuncaqları"
+                        },
+                        {
+                            "handle": "top-d%C9%99niz-oyuncaqlari",
+                            "url": "/collections/top-d%C9%99niz-oyuncaqlari",
+                            "children": [],
+                            "title": "Top, Dəniz Oyuncaqları"
+                        }
+                    ],
+                    "title": "Oyuncaqlar"
+                }
+            ],
+            "title": "Uşaq Dünyası"
+        },
+        {
+            "handle": "ev-v%C9%99-bag-ucun-m%C9%99hsullar-1",
+            "url": "/collections/ev-v%C9%99-bag-ucun-m%C9%99hsullar-1",
+            "children": [
+                {
+                    "handle": "https://bazar-store-az.myshopify.comxirdavat-2",
+                    "url": "https://bazar-store-az.myshopify.com/collections/xirdavat-2",
+                    "children": [],
+                    "title": "Xırdavat"
+                },
+                {
+                    "handle": "m%C9%99tb%C9%99x-%C9%99syalari",
+                    "url": "/collections/m%C9%99tb%C9%99x-%C9%99syalari",
+                    "children": [
+                        {
+                            "handle": "m%C9%99tb%C9%99x-l%C9%99vazimatlari",
+                            "url": "/collections/m%C9%99tb%C9%99x-l%C9%99vazimatlari",
+                            "children": [],
+                            "title": "Mətbəx Ləvazimatları"
+                        },
+                        {
+                            "handle": "bisirm%C9%99-avadanliqlari",
+                            "url": "/collections/bisirm%C9%99-avadanliqlari",
+                            "children": [],
+                            "title": "Bişirmə Avadanlıqları"
+                        },
+                        {
+                            "handle": "bicaq-c%C9%99ng%C9%99l-qasiq",
+                            "url": "/collections/bicaq-c%C9%99ng%C9%99l-qasiq",
+                            "children": [],
+                            "title": "Bıçaq, Çəngəl, Qaşıq"
+                        },
+                        {
+                            "handle": "m%C9%99tb%C9%99x-%C9%99l-al%C9%99tl%C9%99ri",
+                            "url": "/collections/m%C9%99tb%C9%99x-%C9%99l-al%C9%99tl%C9%99ri",
+                            "children": [],
+                            "title": "Mətbəx Əl Alətləri"
+                        },
+                        {
+                            "handle": "cay-st%C9%99kani-d%C9%99sti",
+                            "url": "/collections/cay-st%C9%99kani-d%C9%99sti",
+                            "children": [],
+                            "title": "Çay stəkanı, Dəst"
+                        },
+                        {
+                            "handle": "fincan-q%C9%99d%C9%99h-bakal",
+                            "url": "/collections/fincan-q%C9%99d%C9%99h-bakal",
+                            "children": [],
+                            "title": "Fincan, Qədəh, Bakal"
+                        },
+                        {
+                            "handle": "c%C9%99r%C9%99rzlik-kasa",
+                            "url": "/collections/c%C9%99r%C9%99rzlik-kasa",
+                            "children": [],
+                            "title": "Çərərzlik, Kasa"
+                        },
+                        {
+                            "handle": "surahi",
+                            "url": "/collections/surahi",
+                            "children": [],
+                            "title": "Sürahi"
+                        },
+                        {
+                            "handle": "bosqab",
+                            "url": "/collections/bosqab",
+                            "children": [],
+                            "title": "Boşqab"
+                        },
+                        {
+                            "handle": "padnus-yem%C9%99k-d%C9%99sti",
+                            "url": "/collections/padnus-yem%C9%99k-d%C9%99sti",
+                            "children": [],
+                            "title": "Padnus, Yemək dəsti"
+                        },
+                        {
+                            "handle": "d%C9%99mlik-sudluk",
+                            "url": "/collections/d%C9%99mlik-sudluk",
+                            "children": [],
+                            "title": "Dəmlik,Südlük"
+                        },
+                        {
+                            "handle": "duz-yag-qabi",
+                            "url": "/collections/duz-yag-qabi",
+                            "children": [],
+                            "title": "Duz, Yağ Qabı"
+                        },
+                        {
+                            "handle": "tort-saxlama-qablari",
+                            "url": "/collections/tort-saxlama-qablari",
+                            "children": [],
+                            "title": "Tort Saxlama Qabları"
+                        },
+                        {
+                            "handle": "saxlama-qablari",
+                            "url": "/collections/saxlama-qablari",
+                            "children": [],
+                            "title": "Saxlama Qabları"
+                        },
+                        {
+                            "handle": "dig%C9%99r-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "url": "/collections/dig%C9%99r-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "children": [],
+                            "title": "Digər Mətbəx Əşyaları"
+                        }
+                    ],
+                    "title": "Mətbəx Əşyaları"
+                },
+                {
+                    "handle": "bagca-piknik",
+                    "url": "/collections/bagca-piknik",
+                    "children": [
+                        {
+                            "handle": "bagca-%C9%99l-al%C9%99tl%C9%99ri",
+                            "url": "/collections/bagca-%C9%99l-al%C9%99tl%C9%99ri",
+                            "children": [],
+                            "title": "Bağça, Əl Alətləri"
+                        },
+                        {
+                            "handle": "dibc%C9%99kl%C9%99r",
+                            "url": "/collections/dibc%C9%99kl%C9%99r",
+                            "children": [],
+                            "title": "Dibçəklər"
+                        },
+                        {
+                            "handle": "masa-oturacaq",
+                            "url": "/collections/masa-oturacaq",
+                            "children": [],
+                            "title": "Masa, Oturacaq"
+                        },
+                        {
+                            "handle": "d%C9%99nz-cim%C9%99rlik",
+                            "url": "/collections/d%C9%99nz-cim%C9%99rlik",
+                            "children": [],
+                            "title": "Dəniz, Çimərlik"
+                        },
+                        {
+                            "handle": "manqal-m%C9%99hsullari",
+                            "url": "/collections/manqal-m%C9%99hsullari",
+                            "children": [],
+                            "title": "Manqal Məhsulları"
+                        },
+                        {
+                            "handle": "#",
+                            "url": "#",
+                            "children": [],
+                            "title": "Xırdavat"
+                        }
+                    ],
+                    "title": "Bağça-Piknik"
+                },
+                {
+                    "handle": "dekorasiya",
+                    "url": "/collections/dekorasiya",
+                    "children": [
+                        {
+                            "handle": "sar",
+                            "url": "/collections/sar",
+                            "children": [],
+                            "title": "Şar"
+                        },
+                        {
+                            "handle": "dogum-gunu-sami",
+                            "url": "/collections/dogum-gunu-sami",
+                            "children": [],
+                            "title": "Doğum Günü Şamı"
+                        },
+                        {
+                            "handle": "h%C9%99diyy%C9%99lik-canta",
+                            "url": "/collections/h%C9%99diyy%C9%99lik-canta",
+                            "children": [],
+                            "title": "Hədiyyəlik Çanta"
+                        },
+                        {
+                            "handle": "bird%C9%99f%C9%99lik-yem%C9%99k-m%C9%99hsullari",
+                            "url": "/collections/bird%C9%99f%C9%99lik-yem%C9%99k-m%C9%99hsullari",
+                            "children": [],
+                            "title": "Birdəfəlik Yemək Məhsulları"
+                        },
+                        {
+                            "handle": "dekorasiya-xirdavati",
+                            "url": "/collections/dekorasiya-xirdavati",
+                            "children": [],
+                            "title": "Dekorasiya Xırdavatı"
+                        },
+                        {
+                            "handle": "yeni-i%CC%87l-dekorasiyasi",
+                            "url": "/collections/yeni-i%CC%87l-dekorasiyasi",
+                            "children": [],
+                            "title": "Yeni İl Dekorasiyası"
+                        },
+                        {
+                            "handle": "tort-fis%C9%99ngi",
+                            "url": "/collections/tort-fis%C9%99ngi",
+                            "children": [],
+                            "title": "Tort Fişəngi"
+                        },
+                        {
+                            "handle": "bayraq",
+                            "url": "/collections/bayraq",
+                            "children": [],
+                            "title": "Bayraq"
+                        }
+                    ],
+                    "title": "Dekorasiya"
+                },
+                {
+                    "handle": "mebel-v%C9%99-aksesuarlari",
+                    "url": "/collections/mebel-v%C9%99-aksesuarlari",
+                    "children": [
+                        {
+                            "handle": "samlar",
+                            "url": "/collections/samlar",
+                            "children": [],
+                            "title": "Şamlar"
+                        },
+                        {
+                            "handle": "oturacaq-masa",
+                            "url": "/collections/oturacaq-masa",
+                            "children": [],
+                            "title": "Oturacaq Masa"
+                        },
+                        {
+                            "handle": "s%C9%99b%C9%99t",
+                            "url": "/collections/s%C9%99b%C9%99t",
+                            "children": [],
+                            "title": "Səbət"
+                        },
+                        {
+                            "handle": "#",
+                            "url": "#",
+                            "children": [],
+                            "title": "Xırdavat"
+                        }
+                    ],
+                    "title": "Mebel və Aksesuarları"
+                },
+                {
+                    "handle": "tekstil",
+                    "url": "/collections/tekstil",
+                    "children": [
+                        {
+                            "handle": "ortuk",
+                            "url": "/collections/ortuk",
+                            "children": [],
+                            "title": "Örtük"
+                        },
+                        {
+                            "handle": "xalca-kilim",
+                            "url": "/collections/xalca-kilim",
+                            "children": [],
+                            "title": "Xalça, Kilim"
+                        },
+                        {
+                            "handle": "hamam-d%C9%99smali",
+                            "url": "/collections/hamam-d%C9%99smali",
+                            "children": [],
+                            "title": "Hamam Dəsmalı"
+                        },
+                        {
+                            "handle": "%C9%99l-uz-d%C9%99smali",
+                            "url": "/collections/%C9%99l-uz-d%C9%99smali",
+                            "children": [],
+                            "title": "Əl-Üz Dəsmalı"
+                        },
+                        {
+                            "handle": "m%C9%99tb%C9%99x-d%C9%99smali",
+                            "url": "/collections/m%C9%99tb%C9%99x-d%C9%99smali",
+                            "children": [],
+                            "title": "Mətbəx Dəsmalı"
+                        },
+                        {
+                            "handle": "stol-ortuyu",
+                            "url": "/collections/stol-ortuyu",
+                            "children": [],
+                            "title": "Stol Örtüyü"
+                        },
+                        {
+                            "handle": "%C9%99dyal-m%C9%99l%C9%99f%C9%99",
+                            "url": "/collections/%C9%99dyal-m%C9%99l%C9%99f%C9%99",
+                            "children": [],
+                            "title": "Adyal, Mələfə"
+                        },
+                        {
+                            "handle": "yastiq-yorgan",
+                            "url": "/collections/yastiq-yorgan",
+                            "children": [],
+                            "title": "Yastıq, Yorğan"
+                        },
+                        {
+                            "handle": "xirdavatlar",
+                            "url": "/collections/xirdavatlar",
+                            "children": [],
+                            "title": "Xırdavatlar"
+                        }
+                    ],
+                    "title": "Tekstil"
+                },
+                {
+                    "handle": "geyim",
+                    "url": "/collections/geyim",
+                    "children": [
+                        {
+                            "handle": "c%C9%99k%C9%99n%C9%99k-qadin",
+                            "url": "/collections/c%C9%99k%C9%99n%C9%99k-qadin",
+                            "children": [],
+                            "title": "Çəkənək Qadın"
+                        },
+                        {
+                            "handle": "c%C9%99k%C9%99n%C9%99k-kisi",
+                            "url": "/collections/c%C9%99k%C9%99n%C9%99k-kisi",
+                            "children": [],
+                            "title": "Çəkənək Kişi"
+                        },
+                        {
+                            "handle": "kalqotka",
+                            "url": "/collections/kalqotka",
+                            "children": [],
+                            "title": "Kalqotka"
+                        },
+                        {
+                            "handle": "qadin-corab",
+                            "url": "/collections/qadin-corab",
+                            "children": [],
+                            "title": "Qadın Corab"
+                        },
+                        {
+                            "handle": "kisi-corab",
+                            "url": "/collections/kisi-corab",
+                            "children": [],
+                            "title": "Kişi Corab"
+                        },
+                        {
+                            "handle": "mayka-qadin",
+                            "url": "/collections/mayka-qadin",
+                            "children": [],
+                            "title": "Mayka Qadın"
+                        },
+                        {
+                            "handle": "mayka-kisi",
+                            "url": "/collections/mayka-kisi",
+                            "children": [],
+                            "title": "Mayka Kişi"
+                        },
+                        {
+                            "handle": "tuman-qadin",
+                            "url": "/collections/tuman-qadin",
+                            "children": [],
+                            "title": "Tuman Qadın"
+                        },
+                        {
+                            "handle": "tuman-kisi",
+                            "url": "/collections/tuman-kisi",
+                            "children": [],
+                            "title": "Tuman Kişi"
+                        },
+                        {
+                            "handle": "pijama-gec%C9%99lik",
+                            "url": "/collections/pijama-gec%C9%99lik",
+                            "children": [],
+                            "title": "Pijama, Gecəlik"
+                        },
+                        {
+                            "handle": "d%C9%99niz-geyiml%C9%99ri",
+                            "url": "/collections/d%C9%99niz-geyiml%C9%99ri",
+                            "children": [],
+                            "title": "Dəniz Geyimləri"
+                        }
+                    ],
+                    "title": "Geyim"
+                },
+                {
+                    "handle": "avtomobil-m%C9%99hsullari",
+                    "url": "/collections/avtomobil-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "avtomobil-qoxulari",
+                            "url": "/collections/avtomobil-qoxulari",
+                            "children": [],
+                            "title": "Avtomobil Qoxuları"
+                        },
+                        {
+                            "handle": "t%C9%99mizlik-m%C9%99hsullari",
+                            "url": "/collections/t%C9%99mizlik-m%C9%99hsullari",
+                            "children": [],
+                            "title": "Təmizlik Məhsulları"
+                        },
+                        {
+                            "handle": "avto-aksesuarlar",
+                            "url": "/collections/avto-aksesuarlar",
+                            "children": [],
+                            "title": "Avto Aksesuarlar"
+                        }
+                    ],
+                    "title": "Avtomobil Məhsulları"
+                },
+                {
+                    "handle": "i%CC%87dman-s%C9%99yyah%C9%99t",
+                    "url": "/collections/i%CC%87dman-s%C9%99yyah%C9%99t",
+                    "children": [
+                        {
+                            "handle": "yuk-baqaji-cantalar",
+                            "url": "/collections/yuk-baqaji-cantalar",
+                            "children": [],
+                            "title": "Yük Baqajı,Çantalar"
+                        },
+                        {
+                            "handle": "velospiped",
+                            "url": "/collections/velospiped",
+                            "children": [],
+                            "title": "Velospiped"
+                        },
+                        {
+                            "handle": "i%CC%87dman-m%C9%99hsullari",
+                            "url": "/collections/i%CC%87dman-m%C9%99hsullari",
+                            "children": [],
+                            "title": "İdman Məhsulları"
+                        },
+                        {
+                            "handle": "gun-eyn%C9%99yi",
+                            "url": "/collections/gun-eyn%C9%99yi",
+                            "children": [],
+                            "title": "Gün Eynəyi"
+                        },
+                        {
+                            "handle": "dig%C9%99r-aksesuarlar",
+                            "url": "/collections/dig%C9%99r-aksesuarlar",
+                            "children": [],
+                            "title": "Digər Aksesuarlar"
+                        }
+                    ],
+                    "title": "İdman, Səyahət"
+                }
+            ],
+            "title": "Ev və Bağ Məhsullari"
+        },
+        {
+            "handle": "d%C9%99ft%C9%99xana-l%C9%99vazimatlari-1",
+            "url": "/collections/d%C9%99ft%C9%99xana-l%C9%99vazimatlari-1",
+            "children": [],
+            "title": "Dəftərxana Ləvazimatları"
+        },
+        {
+            "handle": "elektronik",
+            "url": "/collections/elektronik",
+            "children": [
+                {
+                    "handle": "elektrikli-ev-%C9%99syalari",
+                    "url": "/collections/elektrikli-ev-%C9%99syalari",
+                    "children": [
+                        {
+                            "handle": "elektrikli-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "url": "/collections/elektrikli-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "children": [],
+                            "title": "Elektrikli Mətbəx Əşyaları"
+                        },
+                        {
+                            "handle": "kicik-ev-%C9%99syalari",
+                            "url": "/collections/kicik-ev-%C9%99syalari",
+                            "children": [],
+                            "title": "Kiçik Ev Əşyaları"
+                        },
+                        {
+                            "handle": "elektrikli-s%C9%99xsi-baxim-%C9%99syalari",
+                            "url": "/collections/elektrikli-s%C9%99xsi-baxim-%C9%99syalari",
+                            "children": [],
+                            "title": "Elektrikli Şəxsi Baxım Əşyaları"
+                        },
+                        {
+                            "handle": "dig%C9%99r-elektrik-%C9%99syalari",
+                            "url": "/collections/dig%C9%99r-elektrik-%C9%99syalari",
+                            "children": [],
+                            "title": "Digər Elektrik Əşyaları"
+                        }
+                    ],
+                    "title": "Elektrikli Ev Əşyaları"
+                },
+                {
+                    "handle": "i%CC%87sitm%C9%99-soyutma",
+                    "url": "/collections/i%CC%87sitm%C9%99-soyutma",
+                    "children": [
+                        {
+                            "handle": "i%CC%87sidicil%C9%99r",
+                            "url": "/collections/i%CC%87sidicil%C9%99r",
+                            "children": [],
+                            "title": "İsidicilər"
+                        },
+                        {
+                            "handle": "ventilyator",
+                            "url": "/collections/ventilyator",
+                            "children": [],
+                            "title": "Ventilyator"
+                        }
+                    ],
+                    "title": "İsitmə, Soyutma"
+                },
+                {
+                    "handle": "i%CC%87siqlandirma-elektrik-m%C9%99hsullari",
+                    "url": "/collections/i%CC%87siqlandirma-elektrik-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "i%CC%87siqlandirma",
+                            "url": "/collections/i%CC%87siqlandirma",
+                            "children": [],
+                            "title": "İşıqlandırma"
+                        },
+                        {
+                            "handle": "batareyalar",
+                            "url": "/collections/batareyalar",
+                            "children": [],
+                            "title": "Batareyalar"
+                        },
+                        {
+                            "handle": "elektrik-%C9%99syalari",
+                            "url": "/collections/elektrik-%C9%99syalari",
+                            "children": [],
+                            "title": "Elektrik Əşyaları"
+                        }
+                    ],
+                    "title": "İşıqlandırma, Elektrik Məhsulları"
+                },
+                {
+                    "handle": "elektrikli-ev-%C9%99syalari",
+                    "url": "/collections/elektrikli-ev-%C9%99syalari",
+                    "children": [
+                        {
+                            "handle": "elektrikli-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "url": "/collections/elektrikli-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "children": [],
+                            "title": "Elektrikli Mətbəx Əşyaları"
+                        },
+                        {
+                            "handle": "kicik-ev-%C9%99syalari",
+                            "url": "/collections/kicik-ev-%C9%99syalari",
+                            "children": [],
+                            "title": "Kiçik Ev Əşyaları"
+                        },
+                        {
+                            "handle": "elektrikli-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "url": "/collections/elektrikli-m%C9%99tb%C9%99x-%C9%99syalari",
+                            "children": [],
+                            "title": "Elektrikli Mətbəx Əşyaları"
+                        },
+                        {
+                            "handle": "elektrikli-s%C9%99xsi-baxim-%C9%99syalari",
+                            "url": "/collections/elektrikli-s%C9%99xsi-baxim-%C9%99syalari",
+                            "children": [],
+                            "title": "Elektrikli Şəxsi Baxım Əşyaları"
+                        },
+                        {
+                            "handle": "dig%C9%99r-elektrikli-%C9%99syalar",
+                            "url": "/collections/dig%C9%99r-elektrikli-%C9%99syalar",
+                            "children": [],
+                            "title": "Digər Elektrikli Əşyalar"
+                        }
+                    ],
+                    "title": "Elektrikli Ev Əşyaları"
+                },
+                {
+                    "handle": "i%CC%87sitm%C9%99-soyutma",
+                    "url": "/collections/i%CC%87sitm%C9%99-soyutma",
+                    "children": [
+                        {
+                            "handle": "i%CC%87sidicil%C9%99r",
+                            "url": "/collections/i%CC%87sidicil%C9%99r",
+                            "children": [],
+                            "title": "İsidicilər"
+                        },
+                        {
+                            "handle": "ventilyator",
+                            "url": "/collections/ventilyator",
+                            "children": [],
+                            "title": "Ventilyator"
+                        }
+                    ],
+                    "title": "İsitmə, Soyutma"
+                },
+                {
+                    "handle": "i%CC%87siqlandirma-elektrik-m%C9%99hsullari",
+                    "url": "/collections/i%CC%87siqlandirma-elektrik-m%C9%99hsullari",
+                    "children": [
+                        {
+                            "handle": "i%CC%87siqlandirma",
+                            "url": "/collections/i%CC%87siqlandirma",
+                            "children": [],
+                            "title": "İşıqlandırma"
+                        },
+                        {
+                            "handle": "batareyalar",
+                            "url": "/collections/batareyalar",
+                            "children": [],
+                            "title": "Batareyalar"
+                        },
+                        {
+                            "handle": "elektrik-%C9%99syalari",
+                            "url": "/collections/elektrik-%C9%99syalari",
+                            "children": [],
+                            "title": "Elektrik Əşyaları"
+                        }
+                    ],
+                    "title": "İşıqlandırma, Elektrik Məhsulları"
+                },
+                {
+                    "handle": "dig%C9%99r-elektrik-%C9%99syalari",
+                    "url": "/collections/dig%C9%99r-elektrik-%C9%99syalari",
+                    "children": [],
+                    "title": "Digər Elektrik Əşyaları"
+                }
+            ],
+            "title": "Elektronika"
+        },
+        {
+            "handle": "petshop-1",
+            "url": "/collections/petshop-1",
+            "children": [
+                {
+                    "handle": "heyvan-sagliq-m%C9%99hsullari",
+                    "url": "/collections/heyvan-sagliq-m%C9%99hsullari",
+                    "children": [],
+                    "title": "Heyvan Sağlıq Məhsulları"
+                },
+                {
+                    "handle": "heyvan-yeml%C9%99ri",
+                    "url": "/collections/heyvan-yeml%C9%99ri",
+                    "children": [
+                        {
+                            "handle": "pisik-yemi",
+                            "url": "/collections/pisik-yemi",
+                            "children": [],
+                            "title": "Pişik Yemi"
+                        },
+                        {
+                            "handle": "i%CC%87t-yemi",
+                            "url": "/collections/i%CC%87t-yemi",
+                            "children": [],
+                            "title": "İt Yemi"
+                        }
+                    ],
+                    "title": "Heyvan Yemləri"
+                },
+                {
+                    "handle": "heyvan-oyuncaqlari",
+                    "url": "/collections/heyvan-oyuncaqlari",
+                    "children": [
+                        {
+                            "handle": "i%CC%87t-ucun",
+                            "url": "/collections/i%CC%87t-ucun",
+                            "children": [],
+                            "title": "İt üçün"
+                        },
+                        {
+                            "handle": "pisik-ucun",
+                            "url": "/collections/pisik-ucun",
+                            "children": [],
+                            "title": "Pişik üçün"
+                        }
+                    ],
+                    "title": "Heyvan Oyuncaqları"
+                },
+                {
+                    "handle": "petshop-aksesuar",
+                    "url": "/collections/petshop-aksesuar",
+                    "children": [
+                        {
+                            "handle": "i%CC%87t-ucun",
+                            "url": "/collections/i%CC%87t-ucun",
+                            "children": [],
+                            "title": "İt üçün"
+                        },
+                        {
+                            "handle": "pisik-ucun",
+                            "url": "/collections/pisik-ucun",
+                            "children": [],
+                            "title": "Pişik üçün"
+                        }
+                    ],
+                    "title": "Petshop Aksesuar"
+                }
+            ],
+            "title": "Petshop"
+        }
+    ]
+}

@@ -1,0 +1,2506 @@
+[
+  {
+    "market": "Neptun Supermarket Xırdalan",
+    "category": "Duz və Ədviyyatlar",
+    "id": "9ec5687851db9756cfbb9b95",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0087cbc5f226644c6c61bb6190c82c55",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/80c9c2fa-9df1-11ee-b0d9-2224ad81455f_63206a9a2d7f8695fd70dee3367ad8112a8ee08553feb_photoroom.jpg",
+        "blurhash": "ja:vrOCpX;GGGYpCtBGpX;GGcxpC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Masoud 50 qr Küncüt Paket",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 175,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 175,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Nərimanov",
+    "category": "Other",
+    "id": "3e4af0370b02d582ce77dc33",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e7d118c3632e58a92b22b513921a9cc8",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/3d73b8f2-f44a-11ef-a154-7eff8d05c11c_8682665331136.jpg",
+        "blurhash": "jkWuDEpT;;KXGGCppCtTXKGGcPpC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Eminem Bölməli Dik Qaşıqlıq 3113",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 239,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": null,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 239,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 8 mkr",
+    "category": "Fruktoviy Sad",
+    "id": "fe07d07d58db65c350fae73d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4d6970f5e31ad6c5d4f93839b1c05786",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/92d69730-1ecb-11ed-afb6-2eb23551f396_1111.jpeg",
+        "blurhash": "jdZLvOlk;;TumXqpJCFTGGGppCpT"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fruktovıy Sad Meyvə Şirəsi Alma 1 l",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 265,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 265,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Tbilisi Prospekti",
+    "category": "Yeni İl",
+    "id": "fb4767a9307a90fe035bd4c3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b819181632daaad9629f005d2be5ac60",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6936accb836eab5217e10553",
+        "blurhash": "j5Q:b6KXX:llmRunJIBWX:tC8iGG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Yeni İl Yolka Oyuncağı  Lampa Sadə  2400000000327",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 255,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": null,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 255,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 28 May",
+    "category": "Mayonezlər",
+    "id": "056b94dfdda41200550e6bce",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "17ad4c33eeb0e31404d899489a5a0431",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6082a8c7376cf8c5b3dcbdf0/07712f3a-304a-11ed-9f5d-fa4afe662429_1.jpeg",
+        "blurhash": "jbZLnPpC;;OXP6BChbqXXtCGcPpB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bizim Süfrə Mayonez 55% Paket 400 ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 315,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 315,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Ağ Şəhər",
+    "category": "Süd Məhsulları",
+    "id": "178c0630188ee57f227083dc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b64eb51448086cfa0349b1d2589f7adb",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/a232196a-f449-11ef-87c8-b60ccc7c6140_4680017920629.jpg",
+        "blurhash": "jeX;fLtC;;KXCYBTFluGTdCnd3pF"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ekoniva Süd 2.5% T/P 1l",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 340,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 21,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 340,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Keşlə",
+    "category": "Çörəklər və Lavaşlar",
+    "id": "58424159ce785d90b3184ab5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c1f8bf5c1bfa5b80d82e5476342682c2",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": {
+      "disable_text": "Sold out",
+      "disable_reason": null
+    },
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/f71c4464-999b-11ee-8eb7-da6ced3fbf67_img_2432__77_.jpg",
+        "blurhash": "j7BDRP4x0zRj40XKXlhaj;cPhpTb"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 10,
+    "min_quantity_per_purchase": null,
+    "name": "Fırın Təndir Çörəyi Böyük Ədəd",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 120,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 0,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 120,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Xalqlar",
+    "category": "Other",
+    "id": "7c92dc81a96dbf7300e63152",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e5b1ae404f400d6fd311e116b136506f",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/73611bac-113d-11f0-a49e-62c10a1735ab_036131.jpg",
+        "blurhash": "jcZ;nPGG;;u9KXyplmtTl4tTLcGF"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jokey Latte Kofe 3x1 10x10x12g",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 36,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 36,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Xalqlar",
+    "category": "Şirniyyat",
+    "id": "e101c5c26c574a29808bb13d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "edc2c4c599c0a65d9e68ae6781fc0bd4",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/ded95c98-9f81-11ee-b14f-c647c7da156f_biscolata_100_gr_cake_with_chocolate_and_bitter_chocolate__550x550_photoroom.jpg",
+        "blurhash": "jfXKLGPcTtplpCPdpCh4;;h4h3KX"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 10,
+    "min_quantity_per_purchase": null,
+    "name": "Solen 100 qr Biscolata Pia Chocolate",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 290,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 290,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 8 mkr",
+    "category": "Paltaryuyan Maye",
+    "id": "51064ddbe810ff835450bdf1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c683bea6517322a032bca615e1768d5c",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/60871b2a-fff5-11ef-b783-eadd086423f0_053614.jpg",
+        "blurhash": "j2;fTZKX;;pTTtpTd4GGTctTd4Cq"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Perwoll Yuyucu Vasitə Ağlar üçün 2L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1609,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1609,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 8 mkr",
+    "category": "Want",
+    "id": "8ebbfecb2a03bb89d74cf1a7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": true
+    },
+    "checksum": "6f40c93d216f056024ca82b980f061c2",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/49e740b6-2133-11f0-9d94-1ae24befc639_wmx_6809ebc70b43fc2a1c0096b9.jpeg",
+        "blurhash": "j4:LHWll;;PdcPpCTtGHTuCGcPpC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 3,
+    "min_quantity_per_purchase": null,
+    "name": "Want Line X Mavi",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 290,
+    "product_hierarchy_tags": [
+      "SMOKERS",
+      "TOBACCO"
+    ],
+    "purchasable_balance": 38,
+    "restrictions": [
+      {
+        "type": "tobacco",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 290,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Xalqlar",
+    "category": "Ofis və Dəftərxana Ləvazimatları",
+    "id": "6e7b18b0ef06442dfbadc7b3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a74552767ca994bfd79739d7160a8e86",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/84e9b900-9d9a-11ee-a5df-aed84a7d9eb1_a002316_1__shtrix_qelem_i_011_7ml_550x550_photoroom.jpg",
+        "blurhash": "j1:LHX02;;Xs4j018z;;;;OX40d5"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Inci Oyal Ağardıcı Qələm I-011 7ml A002316",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 90,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 22,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 90,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Tbilisi Prospekti",
+    "category": "Kəsmik",
+    "id": "3b2165e5e770007fb58251f6",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1442617e4104b016ee62e78e9c6b0884",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6082a8c7376cf8c5b3dcbdf0/0bbf2876-2e7e-11ed-bc3c-b639ea27e814_1.jpeg",
+        "blurhash": "jgXKXKGG;;GGFWtTGFCpXKCp8ytT"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Dr.milk Kəsmik Yağlı 9 % 180 qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 234,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 234,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Tbilisi Prospekti",
+    "category": "Red Bull",
+    "id": "7026628c33ef2afe1873becd",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b74a5dd4e4c3c19f2f8d8d95694ffe97",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/adfb463e-113d-11f0-8174-16db7d4ca959_058058.jpg",
+        "blurhash": "jeZ;7MCG;;FTHctTt4CpPtBTgPup"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Red Bull Enerji İçkisi Qarpızlı 250ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 349,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 123,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 349,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Xalqlar",
+    "category": "Şəxsi Baxım Kişi",
+    "id": "f228ea27d95747889e70862c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "41acd5332c9f8a0ab6e88e8b5aee618c",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/701abb82-fff5-11ef-aad3-469f01d5ef60_058372.jpg",
+        "blurhash": "j7Z;zVGG;;GGKFCpqGtTXtCp8PtT"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rexona Men Cobalt 150ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 628,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 628,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Tbilisi Prospekti",
+    "category": "Şəxsi baxım Qadın",
+    "id": "f5a14c74e7a99effb2c3da01",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "aa9d18bf12c848ca3f4a1dcbd77ead7e",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/c5413c3a-9e58-11ee-a929-da39aef98dd4_30163920_photoroom.png",
+        "blurhash": "j2;fPYKX;;KXTtGGcQllPcpCh4KX"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Privacy 150 ml Deodorant Woman",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 499,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 499,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 28 May",
+    "category": "Cappy",
+    "id": "8bfa3b60249528bf5d596cb0",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c7a6d75009a089fd008b57d389dcf675",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/bc4f93c6-492b-11ec-9418-263e9491db35_frame_2.jpeg",
+        "blurhash": "jh:f7JC9X;GGTbC9d5q7hHtTOBCq"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 10,
+    "min_quantity_per_purchase": null,
+    "name": "Cappy Pulpy Tropik 0.5 l",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 125,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 362,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 125,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Ağ Şəhər",
+    "category": "Şəxsi baxım Qadın",
+    "id": "f29eb8debfa729b11002c26c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "8001841559513",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9202233833b474ff2bc7ec2b0d21b8fb",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/5a7e593c-ab58-11f0-a1a7-f6ce9a00f170_8001841559513.jpg",
+        "blurhash": "jqTubMpF;:KWlGKGKClmGXGDtmlF"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 10,
+    "min_quantity_per_purchase": null,
+    "name": "Always Classic 8-li Night Qadın Bəzi",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 349,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 349,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Ağ Şəhər",
+    "category": "Badamlı",
+    "id": "b15b7f34c1000d48aacd1dfd",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2294f410b6b8a977b1daa6a709bab057",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6082a8c7376cf8c5b3dcbdf0/73931dce-2f67-11ed-b784-aa3de5a670f5_1.jpeg",
+        "blurhash": "j8Z;HTKX;LllPctTllGGSZtSdjGq"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Badamlı Premium Qazlı Su 750 ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 285,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 142,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 285,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Tbilisi Prospekti",
+    "category": "Şəxsi baxım Qadın",
+    "id": "1b51252fb7106d0c3bb27bdf",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1cb7b8fa2d67c82ef418386ada1b60e0",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/4951da14-f44a-11ef-9122-7ebc29abb730_8690506548049.jpg",
+        "blurhash": null
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Arko Krem Mikrobiom Dəngələyici 450ml",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1140,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1140,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 28 May",
+    "category": "Şirniyyat",
+    "id": "e7c9275544087a8271690f10",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "fd448ebf74840fb22a7d652253b32c14",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/ded95c98-9f81-11ee-b14f-c647c7da156f_biscolata_100_gr_cake_with_chocolate_and_bitter_chocolate__550x550_photoroom.jpg",
+        "blurhash": "jfXKLGPcTtplpCPdpCh4;;h4h3KX"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 10,
+    "min_quantity_per_purchase": null,
+    "name": "Solen 100 qr Biscolata Pia Chocolate",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 290,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 38,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 290,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 8 mkr",
+    "category": "Jagermeister",
+    "id": "e980d7c5a90a4e36e6388d58",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "523226d5ea418b4fb6730f0e20f2bd40",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/fe651c20-fff5-11ef-9b25-261c458e1630_105900.jpg",
+        "blurhash": "j8U:bxGG;;GGPctTl4CpTtCpgPtT"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jägermeister 35% Likör 1L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 7469,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": null
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 7469,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Binəqədi",
+    "category": "Paltaryuyan Maye",
+    "id": "2a51681ef3027da2bc1dcbe2",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "87d375abf707266a4eff9c13353b2de1",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/61aff558-ee97-11eb-8e9b-32b4fcdd16e7_11.jpeg",
+        "blurhash": "jmVKjIpC;;OXhlGpOXlCPcumh4Ga"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 10,
+    "min_quantity_per_purchase": null,
+    "name": "Bingo Automat Shining Rəngli 1.35 kq",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 731,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 731,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Ağ Şəhər",
+    "category": "Other",
+    "id": "ebefd218b9020a3e323b2725",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "706f6564ec7669771f9039532e73a70e",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6082a8c7376cf8c5b3dcbdf0/dd0c782a-278a-11ed-8335-8ae5b50406ae_frame_1.jpeg",
+        "blurhash": "ja:vrRGG;;uqtntTHaCFPttTgPCp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Nestle Qəhvə Mate 170 qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 430,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 29,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 430,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Tbilisi Prospekti",
+    "category": "Çərəz və Snack",
+    "id": "fcdbb7760df62fef6f4eb291",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "846c4319bf02b998884c8c3ed91046a1",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6082a8c7376cf8c5b3dcbdf0/076cbd16-291e-11ed-bbd8-ca317ab63b5f_1.jpeg",
+        "blurhash": "jkW:zAGG;;tDFSCpqqBT;;tT8xGG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ülker Altınbaşak Light Kreker Yulaf 5x46 qr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 330,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 95,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 330,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Nərimanov",
+    "category": "Çəkili Şirniyyat",
+    "id": "2dfa702b72ad6f0426eab8c3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7934afdcb9136354c474eecd0392e37a",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/e28e0f8e-b657-11f0-83a7-12653a8e6877_ads_z_tasar_m__38_.png",
+        "blurhash": "j5:;HWGX;;tCKnpCqXGH;;tC4hGH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Şokolad Nestle Goodmix Sweets Qarışıq kq",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1995,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": {
+      "grams_per_step": 1000,
+      "input_type": "number_of_items",
+      "price_per_kg": 1995
+    },
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": null,
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1995,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Keşlə",
+    "category": "Other",
+    "id": "000587e2eede66c787e82662",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "682e3a71f16283a8c1ac5136264a3465",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/4888c416-1ab1-11f0-b982-bea85bbe4d70_3083680714655.jpg",
+        "blurhash": "jiX:XBup;;KGPcpDh5KGuItTGlCp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bonduelle Qara Zeytun Tumlu 300q",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 485,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 485,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Kürdəxanı",
+    "category": "Ev Təmizliyi",
+    "id": "75383830e932a791553a0456",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3b758e115aa43b882c76ed50d44da46e",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/62049c42-ee9d-11eb-a5dd-32b4fcdd16e7_11.jpeg",
+        "blurhash": "jnTd;xKX;;l4KXCpplpTmqGnKFlF"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 10,
+    "min_quantity_per_purchase": null,
+    "name": "Mr Muscle Boru Təmizləyici 70 gr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 525,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 525,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket Xırdalan",
+    "category": "Other",
+    "id": "c79c2e528c9a7a8eb306d039",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8a1c1824984720bea72ee0c2a2008e4c",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/a3018850-99a3-11ee-9f52-5e80d86476d1_xezerbest400_1000x1000_photoroom.png",
+        "blurhash": "jmYuvEGG;;lCKYupllFCKXtTllGp"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Xəzər 400 qr Opp Best Çay",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 870,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 870,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "market": "Neptun Supermarket 28 May",
+    "category": "Yeni İl",
+    "id": "170b56c9c3047e0243afa8d7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": null,
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "34df277814ec8b001bef8c1eebbd2d11",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": false,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6936accb836eab5217e1053e",
+        "blurhash": "j0Suvb;;3M00XLllgOTtPZ8zMl;;"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Yeni İl Yolka Oyuncağı Ağ 2li  2400000001133",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 370,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": null,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 əd.",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 370,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 18,
+    "vat_percentage_decimal": "18.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

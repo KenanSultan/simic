@@ -1,0 +1,265 @@
+{
+    "version": 1,
+    "categories": [
+        {
+            "id": 1,
+            "slug": "meyve-terevez",
+            "name": "Meyvə & Tərəvəz",
+            "children": [
+                {"id": 101, "slug": "meyve", "name": "Meyvə"},
+                {"id": 102, "slug": "terevez", "name": "Tərəvəz"},
+                {"id": 103, "slug": "goyerti", "name": "Göyərti"},
+                {"id": 104, "slug": "gobelek", "name": "Göbələk"},
+                {"id": 105, "slug": "quru-meyve-cerezler", "name": "Quru meyvə & Çərəzlər"}
+            ]
+        },
+        {
+            "id": 2,
+            "slug": "et-toyuq",
+            "name": "Ət & Toyuq",
+            "children": [
+                {"id": 201, "slug": "mal-eti", "name": "Mal əti"},
+                {"id": 202, "slug": "quzu-eti", "name": "Quzu əti"},
+                {"id": 203, "slug": "toyuq", "name": "Toyuq"},
+                {"id": 204, "slug": "hinduska", "name": "Hinduşka"},
+                {"id": 205, "slug": "icalat", "name": "İçalat"},
+                {"id": 206, "slug": "qiyme", "name": "Qiymə"}
+            ]
+        },
+        {
+            "id": 3,
+            "slug": "baliq-deniz-mehsullari",
+            "name": "Balıq & Dəniz məhsulları",
+            "children": [
+                {"id": 301, "slug": "teze-baliq", "name": "Təzə balıq"},
+                {"id": 302, "slug": "dondurulmus-baliq", "name": "Dondurulmuş balıq"},
+                {"id": 303, "slug": "deniz-mehsullari", "name": "Dəniz məhsulları"},
+                {"id": 304, "slug": "hise-verilmis-baliq", "name": "Hisə verilmiş balıq"}
+            ]
+        },
+        {
+            "id": 4,
+            "slug": "yumurta",
+            "name": "Yumurta",
+            "children": [
+                {"id": 401, "slug": "yumurta", "name": "Yumurta"}
+            ]
+        },
+        {
+            "id": 5,
+            "slug": "sud-mehsullari",
+            "name": "Süd məhsulları",
+            "children": [
+                {"id": 501, "slug": "sud", "name": "Süd"},
+                {"id": 502, "slug": "pendir", "name": "Pendir"},
+                {"id": 503, "slug": "yogurt-qatiq", "name": "Yoğurt & Qatıq"},
+                {"id": 504, "slug": "kefir-ayran", "name": "Kefir & Ayran"},
+                {"id": 505, "slug": "qaymaq-xama", "name": "Qaymaq & Xama"},
+                {"id": 506, "slug": "kesmik-sor", "name": "Kəsmik & Şor"},
+                {"id": 507, "slug": "kere-yagi", "name": "Kərə yağı"}
+            ]
+        },
+        {
+            "id": 6,
+            "slug": "corek-un-memulatlari",
+            "name": "Çörək & Un məmulatları",
+            "children": [
+                {"id": 601, "slug": "corek-lavas", "name": "Çörək & Lavaş"},
+                {"id": 602, "slug": "un-memulatlari", "name": "Un məmulatları"},
+                {"id": 603, "slug": "tort-bismeler", "name": "Tort & Bişmələr"}
+            ]
+        },
+        {
+            "id": 7,
+            "slug": "qastronom",
+            "name": "Qastronom",
+            "children": [
+                {"id": 701, "slug": "kolbasa-sosisler", "name": "Kolbasa & Sosislər"},
+                {"id": 702, "slug": "hise-verilmis-et", "name": "Hisə verilmiş ət"},
+                {"id": 703, "slug": "delikates", "name": "Delikates"}
+            ]
+        },
+        {
+            "id": 8,
+            "slug": "quru-qida",
+            "name": "Quru qida",
+            "children": [
+                {"id": 801, "slug": "un", "name": "Un"},
+                {"id": 802, "slug": "duyu", "name": "Düyü"},
+                {"id": 803, "slug": "makaron", "name": "Makaron"},
+                {"id": 804, "slug": "bakliyyat-denliler", "name": "Bakliyyat & Dənlilər"},
+                {"id": 805, "slug": "seker-duz", "name": "Şəkər & Duz"},
+                {"id": 806, "slug": "seher-yemekleri", "name": "Səhər yeməkləri"}
+            ]
+        },
+        {
+            "id": 9,
+            "slug": "yag-sirke",
+            "name": "Yağ & Sirkə",
+            "children": [
+                {"id": 901, "slug": "bitki-yagi", "name": "Bitki yağı"},
+                {"id": 902, "slug": "zeytun-yagi", "name": "Zeytun yağı"},
+                {"id": 903, "slug": "sirke", "name": "Sirkə"}
+            ]
+        },
+        {
+            "id": 10,
+            "slug": "sous-edviyyat",
+            "name": "Sous & Ədviyyat",
+            "children": [
+                {"id": 1001, "slug": "souslar", "name": "Souslar"},
+                {"id": 1002, "slug": "edviyyatlar", "name": "Ədviyyatlar"},
+                {"id": 1003, "slug": "bisirme-mehsullari", "name": "Bişirmə məhsulları"}
+            ]
+        },
+        {
+            "id": 11,
+            "slug": "konservler-tursular",
+            "name": "Konservlər & Turşular",
+            "children": [
+                {"id": 1101, "slug": "terevez-konservleri", "name": "Tərəvəz konservləri"},
+                {"id": 1102, "slug": "baliq-konservleri", "name": "Balıq konservləri"},
+                {"id": 1103, "slug": "tursu-zeytun", "name": "Turşu & Zeytun"},
+                {"id": 1104, "slug": "murebbe-bal", "name": "Mürəbbə & Bal"}
+            ]
+        },
+        {
+            "id": 12,
+            "slug": "dondurulmus-mehsullar",
+            "name": "Dondurulmuş məhsullar",
+            "children": [
+                {"id": 1201, "slug": "yarimfabrikatlar", "name": "Yarımfabrikatlar"},
+                {"id": 1202, "slug": "dondurulmus-terevez", "name": "Dondurulmuş tərəvəz"},
+                {"id": 1203, "slug": "dondurma", "name": "Dondurma"},
+                {"id": 1204, "slug": "hazir-yemekler", "name": "Hazır yeməklər"}
+            ]
+        },
+        {
+            "id": 13,
+            "slug": "sirniyyat-cerezler",
+            "name": "Şirniyyat & Çərəzlər",
+            "children": [
+                {"id": 1301, "slug": "sokolad-konfet", "name": "Şokolad & Konfet"},
+                {"id": 1302, "slug": "pecenye-vafli", "name": "Peçenye & Vafli"},
+                {"id": 1303, "slug": "saqqiz", "name": "Saqqız"},
+                {"id": 1304, "slug": "cipsler-kraker", "name": "Çipslər & Kraker"}
+            ]
+        },
+        {
+            "id": 14,
+            "slug": "spirtsiz-ickiler",
+            "name": "Spirtsiz içkilər",
+            "children": [
+                {"id": 1401, "slug": "qazsiz-su", "name": "Qazsız su"},
+                {"id": 1402, "slug": "qazli-mineral-su", "name": "Qazlı su & Mineral su"},
+                {"id": 1403, "slug": "meyve-siresi-nektar", "name": "Meyvə şirəsi & Nektar"},
+                {"id": 1404, "slug": "kompot", "name": "Kompot"},
+                {"id": 1405, "slug": "cola-soda", "name": "Cola & Soda"},
+                {"id": 1406, "slug": "limonad", "name": "Limonad"},
+                {"id": 1407, "slug": "spirtsiz-pive", "name": "Spirtsiz pivə"},
+                {"id": 1408, "slug": "enerji-ickileri", "name": "Enerji içkiləri"},
+                {"id": 1409, "slug": "soyuq-cay", "name": "Soyuq çay"},
+                {"id": 1410, "slug": "soyuq-kofe", "name": "Soyuq kofe"},
+                {"id": 1411, "slug": "diger-ickiler", "name": "Digər"}
+            ]
+        },
+        {
+            "id": 15,
+            "slug": "cay-kofe",
+            "name": "Çay & Kofe",
+            "children": [
+                {"id": 1501, "slug": "cay", "name": "Çay"},
+                {"id": 1502, "slug": "kofe", "name": "Kofe"},
+                {"id": 1503, "slug": "kakao", "name": "Kakao"}
+            ]
+        },
+        {
+            "id": 16,
+            "slug": "spirtli-ickiler",
+            "name": "Spirtli içkilər",
+            "children": [
+                {"id": 1601, "slug": "pive", "name": "Pivə"},
+                {"id": 1602, "slug": "serab", "name": "Şərab"},
+                {"id": 1603, "slug": "araq", "name": "Araq"},
+                {"id": 1604, "slug": "konyak", "name": "Konyak"},
+                {"id": 1605, "slug": "viski-tekila", "name": "Viski & Tekila"},
+                {"id": 1606, "slug": "sampan", "name": "Şampan"}
+            ]
+        },
+        {
+            "id": 17,
+            "slug": "tutun-mehsullari",
+            "name": "Tütün məhsulları",
+            "children": [
+                {"id": 1701, "slug": "siqaret", "name": "Siqaret"},
+                {"id": 1702, "slug": "elektron-siqaret", "name": "Elektron siqaret"},
+                {"id": 1703, "slug": "tutun-siqar", "name": "Tütün & Siqar"}
+            ]
+        },
+        {
+            "id": 18,
+            "slug": "temizlik-vasiteleri",
+            "name": "Təmizlik vasitələri",
+            "children": [
+                {"id": 1801, "slug": "paltaryuyan", "name": "Paltaryuyan"},
+                {"id": 1802, "slug": "qabyuyan", "name": "Qabyuyan"},
+                {"id": 1803, "slug": "umumi-temizlik", "name": "Ümumi təmizlik"},
+                {"id": 1804, "slug": "heseratlara-qarsi", "name": "Həşəratlara qarşı"}
+            ]
+        },
+        {
+            "id": 19,
+            "slug": "sexsi-baxim-kosmetika",
+            "name": "Şəxsi baxım & Kosmetika",
+            "children": [
+                {"id": 1901, "slug": "dus-hamam", "name": "Duş & Hamam"},
+                {"id": 1902, "slug": "sac-baximi", "name": "Saç baxımı"},
+                {"id": 1903, "slug": "dis-baximi", "name": "Diş baxımı"},
+                {"id": 1904, "slug": "dezodorant", "name": "Dezodorant"},
+                {"id": 1905, "slug": "teras", "name": "Təraş"},
+                {"id": 1906, "slug": "qadin-gigiyenasi", "name": "Qadın gigiyenası"},
+                {"id": 1907, "slug": "etirler", "name": "Ətirlər"},
+                {"id": 1908, "slug": "kosmetika", "name": "Kosmetika"}
+            ]
+        },
+        {
+            "id": 20,
+            "slug": "kagiz-birdefelik-mehsullar",
+            "name": "Kağız & Birdəfəlik məhsullar",
+            "children": [
+                {"id": 2001, "slug": "tualet-kagizi-salfetler", "name": "Tualet kağızı & Salfetlər"},
+                {"id": 2002, "slug": "nem-salfetler", "name": "Nəm salfetlər"},
+                {"id": 2003, "slug": "birdefelik-qablar", "name": "Birdəfəlik qablar"}
+            ]
+        },
+        {
+            "id": 21,
+            "slug": "usaq-mehsullari",
+            "name": "Uşaq məhsulları",
+            "children": [
+                {"id": 2101, "slug": "usaq-qidasi", "name": "Uşaq qidası"},
+                {"id": 2102, "slug": "usaq-bezleri", "name": "Uşaq bezləri"},
+                {"id": 2103, "slug": "usaq-baximi", "name": "Uşaq baxımı"}
+            ]
+        },
+        {
+            "id": 22,
+            "slug": "ev-heyvanlari",
+            "name": "Ev heyvanları",
+            "children": [
+                {"id": 2201, "slug": "it-yemleri", "name": "İt yemləri"},
+                {"id": 2202, "slug": "pisik-yemleri", "name": "Pişik yemləri"}
+            ]
+        },
+        {
+            "id": 23,
+            "slug": "meiset-ev-esyalari",
+            "name": "Məişət & Ev əşyaları",
+            "children": [
+                {"id": 2301, "slug": "metbex-levazimatlari", "name": "Mətbəx ləvazimatları"},
+                {"id": 2302, "slug": "tekstil", "name": "Tekstil"},
+                {"id": 2303, "slug": "xirdavat", "name": "Xırdavat"}
+            ]
+        }
+    ]
+}

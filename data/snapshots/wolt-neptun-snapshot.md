@@ -1,0 +1,864 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - banner [ref=e9]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - link [ref=e13] [cursor=pointer]:
+            - /url: /en/discovery
+            - img [ref=e19]
+          - button [ref=e46] [cursor=pointer]:
+            - generic [ref=e50]: Baku
+        - textbox [ref=e56]:
+          - /placeholder: Search in Wolt...
+        - generic [ref=e60]:
+          - button [ref=e61] [cursor=pointer]: Log in
+          - button [ref=e63] [cursor=pointer]:
+            - generic [ref=e66]: Sign up
+    - generic [ref=e103]:
+      - banner [ref=e104]:
+        - generic [ref=e110]:
+          - link [ref=e112] [cursor=pointer]:
+            - /url: /en/aze/baku/brand/neptun
+            - img [ref=e115]
+          - generic [ref=e116]:
+            - heading [level=1] [ref=e117]: Neptun Supermarket 28 May
+            - paragraph [ref=e119]: Supermarket
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - button [ref=e125] [cursor=pointer]: Choose location
+          - generic [ref=e128]:
+            - generic [ref=e129]:
+              - img [ref=e130]:
+                - img [ref=e135]
+              - generic [ref=e150]: "9.2"
+            - text: •
+          - generic [ref=e151]: Open until 22:45 •
+          - generic [ref=e152]: Min. order AZN20.00 •
+          - button [ref=e153] [cursor=pointer]: Venue details
+        - button [ref=e155] [cursor=pointer]:
+          - img [ref=e157]
+          - img [ref=e160]
+    - main [ref=e162]:
+      - generic [ref=e164]:
+        - complementary [ref=e165]:
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - link [ref=e172] [cursor=pointer]:
+                - /url: /en/aze/baku/venue/neptun-supermarket-28
+                - generic [ref=e176]: Discover
+              - generic [ref=e178]:
+                - link [ref=e180] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/collections/discounted
+                  - generic [ref=e181]: Deals
+                - link [ref=e183] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/collections/popular
+                  - generic [ref=e184]: Most ordered
+                - link [ref=e186] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/collections/new
+                  - generic [ref=e187]: New
+            - link [ref=e190] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/spirtsiz-ickilr-4
+              - generic [ref=e193]: Spirtsiz İçkilər
+            - link [ref=e196] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sad-v-mineral-sular-42
+              - generic [ref=e199]: Sadə və Mineral Sular
+            - link [ref=e202] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/meyv-sirlri-69
+              - generic [ref=e205]: Meyvə şirələri
+            - link [ref=e208] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/piv-94
+              - generic [ref=e211]: Pivə
+            - link [ref=e214] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/spirtli-ickilr-109
+              - generic [ref=e217]: Spirtli İçkilər
+            - link [ref=e220] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/enerji-ickilr-114
+              - generic [ref=e223]: Enerji İçkilər
+            - link [ref=e225] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/corklr-v-lavaslar-126
+              - generic [ref=e228]: Çörəklər və Lavaşlar
+            - link [ref=e231] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/meyv-127
+              - generic [ref=e234]: Meyvə
+            - link [ref=e237] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/trvz-153
+              - generic [ref=e240]: Tərəvəz
+            - link [ref=e243] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/nescake-un-mmulatlar-173
+              - generic [ref=e246]: NesCake Un Məmulatları
+            - link [ref=e249] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/un-189
+              - generic [ref=e252]: Un
+            - link [ref=e255] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/makaronlar-200
+              - generic [ref=e258]: Makaronlar
+            - link [ref=e261] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/hazr-suplar-212
+              - generic [ref=e264]: Hazır Suplar
+            - link [ref=e267] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dnli-v-paxlal-mhsullar-221
+              - generic [ref=e270]: Dənli və Paxlalı Məhsullar
+            - link [ref=e272] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/duz-v-dviyyatlar-224
+              - generic [ref=e275]: Duz və Ədviyyatlar
+            - link [ref=e277] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/bulyonlar-225
+              - generic [ref=e280]: Bulyonlar
+            - link [ref=e282] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/t-mhsullar-226
+              - generic [ref=e285]: Ət məhsulları
+            - link [ref=e287] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/toyuq-mhsullar-227
+              - generic [ref=e290]: Toyuq Məhsulları
+            - link [ref=e292] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dniz-mhsullar-228
+              - generic [ref=e295]: Dəniz Məhsulları
+            - link [ref=e297] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sud-mhsullar-229
+              - generic [ref=e300]: Süd Məhsulları
+            - link [ref=e302] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/qatlasdrlms-sud-230
+              - generic [ref=e305]: Qatılaşdırılmış Süd
+            - link [ref=e307] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/pendir-v-sor-231
+              - generic [ref=e310]: Pendir və Şor
+            - link [ref=e312] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/xama-232
+              - generic [ref=e315]: Xama
+            - link [ref=e317] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/ksmik-233
+              - generic [ref=e320]: Kəsmik
+            - link [ref=e322] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/qatq-v-ayran-234
+              - generic [ref=e325]: Qatıq və Ayran
+            - link [ref=e327] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/srok-235
+              - generic [ref=e330]: Sırok
+            - link [ref=e332] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/shr-yemyi-236
+              - generic [ref=e335]: Səhər Yeməyi
+            - link [ref=e337] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/yoqurtlar-237
+              - generic [ref=e340]: Yoqurtlar
+            - link [ref=e343] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/kr-v-duru-yag-238
+              - generic [ref=e348]: Kərə və Duru Yağ
+            - link [ref=e350] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/crz-v-snack-241
+              - generic [ref=e355]: Çərəz və Snack
+            - link [ref=e358] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/souslar-242
+              - generic [ref=e363]: Souslar
+            - link [ref=e365] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/bal-murbb-v-zmlr-246
+              - generic [ref=e370]: Bal, Mürəbbə və Əzmələr
+            - link [ref=e373] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/konserv-247
+              - generic [ref=e378]: Konserv
+            - link [ref=e380] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sirniyyat-251
+              - generic [ref=e385]: Şirniyyat
+            - link [ref=e387] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/ckili-sirniyyat-252
+              - generic [ref=e392]: Çəkili Şirniyyat
+            - link [ref=e394] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/skr-253
+              - generic [ref=e399]: Şəkər
+            - link [ref=e402] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/usaq-ucun-254
+              - generic [ref=e407]: Uşaq üçün
+            - link [ref=e409] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/qastronom-258
+              - generic [ref=e414]: Qastronom
+            - link [ref=e417] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/cay-v-kofe-259
+              - generic [ref=e422]: Çay və Kofe
+            - link [ref=e425] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dondurulmus-mhsullar-262
+              - generic [ref=e430]: Dondurulmuş Məhsullar
+            - link [ref=e432] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dondurma-265
+              - generic [ref=e437]: Dondurma
+            - link [ref=e439] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/saqqz-266
+              - generic [ref=e444]: Saqqız
+            - link [ref=e446] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sxsi-baxm-267
+              - generic [ref=e451]: Şəxsi baxım
+            - link [ref=e453] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sxsi-baxm-kisi-268
+              - generic [ref=e458]: Şəxsi Baxım Kişi
+            - link [ref=e460] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sxsi-baxm-qadn-269
+              - generic [ref=e465]: Şəxsi baxım Qadın
+            - link [ref=e467] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dislr-qulluq-270
+              - generic [ref=e472]: Dişlərə Qulluq
+            - link [ref=e474] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/salfetlr-271
+              - generic [ref=e479]: Salfetlər
+            - link [ref=e481] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sabun-272
+              - generic [ref=e486]: Sabun
+            - link [ref=e489] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/ev-tmizliyi-273
+              - generic [ref=e494]: Ev Təmizliyi
+            - link [ref=e496] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/paltaryuyan-vasitlr-281
+              - generic [ref=e501]: Paltaryuyan Vasitələr
+            - link [ref=e504] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/1001-xrdavat-282
+              - generic [ref=e509]: 1001 Xırdavat
+            - link [ref=e511] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/avtomobil-ucun-286
+              - generic [ref=e516]: Avtomobil üçün
+            - link [ref=e518] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/maska-v-tekstil-287
+              - generic [ref=e523]: Maska və Tekstil
+            - link [ref=e525] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/it-v-pisik-ucun-288
+              - generic [ref=e530]: İt və Pişik üçün
+            - link [ref=e533] [cursor=pointer]:
+              - /url: /en/aze/baku/venue/neptun-supermarket-28/items/tutun-mhsullar-289
+              - generic [ref=e538]: Tütün Məhsulları
+        - generic [ref=e539]:
+          - generic [ref=e542]:
+            - textbox [ref=e544]:
+              - /placeholder: Search in Neptun Supermarket 28 May
+            - img [ref=e546]
+          - generic [ref=e551]:
+            - heading [level=2] [ref=e553]: Deals & benefits
+            - generic [ref=e554]:
+              - generic [ref=e557] [cursor=pointer]:
+                - img [ref=e559]
+                - generic [ref=e560]:
+                  - generic [ref=e561]: 6₼ off your first 2 orders
+                  - generic [ref=e563]: Show details
+              - generic [ref=e567] [cursor=pointer]:
+                - img [ref=e569]
+                - generic [ref=e570]:
+                  - generic [ref=e571]: New users get 14 days of 0₼ delivery
+                  - generic [ref=e573]: Show details
+          - generic [ref=e575]:
+            - paragraph [ref=e576]: This product offering is in Azerbaijani. Would you like to view a machine translation in another language?
+            - button [ref=e578] [cursor=pointer]: Translate
+          - generic [ref=e579]:
+            - generic [ref=e582]:
+              - generic [ref=e583]:
+                - heading [level=2] [ref=e584]: Deals
+                - generic [ref=e585]:
+                  - link [ref=e586] [cursor=pointer]:
+                    - /url: /en/aze/baku/venue/neptun-supermarket-28/collections/discounted
+                    - text: See all
+                  - generic [ref=e587]:
+                    - button [disabled] [ref=e588]
+                    - button [ref=e592] [cursor=pointer]
+              - generic [ref=e596]:
+                - generic [ref=e598]:
+                  - generic [ref=e599]:
+                    - button [ref=e600] [cursor=pointer]
+                    - generic [ref=e602]:
+                      - generic [ref=e603]:
+                        - generic [ref=e604]: AZN 2.39
+                        - deletion [ref=e605]: AZN 2.79
+                      - heading [level=3] [ref=e607]: Milla Süd 2.5% 1 l
+                      - generic [ref=e608]:
+                        - generic [ref=e609]: 1 pc
+                        - generic [ref=e610]: AZN 2.39/pc
+                  - group [ref=e612]:
+                    - button [ref=e613] [cursor=pointer]
+                - generic [ref=e616]:
+                  - generic [ref=e617]:
+                    - button [ref=e618] [cursor=pointer]
+                    - generic [ref=e620]:
+                      - generic [ref=e621]:
+                        - generic [ref=e622]: AZN 1.75
+                        - deletion [ref=e623]: AZN 2.05
+                      - heading [level=3] [ref=e625]: Nestle 45 qr Kit-Kat Şokolad
+                      - generic [ref=e626]:
+                        - generic [ref=e627]: 1 pc
+                        - generic [ref=e628]: AZN 1.75/pc
+                  - group [ref=e630]:
+                    - button [ref=e631] [cursor=pointer]
+                - generic [ref=e634]:
+                  - generic [ref=e635]:
+                    - button [ref=e636] [cursor=pointer]
+                    - generic [ref=e638]:
+                      - generic [ref=e639]:
+                        - generic [ref=e640]: AZN 3.30
+                        - deletion [ref=e641]: AZN 3.69
+                      - heading [level=3] [ref=e643]: Milla 1kq Kənd Qatığı 3.2% (Şüşə Qabda)
+                      - generic [ref=e644]:
+                        - generic [ref=e645]: 1 pc
+                        - generic [ref=e646]: AZN 3.30/pc
+                  - group [ref=e648]:
+                    - button [ref=e649] [cursor=pointer]
+                - generic [ref=e652]:
+                  - generic [ref=e653]:
+                    - button [ref=e654] [cursor=pointer]
+                    - generic [ref=e656]:
+                      - generic [ref=e657]:
+                        - generic [ref=e658]: AZN 2.19
+                        - deletion [ref=e659]: AZN 2.59
+                      - heading [level=3] [ref=e661]: Milla Ayran 1 l
+                      - generic [ref=e662]:
+                        - generic [ref=e663]: 1 pc
+                        - generic [ref=e664]: AZN 2.19/pc
+                  - group [ref=e666]:
+                    - button [ref=e667] [cursor=pointer]
+                - generic [ref=e670]:
+                  - generic [ref=e671]:
+                    - button [ref=e672] [cursor=pointer]
+                    - generic [ref=e674]:
+                      - generic [ref=e675]:
+                        - generic [ref=e676]: AZN 0.79
+                        - deletion [ref=e677]: AZN 0.95
+                      - heading [level=3] [ref=e679]: Purina 85 qr Felix Pişik Yemi Qızılbalıq ilə Paket
+                      - generic [ref=e680]:
+                        - generic [ref=e681]: 1 pc
+                        - generic [ref=e682]: AZN 0.79/pc
+                  - group [ref=e684]:
+                    - button [ref=e685] [cursor=pointer]
+            - generic [ref=e703]:
+              - generic [ref=e704]:
+                - heading [level=2] [ref=e705]: Most ordered
+                - generic [ref=e706]:
+                  - link [ref=e707] [cursor=pointer]:
+                    - /url: /en/aze/baku/venue/neptun-supermarket-28/collections/popular
+                    - text: See all
+                  - generic [ref=e708]:
+                    - button [disabled] [ref=e709]
+                    - button [ref=e713] [cursor=pointer]
+              - generic [ref=e727]:
+                - generic [ref=e728]:
+                  - button [ref=e729] [cursor=pointer]
+                  - generic [ref=e731]:
+                    - generic [ref=e733]: ~AZN 1.55
+                    - heading [level=3] [ref=e735]: Kök kq
+                    - generic [ref=e736]:
+                      - generic [ref=e737]: ~1kg
+                      - generic [ref=e738]: AZN 1.55/kg
+                - group [ref=e740]:
+                  - button [ref=e741] [cursor=pointer]
+            - generic [ref=e759]:
+              - generic [ref=e760]:
+                - heading [level=2] [ref=e761]: New
+                - generic [ref=e762]:
+                  - link [ref=e763] [cursor=pointer]:
+                    - /url: /en/aze/baku/venue/neptun-supermarket-28/collections/new
+                    - text: See all
+                  - generic [ref=e764]:
+                    - button [disabled] [ref=e765]
+                    - button [ref=e769] [cursor=pointer]
+              - generic [ref=e773]:
+                - generic [ref=e775]:
+                  - generic [ref=e776]:
+                    - button [ref=e777] [cursor=pointer]
+                    - generic [ref=e779]:
+                      - generic [ref=e781]: AZN 8.59
+                      - heading [level=3] [ref=e783]: Red Bull Apple Muscat Grape Flavour 250 ml Dəmir Qab
+                  - group [ref=e785]:
+                    - button [ref=e786] [cursor=pointer]
+                - generic [ref=e789]:
+                  - generic [ref=e790]:
+                    - button [ref=e791] [cursor=pointer]
+                    - generic [ref=e793]:
+                      - generic [ref=e795]: AZN 9.85
+                      - heading [level=3] [ref=e797]: Monster Green Zero Sugar Energy 500 ml
+                  - group [ref=e799]:
+                    - button [ref=e800] [cursor=pointer]
+                - generic [ref=e803]:
+                  - generic [ref=e804]:
+                    - button [ref=e805] [cursor=pointer]
+                    - generic [ref=e807]:
+                      - generic [ref=e809]: AZN 3.70
+                      - heading [level=3] [ref=e811]: Bombbar Vitamins&Minerals Qarpızlı İçəcək 330 ml
+                  - group [ref=e813]:
+                    - button [ref=e814] [cursor=pointer]
+                - generic [ref=e817]:
+                  - generic [ref=e818]:
+                    - button [ref=e819] [cursor=pointer]
+                    - generic [ref=e821]:
+                      - generic [ref=e823]: AZN 8.59
+                      - heading [level=3] [ref=e825]: Red Bull Krating Daeng 250 ml Dəmir Qab
+                  - group [ref=e827]:
+                    - button [ref=e828] [cursor=pointer]
+                - generic [ref=e831]:
+                  - generic [ref=e832]:
+                    - button [ref=e833] [cursor=pointer]
+                    - generic [ref=e835]:
+                      - generic [ref=e837]: AZN 8.00
+                      - heading [level=3] [ref=e839]: Kotanyi Melnica Sarımsaq Ədviyyat 48 Gr Şüşə Qab
+                  - group [ref=e841]:
+                    - button [ref=e842] [cursor=pointer]
+            - generic [ref=e859]:
+              - generic [ref=e860]:
+                - heading [level=2] [ref=e861]: Shop by category
+                - generic [ref=e863]:
+                  - button [disabled] [ref=e864]
+                  - button [ref=e868] [cursor=pointer]
+              - generic [ref=e872]:
+                - link [ref=e873] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/spirtsiz-ickilr-4
+                  - heading [level=3] [ref=e880]: Spirtsiz İçkilər
+                - link [ref=e881] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sad-v-mineral-sular-42
+                  - heading [level=3] [ref=e888]: Sadə və Mineral Sular
+                - link [ref=e889] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/meyv-sirlri-69
+                  - heading [level=3] [ref=e896]: Meyvə şirələri
+                - link [ref=e897] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/piv-94
+                  - heading [level=3] [ref=e904]: Pivə
+                - link [ref=e905] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/spirtli-ickilr-109
+                  - heading [level=3] [ref=e912]: Spirtli İçkilər
+                - link [ref=e913] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/enerji-ickilr-114
+                  - heading [level=3] [ref=e920]: Enerji İçkilər
+                - link [ref=e921] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/corklr-v-lavaslar-126
+                  - heading [level=3] [ref=e928]: Çörəklər və Lavaşlar
+                - link [ref=e929] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/meyv-127
+                  - heading [level=3] [ref=e936]: Meyvə
+                - link [ref=e937] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/trvz-153
+                  - heading [level=3] [ref=e946]: Tərəvəz
+                - link [ref=e947] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/nescake-un-mmulatlar-173
+                  - heading [level=3] [ref=e956]: NesCake Un Məmulatları
+                - link [ref=e957] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/un-189
+                  - heading [level=3] [ref=e966]: Un
+                - link [ref=e967] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/makaronlar-200
+                  - heading [level=3] [ref=e976]: Makaronlar
+                - link [ref=e977] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/hazr-suplar-212
+                  - heading [level=3] [ref=e986]: Hazır Suplar
+                - link [ref=e987] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dnli-v-paxlal-mhsullar-221
+                  - heading [level=3] [ref=e996]: Dənli və Paxlalı Məhsullar
+                - link [ref=e997] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/duz-v-dviyyatlar-224
+                  - heading [level=3] [ref=e1006]: Duz və Ədviyyatlar
+                - link [ref=e1007] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/bulyonlar-225
+                  - heading [level=3] [ref=e1016]: Bulyonlar
+                - link [ref=e1017] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/t-mhsullar-226
+                  - heading [level=3] [ref=e1026]: Ət məhsulları
+                - link [ref=e1027] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/toyuq-mhsullar-227
+                  - heading [level=3] [ref=e1036]: Toyuq Məhsulları
+                - link [ref=e1037] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dniz-mhsullar-228
+                  - heading [level=3] [ref=e1046]: Dəniz Məhsulları
+                - link [ref=e1047] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sud-mhsullar-229
+                  - heading [level=3] [ref=e1056]: Süd Məhsulları
+                - link [ref=e1057] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/qatlasdrlms-sud-230
+                  - heading [level=3] [ref=e1066]: Qatılaşdırılmış Süd
+                - link [ref=e1067] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/pendir-v-sor-231
+                  - heading [level=3] [ref=e1076]: Pendir və Şor
+                - link [ref=e1077] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/xama-232
+                  - heading [level=3] [ref=e1086]: Xama
+                - link [ref=e1087] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/ksmik-233
+                  - heading [level=3] [ref=e1096]: Kəsmik
+                - link [ref=e1097] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/qatq-v-ayran-234
+                  - heading [level=3] [ref=e1106]: Qatıq və Ayran
+                - link [ref=e1107] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/srok-235
+                  - heading [level=3] [ref=e1116]: Sırok
+                - link [ref=e1117] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/shr-yemyi-236
+                  - heading [level=3] [ref=e1126]: Səhər Yeməyi
+                - link [ref=e1127] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/yoqurtlar-237
+                  - heading [level=3] [ref=e1136]: Yoqurtlar
+                - link [ref=e1137] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/kr-v-duru-yag-238
+                  - heading [level=3] [ref=e1146]: Kərə və Duru Yağ
+                - link [ref=e1147] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/crz-v-snack-241
+                  - heading [level=3] [ref=e1156]: Çərəz və Snack
+                - link [ref=e1157] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/souslar-242
+                  - heading [level=3] [ref=e1166]: Souslar
+                - link [ref=e1167] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/bal-murbb-v-zmlr-246
+                  - heading [level=3] [ref=e1176]: Bal, Mürəbbə və Əzmələr
+                - link [ref=e1177] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/konserv-247
+                  - heading [level=3] [ref=e1186]: Konserv
+                - link [ref=e1187] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sirniyyat-251
+                  - heading [level=3] [ref=e1196]: Şirniyyat
+                - link [ref=e1197] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/ckili-sirniyyat-252
+                  - heading [level=3] [ref=e1206]: Çəkili Şirniyyat
+                - link [ref=e1207] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/skr-253
+                  - heading [level=3] [ref=e1216]: Şəkər
+                - link [ref=e1217] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/usaq-ucun-254
+                  - heading [level=3] [ref=e1226]: Uşaq üçün
+                - link [ref=e1227] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/qastronom-258
+                  - heading [level=3] [ref=e1236]: Qastronom
+                - link [ref=e1237] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/cay-v-kofe-259
+                  - heading [level=3] [ref=e1246]: Çay və Kofe
+                - link [ref=e1247] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dondurulmus-mhsullar-262
+                  - heading [level=3] [ref=e1256]: Dondurulmuş Məhsullar
+                - link [ref=e1257] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dondurma-265
+                  - heading [level=3] [ref=e1266]: Dondurma
+                - link [ref=e1267] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/saqqz-266
+                  - heading [level=3] [ref=e1276]: Saqqız
+                - link [ref=e1277] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sxsi-baxm-267
+                  - heading [level=3] [ref=e1286]: Şəxsi baxım
+                - link [ref=e1287] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sxsi-baxm-kisi-268
+                  - heading [level=3] [ref=e1296]: Şəxsi Baxım Kişi
+                - link [ref=e1297] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sxsi-baxm-qadn-269
+                  - heading [level=3] [ref=e1306]: Şəxsi baxım Qadın
+                - link [ref=e1307] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/dislr-qulluq-270
+                  - heading [level=3] [ref=e1316]: Dişlərə Qulluq
+                - link [ref=e1317] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/salfetlr-271
+                  - heading [level=3] [ref=e1326]: Salfetlər
+                - link [ref=e1327] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/sabun-272
+                  - heading [level=3] [ref=e1336]: Sabun
+                - link [ref=e1337] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/ev-tmizliyi-273
+                  - heading [level=3] [ref=e1346]: Ev Təmizliyi
+                - link [ref=e1347] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/paltaryuyan-vasitlr-281
+                  - heading [level=3] [ref=e1356]: Paltaryuyan Vasitələr
+                - link [ref=e1357] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/1001-xrdavat-282
+                  - heading [level=3] [ref=e1366]: 1001 Xırdavat
+                - link [ref=e1367] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/avtomobil-ucun-286
+                  - heading [level=3] [ref=e1376]: Avtomobil üçün
+                - link [ref=e1377] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/maska-v-tekstil-287
+                  - heading [level=3] [ref=e1386]: Maska və Tekstil
+                - link [ref=e1387] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/it-v-pisik-ucun-288
+                  - heading [level=3] [ref=e1396]: İt və Pişik üçün
+                - link [ref=e1397] [cursor=pointer]:
+                  - /url: /en/aze/baku/venue/neptun-supermarket-28/items/tutun-mhsullar-289
+                  - heading [level=3] [ref=e1406]: Tütün Məhsulları
+          - link [ref=e1409] [cursor=pointer]:
+            - /url: /en/aze/baku/venue/neptun-supermarket-28/collections/discounted
+            - text: Deals
+    - generic [ref=e1414]:
+      - generic [ref=e1415]:
+        - paragraph [ref=e1416]: Supermarket
+        - generic [ref=e1417]:
+          - heading [level=3] [ref=e1418]: See similar stores
+          - list [ref=e1419]:
+            - listitem [ref=e1420]:
+              - link [ref=e1421] [cursor=pointer]:
+                - /url: /en/aze/baku/category/supermarkets
+                - text: Supermarkets
+              - generic [ref=e1422]: ","
+            - listitem [ref=e1423]:
+              - link [ref=e1424] [cursor=pointer]:
+                - /url: /en/aze/baku/category/grocery
+                - text: Grocery
+              - generic [ref=e1425]: ","
+            - listitem [ref=e1426]:
+              - link [ref=e1427] [cursor=pointer]:
+                - /url: /en/aze/baku/category/sweets
+                - text: Sweets
+              - generic [ref=e1428]: ","
+            - listitem [ref=e1429]:
+              - link [ref=e1430] [cursor=pointer]:
+                - /url: /en/aze/baku/category/alcohol
+                - text: Alcohol
+              - generic [ref=e1431]: ","
+            - listitem [ref=e1432]:
+              - link [ref=e1433] [cursor=pointer]:
+                - /url: /en/aze/baku/category/bakeries
+                - text: Bakery
+              - generic [ref=e1434]: ","
+            - listitem [ref=e1435]:
+              - link [ref=e1436] [cursor=pointer]:
+                - /url: /en/aze/baku/category/meat-fish
+                - text: Meat & fish
+              - generic [ref=e1437]: ","
+            - listitem [ref=e1438]:
+              - link [ref=e1439] [cursor=pointer]:
+                - /url: /en/aze/baku/category/mini-markets
+                - text: Mini Markets
+              - generic [ref=e1440]: ","
+            - listitem [ref=e1441]:
+              - link [ref=e1442] [cursor=pointer]:
+                - /url: /en/aze/baku/category/fruits-vegetables
+                - text: Fruit & Vegetables
+              - generic [ref=e1443]: ","
+            - listitem [ref=e1444]:
+              - link [ref=e1445] [cursor=pointer]:
+                - /url: /en/aze/baku/category/hair-care
+                - text: Hair care
+              - generic [ref=e1446]: ","
+            - listitem [ref=e1447]:
+              - link [ref=e1448] [cursor=pointer]:
+                - /url: /en/aze/baku/category/health-and-beauty
+                - text: Care and Beauty
+              - generic [ref=e1449]: ","
+            - listitem [ref=e1450]:
+              - link [ref=e1451] [cursor=pointer]:
+                - /url: /en/aze/baku/category/daily-goods
+                - text: Daily goods
+              - generic [ref=e1452]: ","
+            - listitem [ref=e1453]:
+              - link [ref=e1454] [cursor=pointer]:
+                - /url: /en/aze/baku/category/coffee-tea
+                - text: Coffee & tea
+              - generic [ref=e1455]: ","
+            - listitem [ref=e1456]:
+              - link [ref=e1457] [cursor=pointer]:
+                - /url: /en/aze/baku/brand/neptun
+                - text: Neptun
+      - generic [ref=e1458]:
+        - heading [level=3] [ref=e1459]: Address
+        - generic [ref=e1460]:
+          - paragraph [ref=e1461]: Nasimi district, Shemsi Bedelbeyli street 102
+          - paragraph [ref=e1462]: AZ1010 Baku
+          - link [ref=e1463] [cursor=pointer]:
+            - /url: https://maps.google.com/?q=40.37820743,49.84615619
+            - text: See map
+      - generic [ref=e1464]:
+        - heading [level=3] [ref=e1465]: Delivery times
+        - table [ref=e1466]:
+          - rowgroup [ref=e1467]:
+            - row [ref=e1468]:
+              - cell [ref=e1469]: Monday
+              - cell [ref=e1470]: 08:15–22:45
+            - row [ref=e1471]:
+              - cell [ref=e1472]: Tuesday
+              - cell [ref=e1473]: 08:15–22:45
+            - row [ref=e1474]:
+              - cell [ref=e1475]: Wednesday
+              - cell [ref=e1476]: 08:15–22:45
+            - row [ref=e1477]:
+              - cell [ref=e1478]: Thursday
+              - cell [ref=e1479]: 08:15–22:45
+            - row [ref=e1480]:
+              - cell [ref=e1481]: Friday
+              - cell [ref=e1482]: 08:15–22:45
+            - row [ref=e1483]:
+              - cell [ref=e1484]: Saturday
+              - cell [ref=e1485]: 08:15–22:45
+            - row [ref=e1486]:
+              - cell [ref=e1487]: Sunday
+              - cell [ref=e1488]: 08:15–22:45
+      - generic [ref=e1490]:
+        - heading [level=3] [ref=e1491]: More information
+        - link [ref=e1493] [cursor=pointer]:
+          - /url: tel:+994552602301
+          - text: "+994552602301"
+    - generic [ref=e1497]:
+      - link [ref=e1498] [cursor=pointer]:
+        - /url: /en/aze
+        - text: Wolt
+      - link [ref=e1500] [cursor=pointer]:
+        - /url: /en/aze/baku
+        - text: Baku
+      - link [ref=e1502] [cursor=pointer]:
+        - /url: /en/aze/baku/stores
+        - text: Stores and groceries | Baku
+      - link [ref=e1504] [cursor=pointer]:
+        - /url: /en/aze/baku/brand/neptun
+        - text: Neptun | Baku
+      - generic [ref=e1506]: Neptun Supermarket 28 May
+  - contentinfo [ref=e1508]:
+    - generic [ref=e1509]:
+      - generic [ref=e1510]:
+        - generic [ref=e1511]:
+          - img [ref=e1512]
+          - generic [ref=e1515]:
+            - link [ref=e1516] [cursor=pointer]:
+              - /url: https://wolt.onelink.me/Uy67?af_adset=not-available-web-to-app&af_keywords=not-available-web-to-app&af_r=https%3A%2F%2Fitunes.apple.com%2Ffi%2Fapp%2Fwolt%2Fid943905271%3Fmt%3D8&af_sub1=not-available-web-to-app&af_sub2=%2Fen%2Faze%2Fbaku%2Fvenue%2Fneptun-supermarket-28&af_sub3=not-available-web-to-app&c=not-available-web-to-app&pid=not-available-web-to-app
+              - img [ref=e1517]
+            - link [ref=e1518] [cursor=pointer]:
+              - /url: https://wolt.onelink.me/Uy67?af_adset=not-available-web-to-app&af_keywords=not-available-web-to-app&af_r=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.wolt.android&af_sub1=not-available-web-to-app&af_sub2=%2Fen%2Faze%2Fbaku%2Fvenue%2Fneptun-supermarket-28&af_sub3=not-available-web-to-app&c=not-available-web-to-app&pid=not-available-web-to-app
+              - img [ref=e1519]
+        - navigation [ref=e1520]:
+          - heading [level=2] [ref=e1521]: Partner with Wolt
+          - list [ref=e1523]:
+            - listitem [ref=e1524]:
+              - link [ref=e1525] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/couriers
+                - text: For couriers
+            - listitem [ref=e1526]:
+              - link [ref=e1527] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/merchant
+                - text: For merchants
+            - listitem [ref=e1528]:
+              - link [ref=e1529] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/affiliates
+                - text: For affiliates
+        - navigation [ref=e1530]:
+          - heading [level=2] [ref=e1531]: Company
+          - list [ref=e1533]:
+            - listitem [ref=e1534]:
+              - link [ref=e1535] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/about
+                - text: About us
+            - listitem [ref=e1536]:
+              - link [ref=e1537] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/about/wolt-values
+                - text: What we stand for
+            - listitem [ref=e1538]:
+              - link [ref=e1539] [cursor=pointer]:
+                - /url: https://careers.wolt.com
+                - text: Jobs
+            - listitem [ref=e1540]:
+              - link [ref=e1541] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/about/better-cities
+                - text: Sustainability
+            - listitem [ref=e1542]:
+              - link [ref=e1543] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/security
+                - text: Security
+            - listitem [ref=e1544]:
+              - link [ref=e1545] [cursor=pointer]:
+                - /url: https://ir.doordash.com/overview/default.aspx
+                - text: Investors
+            - listitem [ref=e1546]:
+              - link [ref=e1547] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/community-standards
+                - text: Community Standards
+        - navigation [ref=e1548]:
+          - heading [level=2] [ref=e1549]: Products
+          - list [ref=e1551]:
+            - listitem [ref=e1552]:
+              - link [ref=e1553] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/wolt-drive
+                - text: Wolt Drive
+            - listitem [ref=e1554]:
+              - link [ref=e1555] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/wolt-market
+                - text: Wolt Market
+            - listitem [ref=e1556]:
+              - link [ref=e1557] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/wolt-plus
+                - text: Wolt+
+            - listitem [ref=e1558]:
+              - link [ref=e1559] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/wolt-for-work
+                - text: Wolt for Work
+            - listitem [ref=e1560]:
+              - link [ref=e1561] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/wolt-ads
+                - text: Wolt Ads
+            - listitem [ref=e1562]:
+              - link [ref=e1563] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/merchant/product/storefront
+                - text: Wolt Storefront
+        - navigation [ref=e1564]:
+          - heading [level=2] [ref=e1565]: Useful links
+          - list [ref=e1567]:
+            - listitem [ref=e1568]:
+              - link [ref=e1569] [cursor=pointer]:
+                - /url: https://wolt.com/help
+                - text: Support
+            - listitem [ref=e1570]:
+              - link [ref=e1571] [cursor=pointer]:
+                - /url: https://press.wolt.com/
+                - text: Newsroom
+            - listitem [ref=e1572]:
+              - link [ref=e1573] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/contact
+                - text: Contact
+            - listitem [ref=e1574]:
+              - link [ref=e1575] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/speakup
+                - text: Speak up
+            - listitem [ref=e1576]:
+              - link [ref=e1577] [cursor=pointer]:
+                - /url: https://life.wolt.com/en/aze/howto/wolt-promo-codes
+                - text: Promo codes
+            - listitem [ref=e1578]:
+              - link [ref=e1579] [cursor=pointer]:
+                - /url: https://developer.wolt.com
+                - text: Developers
+        - navigation [ref=e1580]:
+          - heading [level=2] [ref=e1581]: Follow us
+          - list [ref=e1583]:
+            - listitem [ref=e1584]:
+              - link [ref=e1585] [cursor=pointer]:
+                - /url: https://press.wolt.com/en-WW/tags/blog/
+                - text: Blog
+            - listitem [ref=e1586]:
+              - link [ref=e1587] [cursor=pointer]:
+                - /url: https://careers.wolt.com/en/blog?category=tech
+                - text: Engineering Blog
+            - listitem [ref=e1588]:
+              - link [ref=e1589] [cursor=pointer]:
+                - /url: https://www.instagram.com/wolt.azerbaijan/
+                - text: Instagram
+            - listitem [ref=e1590]:
+              - link [ref=e1591] [cursor=pointer]:
+                - /url: https://www.facebook.com/wolt.azerbaijan
+                - text: Facebook
+            - listitem [ref=e1592]:
+              - link [ref=e1593] [cursor=pointer]:
+                - /url: https://twitter.com/woltapp
+                - text: X
+            - listitem [ref=e1594]:
+              - link [ref=e1595] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/wolt-oy/
+                - text: LinkedIn
+            - listitem [ref=e1596]:
+              - link [ref=e1597] [cursor=pointer]:
+                - /url: https://life.wolt.com/en/aze/
+                - text: Wolt Life
+            - listitem [ref=e1598]:
+              - link [ref=e1599] [cursor=pointer]:
+                - /url: https://www.youtube.com/@WoltforMerchants
+                - text: YouTube
+      - generic [ref=e1600]:
+        - list [ref=e1601]:
+          - listitem [ref=e1602] [cursor=pointer]:
+            - img [ref=e1603]
+            - text: Azerbaijan
+          - listitem [ref=e1605] [cursor=pointer]:
+            - img [ref=e1606]
+            - text: English
+          - listitem [ref=e1608] [cursor=pointer]: Theme
+          - listitem [ref=e1612] [cursor=pointer]:
+            - img [ref=e1613]
+            - text: Cookies
+        - generic [ref=e1615]:
+          - list [ref=e1616]:
+            - listitem [ref=e1617]:
+              - link [ref=e1618] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/accessibility-statement
+                - text: Accessibility Statement
+            - listitem [ref=e1619]:
+              - link [ref=e1620] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/terms
+                - text: User Terms of Service
+            - listitem [ref=e1621]:
+              - link [ref=e1622] [cursor=pointer]:
+                - /url: https://explore.wolt.com/en/aze/privacy
+                - text: Privacy Statement
+          - generic [ref=e1623]: © Wolt 2026

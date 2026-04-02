@@ -1,0 +1,2501 @@
+[
+  {
+    "product_id": 8604063957297,
+    "product": {
+      "id": 8604063957297,
+      "title": "PURINA BALA PİŞİK YEMİ 200 Q TOYUQ ƏTLİ",
+      "handle": "purina-bala-pisik-yemi-200-q-toyuq-etli",
+      "body_html": "",
+      "published_at": "2024-05-15T07:43:35+04:00",
+      "created_at": "2023-07-03T17:55:34+04:00",
+      "updated_at": "2026-03-27T18:10:18+04:00",
+      "vendor": "PURINA",
+      "product_type": "",
+      "tags": [
+        "12",
+        "14",
+        "16",
+        "165",
+        "200",
+        "25",
+        "40",
+        "5",
+        "6",
+        "8",
+        "[\"4101\"",
+        "ADT",
+        "Heyvan Yemləri",
+        "KEDI MAMALARI",
+        "ML",
+        "Petshop",
+        "PETSHOP MAMALAR",
+        "PETSHOP URUNLERI",
+        "Pişik Yemi",
+        "PURINA"
+      ],
+      "variants": [
+        {
+          "id": 45856450249009,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30189135",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "3.85",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8604063957297,
+          "created_at": "2023-07-03T17:55:34+04:00",
+          "updated_at": "2026-03-27T18:10:18+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 53347075916081,
+          "created_at": "2025-09-23T17:50:39+04:00",
+          "position": 1,
+          "updated_at": "2025-09-23T17:50:39+04:00",
+          "product_id": 8604063957297,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/files/3412711341b42575f1a6d729fa7c33fa.jpg?v=1758635439",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "pisik-yemi",
+        "category_title": "Pişik Yemi",
+        "parent_category_title": "Heyvan Yemləri",
+        "root_category_title": "Petshop",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8829950951729,
+    "product": {
+      "id": 8829950951729,
+      "title": "SİNBO KABABLIQ AYAQLI SBG-7102A",
+      "handle": "pd-sinbo-kababliq-ayaqli-sbg-7102a",
+      "body_html": "",
+      "published_at": "2023-08-13T18:20:30+04:00",
+      "created_at": "2023-08-13T18:20:30+04:00",
+      "updated_at": "2026-03-27T18:09:53+04:00",
+      "vendor": "Bazarstore",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "Digər Elektrikli Əşyalar",
+        "EL.BARBEKU",
+        "ELEKTRIKLI EV ALETLERI",
+        "Elektrikli Ev Əşyaları",
+        "ELEKTRIKLI-ELEKTRONIK EV ALETLERI",
+        "ELEKTRIKLI-ELEKTRONIK-ZUCCACIYE EV ALETL",
+        "Elektronik",
+        "SINBO"
+      ],
+      "variants": [
+        {
+          "id": 46704362062129,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30172991",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "44.99",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8829950951729,
+          "created_at": "2023-08-13T18:20:31+04:00",
+          "updated_at": "2026-03-27T18:09:53+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42548800749873,
+          "created_at": "2023-09-02T01:01:09+04:00",
+          "position": 1,
+          "updated_at": "2023-09-02T01:01:09+04:00",
+          "product_id": 8829950951729,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30172991.jpg?v=1693602069",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "dig%C9%99r-elektrikli-%C9%99syalar",
+        "category_title": "Digər Elektrikli Əşyalar",
+        "parent_category_title": "Elektrikli Ev Əşyaları",
+        "root_category_title": "Elektronika",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8583353467185,
+    "product": {
+      "id": 8583353467185,
+      "title": "AREON AVTO ƏTİR FRESKO 4 ML 5063",
+      "handle": "areon-avto-etir-fresco-4-ml-5063",
+      "body_html": "",
+      "published_at": "2023-06-30T11:14:05+04:00",
+      "created_at": "2023-06-30T11:14:05+04:00",
+      "updated_at": "2026-03-27T18:07:56+04:00",
+      "vendor": "ARION",
+      "product_type": "",
+      "tags": [
+        "1",
+        "10",
+        "1000",
+        "12",
+        "9",
+        "[\"4101\"",
+        "ADT",
+        "ARION",
+        "Avtomobil Məhsulları",
+        "Avtomobil Qoxuları",
+        "EGLENCE-KISISEL ILGI URUNLERI",
+        "Ev və Bağ üçün məhsullar",
+        "KISISEL ILGI URUNLERI - OYUNCAQ",
+        "OTO BAKIM VE AKSESUARLARI",
+        "OTO SPREY KOKULAR"
+      ],
+      "variants": [
+        {
+          "id": 45766573097265,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30121212",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5.55",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8583353467185,
+          "created_at": "2023-06-30T11:14:05+04:00",
+          "updated_at": "2026-03-27T18:07:56+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42550316499249,
+          "created_at": "2023-09-02T08:16:28+04:00",
+          "position": 1,
+          "updated_at": "2023-09-02T08:16:28+04:00",
+          "product_id": 8583353467185,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30121212.jpg?v=1693628188",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "avtomobil-qoxulari",
+        "category_title": "Avtomobil Qoxuları",
+        "parent_category_title": "Avtomobil Məhsulları",
+        "root_category_title": "Ev və Bağ Məhsullari",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8567486546225,
+    "product": {
+      "id": 8567486546225,
+      "title": "PRESİDENT KREM QAYMAQ 250 Q",
+      "handle": "president-krem-qaymaq-250-q",
+      "body_html": "",
+      "published_at": "2023-06-27T22:56:06+04:00",
+      "created_at": "2023-06-27T22:56:06+04:00",
+      "updated_at": "2026-03-27T16:52:24+04:00",
+      "vendor": "PRESIDENT",
+      "product_type": "",
+      "tags": [
+        "1",
+        "250",
+        "6",
+        "[\"4165\"",
+        "ADT",
+        "GR",
+        "GUNLUK SUT-SUT URUNLERI",
+        "KAYMAK",
+        "PRESIDENT",
+        "Qaymaq",
+        "QAYMAQ TETRAPAK",
+        "SUD MEHSULLARI-YUMURTA-ZEYTUN",
+        "Süd Məhsulları",
+        "Süd Səhər Yeməyi"
+      ],
+      "variants": [
+        {
+          "id": 45694895325489,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30013817",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "8.00",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8567486546225,
+          "created_at": "2023-06-27T22:56:07+04:00",
+          "updated_at": "2026-03-27T16:52:24+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42520083857713,
+          "created_at": "2023-08-29T12:56:51+04:00",
+          "position": 1,
+          "updated_at": "2023-08-29T12:56:51+04:00",
+          "product_id": 8567486546225,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30013817.jpg?v=1693299411",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "qaymaq",
+        "category_title": "Qaymaq",
+        "parent_category_title": "Süd Məhsulları",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8596124598577,
+    "product": {
+      "id": 8596124598577,
+      "title": "QARABAŞAQ KQ",
+      "handle": "gulum-qarabasaq-cəki̇",
+      "body_html": " Tərkib:100 qr məhsulda qida dəyərləri:zülal-11,27q,yağ- 1,31q,karbohidratlar-43,8q;Enerji dəyəri-324kkal.Yararlılıq müddəti 20 ay,Uzaq Şərq üçün 15 ay.İstehsalçı:KFT Qorlov O.V.Rusiya,Altay diyarı,Topçixa k,Severnaya küç.",
+      "published_at": "2023-07-02T12:34:00+04:00",
+      "created_at": "2023-07-02T12:34:00+04:00",
+      "updated_at": "2026-03-27T16:57:50+04:00",
+      "vendor": "GULUM",
+      "product_type": "",
+      "tags": [
+        "1 KG",
+        "1000.000",
+        "500 gr",
+        "[\"4101\"",
+        "BAKLIYAT",
+        "Bakliyyat",
+        "GR",
+        "GULUM",
+        "KG",
+        "QARABASAQ",
+        "Təməl Qida",
+        "Çəkili Bakliyyat"
+      ],
+      "variants": [
+        {
+          "id": 45820981936433,
+          "title": "1 KG",
+          "option1": "1 KG",
+          "option2": null,
+          "option3": null,
+          "sku": "30181596-1000",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.59",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8596124598577,
+          "created_at": "2023-07-02T12:34:00+04:00",
+          "updated_at": "2026-03-27T16:57:50+04:00"
+        },
+        {
+          "id": 45820981969201,
+          "title": "500 gr",
+          "option1": "500 gr",
+          "option2": null,
+          "option3": null,
+          "sku": "30181596-500",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "0.80",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 2,
+          "product_id": 8596124598577,
+          "created_at": "2023-07-02T12:34:00+04:00",
+          "updated_at": "2026-03-27T16:57:50+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42563558965553,
+          "created_at": "2023-09-04T13:16:06+04:00",
+          "position": 1,
+          "updated_at": "2023-09-04T13:16:06+04:00",
+          "product_id": 8596124598577,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30181596_aca2cc78-2013-4ccd-a575-21a8d1093972.png?v=1693818966",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "1 KG",
+            "500 gr"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "qarabasaq",
+        "category_title": "Qarabaşaq",
+        "parent_category_title": "Bakliyyat",
+        "root_category_title": "Təməl Qida",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8613433737521,
+    "product": {
+      "id": 8613433737521,
+      "title": "MƏRCAN TOYUQ DONDURULMUŞ PAKET KQ",
+      "handle": "mercan-toyuq-dondurulmus-paket-kg",
+      "body_html": "",
+      "published_at": "2023-07-05T00:47:29+04:00",
+      "created_at": "2023-07-05T00:47:29+04:00",
+      "updated_at": "2026-03-27T16:48:44+04:00",
+      "vendor": "MERCAN",
+      "product_type": "",
+      "tags": [
+        "DONDURULMUS QIDA",
+        "DONDURULMUS SU-ET URUNLERI",
+        "DONDURULMUS TOYUQ",
+        "Dondurulmuş Ət",
+        "GR",
+        "KG",
+        "MERCAN",
+        "Ət Toyuq Balıq"
+      ],
+      "variants": [
+        {
+          "id": 45895552893233,
+          "title": "1 KG",
+          "option1": "1 KG",
+          "option2": null,
+          "option3": null,
+          "sku": "30105729-1000",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "7.25",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8613433737521,
+          "created_at": "2023-07-05T00:47:29+04:00",
+          "updated_at": "2026-03-27T16:48:44+04:00"
+        },
+        {
+          "id": 45895552926001,
+          "title": "250 gr",
+          "option1": "250 gr",
+          "option2": null,
+          "option3": null,
+          "sku": "30105729-250",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.81",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 2,
+          "product_id": 8613433737521,
+          "created_at": "2023-07-05T00:47:29+04:00",
+          "updated_at": "2026-03-27T16:48:44+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42571721867569,
+          "created_at": "2023-09-05T11:50:45+04:00",
+          "position": 1,
+          "updated_at": "2023-09-05T11:50:45+04:00",
+          "product_id": 8613433737521,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30105729.png?v=1693900245",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "1 KG",
+            "250 gr"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "dondurulmus-toyuq",
+        "category_title": "Dondurulmuş Toyuq",
+        "parent_category_title": "Dondurulmuş Ət",
+        "root_category_title": "Ət, Toyuq, Balıq",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8595077398833,
+    "product": {
+      "id": 8595077398833,
+      "title": "VİCİ BALIQ NAGGETİ 350 Q",
+      "handle": "vici-baliq-naggeti-350-q",
+      "body_html": " AZ Balıq kulinariya yarımfabrikatı:\"Fish Day\" qızardılmış dondurulmuş qızılı qabıqlı mintay filesindən nagestlər.Tərkibi:mintay filesi,buğda unu,içməli su,soya yağı, qatılaşdırıcı:oksidləşdirilmiş nişasta,duz,ədviyyatlar və ədviyyat qarışığı,tapioka nişastası, çörəkbişirmə mayası, qabardıcı,ammonium hidrokarbonat.Tərkibində süd., xardal və onların məhsullarının qalıqları ola bilər.Dondurulmuş xammaldan istehsal olunub. 100 qram məhsulun qida dəyəri:zülal-12,3q,yağ-6,6q,karbohidrat-14,8q; enerji dəyəri-168kkal.Saxlanma şəraiti:-18C-dən yüksək olmayan temperaturda saxlayın.Təkrar dondurmayın.İstehsalçı:\"Viçyunay-Rus\"MMC,hüquqi ünvan:Rusiya Federasiyası,Kalininqrad vil,Sovetsk şəh, Mayakovski küç,3B. İdxalçı:\"Viçyunay Azərbaycan\"MMC, Heydər Əliyev pr,115,korpus2,ofis1503. Distribüter:\"Veysəloğlu\"MMC,Azərbaycan,Bakı ş,Nizami r,Keşlə q,2-ci eninə2. Tel: (+9942) 5143030.",
+      "published_at": "2023-07-02T08:44:48+04:00",
+      "created_at": "2023-07-02T08:44:48+04:00",
+      "updated_at": "2026-03-27T16:50:44+04:00",
+      "vendor": "VICI",
+      "product_type": "",
+      "tags": [
+        "10",
+        "13",
+        "19",
+        "2",
+        "29",
+        "350",
+        "5",
+        "6",
+        "7",
+        "785",
+        "[\"4101\"",
+        "ADT",
+        "DENIZ MEHSULLARI",
+        "DENIZ URUN MEZELERI",
+        "Dəniz Məhsulları",
+        "Dəniz Məzələri",
+        "GR",
+        "SICAK YEMEKLER-YEMEK",
+        "VICI",
+        "Ət Toyuq Balıq"
+      ],
+      "variants": [
+        {
+          "id": 45816840978737,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30171669",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "10.99",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8595077398833,
+          "created_at": "2023-07-02T08:44:49+04:00",
+          "updated_at": "2026-03-27T16:50:44+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42548244906289,
+          "created_at": "2023-09-01T23:43:25+04:00",
+          "position": 1,
+          "updated_at": "2023-09-01T23:43:25+04:00",
+          "product_id": 8595077398833,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30171669_65a1c9c3-ad0b-4cc4-8a29-d38caf5f360e.jpg?v=1693597405",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "d%C9%99niz-m%C9%99hsullari",
+        "category_title": "Dəniz Məhsulları",
+        "parent_category_title": "Dəniz Məhsulları",
+        "root_category_title": "Ət, Toyuq, Balıq",
+        "page": 2
+      }
+    }
+  },
+  {
+    "product_id": 8596579352881,
+    "product": {
+      "id": 8596579352881,
+      "title": "NESTLE BİSTROV YULAF SIYIĞI 210 Q ASSOR",
+      "handle": "nestle-bistrov-yulaf-siyigi-210-q-assor",
+      "body_html": "",
+      "published_at": "2024-05-15T06:58:11+04:00",
+      "created_at": "2023-07-02T14:07:25+04:00",
+      "updated_at": "2026-03-27T16:52:45+04:00",
+      "vendor": "NESTLE",
+      "product_type": "",
+      "tags": [
+        "11",
+        "17",
+        "210",
+        "36",
+        "9",
+        "[\"4101\"",
+        "ADT",
+        "GR",
+        "HUBUBAT URUNLERI",
+        "KAHVALTILIK (MUREBBE-MARMALAT-BAL-HALVA)",
+        "NESTLE",
+        "SEHER YEMEYI",
+        "Süd Səhər Yeməyi",
+        "Səhər Yeməkləri",
+        "Səhər Yeməyi"
+      ],
+      "variants": [
+        {
+          "id": 45822756487473,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30183224",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "6.49",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8596579352881,
+          "created_at": "2023-07-02T14:07:25+04:00",
+          "updated_at": "2026-03-27T16:52:45+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 47003624145201,
+          "created_at": "2024-10-29T14:48:17+04:00",
+          "position": 1,
+          "updated_at": "2024-10-29T14:48:17+04:00",
+          "product_id": 8596579352881,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/files/8a134ee84c97444d9f9d088eac9a95f0.jpg?v=1730198897",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "s%C9%99h%C9%99r-yem%C9%99kl%C9%99ri",
+        "category_title": "Səhər Yeməkləri",
+        "parent_category_title": "Səhər Yeməyi",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8567514235185,
+    "product": {
+      "id": 8567514235185,
+      "title": "ATENA QATIQ 500 Q",
+      "handle": "atena-qatiq-500-q",
+      "body_html": "",
+      "published_at": "2024-02-21T00:06:05+04:00",
+      "created_at": "2023-06-27T23:03:07+04:00",
+      "updated_at": "2026-03-27T16:55:43+04:00",
+      "vendor": "ATENA",
+      "product_type": "",
+      "tags": [
+        "1",
+        "10",
+        "12",
+        "2",
+        "30",
+        "44",
+        "5",
+        "500",
+        "[\"4101\"",
+        "ADT",
+        "ATENA",
+        "GR",
+        "Qatıq",
+        "SADE YOGURT",
+        "SUD MEHSULLARI-YUMURTA-ZEYTUN",
+        "Süd Səhər Yeməyi",
+        "YOGURT"
+      ],
+      "variants": [
+        {
+          "id": 45694934352177,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30013973",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2.25",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8567514235185,
+          "created_at": "2023-06-27T23:03:07+04:00",
+          "updated_at": "2026-03-27T16:55:43+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42571267834161,
+          "created_at": "2023-09-05T10:21:30+04:00",
+          "position": 1,
+          "updated_at": "2023-09-05T10:21:30+04:00",
+          "product_id": 8567514235185,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30013973.jpg?v=1693894890",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "sad%C9%99-qatiq",
+        "category_title": "Sadə Qatıq",
+        "parent_category_title": "Qatıq",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8595973865777,
+    "product": {
+      "id": 8595973865777,
+      "title": "GULUM XİYAR TURŞUSU 700 Q",
+      "handle": "gulum-xiyar-tursusu-700-q",
+      "body_html": "",
+      "published_at": "2023-07-02T12:03:25+04:00",
+      "created_at": "2023-07-02T12:03:25+04:00",
+      "updated_at": "2026-03-27T17:02:00+04:00",
+      "vendor": "GULUM",
+      "product_type": "",
+      "tags": [
+        "1",
+        "159",
+        "16",
+        "258",
+        "38",
+        "576",
+        "58",
+        "6",
+        "700",
+        "[\"4101\"",
+        "ADT",
+        "GR",
+        "GULUM",
+        "KONSERV",
+        "Konserva",
+        "TURSULAR",
+        "Təməl Qida",
+        "XIYAR TURSULARI"
+      ],
+      "variants": [
+        {
+          "id": 45820400009521,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30173073",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.99",
+          "grams": 0,
+          "compare_at_price": "2.29",
+          "position": 1,
+          "product_id": 8595973865777,
+          "created_at": "2023-07-02T12:03:25+04:00",
+          "updated_at": "2026-03-27T17:02:00+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42511930458417,
+          "created_at": "2023-08-28T12:15:35+04:00",
+          "position": 1,
+          "updated_at": "2023-08-28T12:15:35+04:00",
+          "product_id": 8595973865777,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30173073.png?v=1693210535",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "tursular",
+        "category_title": "Turşular",
+        "parent_category_title": "Konserva",
+        "root_category_title": "Təməl Qida",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8603404566833,
+    "product": {
+      "id": 8603404566833,
+      "title": "VKUS SCASTYA VAFLI 190 Q KAKAOLU",
+      "handle": "vkus-scastya-vafli-190-q-kakaolu",
+      "body_html": "",
+      "published_at": "2023-07-03T15:26:27+04:00",
+      "created_at": "2023-07-03T15:26:27+04:00",
+      "updated_at": "2026-03-27T17:14:13+04:00",
+      "vendor": "VKUS SCHASTIE",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "Atistirmalik",
+        "BISKUVI- KEK- GOFRET",
+        "GR",
+        "MAKRO CEREZ",
+        "VAFLI",
+        "Vafli Rulet",
+        "VKUS SCHASTIE"
+      ],
+      "variants": [
+        {
+          "id": 45853687316785,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30185792",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.30",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8603404566833,
+          "created_at": "2023-07-03T15:26:27+04:00",
+          "updated_at": "2026-03-27T17:14:13+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42557937582385,
+          "created_at": "2023-09-03T16:04:28+04:00",
+          "position": 1,
+          "updated_at": "2023-09-03T16:04:28+04:00",
+          "product_id": 8603404566833,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30185792.png?v=1693742668",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "vafli",
+        "category_title": "Vafli",
+        "parent_category_title": "Vafli, Rulet",
+        "root_category_title": "Atışdırmalıq",
+        "page": 3
+      }
+    }
+  },
+  {
+    "product_id": 8583112524081,
+    "product": {
+      "id": 8583112524081,
+      "title": "EVIM KƏLLƏ QƏND KQ",
+      "handle": "evim-kəllə-qənd-kq",
+      "body_html": "",
+      "published_at": "2023-06-30T10:20:37+04:00",
+      "created_at": "2023-06-30T10:20:37+04:00",
+      "updated_at": "2026-03-27T17:05:56+04:00",
+      "vendor": "EVIM",
+      "product_type": "",
+      "tags": [
+        "1 KG",
+        "1000.000",
+        "12",
+        "250 gr",
+        "495",
+        "55",
+        "75",
+        "9999",
+        "[\"4101\"",
+        "EVIM",
+        "GR",
+        "KELLE QEND",
+        "KG",
+        "SEKER",
+        "Təməl Qida",
+        "Çay Kofe Şəkər",
+        "Çəkili Çay Şəkər Kofe"
+      ],
+      "variants": [
+        {
+          "id": 45765594743089,
+          "title": "1 KG",
+          "option1": "1 KG",
+          "option2": null,
+          "option3": null,
+          "sku": "30119581-1000",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2.10",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8583112524081,
+          "created_at": "2023-06-30T10:20:37+04:00",
+          "updated_at": "2026-03-27T17:05:56+04:00"
+        },
+        {
+          "id": 45765594775857,
+          "title": "250 gr",
+          "option1": "250 gr",
+          "option2": null,
+          "option3": null,
+          "sku": "30119581-250",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "0.53",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 2,
+          "product_id": 8583112524081,
+          "created_at": "2023-06-30T10:20:37+04:00",
+          "updated_at": "2026-03-27T17:05:56+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42546621743409,
+          "created_at": "2023-09-01T18:48:34+04:00",
+          "position": 1,
+          "updated_at": "2023-09-01T18:48:34+04:00",
+          "product_id": 8583112524081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30119581_eeee9ba0-a015-49ca-80f8-1f2198ca9f5c.jpg?v=1693579714",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "1 KG",
+            "250 gr"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "c%C9%99kili-cay-s%C9%99k%C9%99r-kofe",
+        "category_title": "Çəkili Çay,Şəkər,Kofe",
+        "parent_category_title": "Çay, Qəhvə, Şəkər",
+        "root_category_title": "Təməl Qida",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8605768483121,
+    "product": {
+      "id": 8605768483121,
+      "title": "MISS MAKARON 750 Q QOVRULMUŞ",
+      "handle": "miss-makaron-750-q-qovrulmus",
+      "body_html": "",
+      "published_at": "2024-09-27T16:20:45+04:00",
+      "created_at": "2023-07-03T22:07:47+04:00",
+      "updated_at": "2026-03-27T16:59:01+04:00",
+      "vendor": "MISS",
+      "product_type": "",
+      "tags": [
+        "10",
+        "11",
+        "12",
+        "17",
+        "208",
+        "21",
+        "31",
+        "5",
+        "750",
+        "8",
+        "9",
+        "ADT",
+        "BAKLIYAT",
+        "GR",
+        "MAKARNA",
+        "Makaron",
+        "MISS",
+        "NORMAL MAKARNA",
+        "Normal Makaron",
+        "SADE MAKARNA",
+        "Təməl Qida"
+      ],
+      "variants": [
+        {
+          "id": 45862827688241,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30190570",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.45",
+          "grams": 0,
+          "compare_at_price": "1.79",
+          "position": 1,
+          "product_id": 8605768483121,
+          "created_at": "2023-07-03T22:07:47+04:00",
+          "updated_at": "2026-03-27T16:59:01+04:00"
+        }
+      ],
+      "images": [],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "normal-makaron",
+        "category_title": "Normal Makaron",
+        "parent_category_title": "Makaron",
+        "root_category_title": "Təməl Qida",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8641817968945,
+    "product": {
+      "id": 8641817968945,
+      "title": "ASTARA PƏHRİZ DÜYÜSÜ 375 Q",
+      "handle": "astara-pehriz-duyusu-375-q",
+      "body_html": "",
+      "published_at": "2024-02-21T01:48:04+04:00",
+      "created_at": "2023-07-11T19:34:59+04:00",
+      "updated_at": "2026-03-27T17:06:20+04:00",
+      "vendor": "ASTARA",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "ASTARA",
+        "Dietik Məhsullar",
+        "DIETIK URUNLER",
+        "GR",
+        "MAKRO CEREZ",
+        "Sağlıqlı Həyat Tərzi Məhsulları",
+        "Təməl Qida"
+      ],
+      "variants": [
+        {
+          "id": 46024903557425,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30123685",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "7.55",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8641817968945,
+          "created_at": "2023-07-11T19:34:59+04:00",
+          "updated_at": "2026-03-27T17:06:20+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42557856612657,
+          "created_at": "2023-09-03T15:32:55+04:00",
+          "position": 1,
+          "updated_at": "2023-09-03T15:32:55+04:00",
+          "product_id": 8641817968945,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30123685.png?v=1693740775",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "dietik-m%C9%99hsullar",
+        "category_title": "Diyetik Məhsullar",
+        "parent_category_title": "Sağlıqlı Həyat Tərzi Məhsulları",
+        "root_category_title": "Təməl Qida",
+        "page": 3
+      }
+    }
+  },
+  {
+    "product_id": 8616872345905,
+    "product": {
+      "id": 8616872345905,
+      "title": "GAZİOĞLU KADAYİF FOLYO 500 Q",
+      "handle": "x-gazioglu-kadayif-folyo-500-q",
+      "body_html": "",
+      "published_at": "2023-07-05T11:46:19+04:00",
+      "created_at": "2023-07-05T11:46:19+04:00",
+      "updated_at": "2026-03-27T17:08:19+04:00",
+      "vendor": "GAZIOGLU",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "BAKLIYAT",
+        "Firin Pastane",
+        "GAZIOGLU",
+        "GR",
+        "HAMURISI TATLILAR",
+        "KADAYIFLAR",
+        "Kadayiflər",
+        "TATLILAR-PASTALAR",
+        "Tort-Şirniyyat Aksesuarları"
+      ],
+      "variants": [
+        {
+          "id": 45910775988529,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30149360",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "6.99",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8616872345905,
+          "created_at": "2023-07-05T11:46:19+04:00",
+          "updated_at": "2026-03-27T17:08:19+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42557911793969,
+          "created_at": "2023-09-03T15:54:54+04:00",
+          "position": 1,
+          "updated_at": "2023-09-03T15:54:54+04:00",
+          "product_id": 8616872345905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30149360_d9304a2b-8e5f-4deb-890b-8bac115e6d20.jpg?v=1693742094",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "kadayifl%C9%99r",
+        "category_title": "Kadayiflər",
+        "parent_category_title": "Tort-Şirniyyat Aksesuarları",
+        "root_category_title": "Tort, Bişmələr, Çörək",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8567505092913,
+    "product": {
+      "id": 8567505092913,
+      "title": "ÇUDO YOQURT 115 Q ŞAFTALI MANQO 2,5%",
+      "handle": "cudo-yoqurt-115-q-saftali-manqo-2-5",
+      "body_html": "",
+      "published_at": "2023-06-27T23:00:48+04:00",
+      "created_at": "2023-06-27T23:00:48+04:00",
+      "updated_at": "2026-03-27T16:55:08+04:00",
+      "vendor": "CUDO",
+      "product_type": "",
+      "tags": [
+        "10",
+        "115",
+        "252",
+        "59",
+        "6",
+        "60",
+        "7",
+        "77",
+        "[\"4101\"",
+        "ADT",
+        "CUDO",
+        "GR",
+        "MEYVELI YOGURT",
+        "Meyvəli Yoğurt",
+        "OZEL YOGURTLAR",
+        "SUD MEHSULLARI-YUMURTA-ZEYTUN",
+        "SUT",
+        "Süd",
+        "Süd Səhər Yeməyi"
+      ],
+      "variants": [
+        {
+          "id": 45694921441585,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30013928",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "0.95",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8567505092913,
+          "created_at": "2023-06-27T23:00:48+04:00",
+          "updated_at": "2026-03-27T16:55:08+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42557754540337,
+          "created_at": "2023-09-03T15:01:56+04:00",
+          "position": 1,
+          "updated_at": "2023-09-03T15:01:56+04:00",
+          "product_id": 8567505092913,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30013928_a82ba16a-1628-4d2a-aa73-4b3b415625c3.jpg?v=1693738916",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "meyv%C9%99li-yogurt",
+        "category_title": "Meyvəli Yoqurt",
+        "parent_category_title": "Yoqurt",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8565844836657,
+    "product": {
+      "id": 8565844836657,
+      "title": "BERQA CAY BREAKFAST 225 Q",
+      "handle": "berqa-cay-breakfast-225-gr",
+      "body_html": " Tərkibi:qara çaydır.Dəmləmə qaydası:isti quru dəmliyə hər 200 ml su üçün 2 çay qaşığı çay qoyulmalı və üzərinə təzə qaynadılmış su əlavə edilərək 6-7 dəqiqə dəmlənməlidir.Havanın nisbi rütubətinin 70%-dən çox olmadığı quru və ətirsiz yerdə saxlanılmalıdır.Tərkibində GMO yoxdur.Enerji dəyəri:&lt; 1 kkal/&lt; 4,184 kC,zülal: 0,1 q. Xammal və qablaşdırma materialları Şri Lankanın \"İnter tea (Private) LTD\" şirkətindən təmin olunaraq, \"Sun Tea Çay Fabriki\" MMC-də qablaşdırılmışdır.Ünvan: Bakı ş., Azərbaycan, Bakıxanov qəs.,Valeri Əhmədov küç.,12N",
+      "published_at": "2023-06-27T15:05:39+04:00",
+      "created_at": "2023-06-27T15:05:39+04:00",
+      "updated_at": "2026-03-27T17:04:23+04:00",
+      "vendor": "BERQA",
+      "product_type": "",
+      "tags": [
+        "\"4102\"",
+        "\"4124\"]",
+        "\"4133\"",
+        "\"4165\"",
+        "0",
+        "11",
+        "13",
+        "16",
+        "225",
+        "28",
+        "3",
+        "35",
+        "5",
+        "58",
+        "82",
+        "904",
+        "[\"4101\"",
+        "ADT",
+        "BERQA",
+        "CAY",
+        "DOKME QARA CAYLAR",
+        "GR",
+        "Təməl Qida",
+        "Çay Kofe Şəkər"
+      ],
+      "variants": [
+        {
+          "id": 45688291295537,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "10003295",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "6.85",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8565844836657,
+          "created_at": "2023-06-27T15:05:39+04:00",
+          "updated_at": "2026-03-27T17:04:23+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42519943643441,
+          "created_at": "2023-08-29T12:35:32+04:00",
+          "position": 1,
+          "updated_at": "2023-08-29T12:35:32+04:00",
+          "product_id": 8565844836657,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/10003295_6e8b1289-5606-47b5-83aa-a7b2b036d65e.jpg?v=1693298132",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "cay",
+        "category_title": "Çay",
+        "parent_category_title": "Çay, Qəhvə, Şəkər",
+        "root_category_title": "Təməl Qida",
+        "page": 2
+      }
+    }
+  },
+  {
+    "product_id": 8613313446193,
+    "product": {
+      "id": 8613313446193,
+      "title": "DR.MİLK KAUNAS XAMA 350 Q 20%",
+      "handle": "dr-milk-kaunas-xama-350-q-20",
+      "body_html": "",
+      "published_at": "2024-05-15T07:26:21+04:00",
+      "created_at": "2023-07-05T00:17:22+04:00",
+      "updated_at": "2026-03-27T16:51:47+04:00",
+      "vendor": "SEVIMLI DAD",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "GR",
+        "GUNLUK ICECEKLER",
+        "GUNLUK SUT-SUT URUNLERI",
+        "SEVIMLI DAD",
+        "SUD MEHSULLARI-YUMURTA-ZEYTUN",
+        "Süd Məhsulları",
+        "Süd Səhər Yeməyi",
+        "XAMA"
+      ],
+      "variants": [
+        {
+          "id": 45895057834289,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30104037",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "3.19",
+          "grams": 0,
+          "compare_at_price": "3.80",
+          "position": 1,
+          "product_id": 8613313446193,
+          "created_at": "2023-07-05T00:17:23+04:00",
+          "updated_at": "2026-03-27T16:51:47+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 52109630636337,
+          "created_at": "2025-07-29T16:55:25+04:00",
+          "position": 1,
+          "updated_at": "2025-07-29T16:55:25+04:00",
+          "product_id": 8613313446193,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/files/80d9629b7e90b040aa6a47621f517385.jpg?v=1753793725",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "xama",
+        "category_title": "Xama",
+        "parent_category_title": "Süd Məhsulları",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8582784549169,
+    "product": {
+      "id": 8582784549169,
+      "title": "DOGADAN ÇAY 40 Q 20 TB ALMALI",
+      "handle": "dogadan-cay-40-q-20-tb-almali",
+      "body_html": "",
+      "published_at": "2023-06-30T09:10:07+04:00",
+      "created_at": "2023-06-30T09:10:07+04:00",
+      "updated_at": "2026-03-27T17:04:36+04:00",
+      "vendor": "DOGADAN",
+      "product_type": "",
+      "tags": [
+        "11",
+        "12",
+        "25",
+        "40",
+        "5",
+        "504",
+        "7",
+        "[\"4101\"",
+        "ADT",
+        "CAY",
+        "DOGADAN",
+        "GR",
+        "MEYVELI CAYLARI",
+        "Təməl Qida",
+        "Çay Kofe Şəkər"
+      ],
+      "variants": [
+        {
+          "id": 45764432298289,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30116005",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2.65",
+          "grams": 0,
+          "compare_at_price": "3.55",
+          "position": 1,
+          "product_id": 8582784549169,
+          "created_at": "2023-06-30T09:10:08+04:00",
+          "updated_at": "2026-03-27T17:04:36+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42550450028849,
+          "created_at": "2023-09-02T08:59:06+04:00",
+          "position": 1,
+          "updated_at": "2023-09-02T08:59:06+04:00",
+          "product_id": 8582784549169,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30116005_affcaa77-aa81-49e3-a717-928f69853696.jpg?v=1693630746",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "cay",
+        "category_title": "Çay",
+        "parent_category_title": "Çay, Qəhvə, Şəkər",
+        "root_category_title": "Təməl Qida",
+        "page": 5
+      }
+    }
+  },
+  {
+    "product_id": 8567381295409,
+    "product": {
+      "id": 8567381295409,
+      "title": "KİDO SÜD 200 ML BANAN",
+      "handle": "kido-sud-180-ml-banan",
+      "body_html": "",
+      "published_at": "2023-06-27T22:22:04+04:00",
+      "created_at": "2023-06-27T22:22:04+04:00",
+      "updated_at": "2026-03-27T16:51:25+04:00",
+      "vendor": "KIDO",
+      "product_type": "",
+      "tags": [
+        "12",
+        "15",
+        "200",
+        "21",
+        "24",
+        "4",
+        "43",
+        "48",
+        "5",
+        "8",
+        "[\"4101\"",
+        "ADT",
+        "KIDO",
+        "ML",
+        "SUD MEHSULLARI-YUMURTA-ZEYTUN",
+        "SUT",
+        "Süd",
+        "Süd Səhər Yeməyi",
+        "UZUN OMURLU AROMALI",
+        "UZUN OMURLU SUT"
+      ],
+      "variants": [
+        {
+          "id": 45694486413617,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30013020",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.20",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8567381295409,
+          "created_at": "2023-06-27T22:22:04+04:00",
+          "updated_at": "2026-03-27T16:51:25+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42544126624049,
+          "created_at": "2023-09-01T11:32:55+04:00",
+          "position": 1,
+          "updated_at": "2023-09-01T11:32:55+04:00",
+          "product_id": 8567381295409,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30013020_edbacd2b-faec-4007-907d-bde1d5ce90b0.png?v=1693553575",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "uzun-omurlu-aromali",
+        "category_title": "Aromalı",
+        "parent_category_title": "Süd",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8606447075633,
+    "product": {
+      "id": 8606447075633,
+      "title": "YAMUNA SODA 300 Q",
+      "handle": "yamuna-soda-300-q",
+      "body_html": "",
+      "published_at": "2024-05-15T07:51:57+04:00",
+      "created_at": "2023-07-03T23:45:35+04:00",
+      "updated_at": "2026-03-27T17:08:27+04:00",
+      "vendor": "YAMUNA",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "BAKLIYAT",
+        "Firin",
+        "Firin Pastane",
+        "GR",
+        "HAMUR-PASTA MALZEMELERI",
+        "Manna",
+        "Pastane",
+        "PASTANE-FIRIN URUNLERI",
+        "SODA",
+        "Tort-Şirniyyat Aksesuarları",
+        "YAMUNA"
+      ],
+      "variants": [
+        {
+          "id": 45865641541937,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30191185",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.60",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8606447075633,
+          "created_at": "2023-07-03T23:45:35+04:00",
+          "updated_at": "2026-03-27T17:08:27+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42531512090929,
+          "created_at": "2023-08-30T19:01:09+04:00",
+          "position": 1,
+          "updated_at": "2023-08-30T19:01:09+04:00",
+          "product_id": 8606447075633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/4efe92671c4946df98338a53180d30d8.jpg?v=1693407669",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "manna",
+        "category_title": "Manna",
+        "parent_category_title": "Tort-Şirniyyat Aksesuarları",
+        "root_category_title": "Tort, Bişmələr, Çörək",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8641741488433,
+    "product": {
+      "id": 8641741488433,
+      "title": "REMİT SOSİSKA 480 Q",
+      "handle": "remit-sosiska-480-q",
+      "body_html": "",
+      "published_at": "2024-02-21T01:08:01+04:00",
+      "created_at": "2023-07-11T19:18:07+04:00",
+      "updated_at": "2026-03-27T16:49:57+04:00",
+      "vendor": "REMIT",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "GR",
+        "HAZIR ET MEHSULLARI",
+        "KOLBASA MAHSULLERI",
+        "REMIT",
+        "Sosis",
+        "SOSISLER",
+        "Ət Qastronom",
+        "Ət Toyuq Balıq"
+      ],
+      "variants": [
+        {
+          "id": 46024399126833,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30116306",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "18.95",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8641741488433,
+          "created_at": "2023-07-11T19:18:07+04:00",
+          "updated_at": "2026-03-27T16:49:57+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42550284812593,
+          "created_at": "2023-09-02T07:59:17+04:00",
+          "position": 1,
+          "updated_at": "2023-09-02T07:59:17+04:00",
+          "product_id": 8641741488433,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30116306.jpg?v=1693627157",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "sosis",
+        "category_title": "Sosis",
+        "parent_category_title": "Ət Qastronom",
+        "root_category_title": "Ət, Toyuq, Balıq",
+        "page": 3
+      }
+    }
+  },
+  {
+    "product_id": 8613553733937,
+    "product": {
+      "id": 8613553733937,
+      "title": "OSMANBEYLI RƏNG ƏTİRLİ 25 Q",
+      "handle": "osmanbeyli-reng-etirli-25-q",
+      "body_html": "",
+      "published_at": "2023-07-05T01:20:23+04:00",
+      "created_at": "2023-07-05T01:20:23+04:00",
+      "updated_at": "2026-03-27T17:09:12+04:00",
+      "vendor": "OSMANBEYLI",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "BAKLIYAT",
+        "Firin Pastane",
+        "GR",
+        "HAMUR-PASTA MALZEMELERI",
+        "OSMANBEYLI",
+        "PASTA YARDIMCILARI",
+        "PASTANE-FIRIN URUNLERI",
+        "Tort ləvazimatları",
+        "Tort-Şirniyyat Aksesuarları"
+      ],
+      "variants": [
+        {
+          "id": 45896075903281,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30107976",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "0.95",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8613553733937,
+          "created_at": "2023-07-05T01:20:23+04:00",
+          "updated_at": "2026-03-27T17:09:12+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 48751134802225,
+          "created_at": "2025-03-06T13:04:11+04:00",
+          "position": 1,
+          "updated_at": "2025-03-06T13:04:11+04:00",
+          "product_id": 8613553733937,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/files/6d7cb2d81bcdaaae9453ecbb353b6e40.jpg?v=1741251851",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "tort-l%C9%99vazimatlari",
+        "category_title": "Tort ləvazimatları",
+        "parent_category_title": "Tort-Şirniyyat Aksesuarları",
+        "root_category_title": "Tort, Bişmələr, Çörək",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8583137460529,
+    "product": {
+      "id": 8583137460529,
+      "title": "ÇÖRƏKÇİ YUMO YUM BULKA 100 Q KÜNCÜTLÜ",
+      "handle": "corekci-yumo-yum-bulka-100-q-kuncutlu",
+      "body_html": "",
+      "published_at": "2023-06-30T10:27:26+04:00",
+      "created_at": "2023-06-30T10:27:26+04:00",
+      "updated_at": "2026-03-27T17:07:04+04:00",
+      "vendor": "COREKCI",
+      "product_type": "",
+      "tags": [
+        "100",
+        "15",
+        "[\"4133\"]",
+        "ADT",
+        "Bişmələr",
+        "COREKCI",
+        "Firin Pastane",
+        "GR",
+        "PASTANE FIRIN",
+        "POGACA-COREKLER",
+        "UN MEMULATLARI",
+        "Un Məmulatları"
+      ],
+      "variants": [
+        {
+          "id": 45765724012849,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30120063",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "0.50",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8583137460529,
+          "created_at": "2023-06-30T10:27:27+04:00",
+          "updated_at": "2026-03-27T17:07:04+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42545776427313,
+          "created_at": "2023-09-01T16:35:01+04:00",
+          "position": 1,
+          "updated_at": "2023-09-01T16:35:01+04:00",
+          "product_id": 8583137460529,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30120063.jpg?v=1693571701",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "bism%C9%99l%C9%99r",
+        "category_title": "Bişmələr",
+        "parent_category_title": "Un Məmulatları",
+        "root_category_title": "Tort, Bişmələr, Çörək",
+        "page": 3
+      }
+    }
+  },
+  {
+    "product_id": 9118659281201,
+    "product": {
+      "id": 9118659281201,
+      "title": "SAVILLE QARA ZEYTUN TUMSUZ KQ",
+      "handle": "saville-qara-zeytun-tumsuz-kq",
+      "body_html": "",
+      "published_at": "2024-05-15T07:34:34+04:00",
+      "created_at": "2023-10-20T01:26:01+04:00",
+      "updated_at": "2026-03-27T16:56:23+04:00",
+      "vendor": "Bazarstore",
+      "product_type": "",
+      "tags": [
+        "0",
+        "1000.000",
+        "143",
+        "15",
+        "2",
+        "22",
+        "26",
+        "4",
+        "6",
+        "9",
+        "GR",
+        "KG",
+        "KONSERV",
+        "QARA TUMSUZ ZEYTUN",
+        "SAVILLE",
+        "TURSULAR",
+        "ZEYTUN TURSULARI"
+      ],
+      "variants": [
+        {
+          "id": 47573705294129,
+          "title": "1 KG",
+          "option1": "1 KG",
+          "option2": null,
+          "option3": null,
+          "sku": "30192320-1000",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17.65",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 9118659281201,
+          "created_at": "2023-10-20T01:26:01+04:00",
+          "updated_at": "2026-03-27T16:56:23+04:00"
+        },
+        {
+          "id": 49291435442481,
+          "title": "250 gr",
+          "option1": "250 gr",
+          "option2": null,
+          "option3": null,
+          "sku": "30192320-250",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "4.41",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 2,
+          "product_id": 9118659281201,
+          "created_at": "2024-05-23T17:28:40+04:00",
+          "updated_at": "2026-03-27T16:56:23+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 51316000784689,
+          "created_at": "2025-06-30T10:22:48+04:00",
+          "position": 1,
+          "updated_at": "2025-06-30T10:22:48+04:00",
+          "product_id": 9118659281201,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/files/8e8a2a5d668f02c39b6bd65fa792b251.jpg?v=1751264568",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "1 KG",
+            "250 gr"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "zeytun",
+        "category_title": "Zeytun",
+        "parent_category_title": "Süd, Səhər Yeməyi",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8571666366769,
+    "product": {
+      "id": 8571666366769,
+      "title": "XLEBSİ MOLODSI FİTNES LİNİYA VİT. 100 Q",
+      "handle": "xlebsi-molodsi-fitnes-liniya-vit-100-q",
+      "body_html": "",
+      "published_at": "2023-06-28T18:07:38+04:00",
+      "created_at": "2023-06-28T18:07:38+04:00",
+      "updated_at": "2026-03-27T17:06:15+04:00",
+      "vendor": "XLEBSI",
+      "product_type": "",
+      "tags": [
+        "100",
+        "20",
+        "24",
+        "3",
+        "6",
+        "[\"4101\"",
+        "ADT",
+        "Dietik Məhsullar",
+        "DIETIK URUNLER",
+        "GR",
+        "MAKRO CEREZ",
+        "Sağlıqlı Həyat Tərzi Məhsulları",
+        "Təməl Qida",
+        "XLEBSI"
+      ],
+      "variants": [
+        {
+          "id": 45712160784689,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30076420",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2.35",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8571666366769,
+          "created_at": "2023-06-28T18:07:38+04:00",
+          "updated_at": "2026-03-27T17:06:15+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42550033776945,
+          "created_at": "2023-09-02T06:24:11+04:00",
+          "position": 1,
+          "updated_at": "2023-09-02T06:24:11+04:00",
+          "product_id": 8571666366769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30076420_86ba13d9-c014-475f-b40c-d24715c344e5.jpg?v=1693621451",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "dietik-m%C9%99hsullar",
+        "category_title": "Diyetik Məhsullar",
+        "parent_category_title": "Sağlıqlı Həyat Tərzi Məhsulları",
+        "root_category_title": "Təməl Qida",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8604223930673,
+    "product": {
+      "id": 8604223930673,
+      "title": "DAJAJTİ (ÇERKİZOVA) TOYUQ QANAD KQ",
+      "handle": "dajajti-toyuq-qanadi-dondurulmus-kq",
+      "body_html": "",
+      "published_at": "2024-05-15T07:53:34+04:00",
+      "created_at": "2023-07-03T18:21:19+04:00",
+      "updated_at": "2026-03-27T16:48:44+04:00",
+      "vendor": "DAJAJTI",
+      "product_type": "",
+      "tags": [
+        "DAJAJTI",
+        "DONDURULMUS QIDA",
+        "DONDURULMUS SU-ET URUNLERI",
+        "DONDURULMUS TOYUQ",
+        "Dondurulmuş Ət",
+        "GR",
+        "KG",
+        "Ət Toyuq Balıq"
+      ],
+      "variants": [
+        {
+          "id": 45857025982769,
+          "title": "1 KG",
+          "option1": "1 KG",
+          "option2": null,
+          "option3": null,
+          "sku": "30189155-1000",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "7.95",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8604223930673,
+          "created_at": "2023-07-03T18:21:19+04:00",
+          "updated_at": "2026-03-27T16:48:44+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42551946248497,
+          "created_at": "2023-09-02T14:51:46+04:00",
+          "position": 1,
+          "updated_at": "2023-09-02T14:51:46+04:00",
+          "product_id": 8604223930673,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/f85be003fa18468c909b8f7d30402d84_166dd924-e8ce-4ae8-be40-9d1dd18b27f3.jpg?v=1693651906",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "1 KG"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "dondurulmus-toyuq",
+        "category_title": "Dondurulmuş Toyuq",
+        "parent_category_title": "Dondurulmuş Ət",
+        "root_category_title": "Ət, Toyuq, Balıq",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8597153120561,
+    "product": {
+      "id": 8597153120561,
+      "title": "FINAL ŞİRİN QARĞIDALI 212 Q TNK",
+      "handle": "final-sirin-qargidali-212-q-tnk",
+      "body_html": "",
+      "published_at": "2023-07-02T16:15:57+04:00",
+      "created_at": "2023-07-02T16:15:57+04:00",
+      "updated_at": "2026-03-27T17:01:23+04:00",
+      "vendor": "FINAL",
+      "product_type": "",
+      "tags": [
+        "212",
+        "27",
+        "343",
+        "4",
+        "7",
+        "77",
+        "8",
+        "9",
+        "[\"4101\"",
+        "ADT",
+        "FINAL",
+        "GR",
+        "KONSERV",
+        "Konserva",
+        "KONSERVE",
+        "Konservlər",
+        "MISIR  KONSERVELERI",
+        "Təməl Qida"
+      ],
+      "variants": [
+        {
+          "id": 45825290305841,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30185225",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2.45",
+          "grams": 0,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 8597153120561,
+          "created_at": "2023-07-02T16:15:57+04:00",
+          "updated_at": "2026-03-27T17:01:23+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42527183765809,
+          "created_at": "2023-08-30T07:39:19+04:00",
+          "position": 1,
+          "updated_at": "2023-08-30T07:39:19+04:00",
+          "product_id": 8597153120561,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30185225_3707d0c5-375f-4341-92d8-31543b8a89f8.png?v=1693366759",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "konservl%C9%99r",
+        "category_title": "Konservlər",
+        "parent_category_title": "Konserva",
+        "root_category_title": "Təməl Qida",
+        "page": 2
+      }
+    }
+  },
+  {
+    "product_id": 8606679073073,
+    "product": {
+      "id": 8606679073073,
+      "title": "MILKA ŞOKOLAD YAĞI 350 Q ŞÜŞƏ",
+      "handle": "milka-sokolad-yagi-350-q-suse",
+      "body_html": "",
+      "published_at": "2024-05-15T07:32:59+04:00",
+      "created_at": "2023-07-04T00:23:33+04:00",
+      "updated_at": "2026-03-27T16:54:01+04:00",
+      "vendor": "MILKA",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "GR",
+        "KAHVALTILIK (MUREBBE-MARMALAT-BAL-HALVA)",
+        "KAKAO-FINDIK KREMA",
+        "Krem",
+        "KREM CIKOLATA VE EZMELER",
+        "Krem Əzmələr",
+        "MILKA",
+        "Süd",
+        "Süd Səhər yeməyi",
+        "Səhər yeməyi",
+        "Əzmələr"
+      ],
+      "variants": [
+        {
+          "id": 45866621698353,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30191251",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "6.79",
+          "grams": 0,
+          "compare_at_price": "14.39",
+          "position": 1,
+          "product_id": 8606679073073,
+          "created_at": "2023-07-04T00:23:33+04:00",
+          "updated_at": "2026-03-27T16:54:01+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 52807442202929,
+          "created_at": "2025-08-28T14:34:20+04:00",
+          "position": 1,
+          "updated_at": "2025-08-28T14:34:20+04:00",
+          "product_id": 8606679073073,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/files/d4027697b238d955d584a0cbfe675018.jpg?v=1756377260",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "krem-ezmeler",
+        "category_title": "Krem, Əzmələr",
+        "parent_category_title": "Səhər Yeməyi",
+        "root_category_title": "Süd, Səhər Yeməyi",
+        "page": 1
+      }
+    }
+  },
+  {
+    "product_id": 8641001554225,
+    "product": {
+      "id": 8641001554225,
+      "title": "FİLİZ MAKARON 500 Q MUNCUQ",
+      "handle": "filiz-makaron-500-q-muncuq",
+      "body_html": "",
+      "published_at": "2023-07-11T14:48:21+04:00",
+      "created_at": "2023-07-11T14:48:21+04:00",
+      "updated_at": "2026-03-27T16:59:01+04:00",
+      "vendor": "FILIZ",
+      "product_type": "",
+      "tags": [
+        "ADT",
+        "BAKLIYAT",
+        "FILIZ",
+        "GR",
+        "MAKARNA",
+        "Makaron",
+        "NORMAL MAKARNA",
+        "Normal Makaron",
+        "SADE MAKARNA",
+        "Təməl Qida"
+      ],
+      "variants": [
+        {
+          "id": 46020068311345,
+          "title": "ədəd",
+          "option1": "ədəd",
+          "option2": null,
+          "option3": null,
+          "sku": "30002983",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1.49",
+          "grams": 0,
+          "compare_at_price": "1.75",
+          "position": 1,
+          "product_id": 8641001554225,
+          "created_at": "2023-07-11T14:48:21+04:00",
+          "updated_at": "2026-03-27T16:59:01+04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 42543995519281,
+          "created_at": "2023-09-01T11:07:06+04:00",
+          "position": 1,
+          "updated_at": "2023-09-01T11:07:06+04:00",
+          "product_id": 8641001554225,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0748/2395/8833/products/30002983_8d6d08b3-2d2b-4e7c-9e3d-3da9108d4726.jpg?v=1693552026",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "ədəd"
+          ]
+        }
+      ],
+      "_meta": {
+        "source": "category_page",
+        "category_handle": "normal-makaron",
+        "category_title": "Normal Makaron",
+        "parent_category_title": "Makaron",
+        "root_category_title": "Təməl Qida",
+        "page": 1
+      }
+    }
+  }
+]

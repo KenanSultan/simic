@@ -1,0 +1,4083 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Məzmuna keçin" [ref=e3] [cursor=pointer]:
+      - /url: "#MainContent"
+    - generic [ref=e4]:
+      - text: 
+      - region "Elan" [ref=e5]:
+        - generic:
+          - link "📞 *1900 | 💬 +994 55 201 35 35" [ref=e6] [cursor=pointer]:
+            - /url: https://wa.me/+994552013535
+            - paragraph [ref=e7]: 📞 *1900 | 💬 +994 55 201 35 35
+          - generic [ref=e11]:
+            - generic [ref=e12]:
+              - list:
+                - listitem [ref=e13]:
+                  - link "Super Maqazin" [ref=e14] [cursor=pointer]:
+                    - /url: /pages/endirim-jurnali
+                - listitem [ref=e15]:
+                  - link "Karyera" [ref=e16] [cursor=pointer]:
+                    - /url: /pages/bazarstore-karyera
+                - listitem [ref=e17]:
+                  - link "Qeyd | Giriş" [ref=e18] [cursor=pointer]:
+                    - /url: /account
+            - button "AZ" [ref=e23] [cursor=pointer]:
+              - img [ref=e24]
+              - text: AZ
+              - img [ref=e25]
+    - generic [ref=e29]:
+      - banner [ref=e30]:
+        - group [ref=e32]:
+          - button "Menyu" [ref=e33] [cursor=pointer]:
+            - img [ref=e35]
+        - heading "Bazarstore.az logo" [level=1] [ref=e41]:
+          - link "Bazarstore.az logo" [ref=e42] [cursor=pointer]:
+            - /url: /
+            - img "Bazarstore.az logo" [ref=e43]
+        - text: 
+        - generic [ref=e45]:
+          - group [ref=e47]:
+            - button "Məhsul Axtar" [ref=e48] [cursor=pointer]:
+              - img [ref=e50]
+          - img [ref=e55] [cursor=pointer]
+          - generic:
+            - link:
+              - /url: /pages/i%CC%87st%C9%99k-siyahisi
+          - link [ref=e63] [cursor=pointer]:
+            - /url: /cart
+            - img [ref=e64]
+            - generic [ref=e68]: "0"
+      - text: 
+      - generic [ref=e71] [cursor=pointer]:
+        - navigation:
+          - generic [ref=e73]:
+            - img [ref=e74]
+            - text: Bütün Kategoriyalar
+    - navigation "breadcrumbs" [ref=e83]:
+      - link "Home" [ref=e84] [cursor=pointer]:
+        - /url: /
+        - img [ref=e85]
+      - text: "|"
+    - main:
+      - generic:
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - link "1 iyun" [ref=e91] [cursor=pointer]:
+              - /url: /collections/1-iyun
+              - heading "1 iyun" [level=2] [ref=e94]:
+                - text: 1 iyun
+                - img [ref=e96]
+          - listitem [ref=e97]:
+            - link "18-31 iyul insert" [ref=e98] [cursor=pointer]:
+              - /url: /collections/4-17-iyun-insert
+              - heading "18-31 iyul insert" [level=2] [ref=e101]:
+                - text: 18-31 iyul insert
+                - img [ref=e103]
+          - listitem [ref=e104]:
+            - link "40 Mehsulda 40 Faiz Endirim" [ref=e105] [cursor=pointer]:
+              - /url: /collections/40-mehsulda-40-faiz-endirim
+              - heading "40 Mehsulda 40 Faiz Endirim" [level=2] [ref=e108]:
+                - text: 40 Mehsulda 40 Faiz Endirim
+                - img [ref=e110]
+          - listitem [ref=e111]:
+            - link "Acika" [ref=e112] [cursor=pointer]:
+              - /url: /collections/acika
+              - heading "Acika" [level=2] [ref=e115]:
+                - text: Acika
+                - img [ref=e117]
+          - listitem [ref=e118]:
+            - link "adet" [ref=e119] [cursor=pointer]:
+              - /url: /collections/adet
+              - heading "adet" [level=2] [ref=e122]:
+                - text: adet
+                - img [ref=e124]
+          - listitem [ref=e125]:
+            - link "Ailə Oyunları" [ref=e126] [cursor=pointer]:
+              - /url: /collections/ail%C9%99-oyunlari
+              - heading "Ailə Oyunları" [level=2] [ref=e129]:
+                - text: Ailə Oyunları
+                - img [ref=e131]
+          - listitem [ref=e132]:
+            - heading "Alt Geyimləri" [level=2] [ref=e136]:
+              - text: Alt Geyimləri
+              - img [ref=e138]
+          - listitem [ref=e139]:
+            - link "ariel 3 kq" [ref=e140] [cursor=pointer]:
+              - /url: /collections/ariel-3-kq
+              - heading "ariel 3 kq" [level=2] [ref=e143]:
+                - text: ariel 3 kq
+                - img [ref=e145]
+          - listitem [ref=e146]:
+            - link "Ariel Endirim" [ref=e147] [cursor=pointer]:
+              - /url: /collections/25azn_endirim
+              - heading "Ariel Endirim" [level=2] [ref=e150]:
+                - text: Ariel Endirim
+                - img [ref=e152]
+          - listitem [ref=e153]:
+            - link "Aseton" [ref=e154] [cursor=pointer]:
+              - /url: /collections/aseton
+              - heading "Aseton" [level=2] [ref=e157]:
+                - text: Aseton
+                - img [ref=e159]
+          - listitem [ref=e160]:
+            - link "Atışdırmalıq" [ref=e161] [cursor=pointer]:
+              - /url: /collections/atisdirmaliq
+              - heading "Atışdırmalıq" [level=2] [ref=e164]:
+                - text: Atışdırmalıq
+                - img [ref=e166]
+          - listitem [ref=e167]:
+            - link "Avto Aksesuarlar" [ref=e168] [cursor=pointer]:
+              - /url: /collections/avto-aksesuarlar
+              - heading "Avto Aksesuarlar" [level=2] [ref=e171]:
+                - text: Avto Aksesuarlar
+                - img [ref=e173]
+          - listitem [ref=e174]:
+            - link "Avtomobil Məhsulları" [ref=e175] [cursor=pointer]:
+              - /url: /collections/avtomobil-m%C9%99hsullari
+              - heading "Avtomobil Məhsulları" [level=2] [ref=e178]:
+                - text: Avtomobil Məhsulları
+                - img [ref=e180]
+          - listitem [ref=e181]:
+            - link "Avtomobil Qoxuları" [ref=e182] [cursor=pointer]:
+              - /url: /collections/avtomobil-qoxulari
+              - heading "Avtomobil Qoxuları" [level=2] [ref=e185]:
+                - text: Avtomobil Qoxuları
+                - img [ref=e187]
+          - listitem [ref=e188]:
+            - link "Ayaq Kremləri" [ref=e189] [cursor=pointer]:
+              - /url: /collections/ayaq-kreml%C9%99ri
+              - heading "Ayaq Kremləri" [level=2] [ref=e192]:
+                - text: Ayaq Kremləri
+                - img [ref=e194]
+          - listitem [ref=e195]:
+            - link "Ayaqqabı Təmizliyi" [ref=e196] [cursor=pointer]:
+              - /url: /collections/ayaqqabi-t%C9%99mizliyi
+              - heading "Ayaqqabı Təmizliyi" [level=2] [ref=e199]:
+                - text: Ayaqqabı Təmizliyi
+                - img [ref=e201]
+          - listitem [ref=e202]:
+            - link "Ayran" [ref=e203] [cursor=pointer]:
+              - /url: /collections/ayran
+              - heading "Ayran" [level=2] [ref=e206]:
+                - text: Ayran
+                - img [ref=e208]
+          - listitem [ref=e209]:
+            - link "Ağ Pendir Qoyun" [ref=e210] [cursor=pointer]:
+              - /url: /collections/ag-pendir-qoyun
+              - heading "Ağ Pendir Qoyun" [level=2] [ref=e213]:
+                - text: Ağ Pendir Qoyun
+                - img [ref=e215]
+          - listitem [ref=e216]:
+            - link "Ağ Pendir Çəki" [ref=e217] [cursor=pointer]:
+              - /url: /collections/ag-pendir-c%C9%99ki
+              - heading "Ağ Pendir Çəki" [level=2] [ref=e220]:
+                - text: Ağ Pendir Çəki
+                - img [ref=e222]
+          - listitem [ref=e223]:
+            - link "Ağ Pendir Ədəd" [ref=e224] [cursor=pointer]:
+              - /url: /collections/ag-pendir-%C9%99d%C9%99d
+              - heading "Ağ Pendir Ədəd" [level=2] [ref=e227]:
+                - text: Ağ Pendir Ədəd
+                - img [ref=e229]
+          - listitem [ref=e230]:
+            - link "Ağ Ət" [ref=e231] [cursor=pointer]:
+              - /url: /collections/ag-%C9%99t
+              - heading "Ağ Ət" [level=2] [ref=e234]:
+                - text: Ağ Ət
+                - img [ref=e236]
+          - listitem [ref=e237]:
+            - link "Ağda Bantları" [ref=e238] [cursor=pointer]:
+              - /url: /collections/agda-bantlari
+              - heading "Ağda Bantları" [level=2] [ref=e241]:
+                - text: Ağda Bantları
+                - img [ref=e243]
+          - listitem [ref=e244]:
+            - link "Ağız boşluğuna qulluq" [ref=e245] [cursor=pointer]:
+              - /url: /collections/agiz-bosluguna-qulluq
+              - heading "Ağız boşluğuna qulluq" [level=2] [ref=e248]:
+                - text: Ağız boşluğuna qulluq
+                - img [ref=e250]
+          - listitem [ref=e251]:
+            - link "Ağız Yaxalayıcılar" [ref=e252] [cursor=pointer]:
+              - /url: /collections/agiz-yaxalayicilar
+              - heading "Ağız Yaxalayıcılar" [level=2] [ref=e255]:
+                - text: Ağız Yaxalayıcılar
+                - img [ref=e257]
+          - listitem [ref=e258]:
+            - link "Badam" [ref=e259] [cursor=pointer]:
+              - /url: /collections/badam
+              - heading "Badam" [level=2] [ref=e262]:
+                - text: Badam
+                - img [ref=e264]
+          - listitem [ref=e265]:
+            - heading "Badam" [level=2] [ref=e269]:
+              - text: Badam
+              - img [ref=e271]
+          - listitem [ref=e272]:
+            - link "Bakliyyat" [ref=e273] [cursor=pointer]:
+              - /url: /collections/bakliyyat
+              - heading "Bakliyyat" [level=2] [ref=e276]:
+                - text: Bakliyyat
+                - img [ref=e278]
+          - listitem [ref=e279]:
+            - link "Bal Təbii və saf ballar kolleksiyamızla tanış olun. Sağlamlıq və dadı birləşdirən keyfiyyətli..." [ref=e280] [cursor=pointer]:
+              - /url: /collections/bal
+              - generic [ref=e282]:
+                - heading "Bal" [level=2] [ref=e283]
+                - paragraph [ref=e284]:
+                  - text: Təbii və saf ballar kolleksiyamızla tanış olun. Sağlamlıq və dadı birləşdirən keyfiyyətli...
+                  - img [ref=e286]
+          - listitem [ref=e287]:
+            - link "Balzam" [ref=e288] [cursor=pointer]:
+              - /url: /collections/balzam
+              - heading "Balzam" [level=2] [ref=e291]:
+                - text: Balzam
+                - img [ref=e293]
+          - listitem [ref=e294]:
+            - link "Balıq" [ref=e295] [cursor=pointer]:
+              - /url: /collections/baliq
+              - heading "Balıq" [level=2] [ref=e298]:
+                - text: Balıq
+                - img [ref=e300]
+          - listitem [ref=e301]:
+            - link "Barlar" [ref=e302] [cursor=pointer]:
+              - /url: /collections/barlar
+              - heading "Barlar" [level=2] [ref=e305]:
+                - text: Barlar
+                - img [ref=e307]
+          - listitem [ref=e308]:
+            - heading "Basdırma" [level=2] [ref=e312]:
+              - text: Basdırma
+              - img [ref=e314]
+          - listitem [ref=e315]:
+            - link "Batareyalar" [ref=e316] [cursor=pointer]:
+              - /url: /collections/batareyalar
+              - heading "Batareyalar" [level=2] [ref=e319]:
+                - text: Batareyalar
+                - img [ref=e321]
+          - listitem [ref=e322]:
+            - link "Baton Keks" [ref=e323] [cursor=pointer]:
+              - /url: /collections/baton-keks
+              - heading "Baton Keks" [level=2] [ref=e326]:
+                - text: Baton Keks
+                - img [ref=e328]
+          - listitem [ref=e329]:
+            - link "Baton Şokolad" [ref=e330] [cursor=pointer]:
+              - /url: /collections/baton-sokolad
+              - heading "Baton Şokolad" [level=2] [ref=e333]:
+                - text: Baton Şokolad
+                - img [ref=e335]
+          - listitem [ref=e336]:
+            - link "Baxım Kremləri" [ref=e337] [cursor=pointer]:
+              - /url: /collections/baxim-kreml%C9%99ri
+              - heading "Baxım Kremləri" [level=2] [ref=e340]:
+                - text: Baxım Kremləri
+                - img [ref=e342]
+          - listitem [ref=e343]:
+            - heading "Bayraq" [level=2] [ref=e347]:
+              - text: Bayraq
+              - img [ref=e349]
+          - listitem [ref=e350]:
+            - link "Bazarcuisine" [ref=e351] [cursor=pointer]:
+              - /url: /collections/bazarcuisine
+              - heading "Bazarcuisine" [level=2] [ref=e354]:
+                - text: Bazarcuisine
+                - img [ref=e356]
+          - listitem [ref=e357]:
+            - heading "Bağça, Əl Alətləri" [level=2] [ref=e361]:
+              - text: Bağça, Əl Alətləri
+              - img [ref=e363]
+          - listitem [ref=e364]:
+            - link "Bağça-Piknik" [ref=e365] [cursor=pointer]:
+              - /url: /collections/bagca-piknik
+              - heading "Bağça-Piknik" [level=2] [ref=e368]:
+                - text: Bağça-Piknik
+                - img [ref=e370]
+          - listitem [ref=e371]:
+            - link "bei" [ref=e372] [cursor=pointer]:
+              - /url: /collections/bei
+              - heading "bei" [level=2] [ref=e375]:
+                - text: bei
+                - img [ref=e377]
+          - listitem [ref=e378]:
+            - heading "Bildirçin Əti" [level=2] [ref=e382]:
+              - text: Bildirçin Əti
+              - img [ref=e384]
+          - listitem [ref=e385]:
+            - link "Birdefelik Təraş Ülgücləri" [ref=e386] [cursor=pointer]:
+              - /url: /collections/birdefelik-t%C9%99ras-ulgucl%C9%99ri
+              - heading "Birdefelik Təraş Ülgücləri" [level=2] [ref=e389]:
+                - text: Birdefelik Təraş Ülgücləri
+                - img [ref=e391]
+          - listitem [ref=e392]:
+            - link "Birdəfəlik Yemək Məhsulları" [ref=e393] [cursor=pointer]:
+              - /url: /collections/bird%C9%99f%C9%99lik-yem%C9%99k-m%C9%99hsullari
+              - heading "Birdəfəlik Yemək Məhsulları" [level=2] [ref=e396]:
+                - text: Birdəfəlik Yemək Məhsulları
+                - img [ref=e398]
+          - listitem [ref=e399]:
+            - link "Biskivit" [ref=e400] [cursor=pointer]:
+              - /url: /collections/biskivit
+              - heading "Biskivit" [level=2] [ref=e403]:
+                - text: Biskivit
+                - img [ref=e405]
+          - listitem [ref=e406]:
+            - link "Bitki Suları" [ref=e407] [cursor=pointer]:
+              - /url: /collections/bitki-sulari
+              - heading "Bitki Suları" [level=2] [ref=e410]:
+                - text: Bitki Suları
+                - img [ref=e412]
+          - listitem [ref=e413]:
+            - link "Bişirmə Avadanlıqları" [ref=e414] [cursor=pointer]:
+              - /url: /collections/bisirm%C9%99-avadanliqlari
+              - heading "Bişirmə Avadanlıqları" [level=2] [ref=e417]:
+                - text: Bişirmə Avadanlıqları
+                - img [ref=e419]
+          - listitem [ref=e420]:
+            - link "Bişmiş Kolbasa" [ref=e421] [cursor=pointer]:
+              - /url: /collections/bismis-kolbasa
+              - heading "Bişmiş Kolbasa" [level=2] [ref=e424]:
+                - text: Bişmiş Kolbasa
+                - img [ref=e426]
+          - listitem [ref=e427]:
+            - link "Bişmələr" [ref=e428] [cursor=pointer]:
+              - /url: /collections/bism%C9%99l%C9%99r
+              - heading "Bişmələr" [level=2] [ref=e431]:
+                - text: Bişmələr
+                - img [ref=e433]
+          - listitem [ref=e434]:
+            - link "Bol Ət" [ref=e435] [cursor=pointer]:
+              - /url: /collections/bol-%C9%99t
+              - heading "Bol Ət" [level=2] [ref=e438]:
+                - text: Bol Ət
+                - img [ref=e440]
+          - listitem [ref=e441]:
+            - link "Boru Açıcı" [ref=e442] [cursor=pointer]:
+              - /url: /collections/boru-acici
+              - heading "Boru Açıcı" [level=2] [ref=e445]:
+                - text: Boru Açıcı
+                - img [ref=e447]
+          - listitem [ref=e448]:
+            - link "Boşqab" [ref=e449] [cursor=pointer]:
+              - /url: /collections/bosqab
+              - heading "Boşqab" [level=2] [ref=e452]:
+                - text: Boşqab
+                - img [ref=e454]
+          - listitem [ref=e455]:
+            - link "Bublik-Suski" [ref=e456] [cursor=pointer]:
+              - /url: /collections/bublik-suski
+              - heading "Bublik-Suski" [level=2] [ref=e459]:
+                - text: Bublik-Suski
+                - img [ref=e461]
+          - listitem [ref=e462]:
+            - heading "Bublik-Suski" [level=2] [ref=e466]:
+              - text: Bublik-Suski
+              - img [ref=e468]
+          - listitem [ref=e469]:
+            - link "Bulyon" [ref=e470] [cursor=pointer]:
+              - /url: /collections/bulyon
+              - heading "Bulyon" [level=2] [ref=e473]:
+                - text: Bulyon
+                - img [ref=e475]
+          - listitem [ref=e476]:
+            - link "Bulğur" [ref=e477] [cursor=pointer]:
+              - /url: /collections/bulgur
+              - heading "Bulğur" [level=2] [ref=e480]:
+                - text: Bulğur
+                - img [ref=e482]
+          - listitem [ref=e483]:
+            - link "Buğda Unu" [ref=e484] [cursor=pointer]:
+              - /url: /collections/bugda-unu
+              - heading "Buğda Unu" [level=2] [ref=e487]:
+                - text: Buğda Unu
+                - img [ref=e489]
+          - listitem [ref=e490]:
+            - link "Buğday" [ref=e491] [cursor=pointer]:
+              - /url: /collections/bugday
+              - heading "Buğday" [level=2] [ref=e494]:
+                - text: Buğday
+                - img [ref=e496]
+          - listitem [ref=e497]:
+            - link "Bütün Məhsullar" [ref=e498] [cursor=pointer]:
+              - /url: /collections/butun-m%C9%99hsullar
+              - heading "Bütün Məhsullar" [level=2] [ref=e501]:
+                - text: Bütün Məhsullar
+                - img [ref=e503]
+          - listitem [ref=e504]:
+            - link "Bütün Məhsullar - Stoklu" [ref=e505] [cursor=pointer]:
+              - /url: /collections/tum-urunler
+              - heading "Bütün Məhsullar - Stoklu" [level=2] [ref=e508]:
+                - text: Bütün Məhsullar - Stoklu
+                - img [ref=e510]
+          - listitem [ref=e511]:
+            - link "Bıçaq,Çəngəl,Qaşıq" [ref=e512] [cursor=pointer]:
+              - /url: /collections/bicaq-c%C9%99ng%C9%99l-qasiq
+              - heading "Bıçaq,Çəngəl,Qaşıq" [level=2] [ref=e515]:
+                - text: Bıçaq,Çəngəl,Qaşıq
+                - img [ref=e517]
+          - listitem [ref=e518]:
+            - link "Bədən,Əl Kremləri" [ref=e519] [cursor=pointer]:
+              - /url: /collections/b%C9%99d%C9%99n-%C9%99l-kreml%C9%99ri
+              - heading "Bədən,Əl Kremləri" [level=2] [ref=e522]:
+                - text: Bədən,Əl Kremləri
+                - img [ref=e524]
+          - listitem [ref=e525]:
+            - link "Bəhməz" [ref=e526] [cursor=pointer]:
+              - /url: /collections/b%C9%99hm%C9%99z
+              - heading "Bəhməz" [level=2] [ref=e529]:
+                - text: Bəhməz
+                - img [ref=e531]
+          - listitem [ref=e532]:
+            - link "Bərk Meyvələr" [ref=e533] [cursor=pointer]:
+              - /url: /collections/b%C9%99rk-meyv%C9%99l%C9%99r
+              - heading "Bərk Meyvələr" [level=2] [ref=e536]:
+                - text: Bərk Meyvələr
+                - img [ref=e538]
+          - listitem [ref=e539]:
+            - link "Camış qatığı" [ref=e540] [cursor=pointer]:
+              - /url: /collections/camis-qatigi
+              - heading "Camış qatığı" [level=2] [ref=e543]:
+                - text: Camış qatığı
+                - img [ref=e545]
+          - listitem [ref=e546]:
+            - link "Canlı Bitki" [ref=e547] [cursor=pointer]:
+              - /url: /collections/canli-bitki
+              - heading "Canlı Bitki" [level=2] [ref=e550]:
+                - text: Canlı Bitki
+                - img [ref=e552]
+          - listitem [ref=e553]:
+            - link "Cem" [ref=e554] [cursor=pointer]:
+              - /url: /collections/cem
+              - heading "Cem" [level=2] [ref=e557]:
+                - text: Cem
+                - img [ref=e559]
+          - listitem [ref=e560]:
+            - link "Cib Salfeti" [ref=e561] [cursor=pointer]:
+              - /url: /collections/cib-salfeti
+              - heading "Cib Salfeti" [level=2] [ref=e564]:
+                - text: Cib Salfeti
+                - img [ref=e566]
+          - listitem [ref=e567]:
+            - link "Cin" [ref=e568] [cursor=pointer]:
+              - /url: /collections/cin
+              - heading "Cin" [level=2] [ref=e571]:
+                - text: Cin
+                - img [ref=e573]
+          - listitem [ref=e574]:
+            - link "Corab" [ref=e575] [cursor=pointer]:
+              - /url: /collections/corab
+              - heading "Corab" [level=2] [ref=e578]:
+                - text: Corab
+                - img [ref=e580]
+          - listitem [ref=e581]:
+            - link "Dana İçalat" [ref=e582] [cursor=pointer]:
+              - /url: /collections/dana-i%CC%87calat
+              - heading "Dana İçalat" [level=2] [ref=e585]:
+                - text: Dana İçalat
+                - img [ref=e587]
+          - listitem [ref=e588]:
+            - link "Dana Əti" [ref=e589] [cursor=pointer]:
+              - /url: /collections/dana-%C9%99ti
+              - heading "Dana Əti" [level=2] [ref=e592]:
+                - text: Dana Əti
+                - img [ref=e594]
+          - listitem [ref=e595]:
+            - link "Daraq" [ref=e596] [cursor=pointer]:
+              - /url: /collections/daraq
+              - heading "Daraq" [level=2] [ref=e599]:
+                - text: Daraq
+                - img [ref=e601]
+          - listitem [ref=e602]:
+            - heading "Darı" [level=2] [ref=e606]:
+              - text: Darı
+              - img [ref=e608]
+          - listitem [ref=e609]:
+            - link "Dekorasiya" [ref=e610] [cursor=pointer]:
+              - /url: /collections/dekorasiya
+              - heading "Dekorasiya" [level=2] [ref=e613]:
+                - text: Dekorasiya
+                - img [ref=e615]
+          - listitem [ref=e616]:
+            - link "Dekorasiya Xırdavatı" [ref=e617] [cursor=pointer]:
+              - /url: /collections/dekorasiya-xirdavati
+              - heading "Dekorasiya Xırdavatı" [level=2] [ref=e620]:
+                - text: Dekorasiya Xırdavatı
+                - img [ref=e622]
+          - listitem [ref=e623]:
+            - link "Deterjan endirim" [ref=e624] [cursor=pointer]:
+              - /url: /collections/deterjan-endirim-1
+              - heading "Deterjan endirim" [level=2] [ref=e627]:
+                - text: Deterjan endirim
+                - img [ref=e629]
+          - listitem [ref=e630]:
+            - link "Deterjan,Təmizlik" [ref=e631] [cursor=pointer]:
+              - /url: /collections/deterjan-t%C9%99mizlik-1
+              - heading "Deterjan,Təmizlik" [level=2] [ref=e634]:
+                - text: Deterjan,Təmizlik
+                - img [ref=e636]
+          - listitem [ref=e637]:
+            - link "Diabetik Məhsullar" [ref=e638] [cursor=pointer]:
+              - /url: /collections/diabetik-m%C9%99hsullar
+              - heading "Diabetik Məhsullar" [level=2] [ref=e641]:
+                - text: Diabetik Məhsullar
+                - img [ref=e643]
+          - listitem [ref=e644]:
+            - link "Diabetik Çörək" [ref=e645] [cursor=pointer]:
+              - /url: /collections/diabetik-cor%C9%99k
+              - heading "Diabetik Çörək" [level=2] [ref=e648]:
+                - text: Diabetik Çörək
+                - img [ref=e650]
+          - listitem [ref=e651]:
+            - heading "Dibçəklər" [level=2] [ref=e655]:
+              - text: Dibçəklər
+              - img [ref=e657]
+          - listitem [ref=e658]:
+            - link "Dietik Məhsullar" [ref=e659] [cursor=pointer]:
+              - /url: /collections/dietik-m%C9%99hsullar
+              - heading "Dietik Məhsullar" [level=2] [ref=e662]:
+                - text: Dietik Məhsullar
+                - img [ref=e664]
+          - listitem [ref=e665]:
+            - heading "Digər Aksesuarlar" [level=2] [ref=e669]:
+              - text: Digər Aksesuarlar
+              - img [ref=e671]
+          - listitem [ref=e672]:
+            - link "Digər Ağ Pendirlər" [ref=e673] [cursor=pointer]:
+              - /url: /collections/dig%C9%99r-ag-pendirl%C9%99r
+              - heading "Digər Ağ Pendirlər" [level=2] [ref=e676]:
+                - text: Digər Ağ Pendirlər
+                - img [ref=e678]
+          - listitem [ref=e679]:
+            - heading "Digər Elektrik Əşyaları" [level=2] [ref=e683]:
+              - text: Digər Elektrik Əşyaları
+              - img [ref=e685]
+          - listitem [ref=e686]:
+            - link "Digər Elektrikli Əşyalar" [ref=e687] [cursor=pointer]:
+              - /url: /collections/dig%C9%99r-elektrikli-%C9%99syalar
+              - heading "Digər Elektrikli Əşyalar" [level=2] [ref=e690]:
+                - text: Digər Elektrikli Əşyalar
+                - img [ref=e692]
+          - listitem [ref=e693]:
+            - link "Digər Ləvazimatlar" [ref=e694] [cursor=pointer]:
+              - /url: /collections/dig%C9%99r-l%C9%99vazimatlar
+              - heading "Digər Ləvazimatlar" [level=2] [ref=e697]:
+                - text: Digər Ləvazimatlar
+                - img [ref=e699]
+          - listitem [ref=e700]:
+            - link "Digər Mətbəx Əşyaları" [ref=e701] [cursor=pointer]:
+              - /url: /collections/dig%C9%99r-m%C9%99tb%C9%99x-%C9%99syalari
+              - heading "Digər Mətbəx Əşyaları" [level=2] [ref=e704]:
+                - text: Digər Mətbəx Əşyaları
+                - img [ref=e706]
+          - listitem [ref=e707]:
+            - link "Digər Soslar" [ref=e708] [cursor=pointer]:
+              - /url: /collections/dig%C9%99r-soslar
+              - heading "Digər Soslar" [level=2] [ref=e711]:
+                - text: Digər Soslar
+                - img [ref=e713]
+          - listitem [ref=e714]:
+            - link "Digər Souslar" [ref=e715] [cursor=pointer]:
+              - /url: /collections/dig%C9%99r-souslar
+              - heading "Digər Souslar" [level=2] [ref=e718]:
+                - text: Digər Souslar
+                - img [ref=e720]
+          - listitem [ref=e721]:
+            - link "Digər Təmizlik Məhsulları" [ref=e722] [cursor=pointer]:
+              - /url: /collections/dig%C9%99r-t%C9%99mizlik-m%C9%99hsullari
+              - heading "Digər Təmizlik Məhsulları" [level=2] [ref=e725]:
+                - text: Digər Təmizlik Məhsulları
+                - img [ref=e727]
+          - listitem [ref=e728]:
+            - link "Diş Fırçası" [ref=e729] [cursor=pointer]:
+              - /url: /collections/dis-fircasi
+              - heading "Diş Fırçası" [level=2] [ref=e732]:
+                - text: Diş Fırçası
+                - img [ref=e734]
+          - listitem [ref=e735]:
+            - link "Diş Məcunu" [ref=e736] [cursor=pointer]:
+              - /url: /collections/dis-m%C9%99cunu
+              - heading "Diş Məcunu" [level=2] [ref=e739]:
+                - text: Diş Məcunu
+                - img [ref=e741]
+          - listitem [ref=e742]:
+            - link "Diş İpləri və Təmizliyi" [ref=e743] [cursor=pointer]:
+              - /url: /collections/dis-i%CC%87pl%C9%99ri-v%C9%99-t%C9%99mizliyi
+              - heading "Diş İpləri və Təmizliyi" [level=2] [ref=e746]:
+                - text: Diş İpləri və Təmizliyi
+                - img [ref=e748]
+          - listitem [ref=e749]:
+            - link "Dodaq Qoruyucular" [ref=e750] [cursor=pointer]:
+              - /url: /collections/dodaq-qoruyucular
+              - heading "Dodaq Qoruyucular" [level=2] [ref=e753]:
+                - text: Dodaq Qoruyucular
+                - img [ref=e755]
+          - listitem [ref=e756]:
+            - link "Dondurma" [ref=e757] [cursor=pointer]:
+              - /url: /collections/dondurma
+              - heading "Dondurma" [level=2] [ref=e760]:
+                - text: Dondurma
+                - img [ref=e762]
+          - listitem [ref=e763]:
+            - link "Dondurma endirimi" [ref=e764] [cursor=pointer]:
+              - /url: /collections/dondurma-endirimi
+              - heading "Dondurma endirimi" [level=2] [ref=e767]:
+                - text: Dondurma endirimi
+                - img [ref=e769]
+          - listitem [ref=e770]:
+            - link "Dondurulmuş Meyvə-Tərəvəz" [ref=e771] [cursor=pointer]:
+              - /url: /collections/dondurulmus-meyv%C9%99-t%C9%99r%C9%99v%C9%99z
+              - heading "Dondurulmuş Meyvə-Tərəvəz" [level=2] [ref=e774]:
+                - text: Dondurulmuş Meyvə-Tərəvəz
+                - img [ref=e776]
+          - listitem [ref=e777]:
+            - link "Dondurulmuş Qida" [ref=e778] [cursor=pointer]:
+              - /url: /collections/dondurulmus-qida
+              - heading "Dondurulmuş Qida" [level=2] [ref=e781]:
+                - text: Dondurulmuş Qida
+                - img [ref=e783]
+          - listitem [ref=e784]:
+            - link "Dondurulmuş Toyuq" [ref=e785] [cursor=pointer]:
+              - /url: /collections/dondurulmus-toyuq
+              - heading "Dondurulmuş Toyuq" [level=2] [ref=e788]:
+                - text: Dondurulmuş Toyuq
+                - img [ref=e790]
+          - listitem [ref=e791]:
+            - link "Dondurulmuş Xəmir" [ref=e792] [cursor=pointer]:
+              - /url: /collections/dondurulmus-x%C9%99mir
+              - heading "Dondurulmuş Xəmir" [level=2] [ref=e795]:
+                - text: Dondurulmuş Xəmir
+                - img [ref=e797]
+          - listitem [ref=e798]:
+            - link "Dondurulmuş Ördək,Hinduşka,Bildirçin" [ref=e799] [cursor=pointer]:
+              - /url: /collections/dondurulmus-ord%C9%99k-hinduska-bildircin
+              - heading "Dondurulmuş Ördək,Hinduşka,Bildirçin" [level=2] [ref=e802]:
+                - text: Dondurulmuş Ördək,Hinduşka,Bildirçin
+                - img [ref=e804]
+          - listitem [ref=e805]:
+            - link "Dondurulmuş Ət" [ref=e806] [cursor=pointer]:
+              - /url: /collections/dondurulmus-%C9%99t
+              - heading "Dondurulmuş Ət" [level=2] [ref=e809]:
+                - text: Dondurulmuş Ət
+                - img [ref=e811]
+          - listitem [ref=e812]:
+            - link "Dondurulmuş Ət Məhsulları" [ref=e813] [cursor=pointer]:
+              - /url: /collections/dondurulmus-%C9%99t-m%C9%99hsullari
+              - heading "Dondurulmuş Ət Məhsulları" [level=2] [ref=e816]:
+                - text: Dondurulmuş Ət Məhsulları
+                - img [ref=e818]
+          - listitem [ref=e819]:
+            - link "Dovğa" [ref=e820] [cursor=pointer]:
+              - /url: /collections/dovga
+              - heading "Dovğa" [level=2] [ref=e823]:
+                - text: Dovğa
+                - img [ref=e825]
+          - listitem [ref=e826]:
+            - heading "Doğranmış Meyvələr" [level=2] [ref=e830]:
+              - text: Doğranmış Meyvələr
+              - img [ref=e832]
+          - listitem [ref=e833]:
+            - heading "Doğum Günü Şamı" [level=2] [ref=e837]:
+              - text: Doğum Günü Şamı
+              - img [ref=e839]
+          - listitem [ref=e840]:
+            - link "Draje və Zefirlər" [ref=e841] [cursor=pointer]:
+              - /url: /collections/draje-v%C9%99-zefirl%C9%99r
+              - heading "Draje və Zefirlər" [level=2] [ref=e844]:
+                - text: Draje və Zefirlər
+                - img [ref=e846]
+          - listitem [ref=e847]:
+            - link "Draje Şirniyyatlar" [ref=e848] [cursor=pointer]:
+              - /url: /collections/draje-sirniyyatlar
+              - heading "Draje Şirniyyatlar" [level=2] [ref=e851]:
+                - text: Draje Şirniyyatlar
+                - img [ref=e853]
+          - listitem [ref=e854]:
+            - link "Draje Şokolad" [ref=e855] [cursor=pointer]:
+              - /url: /collections/draje-sokolad
+              - heading "Draje Şokolad" [level=2] [ref=e858]:
+                - text: Draje Şokolad
+                - img [ref=e860]
+          - listitem [ref=e861]:
+            - link "Duru Yağ Günəbaxan" [ref=e862] [cursor=pointer]:
+              - /url: /collections/duru-yag-gun%C9%99baxan
+              - heading "Duru Yağ Günəbaxan" [level=2] [ref=e865]:
+                - text: Duru Yağ Günəbaxan
+                - img [ref=e867]
+          - listitem [ref=e868]:
+            - link "Duru Yağ Qarğıdalı" [ref=e869] [cursor=pointer]:
+              - /url: /collections/duru-yag-qargidali
+              - heading "Duru Yağ Qarğıdalı" [level=2] [ref=e872]:
+                - text: Duru Yağ Qarğıdalı
+                - img [ref=e874]
+          - listitem [ref=e875]:
+            - link "Duz" [ref=e876] [cursor=pointer]:
+              - /url: /collections/duz
+              - heading "Duz" [level=2] [ref=e879]:
+                - text: Duz
+                - img [ref=e881]
+          - listitem [ref=e882]:
+            - link "Duz, Ədviyyat, İçliklər" [ref=e883] [cursor=pointer]:
+              - /url: /collections/duz-edviyyat-i%CC%87clikler
+              - heading "Duz, Ədviyyat, İçliklər" [level=2] [ref=e886]:
+                - text: Duz, Ədviyyat, İçliklər
+                - img [ref=e888]
+          - listitem [ref=e889]:
+            - link "Duz,Yağ Qabı" [ref=e890] [cursor=pointer]:
+              - /url: /collections/duz-yag-qabi
+              - heading "Duz,Yağ Qabı" [level=2] [ref=e893]:
+                - text: Duz,Yağ Qabı
+                - img [ref=e895]
+          - listitem [ref=e896]:
+            - link "Duş Geli" [ref=e897] [cursor=pointer]:
+              - /url: /collections/dus-geli
+              - heading "Duş Geli" [level=2] [ref=e900]:
+                - text: Duş Geli
+                - img [ref=e902]
+          - listitem [ref=e903]:
+            - link "Duş, Hamam, Sabun" [ref=e904] [cursor=pointer]:
+              - /url: /collections/dus-hamam-sabun
+              - heading "Duş, Hamam, Sabun" [level=2] [ref=e907]:
+                - text: Duş, Hamam, Sabun
+                - img [ref=e909]
+          - listitem [ref=e910]:
+            - link "Düyü" [ref=e911] [cursor=pointer]:
+              - /url: /collections/duyu
+              - heading "Düyü" [level=2] [ref=e914]:
+                - text: Düyü
+                - img [ref=e916]
+          - listitem [ref=e917]:
+            - heading "Düyü Makaronları" [level=2] [ref=e921]:
+              - text: Düyü Makaronları
+              - img [ref=e923]
+          - listitem [ref=e924]:
+            - link "Düyü Unları" [ref=e925] [cursor=pointer]:
+              - /url: /collections/duyu-unlari
+              - heading "Düyü Unları" [level=2] [ref=e928]:
+                - text: Düyü Unları
+                - img [ref=e930]
+          - listitem [ref=e931]:
+            - heading "Dəftər" [level=2] [ref=e935]:
+              - text: Dəftər
+              - img [ref=e937]
+          - listitem [ref=e938]:
+            - link "Dəftəxana Ləvazimatları" [ref=e939] [cursor=pointer]:
+              - /url: /collections/d%C9%99ft%C9%99xana-l%C9%99vazimatlari-1
+              - heading "Dəftəxana Ləvazimatları" [level=2] [ref=e942]:
+                - text: Dəftəxana Ləvazimatları
+                - img [ref=e944]
+          - listitem [ref=e945]:
+            - heading "Dəmlik,Südlük" [level=2] [ref=e949]:
+              - text: Dəmlik,Südlük
+              - img [ref=e951]
+          - listitem [ref=e952]:
+            - link "Dəniz Geyimləri" [ref=e953] [cursor=pointer]:
+              - /url: /collections/d%C9%99niz-geyiml%C9%99ri
+              - heading "Dəniz Geyimləri" [level=2] [ref=e956]:
+                - text: Dəniz Geyimləri
+                - img [ref=e958]
+          - listitem [ref=e959]:
+            - link "Dəniz Məhsulları" [ref=e960] [cursor=pointer]:
+              - /url: /collections/d%C9%99niz-m%C9%99hsullari
+              - heading "Dəniz Məhsulları" [level=2] [ref=e963]:
+                - text: Dəniz Məhsulları
+                - img [ref=e965]
+          - listitem [ref=e966]:
+            - link "Dəniz Məhsulu Konservləri" [ref=e967] [cursor=pointer]:
+              - /url: /collections/d%C9%99niz-m%C9%99hsulu-konservl%C9%99ri
+              - heading "Dəniz Məhsulu Konservləri" [level=2] [ref=e970]:
+                - text: Dəniz Məhsulu Konservləri
+                - img [ref=e972]
+          - listitem [ref=e973]:
+            - link "Dəniz Məzələri" [ref=e974] [cursor=pointer]:
+              - /url: /collections/d%C9%99niz-m%C9%99z%C9%99l%C9%99ri
+              - heading "Dəniz Məzələri" [level=2] [ref=e977]:
+                - text: Dəniz Məzələri
+                - img [ref=e979]
+          - listitem [ref=e980]:
+            - link "Dənz,Çimərlik" [ref=e981] [cursor=pointer]:
+              - /url: /collections/d%C9%99nz-cim%C9%99rlik
+              - heading "Dənz,Çimərlik" [level=2] [ref=e984]:
+                - text: Dənz,Çimərlik
+                - img [ref=e986]
+          - listitem [ref=e987]:
+            - link "Dəriyə Qulluq,Tük Tökücülər" [ref=e988] [cursor=pointer]:
+              - /url: /collections/d%C9%99riy%C9%99-qulluq-tuk-tokucul%C9%99r
+              - heading "Dəriyə Qulluq,Tük Tökücülər" [level=2] [ref=e991]:
+                - text: Dəriyə Qulluq,Tük Tökücülər
+                - img [ref=e993]
+          - listitem [ref=e994]:
+            - link "Elektrik Əşyaları" [ref=e995] [cursor=pointer]:
+              - /url: /collections/elektrik-%C9%99syalari
+              - heading "Elektrik Əşyaları" [level=2] [ref=e998]:
+                - text: Elektrik Əşyaları
+                - img [ref=e1000]
+          - listitem [ref=e1001]:
+            - link "Elektrikli Diş Fırçası" [ref=e1002] [cursor=pointer]:
+              - /url: /collections/elektrikli-dis-fircasi
+              - heading "Elektrikli Diş Fırçası" [level=2] [ref=e1005]:
+                - text: Elektrikli Diş Fırçası
+                - img [ref=e1007]
+          - listitem [ref=e1008]:
+            - link "Elektrikli Ev Əşyaları" [ref=e1009] [cursor=pointer]:
+              - /url: /collections/elektrikli-ev-%C9%99syalari
+              - heading "Elektrikli Ev Əşyaları" [level=2] [ref=e1012]:
+                - text: Elektrikli Ev Əşyaları
+                - img [ref=e1014]
+          - listitem [ref=e1015]:
+            - link "Elektrikli Mətbəx Əşyaları" [ref=e1016] [cursor=pointer]:
+              - /url: /collections/elektrikli-m%C9%99tb%C9%99x-%C9%99syalari
+              - heading "Elektrikli Mətbəx Əşyaları" [level=2] [ref=e1019]:
+                - text: Elektrikli Mətbəx Əşyaları
+                - img [ref=e1021]
+          - listitem [ref=e1022]:
+            - link "Elektrikli Şəxsi Baxım Əşyaları" [ref=e1023] [cursor=pointer]:
+              - /url: /collections/elektrikli-s%C9%99xsi-baxim-%C9%99syalari
+              - heading "Elektrikli Şəxsi Baxım Əşyaları" [level=2] [ref=e1026]:
+                - text: Elektrikli Şəxsi Baxım Əşyaları
+                - img [ref=e1028]
+          - listitem [ref=e1029]:
+            - link "Elektron Siqaret" [ref=e1030] [cursor=pointer]:
+              - /url: /collections/elektron-siqaret
+              - heading "Elektron Siqaret" [level=2] [ref=e1033]:
+                - text: Elektron Siqaret
+                - img [ref=e1035]
+          - listitem [ref=e1036]:
+            - link "Elektronika" [ref=e1037] [cursor=pointer]:
+              - /url: /collections/elektronik
+              - heading "Elektronika" [level=2] [ref=e1040]:
+                - text: Elektronika
+                - img [ref=e1042]
+          - listitem [ref=e1043]:
+            - link "Elektronika" [ref=e1044] [cursor=pointer]:
+              - /url: /collections/elektronika
+              - heading "Elektronika" [level=2] [ref=e1047]:
+                - text: Elektronika
+                - img [ref=e1049]
+          - listitem [ref=e1050]:
+            - link "Endirim Sirab" [ref=e1051] [cursor=pointer]:
+              - /url: /collections/endirim-sirab
+              - heading "Endirim Sirab" [level=2] [ref=e1054]:
+                - text: Endirim Sirab
+                - img [ref=e1056]
+          - listitem [ref=e1057]:
+            - link "Endirimli Atışdırmalıq Məhsullar" [ref=e1058] [cursor=pointer]:
+              - /url: /collections/endirimli-atisdirmaliq-mehsullar
+              - heading "Endirimli Atışdırmalıq Məhsullar" [level=2] [ref=e1061]:
+                - text: Endirimli Atışdırmalıq Məhsullar
+                - img [ref=e1063]
+          - listitem [ref=e1064]:
+            - link "Endirimli Deterjan və Təmizlik Məhsulları" [ref=e1065] [cursor=pointer]:
+              - /url: /collections/endirimli-deterjan-ve-temizlik-mehsullari
+              - heading "Endirimli Deterjan və Təmizlik Məhsulları" [level=2] [ref=e1068]:
+                - text: Endirimli Deterjan və Təmizlik Məhsulları
+                - img [ref=e1070]
+          - listitem [ref=e1071]:
+            - link "Endirimli Dondurulmuş Hazır Qida Məhsulları" [ref=e1072] [cursor=pointer]:
+              - /url: /collections/endirimli-dondurulmus-hazir-qida-mehsullari
+              - heading "Endirimli Dondurulmuş Hazır Qida Məhsulları" [level=2] [ref=e1075]:
+                - text: Endirimli Dondurulmuş Hazır Qida Məhsulları
+                - img [ref=e1077]
+          - listitem [ref=e1078]:
+            - link "Endirimli Ev və Bağ Məhsulları" [ref=e1079] [cursor=pointer]:
+              - /url: /collections/endirimli-ev-ve-bag-mehsullari
+              - heading "Endirimli Ev və Bağ Məhsulları" [level=2] [ref=e1082]:
+                - text: Endirimli Ev və Bağ Məhsulları
+                - img [ref=e1084]
+          - listitem [ref=e1085]:
+            - heading "Endirimli Kateqoriyalar" [level=2] [ref=e1089]:
+              - text: Endirimli Kateqoriyalar
+              - img [ref=e1091]
+          - listitem [ref=e1092]:
+            - link "Endirimli Məhsullar" [ref=e1093] [cursor=pointer]:
+              - /url: /collections/endirimli-mehsullar
+              - heading "Endirimli Məhsullar" [level=2] [ref=e1096]:
+                - text: Endirimli Məhsullar
+                - img [ref=e1098]
+          - listitem [ref=e1099]:
+            - link "Endirimli Süd və Səhər Yeməyi Məhsulları" [ref=e1100] [cursor=pointer]:
+              - /url: /collections/endirimli-sud-ve-seher-yemeyi-mehsullari
+              - heading "Endirimli Süd və Səhər Yeməyi Məhsulları" [level=2] [ref=e1103]:
+                - text: Endirimli Süd və Səhər Yeməyi Məhsulları
+                - img [ref=e1105]
+          - listitem [ref=e1106]:
+            - link "Endirimli Təməl Qida Məhsulları" [ref=e1107] [cursor=pointer]:
+              - /url: /collections/endirimli-temel-qida-mehsullari
+              - heading "Endirimli Təməl Qida Məhsulları" [level=2] [ref=e1110]:
+                - text: Endirimli Təməl Qida Məhsulları
+                - img [ref=e1112]
+          - listitem [ref=e1113]:
+            - link "Endirimli Un ve Unlu Məhsullar" [ref=e1114] [cursor=pointer]:
+              - /url: /collections/endirimli-un-ve-unlu-mehsullar
+              - heading "Endirimli Un ve Unlu Məhsullar" [level=2] [ref=e1117]:
+                - text: Endirimli Un ve Unlu Məhsullar
+                - img [ref=e1119]
+          - listitem [ref=e1120]:
+            - link "Endirimli Uşaq Məhsulları" [ref=e1121] [cursor=pointer]:
+              - /url: /collections/endirimli-usaq-mehsullari
+              - heading "Endirimli Uşaq Məhsulları" [level=2] [ref=e1124]:
+                - text: Endirimli Uşaq Məhsulları
+                - img [ref=e1126]
+          - listitem [ref=e1127]:
+            - link "Endirimli İçki Məhsulları" [ref=e1128] [cursor=pointer]:
+              - /url: /collections/endirimli-icki-mehsullari
+              - heading "Endirimli İçki Məhsulları" [level=2] [ref=e1131]:
+                - text: Endirimli İçki Məhsulları
+                - img [ref=e1133]
+          - listitem [ref=e1134]:
+            - link "Endirimli Şəxsi Qulluq Məhsulları" [ref=e1135] [cursor=pointer]:
+              - /url: /collections/endirimli-sexsi-qulluq-mehsullari
+              - heading "Endirimli Şəxsi Qulluq Məhsulları" [level=2] [ref=e1138]:
+                - text: Endirimli Şəxsi Qulluq Məhsulları
+                - img [ref=e1140]
+          - listitem [ref=e1141]:
+            - link "Endirimli Ət, Toyuq, Balıq Məhsulları" [ref=e1142] [cursor=pointer]:
+              - /url: /collections/endirimli-et-toyuq-baliq-mehsullari
+              - heading "Endirimli Ət, Toyuq, Balıq Məhsulları" [level=2] [ref=e1145]:
+                - text: Endirimli Ət, Toyuq, Balıq Məhsulları
+                - img [ref=e1147]
+          - listitem [ref=e1148]:
+            - link "Enerji İçkiləri" [ref=e1149] [cursor=pointer]:
+              - /url: /collections/enerji-i%CC%87ckil%C9%99ri
+              - heading "Enerji İçkiləri" [level=2] [ref=e1152]:
+                - text: Enerji İçkiləri
+                - img [ref=e1154]
+          - listitem [ref=e1155]:
+            - link "Eqzotik Meyvələr" [ref=e1156] [cursor=pointer]:
+              - /url: /collections/eqzotik-meyv%C9%99l%C9%99r
+              - heading "Eqzotik Meyvələr" [level=2] [ref=e1159]:
+                - text: Eqzotik Meyvələr
+                - img [ref=e1161]
+          - listitem [ref=e1162]:
+            - link "Eqzotik Tərəvəzlər" [ref=e1163] [cursor=pointer]:
+              - /url: /collections/eqzotik-t%C9%99r%C9%99v%C9%99zl%C9%99r
+              - heading "Eqzotik Tərəvəzlər" [level=2] [ref=e1166]:
+                - text: Eqzotik Tərəvəzlər
+                - img [ref=e1168]
+          - listitem [ref=e1169]:
+            - link "Eridilmiş Pendir" [ref=e1170] [cursor=pointer]:
+              - /url: /collections/eridilmis-pendir
+              - heading "Eridilmiş Pendir" [level=2] [ref=e1173]:
+                - text: Eridilmiş Pendir
+                - img [ref=e1175]
+          - listitem [ref=e1176]:
+            - link "Etir, Dezodrant,Kolonya" [ref=e1177] [cursor=pointer]:
+              - /url: /collections/etir-dezodrant-kolonya
+              - heading "Etir, Dezodrant,Kolonya" [level=2] [ref=e1180]:
+                - text: Etir, Dezodrant,Kolonya
+                - img [ref=e1182]
+          - listitem [ref=e1183]:
+            - link "Ev və Bağ üçün məhsullar" [ref=e1184] [cursor=pointer]:
+              - /url: /collections/ev-v%C9%99-bag-ucun-m%C9%99hsullar-1
+              - heading "Ev və Bağ üçün məhsullar" [level=2] [ref=e1187]:
+                - text: Ev və Bağ üçün məhsullar
+                - img [ref=e1189]
+          - listitem [ref=e1190]:
+            - heading "Fayl Məhsulları" [level=2] [ref=e1194]:
+              - text: Fayl Məhsulları
+              - img [ref=e1196]
+          - listitem [ref=e1197]:
+            - link "Fincan,Qədəh,Bakal" [ref=e1198] [cursor=pointer]:
+              - /url: /collections/fincan-q%C9%99d%C9%99h-bakal
+              - heading "Fincan,Qədəh,Bakal" [level=2] [ref=e1201]:
+                - text: Fincan,Qədəh,Bakal
+                - img [ref=e1203]
+          - listitem [ref=e1204]:
+            - link "Firin,Pastane" [ref=e1205] [cursor=pointer]:
+              - /url: /collections/firin-pastane
+              - heading "Firin,Pastane" [level=2] [ref=e1208]:
+                - text: Firin,Pastane
+                - img [ref=e1210]
+          - listitem [ref=e1211]:
+            - link "Fiyat 0" [ref=e1212] [cursor=pointer]:
+              - /url: /collections/fiyat-0
+              - heading "Fiyat 0" [level=2] [ref=e1215]:
+                - text: Fiyat 0
+                - img [ref=e1217]
+          - listitem [ref=e1218]:
+            - heading "Form Çörəklər" [level=2] [ref=e1222]:
+              - text: Form Çörəklər
+              - img [ref=e1224]
+          - listitem [ref=e1225]:
+            - link "Fındıq" [ref=e1226] [cursor=pointer]:
+              - /url: /collections/findiq
+              - heading "Fındıq" [level=2] [ref=e1229]:
+                - text: Fındıq
+                - img [ref=e1231]
+          - listitem [ref=e1232]:
+            - heading "Fındıq" [level=2] [ref=e1236]:
+              - text: Fındıq
+              - img [ref=e1238]
+          - listitem [ref=e1239]:
+            - link "Fırçalar" [ref=e1240] [cursor=pointer]:
+              - /url: /collections/fircalar
+              - heading "Fırçalar" [level=2] [ref=e1243]:
+                - text: Fırçalar
+                - img [ref=e1245]
+          - listitem [ref=e1246]:
+            - link "Fıstıq" [ref=e1247] [cursor=pointer]:
+              - /url: /collections/fistiq
+              - heading "Fıstıq" [level=2] [ref=e1250]:
+                - text: Fıstıq
+                - img [ref=e1252]
+          - listitem [ref=e1253]:
+            - link "Fıstıq" [ref=e1254] [cursor=pointer]:
+              - /url: /collections/fistiq-1
+              - heading "Fıstıq" [level=2] [ref=e1257]:
+                - text: Fıstıq
+                - img [ref=e1259]
+          - listitem [ref=e1260]:
+            - link "Fıstıq" [ref=e1261] [cursor=pointer]:
+              - /url: /collections/fistiq-2
+              - heading "Fıstıq" [level=2] [ref=e1264]:
+                - text: Fıstıq
+                - img [ref=e1266]
+          - listitem [ref=e1267]:
+            - link "Garnier Fructis Şampun" [ref=e1268] [cursor=pointer]:
+              - /url: /collections/garnier-fructis-sampun
+              - heading "Garnier Fructis Şampun" [level=2] [ref=e1271]:
+                - text: Garnier Fructis Şampun
+                - img [ref=e1273]
+          - listitem [ref=e1274]:
+            - link "Gel Sabun" [ref=e1275] [cursor=pointer]:
+              - /url: /collections/gel-sabun
+              - heading "Gel Sabun" [level=2] [ref=e1278]:
+                - text: Gel Sabun
+                - img [ref=e1280]
+          - listitem [ref=e1281]:
+            - link "Geyim" [ref=e1282] [cursor=pointer]:
+              - /url: /collections/geyim
+              - heading "Geyim" [level=2] [ref=e1285]:
+                - text: Geyim
+                - img [ref=e1287]
+          - listitem [ref=e1288]:
+            - link "Ghee Yağ" [ref=e1289] [cursor=pointer]:
+              - /url: /collections/ghee-yag
+              - heading "Ghee Yağ" [level=2] [ref=e1292]:
+                - text: Ghee Yağ
+                - img [ref=e1294]
+          - listitem [ref=e1295]:
+            - link "Göbələk" [ref=e1296] [cursor=pointer]:
+              - /url: /collections/gob%C9%99l%C9%99k
+              - heading "Göbələk" [level=2] [ref=e1299]:
+                - text: Göbələk
+                - img [ref=e1301]
+          - listitem [ref=e1302]:
+            - link "Göyərti, Kahı, Yarpaq" [ref=e1303] [cursor=pointer]:
+              - /url: /collections/goy%C9%99rti-kahi-yarpaq
+              - heading "Göyərti, Kahı, Yarpaq" [level=2] [ref=e1306]:
+                - text: Göyərti, Kahı, Yarpaq
+                - img [ref=e1308]
+          - listitem [ref=e1309]:
+            - link "Göyərti,Yarpaq" [ref=e1310] [cursor=pointer]:
+              - /url: /collections/goy%C9%99rti-yarpaq
+              - heading "Göyərti,Yarpaq" [level=2] [ref=e1313]:
+                - text: Göyərti,Yarpaq
+                - img [ref=e1315]
+          - listitem [ref=e1316]:
+            - heading "Göz Qələmi" [level=2] [ref=e1320]:
+              - text: Göz Qələmi
+              - img [ref=e1322]
+          - listitem [ref=e1323]:
+            - heading "Gün Eynəyi" [level=2] [ref=e1327]:
+              - text: Gün Eynəyi
+              - img [ref=e1329]
+          - listitem [ref=e1330]:
+            - link "Günlük Bez" [ref=e1331] [cursor=pointer]:
+              - /url: /collections/gunluk-bez
+              - heading "Günlük Bez" [level=2] [ref=e1334]:
+                - text: Günlük Bez
+                - img [ref=e1336]
+          - listitem [ref=e1337]:
+            - heading "Günlük Süd" [level=2] [ref=e1341]:
+              - text: Günlük Süd
+              - img [ref=e1343]
+          - listitem [ref=e1344]:
+            - heading "Günün məhsulu" [level=2] [ref=e1348]:
+              - text: Günün məhsulu
+              - img [ref=e1350]
+          - listitem [ref=e1351]:
+            - link "Günəbaxan Tumu" [ref=e1352] [cursor=pointer]:
+              - /url: /collections/gun%C9%99baxan-tumu
+              - heading "Günəbaxan Tumu" [level=2] [ref=e1355]:
+                - text: Günəbaxan Tumu
+                - img [ref=e1357]
+          - listitem [ref=e1358]:
+            - link "Günəbaxan Tumu" [ref=e1359] [cursor=pointer]:
+              - /url: /collections/gun%C9%99baxan-tumu-1
+              - heading "Günəbaxan Tumu" [level=2] [ref=e1362]:
+                - text: Günəbaxan Tumu
+                - img [ref=e1364]
+          - listitem [ref=e1365]:
+            - link "Günəş Kremləri" [ref=e1366] [cursor=pointer]:
+              - /url: /collections/gun%C9%99s-kreml%C9%99ri
+              - heading "Günəş Kremləri" [level=2] [ref=e1369]:
+                - text: Günəş Kremləri
+                - img [ref=e1371]
+          - listitem [ref=e1372]:
+            - link "Günəş Kremləri" [ref=e1373] [cursor=pointer]:
+              - /url: /collections/gun%C9%99s-kreml%C9%99ri-1
+              - heading "Günəş Kremləri" [level=2] [ref=e1376]:
+                - text: Günəş Kremləri
+                - img [ref=e1378]
+          - listitem [ref=e1379]:
+            - link "Günəş Sonrası Məhsullar" [ref=e1380] [cursor=pointer]:
+              - /url: /collections/gun%C9%99s-sonrasi-m%C9%99hsullar
+              - heading "Günəş Sonrası Məhsullar" [level=2] [ref=e1383]:
+                - text: Günəş Sonrası Məhsullar
+                - img [ref=e1385]
+          - listitem [ref=e1386]:
+            - heading "Güzgü" [level=2] [ref=e1390]:
+              - text: Güzgü
+              - img [ref=e1392]
+          - listitem [ref=e1393]:
+            - link "Halva" [ref=e1394] [cursor=pointer]:
+              - /url: /collections/halva
+              - heading "Halva" [level=2] [ref=e1397]:
+                - text: Halva
+                - img [ref=e1399]
+          - listitem [ref=e1400]:
+            - link "Hamam Avadanlıqları" [ref=e1401] [cursor=pointer]:
+              - /url: /collections/hamam-avadanliqlari
+              - heading "Hamam Avadanlıqları" [level=2] [ref=e1404]:
+                - text: Hamam Avadanlıqları
+                - img [ref=e1406]
+          - listitem [ref=e1407]:
+            - link "Hamam Duzları" [ref=e1408] [cursor=pointer]:
+              - /url: /collections/hamam-duzlari
+              - heading "Hamam Duzları" [level=2] [ref=e1411]:
+                - text: Hamam Duzları
+                - img [ref=e1413]
+          - listitem [ref=e1414]:
+            - link "Hamam Dəsmalı" [ref=e1415] [cursor=pointer]:
+              - /url: /collections/hamam-d%C9%99smali
+              - heading "Hamam Dəsmalı" [level=2] [ref=e1418]:
+                - text: Hamam Dəsmalı
+                - img [ref=e1420]
+          - listitem [ref=e1421]:
+            - link "Hamam Köpükləri" [ref=e1422] [cursor=pointer]:
+              - /url: /collections/hamam-kopukl%C9%99ri
+              - heading "Hamam Köpükləri" [level=2] [ref=e1425]:
+                - text: Hamam Köpükləri
+                - img [ref=e1427]
+          - listitem [ref=e1428]:
+            - link "Hamam Lif-Süngərləri" [ref=e1429] [cursor=pointer]:
+              - /url: /collections/hamam-lif-sung%C9%99rl%C9%99ri
+              - heading "Hamam Lif-Süngərləri" [level=2] [ref=e1432]:
+                - text: Hamam Lif-Süngərləri
+                - img [ref=e1434]
+          - listitem [ref=e1435]:
+            - heading "Hamam Setləri" [level=2] [ref=e1439]:
+              - text: Hamam Setləri
+              - img [ref=e1441]
+          - listitem [ref=e1442]:
+            - link "Hamısı 1 - 3 AZN" [ref=e1443] [cursor=pointer]:
+              - /url: /collections/hamisi-1-5-azn
+              - generic [ref=e1445]:
+                - heading "Hamısı 1 - 3 AZN" [level=2] [ref=e1446]
+                - paragraph [ref=e1447]:
+                  - img [ref=e1449]
+          - listitem [ref=e1450]:
+            - heading "Hazır Bakliyyat" [level=2] [ref=e1454]:
+              - text: Hazır Bakliyyat
+              - img [ref=e1456]
+          - listitem [ref=e1457]:
+            - link "Hazır Dəniz Məhsulları" [ref=e1458] [cursor=pointer]:
+              - /url: /collections/hazir-d%C9%99niz-m%C9%99hsullari
+              - heading "Hazır Dəniz Məhsulları" [level=2] [ref=e1461]:
+                - text: Hazır Dəniz Məhsulları
+                - img [ref=e1463]
+          - listitem [ref=e1464]:
+            - link "Hazır Tort və Piroqlar" [ref=e1465] [cursor=pointer]:
+              - /url: /collections/hazir-tort-v%C9%99-piroqlar
+              - heading "Hazır Tort və Piroqlar" [level=2] [ref=e1468]:
+                - text: Hazır Tort və Piroqlar
+                - img [ref=e1470]
+          - listitem [ref=e1471]:
+            - link "Hazır Yemeklər" [ref=e1472] [cursor=pointer]:
+              - /url: /collections/hazir-yemekl%C9%99r
+              - heading "Hazır Yemeklər" [level=2] [ref=e1475]:
+                - text: Hazır Yemeklər
+                - img [ref=e1477]
+          - listitem [ref=e1478]:
+            - link "Hazır yeməklər,Donuq" [ref=e1479] [cursor=pointer]:
+              - /url: /collections/hazir-yem%C9%99kl%C9%99r-donuq-1
+              - heading "Hazır yeməklər,Donuq" [level=2] [ref=e1482]:
+                - text: Hazır yeməklər,Donuq
+                - img [ref=e1484]
+          - listitem [ref=e1485]:
+            - link "Heyvan Oyuncaqları" [ref=e1486] [cursor=pointer]:
+              - /url: /collections/heyvan-oyuncaqlari
+              - heading "Heyvan Oyuncaqları" [level=2] [ref=e1489]:
+                - text: Heyvan Oyuncaqları
+                - img [ref=e1491]
+          - listitem [ref=e1492]:
+            - heading "Heyvan Sağlıq Məhsulları" [level=2] [ref=e1496]:
+              - text: Heyvan Sağlıq Məhsulları
+              - img [ref=e1498]
+          - listitem [ref=e1499]:
+            - link "Heyvan Yemləri" [ref=e1500] [cursor=pointer]:
+              - /url: /collections/heyvan-yeml%C9%99ri
+              - heading "Heyvan Yemləri" [level=2] [ref=e1503]:
+                - text: Heyvan Yemləri
+                - img [ref=e1505]
+          - listitem [ref=e1506]:
+            - link "Heyvan yemlərinə endirim" [ref=e1507] [cursor=pointer]:
+              - /url: /collections/heyvan-yemlerine-endirim
+              - heading "Heyvan yemlərinə endirim" [level=2] [ref=e1510]:
+                - text: Heyvan yemlərinə endirim
+                - img [ref=e1512]
+          - listitem [ref=e1513]:
+            - heading "Hindi İçalat" [level=2] [ref=e1517]:
+              - text: Hindi İçalat
+              - img [ref=e1519]
+          - listitem [ref=e1520]:
+            - heading "Hinduşka Əti" [level=2] [ref=e1524]:
+              - text: Hinduşka Əti
+              - img [ref=e1526]
+          - listitem [ref=e1527]:
+            - link "Hisəverilmiş Balıq" [ref=e1528] [cursor=pointer]:
+              - /url: /collections/his%C9%99verilmis-baliq
+              - heading "Hisəverilmiş Balıq" [level=2] [ref=e1531]:
+                - text: Hisəverilmiş Balıq
+                - img [ref=e1533]
+          - listitem [ref=e1534]:
+            - link "Hisəverilmiş Kolbasa" [ref=e1535] [cursor=pointer]:
+              - /url: /collections/his%C9%99verilmis-kolbasa
+              - heading "Hisəverilmiş Kolbasa" [level=2] [ref=e1538]:
+                - text: Hisəverilmiş Kolbasa
+                - img [ref=e1540]
+          - listitem [ref=e1541]:
+            - link "Hisəverilmiş Ət" [ref=e1542] [cursor=pointer]:
+              - /url: /collections/his%C9%99verilmis-%C9%99t
+              - heading "Hisəverilmiş Ət" [level=2] [ref=e1545]:
+                - text: Hisəverilmiş Ət
+                - img [ref=e1547]
+          - listitem [ref=e1548]:
+            - link "Hədiyyelik Şokolad" [ref=e1549] [cursor=pointer]:
+              - /url: /collections/h%C9%99diyyelik-sokolad
+              - heading "Hədiyyelik Şokolad" [level=2] [ref=e1552]:
+                - text: Hədiyyelik Şokolad
+                - img [ref=e1554]
+          - listitem [ref=e1555]:
+            - link "Hədiyyəlik Peçenyə" [ref=e1556] [cursor=pointer]:
+              - /url: /collections/h%C9%99diyy%C9%99lik-peceny%C9%99
+              - heading "Hədiyyəlik Peçenyə" [level=2] [ref=e1559]:
+                - text: Hədiyyəlik Peçenyə
+                - img [ref=e1561]
+          - listitem [ref=e1562]:
+            - heading "Hədiyyəlik Çanta" [level=2] [ref=e1566]:
+              - text: Hədiyyəlik Çanta
+              - img [ref=e1568]
+          - listitem [ref=e1569]:
+            - link "Həsərat Öldürücülər" [ref=e1570] [cursor=pointer]:
+              - /url: /collections/h%C9%99s%C9%99rat-oldurucul%C9%99r
+              - heading "Həsərat Öldürücülər" [level=2] [ref=e1573]:
+                - text: Həsərat Öldürücülər
+                - img [ref=e1575]
+          - listitem [ref=e1576]:
+            - link "insert - 18-31 iyul" [ref=e1577] [cursor=pointer]:
+              - /url: /collections/insert-18-31-iyul
+              - heading "insert - 18-31 iyul" [level=2] [ref=e1580]:
+                - text: insert - 18-31 iyul
+                - img [ref=e1582]
+          - listitem [ref=e1583]:
+            - link "Jele" [ref=e1584] [cursor=pointer]:
+              - /url: /collections/jele
+              - heading "Jele" [level=2] [ref=e1587]:
+                - text: Jele
+                - img [ref=e1589]
+          - listitem [ref=e1590]:
+            - link "Jelibom" [ref=e1591] [cursor=pointer]:
+              - /url: /collections/jelibom
+              - heading "Jelibom" [level=2] [ref=e1594]:
+                - text: Jelibom
+                - img [ref=e1596]
+          - listitem [ref=e1597]:
+            - link "Kabab Sosları" [ref=e1598] [cursor=pointer]:
+              - /url: /collections/kabab-soslari
+              - heading "Kabab Sosları" [level=2] [ref=e1601]:
+                - text: Kabab Sosları
+                - img [ref=e1603]
+          - listitem [ref=e1604]:
+            - link "Kadayiflər" [ref=e1605] [cursor=pointer]:
+              - /url: /collections/kadayifl%C9%99r
+              - heading "Kadayiflər" [level=2] [ref=e1608]:
+                - text: Kadayiflər
+                - img [ref=e1610]
+          - listitem [ref=e1611]:
+            - link "Kagızlar" [ref=e1612] [cursor=pointer]:
+              - /url: /collections/kagizlar
+              - heading "Kagızlar" [level=2] [ref=e1615]:
+                - text: Kagızlar
+                - img [ref=e1617]
+          - listitem [ref=e1618]:
+            - link "Kaju" [ref=e1619] [cursor=pointer]:
+              - /url: /collections/kaju
+              - heading "Kaju" [level=2] [ref=e1622]:
+                - text: Kaju
+                - img [ref=e1624]
+          - listitem [ref=e1625]:
+            - link "Kakao" [ref=e1626] [cursor=pointer]:
+              - /url: /collections/kakao
+              - heading "Kakao" [level=2] [ref=e1629]:
+                - text: Kakao
+                - img [ref=e1631]
+          - listitem [ref=e1632]:
+            - link "Kalqotka" [ref=e1633] [cursor=pointer]:
+              - /url: /collections/kalqotka
+              - heading "Kalqotka" [level=2] [ref=e1636]:
+                - text: Kalqotka
+                - img [ref=e1638]
+          - listitem [ref=e1639]:
+            - link "Kampaniyalar Endirimlər - Günün endirimi · Ən son endirimlər · Super maqazin ·..." [ref=e1640] [cursor=pointer]:
+              - /url: /collections/kampaniyalar
+              - generic [ref=e1642]:
+                - heading "Kampaniyalar" [level=2] [ref=e1643]
+                - paragraph [ref=e1644]:
+                  - text: Endirimlər - Günün endirimi · Ən son endirimlər · Super maqazin ·...
+                  - img [ref=e1646]
+          - listitem [ref=e1647]:
+            - link "Kartof Çipsiləri" [ref=e1648] [cursor=pointer]:
+              - /url: /collections/kartof-cipsil%C9%99ri
+              - heading "Kartof Çipsiləri" [level=2] [ref=e1651]:
+                - text: Kartof Çipsiləri
+                - img [ref=e1653]
+          - listitem [ref=e1654]:
+            - link "Katof,Soğan,Sarımsaq" [ref=e1655] [cursor=pointer]:
+              - /url: /collections/katof-sogan-sarimsaq
+              - heading "Katof,Soğan,Sarımsaq" [level=2] [ref=e1658]:
+                - text: Katof,Soğan,Sarımsaq
+                - img [ref=e1660]
+          - listitem [ref=e1661]:
+            - link "Kefir" [ref=e1662] [cursor=pointer]:
+              - /url: /collections/kefir
+              - heading "Kefir" [level=2] [ref=e1665]:
+                - text: Kefir
+                - img [ref=e1667]
+          - listitem [ref=e1668]:
+            - link "Keks" [ref=e1669] [cursor=pointer]:
+              - /url: /collections/keks
+              - heading "Keks" [level=2] [ref=e1672]:
+                - text: Keks
+                - img [ref=e1674]
+          - listitem [ref=e1675]:
+            - link "Keks,Biskivit" [ref=e1676] [cursor=pointer]:
+              - /url: /collections/keks-biskivit
+              - heading "Keks,Biskivit" [level=2] [ref=e1679]:
+                - text: Keks,Biskivit
+                - img [ref=e1681]
+          - listitem [ref=e1682]:
+            - link "Kekslər" [ref=e1683] [cursor=pointer]:
+              - /url: /collections/keksl%C9%99r
+              - heading "Kekslər" [level=2] [ref=e1686]:
+                - text: Kekslər
+                - img [ref=e1688]
+          - listitem [ref=e1689]:
+            - link "Kekun" [ref=e1690] [cursor=pointer]:
+              - /url: /collections/kekun
+              - heading "Kekun" [level=2] [ref=e1693]:
+                - text: Kekun
+                - img [ref=e1695]
+          - listitem [ref=e1696]:
+            - heading "Ketan Toxumu" [level=2] [ref=e1700]:
+              - text: Ketan Toxumu
+              - img [ref=e1702]
+          - listitem [ref=e1703]:
+            - link "Ketcup" [ref=e1704] [cursor=pointer]:
+              - /url: /collections/ketcup
+              - heading "Ketcup" [level=2] [ref=e1707]:
+                - text: Ketcup
+                - img [ref=e1709]
+          - listitem [ref=e1710]:
+            - link "KG Gelenler" [ref=e1711] [cursor=pointer]:
+              - /url: /collections/kg-gelenler
+              - heading "KG Gelenler" [level=2] [ref=e1714]:
+                - text: KG Gelenler
+                - img [ref=e1716]
+          - listitem [ref=e1717]:
+            - heading "Kinoa" [level=2] [ref=e1721]:
+              - text: Kinoa
+              - img [ref=e1723]
+          - listitem [ref=e1724]:
+            - link "Kirəc Təmizləyici" [ref=e1725] [cursor=pointer]:
+              - /url: /collections/kir%C9%99c-t%C9%99mizl%C9%99yici
+              - heading "Kirəc Təmizləyici" [level=2] [ref=e1728]:
+                - text: Kirəc Təmizləyici
+                - img [ref=e1730]
+          - listitem [ref=e1731]:
+            - link "Kiçik Ev Əşyaları" [ref=e1732] [cursor=pointer]:
+              - /url: /collections/kicik-ev-%C9%99syalari
+              - heading "Kiçik Ev Əşyaları" [level=2] [ref=e1735]:
+                - text: Kiçik Ev Əşyaları
+                - img [ref=e1737]
+          - listitem [ref=e1738]:
+            - link "Kişi Corab" [ref=e1739] [cursor=pointer]:
+              - /url: /collections/kisi-corab
+              - heading "Kişi Corab" [level=2] [ref=e1742]:
+                - text: Kişi Corab
+                - img [ref=e1744]
+          - listitem [ref=e1745]:
+            - link "Kişi Ətirləri" [ref=e1746] [cursor=pointer]:
+              - /url: /collections/kisi-%C9%99tirl%C9%99ri
+              - heading "Kişi Ətirləri" [level=2] [ref=e1749]:
+                - text: Kişi Ətirləri
+                - img [ref=e1751]
+          - listitem [ref=e1752]:
+            - link "Kişisəl Baxım, Kosmetik, Sağlıq" [ref=e1753] [cursor=pointer]:
+              - /url: /collections/kisis%C9%99l-baxim-kosmetik-sagliq
+              - heading "Kişisəl Baxım, Kosmetik, Sağlıq" [level=2] [ref=e1756]:
+                - text: Kişisəl Baxım, Kosmetik, Sağlıq
+                - img [ref=e1758]
+          - listitem [ref=e1759]:
+            - link "Kofe" [ref=e1760] [cursor=pointer]:
+              - /url: /collections/kofe
+              - heading "Kofe" [level=2] [ref=e1763]:
+                - text: Kofe
+                - img [ref=e1765]
+          - listitem [ref=e1766]:
+            - link "Kofe Kremi, Kakao, Süd Tozu" [ref=e1767] [cursor=pointer]:
+              - /url: /collections/kofe-kremi-kakao-sud-tozu
+              - heading "Kofe Kremi, Kakao, Süd Tozu" [level=2] [ref=e1770]:
+                - text: Kofe Kremi, Kakao, Süd Tozu
+                - img [ref=e1772]
+          - listitem [ref=e1773]:
+            - link "Kolalı İçkilər" [ref=e1774] [cursor=pointer]:
+              - /url: /collections/kolali-i%CC%87ckil%C9%99r
+              - heading "Kolalı İçkilər" [level=2] [ref=e1777]:
+                - text: Kolalı İçkilər
+                - img [ref=e1779]
+          - listitem [ref=e1780]:
+            - link "Kolonya" [ref=e1781] [cursor=pointer]:
+              - /url: /collections/kolonya
+              - heading "Kolonya" [level=2] [ref=e1784]:
+                - text: Kolonya
+                - img [ref=e1786]
+          - listitem [ref=e1787]:
+            - link "Kompotlar" [ref=e1788] [cursor=pointer]:
+              - /url: /collections/kompotlar
+              - heading "Kompotlar" [level=2] [ref=e1791]:
+                - text: Kompotlar
+                - img [ref=e1793]
+          - listitem [ref=e1794]:
+            - link "Konfet,Karamel" [ref=e1795] [cursor=pointer]:
+              - /url: /collections/konfet-karamel
+              - heading "Konfet,Karamel" [level=2] [ref=e1798]:
+                - text: Konfet,Karamel
+                - img [ref=e1800]
+          - listitem [ref=e1801]:
+            - link "Konserva" [ref=e1802] [cursor=pointer]:
+              - /url: /collections/konserva
+              - heading "Konserva" [level=2] [ref=e1805]:
+                - text: Konserva
+                - img [ref=e1807]
+          - listitem [ref=e1808]:
+            - link "Konservlər" [ref=e1809] [cursor=pointer]:
+              - /url: /collections/konservl%C9%99r
+              - heading "Konservlər" [level=2] [ref=e1812]:
+                - text: Konservlər
+                - img [ref=e1814]
+          - listitem [ref=e1815]:
+            - link "Konyak, Vermut, Rom" [ref=e1816] [cursor=pointer]:
+              - /url: /collections/konyak-vermut-rom
+              - heading "Konyak, Vermut, Rom" [level=2] [ref=e1819]:
+                - text: Konyak, Vermut, Rom
+                - img [ref=e1821]
+          - listitem [ref=e1822]:
+            - link "Kosmetika,Gigiyena,Sağlıq" [ref=e1823] [cursor=pointer]:
+              - /url: /collections/kosmetika-gigiyena-sagliq-1
+              - heading "Kosmetika,Gigiyena,Sağlıq" [level=2] [ref=e1826]:
+                - text: Kosmetika,Gigiyena,Sağlıq
+                - img [ref=e1828]
+          - listitem [ref=e1829]:
+            - link "Kreker" [ref=e1830] [cursor=pointer]:
+              - /url: /collections/kreker
+              - heading "Kreker" [level=2] [ref=e1833]:
+                - text: Kreker
+                - img [ref=e1835]
+          - listitem [ref=e1836]:
+            - link "Krem" [ref=e1837] [cursor=pointer]:
+              - /url: /collections/krem
+              - heading "Krem" [level=2] [ref=e1840]:
+                - text: Krem
+                - img [ref=e1842]
+          - listitem [ref=e1843]:
+            - link "Krem və Souslar" [ref=e1844] [cursor=pointer]:
+              - /url: /collections/krem-v%C9%99-souslar
+              - heading "Krem və Souslar" [level=2] [ref=e1847]:
+                - text: Krem və Souslar
+                - img [ref=e1849]
+          - listitem [ref=e1850]:
+            - link "Krem Şantilər" [ref=e1851] [cursor=pointer]:
+              - /url: /collections/krem-santil%C9%99r
+              - heading "Krem Şantilər" [level=2] [ref=e1854]:
+                - text: Krem Şantilər
+                - img [ref=e1856]
+          - listitem [ref=e1857]:
+            - link "Krem, Əzmələr" [ref=e1858] [cursor=pointer]:
+              - /url: /collections/krem-ezmeler
+              - heading "Krem, Əzmələr" [level=2] [ref=e1861]:
+                - text: Krem, Əzmələr
+                - img [ref=e1863]
+          - listitem [ref=e1864]:
+            - link "Krokan" [ref=e1865] [cursor=pointer]:
+              - /url: /collections/krokan
+              - heading "Krokan" [level=2] [ref=e1868]:
+                - text: Krokan
+                - img [ref=e1870]
+          - listitem [ref=e1871]:
+            - link "Kruassan" [ref=e1872] [cursor=pointer]:
+              - /url: /collections/kruassan
+              - heading "Kruassan" [level=2] [ref=e1875]:
+                - text: Kruassan
+                - img [ref=e1877]
+          - listitem [ref=e1878]:
+            - link "Kruassan, Piryanik" [ref=e1879] [cursor=pointer]:
+              - /url: /collections/kruassan-piryanik
+              - heading "Kruassan, Piryanik" [level=2] [ref=e1882]:
+                - text: Kruassan, Piryanik
+                - img [ref=e1884]
+          - listitem [ref=e1885]:
+            - link "Kukruz" [ref=e1886] [cursor=pointer]:
+              - /url: /collections/kukruz
+              - heading "Kukruz" [level=2] [ref=e1889]:
+                - text: Kukruz
+                - img [ref=e1891]
+          - listitem [ref=e1892]:
+            - link "Kukruz" [ref=e1893] [cursor=pointer]:
+              - /url: /collections/kukruz-1
+              - heading "Kukruz" [level=2] [ref=e1896]:
+                - text: Kukruz
+                - img [ref=e1898]
+          - listitem [ref=e1899]:
+            - link "Kvaslar" [ref=e1900] [cursor=pointer]:
+              - /url: /collections/kvaslar
+              - heading "Kvaslar" [level=2] [ref=e1903]:
+                - text: Kvaslar
+                - img [ref=e1905]
+          - listitem [ref=e1906]:
+            - link "kütahya porselen" [ref=e1907] [cursor=pointer]:
+              - /url: /collections/kutahya-porselen
+              - heading "kütahya porselen" [level=2] [ref=e1910]:
+                - text: kütahya porselen
+                - img [ref=e1912]
+          - listitem [ref=e1913]:
+            - link "Kənd Qatığı" [ref=e1914] [cursor=pointer]:
+              - /url: /collections/k%C9%99nd-qatigi
+              - heading "Kənd Qatığı" [level=2] [ref=e1917]:
+                - text: Kənd Qatığı
+                - img [ref=e1919]
+          - listitem [ref=e1920]:
+            - link "Kərə Yağı" [ref=e1921] [cursor=pointer]:
+              - /url: /collections/k%C9%99r%C9%99-yagi
+              - heading "Kərə Yağı" [level=2] [ref=e1924]:
+                - text: Kərə Yağı
+                - img [ref=e1926]
+          - listitem [ref=e1927]:
+            - link "Kərə Yağı(çəki)" [ref=e1928] [cursor=pointer]:
+              - /url: /collections/k%C9%99r%C9%99-yagic%C9%99ki
+              - heading "Kərə Yağı(çəki)" [level=2] [ref=e1931]:
+                - text: Kərə Yağı(çəki)
+                - img [ref=e1933]
+          - listitem [ref=e1934]:
+            - link "Kərə Yağı(ədəd)" [ref=e1935] [cursor=pointer]:
+              - /url: /collections/k%C9%99r%C9%99-yagi%C9%99d%C9%99d
+              - heading "Kərə Yağı(ədəd)" [level=2] [ref=e1938]:
+                - text: Kərə Yağı(ədəd)
+                - img [ref=e1940]
+          - listitem [ref=e1941]:
+            - link "Kəsmik" [ref=e1942] [cursor=pointer]:
+              - /url: /collections/k%C9%99smik
+              - heading "Kəsmik" [level=2] [ref=e1945]:
+                - text: Kəsmik
+                - img [ref=e1947]
+          - listitem [ref=e1948]:
+            - link "Lak,Qələm" [ref=e1949] [cursor=pointer]:
+              - /url: /collections/lak-q%C9%99l%C9%99m
+              - heading "Lak,Qələm" [level=2] [ref=e1952]:
+                - text: Lak,Qələm
+                - img [ref=e1954]
+          - listitem [ref=e1955]:
+            - link "Ledo Quattro" [ref=e1956] [cursor=pointer]:
+              - /url: /collections/ledo-quattro
+              - heading "Ledo Quattro" [level=2] [ref=e1959]:
+                - text: Ledo Quattro
+                - img [ref=e1961]
+          - listitem [ref=e1962]:
+            - link "Likor" [ref=e1963] [cursor=pointer]:
+              - /url: /collections/likor
+              - heading "Likor" [level=2] [ref=e1966]:
+                - text: Likor
+                - img [ref=e1968]
+          - listitem [ref=e1969]:
+            - link "Limon Suyu" [ref=e1970] [cursor=pointer]:
+              - /url: /collections/limon-suyu
+              - heading "Limon Suyu" [level=2] [ref=e1973]:
+                - text: Limon Suyu
+                - img [ref=e1975]
+          - listitem [ref=e1976]:
+            - link "Limonadlar" [ref=e1977] [cursor=pointer]:
+              - /url: /collections/limonadlar
+              - heading "Limonadlar" [level=2] [ref=e1980]:
+                - text: Limonadlar
+                - img [ref=e1982]
+          - listitem [ref=e1983]:
+            - link "Lobya" [ref=e1984] [cursor=pointer]:
+              - /url: /collections/lobya
+              - heading "Lobya" [level=2] [ref=e1987]:
+                - text: Lobya
+                - img [ref=e1989]
+          - listitem [ref=e1990]:
+            - link "Lokumlar" [ref=e1991] [cursor=pointer]:
+              - /url: /collections/lokumlar
+              - heading "Lokumlar" [level=2] [ref=e1994]:
+                - text: Lokumlar
+                - img [ref=e1996]
+          - listitem [ref=e1997]:
+            - link "Losyonlar" [ref=e1998] [cursor=pointer]:
+              - /url: /collections/losyonlar
+              - heading "Losyonlar" [level=2] [ref=e2001]:
+                - text: Losyonlar
+                - img [ref=e2003]
+          - listitem [ref=e2004]:
+            - heading "Ləbləbi" [level=2] [ref=e2008]:
+              - text: Ləbləbi
+              - img [ref=e2010]
+          - listitem [ref=e2011]:
+            - heading "Ləkə Çıxarıcılar" [level=2] [ref=e2015]:
+              - text: Ləkə Çıxarıcılar
+              - img [ref=e2017]
+          - listitem [ref=e2018]:
+            - link "Makaron" [ref=e2019] [cursor=pointer]:
+              - /url: /collections/makaron
+              - heading "Makaron" [level=2] [ref=e2022]:
+                - text: Makaron
+                - img [ref=e2024]
+          - listitem [ref=e2025]:
+            - link "Makaron" [ref=e2026] [cursor=pointer]:
+              - /url: /collections/makaron-1
+              - heading "Makaron" [level=2] [ref=e2029]:
+                - text: Makaron
+                - img [ref=e2031]
+          - listitem [ref=e2032]:
+            - link "Makaron Sosları" [ref=e2033] [cursor=pointer]:
+              - /url: /collections/makaron-soslari
+              - heading "Makaron Sosları" [level=2] [ref=e2036]:
+                - text: Makaron Sosları
+                - img [ref=e2038]
+          - listitem [ref=e2039]:
+            - link "Makiyaj, Aksesuarlar" [ref=e2040] [cursor=pointer]:
+              - /url: /collections/makiyaj-aksesuarlar
+              - heading "Makiyaj, Aksesuarlar" [level=2] [ref=e2043]:
+                - text: Makiyaj, Aksesuarlar
+                - img [ref=e2045]
+          - listitem [ref=e2046]:
+            - link "Makyaj Bezi" [ref=e2047] [cursor=pointer]:
+              - /url: /collections/makyaj-bezi
+              - heading "Makyaj Bezi" [level=2] [ref=e2050]:
+                - text: Makyaj Bezi
+                - img [ref=e2052]
+          - listitem [ref=e2053]:
+            - heading "Makyaj Fırçası" [level=2] [ref=e2057]:
+              - text: Makyaj Fırçası
+              - img [ref=e2059]
+          - listitem [ref=e2060]:
+            - link "Makyaj Salfeti" [ref=e2061] [cursor=pointer]:
+              - /url: /collections/makyaj-salfeti
+              - heading "Makyaj Salfeti" [level=2] [ref=e2064]:
+                - text: Makyaj Salfeti
+                - img [ref=e2066]
+          - listitem [ref=e2067]:
+            - link "Manikur,Pedikur" [ref=e2068] [cursor=pointer]:
+              - /url: /collections/manikur-pedikur
+              - heading "Manikur,Pedikur" [level=2] [ref=e2071]:
+                - text: Manikur,Pedikur
+                - img [ref=e2073]
+          - listitem [ref=e2074]:
+            - link "Manna" [ref=e2075] [cursor=pointer]:
+              - /url: /collections/manna
+              - heading "Manna" [level=2] [ref=e2078]:
+                - text: Manna
+                - img [ref=e2080]
+          - listitem [ref=e2081]:
+            - link "Mannı" [ref=e2082] [cursor=pointer]:
+              - /url: /collections/manni
+              - heading "Mannı" [level=2] [ref=e2085]:
+                - text: Mannı
+                - img [ref=e2087]
+          - listitem [ref=e2088]:
+            - link "Manqal Məhsulları" [ref=e2089] [cursor=pointer]:
+              - /url: /collections/manqal-m%C9%99hsullari
+              - heading "Manqal Məhsulları" [level=2] [ref=e2092]:
+                - text: Manqal Məhsulları
+                - img [ref=e2094]
+          - listitem [ref=e2095]:
+            - link "Marqarin" [ref=e2096] [cursor=pointer]:
+              - /url: /collections/marqarin
+              - heading "Marqarin" [level=2] [ref=e2099]:
+                - text: Marqarin
+                - img [ref=e2101]
+          - listitem [ref=e2102]:
+            - link "Marşmellov" [ref=e2103] [cursor=pointer]:
+              - /url: /collections/marsmellov
+              - heading "Marşmellov" [level=2] [ref=e2106]:
+                - text: Marşmellov
+                - img [ref=e2108]
+          - listitem [ref=e2109]:
+            - link "Masa,Oturacaq" [ref=e2110] [cursor=pointer]:
+              - /url: /collections/masa-oturacaq
+              - heading "Masa,Oturacaq" [level=2] [ref=e2113]:
+                - text: Masa,Oturacaq
+                - img [ref=e2115]
+          - listitem [ref=e2116]:
+            - link "Maska,Əlcək" [ref=e2117] [cursor=pointer]:
+              - /url: /collections/maska-%C9%99lc%C9%99k
+              - heading "Maska,Əlcək" [level=2] [ref=e2120]:
+                - text: Maska,Əlcək
+                - img [ref=e2122]
+          - listitem [ref=e2123]:
+            - link "Maya" [ref=e2124] [cursor=pointer]:
+              - /url: /collections/maya
+              - heading "Maya" [level=2] [ref=e2127]:
+                - text: Maya
+                - img [ref=e2129]
+          - listitem [ref=e2130]:
+            - link "Mayalar" [ref=e2131] [cursor=pointer]:
+              - /url: /collections/mayalar
+              - heading "Mayalar" [level=2] [ref=e2134]:
+                - text: Mayalar
+                - img [ref=e2136]
+          - listitem [ref=e2137]:
+            - link "Maye Sabun" [ref=e2138] [cursor=pointer]:
+              - /url: /collections/maye-sabun
+              - heading "Maye Sabun" [level=2] [ref=e2141]:
+                - text: Maye Sabun
+                - img [ref=e2143]
+          - listitem [ref=e2144]:
+            - heading "Mayka Kişi" [level=2] [ref=e2148]:
+              - text: Mayka Kişi
+              - img [ref=e2150]
+          - listitem [ref=e2151]:
+            - link "Mayka Qadın" [ref=e2152] [cursor=pointer]:
+              - /url: /collections/mayka-qadin
+              - heading "Mayka Qadın" [level=2] [ref=e2155]:
+                - text: Mayka Qadın
+                - img [ref=e2157]
+          - listitem [ref=e2158]:
+            - link "Mayonez" [ref=e2159] [cursor=pointer]:
+              - /url: /collections/mayonez
+              - heading "Mayonez" [level=2] [ref=e2162]:
+                - text: Mayonez
+                - img [ref=e2164]
+          - listitem [ref=e2165]:
+            - link "Mebel Təmizləyici" [ref=e2166] [cursor=pointer]:
+              - /url: /collections/mebel-t%C9%99mizl%C9%99yici
+              - heading "Mebel Təmizləyici" [level=2] [ref=e2169]:
+                - text: Mebel Təmizləyici
+                - img [ref=e2171]
+          - listitem [ref=e2172]:
+            - link "Mebel və Aksesuarları" [ref=e2173] [cursor=pointer]:
+              - /url: /collections/mebel-v%C9%99-aksesuarlari
+              - heading "Mebel və Aksesuarları" [level=2] [ref=e2176]:
+                - text: Mebel və Aksesuarları
+                - img [ref=e2178]
+          - listitem [ref=e2179]:
+            - link "Melanj yağı (çəki)" [ref=e2180] [cursor=pointer]:
+              - /url: /collections/melanj-yagi-c%C9%99ki
+              - heading "Melanj yağı (çəki)" [level=2] [ref=e2183]:
+                - text: Melanj yağı (çəki)
+                - img [ref=e2185]
+          - listitem [ref=e2186]:
+            - link "Melanj yağı (ədəd)" [ref=e2187] [cursor=pointer]:
+              - /url: /collections/melanj-yagi-%C9%99d%C9%99d
+              - heading "Melanj yağı (ədəd)" [level=2] [ref=e2190]:
+                - text: Melanj yağı (ədəd)
+                - img [ref=e2192]
+          - listitem [ref=e2193]:
+            - link "Meyvə" [ref=e2194] [cursor=pointer]:
+              - /url: /collections/meyv%C9%99
+              - heading "Meyvə" [level=2] [ref=e2197]:
+                - text: Meyvə
+                - img [ref=e2199]
+          - listitem [ref=e2200]:
+            - heading "Meyvə endirim" [level=2] [ref=e2204]:
+              - text: Meyvə endirim
+              - img [ref=e2206]
+          - listitem [ref=e2207]:
+            - link "Meyvə Suları" [ref=e2208] [cursor=pointer]:
+              - /url: /collections/meyv%C9%99-sulari
+              - heading "Meyvə Suları" [level=2] [ref=e2211]:
+                - text: Meyvə Suları
+                - img [ref=e2213]
+          - listitem [ref=e2214]:
+            - link "Meyvə, Tərəvəz" [ref=e2215] [cursor=pointer]:
+              - /url: /collections/meyva-terevaz
+              - heading "Meyvə, Tərəvəz" [level=2] [ref=e2218]:
+                - text: Meyvə, Tərəvəz
+                - img [ref=e2220]
+          - listitem [ref=e2221]:
+            - link "Meyvə-tərəvəz endirim" [ref=e2222] [cursor=pointer]:
+              - /url: /collections/meyve_terevez_endirim
+              - heading "Meyvə-tərəvəz endirim" [level=2] [ref=e2225]:
+                - text: Meyvə-tərəvəz endirim
+                - img [ref=e2227]
+          - listitem [ref=e2228]:
+            - link "Meyvəli Yoğurt" [ref=e2229] [cursor=pointer]:
+              - /url: /collections/meyv%C9%99li-yogurt
+              - heading "Meyvəli Yoğurt" [level=2] [ref=e2232]:
+                - text: Meyvəli Yoğurt
+                - img [ref=e2234]
+          - listitem [ref=e2235]:
+            - link "Meyvəli, İçməli Yoğurt" [ref=e2236] [cursor=pointer]:
+              - /url: /collections/meyv%C9%99li-i%CC%87cm%C9%99li-yogurt
+              - heading "Meyvəli, İçməli Yoğurt" [level=2] [ref=e2239]:
+                - text: Meyvəli, İçməli Yoğurt
+                - img [ref=e2241]
+          - listitem [ref=e2242]:
+            - link "Mineal Sular" [ref=e2243] [cursor=pointer]:
+              - /url: /collections/mineal-sular
+              - heading "Mineal Sular" [level=2] [ref=e2246]:
+                - text: Mineal Sular
+                - img [ref=e2248]
+          - listitem [ref=e2249]:
+            - link "Mini Keks" [ref=e2250] [cursor=pointer]:
+              - /url: /collections/mini-keks
+              - heading "Mini Keks" [level=2] [ref=e2253]:
+                - text: Mini Keks
+                - img [ref=e2255]
+          - listitem [ref=e2256]:
+            - link "Mini Rulet" [ref=e2257] [cursor=pointer]:
+              - /url: /collections/mini-rulet
+              - heading "Mini Rulet" [level=2] [ref=e2260]:
+                - text: Mini Rulet
+                - img [ref=e2262]
+          - listitem [ref=e2263]:
+            - link "Musli Bar" [ref=e2264] [cursor=pointer]:
+              - /url: /collections/musli-bar
+              - heading "Musli Bar" [level=2] [ref=e2267]:
+                - text: Musli Bar
+                - img [ref=e2269]
+          - listitem [ref=e2270]:
+            - link "Mövsüm Tərəvəzləri" [ref=e2271] [cursor=pointer]:
+              - /url: /collections/movsum-t%C9%99r%C9%99v%C9%99zl%C9%99ri
+              - heading "Mövsüm Tərəvəzləri" [level=2] [ref=e2274]:
+                - text: Mövsüm Tərəvəzləri
+                - img [ref=e2276]
+          - listitem [ref=e2277]:
+            - link "Mürəbbə" [ref=e2278] [cursor=pointer]:
+              - /url: /collections/mur%C9%99bb%C9%99
+              - heading "Mürəbbə" [level=2] [ref=e2281]:
+                - text: Mürəbbə
+                - img [ref=e2283]
+          - listitem [ref=e2284]:
+            - link "Məktəbə qayıdış" [ref=e2285] [cursor=pointer]:
+              - /url: /collections/mektebe-qayidis
+              - heading "Məktəbə qayıdış" [level=2] [ref=e2288]:
+                - text: Məktəbə qayıdış
+                - img [ref=e2290]
+          - listitem [ref=e2291]:
+            - link "Mərci" [ref=e2292] [cursor=pointer]:
+              - /url: /collections/m%C9%99rci
+              - heading "Mərci" [level=2] [ref=e2295]:
+                - text: Mərci
+                - img [ref=e2297]
+          - listitem [ref=e2298]:
+            - link "Mətbəx Dəsmalı" [ref=e2299] [cursor=pointer]:
+              - /url: /collections/m%C9%99tb%C9%99x-d%C9%99smali
+              - heading "Mətbəx Dəsmalı" [level=2] [ref=e2302]:
+                - text: Mətbəx Dəsmalı
+                - img [ref=e2304]
+          - listitem [ref=e2305]:
+            - link "Mətbəx Kağızları" [ref=e2306] [cursor=pointer]:
+              - /url: /collections/m%C9%99tb%C9%99x-kagizlari
+              - heading "Mətbəx Kağızları" [level=2] [ref=e2309]:
+                - text: Mətbəx Kağızları
+                - img [ref=e2311]
+          - listitem [ref=e2312]:
+            - link "Mətbəx Ləvazimatları" [ref=e2313] [cursor=pointer]:
+              - /url: /collections/m%C9%99tb%C9%99x-l%C9%99vazimatlari
+              - heading "Mətbəx Ləvazimatları" [level=2] [ref=e2316]:
+                - text: Mətbəx Ləvazimatları
+                - img [ref=e2318]
+          - listitem [ref=e2319]:
+            - link "Mətbəx Əl Alətləri" [ref=e2320] [cursor=pointer]:
+              - /url: /collections/m%C9%99tb%C9%99x-%C9%99l-al%C9%99tl%C9%99ri
+              - heading "Mətbəx Əl Alətləri" [level=2] [ref=e2323]:
+                - text: Mətbəx Əl Alətləri
+                - img [ref=e2325]
+          - listitem [ref=e2326]:
+            - link "Mətbəx Əşyaları" [ref=e2327] [cursor=pointer]:
+              - /url: /collections/m%C9%99tb%C9%99x-%C9%99syalari
+              - heading "Mətbəx Əşyaları" [level=2] [ref=e2330]:
+                - text: Mətbəx Əşyaları
+                - img [ref=e2332]
+          - listitem [ref=e2333]:
+            - link "Mətbəx-Hamam Təmizliyi" [ref=e2334] [cursor=pointer]:
+              - /url: /collections/m%C9%99tb%C9%99x-hamam-t%C9%99mizliyi
+              - heading "Mətbəx-Hamam Təmizliyi" [level=2] [ref=e2337]:
+                - text: Mətbəx-Hamam Təmizliyi
+                - img [ref=e2339]
+          - listitem [ref=e2340]:
+            - link "Nar Şərab" [ref=e2341] [cursor=pointer]:
+              - /url: /collections/nar-s%C9%99rab
+              - heading "Nar Şərab" [level=2] [ref=e2344]:
+                - text: Nar Şərab
+                - img [ref=e2346]
+          - listitem [ref=e2347]:
+            - link "Nem Salfet" [ref=e2348] [cursor=pointer]:
+              - /url: /collections/nem-salfet
+              - heading "Nem Salfet" [level=2] [ref=e2351]:
+                - text: Nem Salfet
+                - img [ref=e2353]
+          - listitem [ref=e2354]:
+            - link "Newer foods" [ref=e2355] [cursor=pointer]:
+              - /url: /collections/newer-foods
+              - heading "Newer foods" [level=2] [ref=e2358]:
+                - text: Newer foods
+                - img [ref=e2360]
+          - listitem [ref=e2361]:
+            - link "Nişastalar" [ref=e2362] [cursor=pointer]:
+              - /url: /collections/nisastalar
+              - heading "Nişastalar" [level=2] [ref=e2365]:
+                - text: Nişastalar
+                - img [ref=e2367]
+          - listitem [ref=e2368]:
+            - link "Normal Bez" [ref=e2369] [cursor=pointer]:
+              - /url: /collections/normal-bez
+              - heading "Normal Bez" [level=2] [ref=e2372]:
+                - text: Normal Bez
+                - img [ref=e2374]
+          - listitem [ref=e2375]:
+            - link "Normal Makaron" [ref=e2376] [cursor=pointer]:
+              - /url: /collections/normal-makaron
+              - heading "Normal Makaron" [level=2] [ref=e2379]:
+                - text: Normal Makaron
+                - img [ref=e2381]
+          - listitem [ref=e2382]:
+            - link "Normal Çörək" [ref=e2383] [cursor=pointer]:
+              - /url: /collections/normal-cor%C9%99k
+              - heading "Normal Çörək" [level=2] [ref=e2386]:
+                - text: Normal Çörək
+                - img [ref=e2388]
+          - listitem [ref=e2389]:
+            - link "Novruz" [ref=e2390] [cursor=pointer]:
+              - /url: /collections/novruz
+              - heading "Novruz" [level=2] [ref=e2393]:
+                - text: Novruz
+                - img [ref=e2395]
+          - listitem [ref=e2396]:
+            - link "Noxud" [ref=e2397] [cursor=pointer]:
+              - /url: /collections/noxud
+              - heading "Noxud" [level=2] [ref=e2400]:
+                - text: Noxud
+                - img [ref=e2402]
+          - listitem [ref=e2403]:
+            - link "Noğul" [ref=e2404] [cursor=pointer]:
+              - /url: /collections/nogul
+              - heading "Noğul" [level=2] [ref=e2407]:
+                - text: Noğul
+                - img [ref=e2409]
+          - listitem [ref=e2410]:
+            - link "Onlayn Sifarişə Özəl ✨" [ref=e2411] [cursor=pointer]:
+              - /url: /collections/onlayna-ozel
+              - heading "Onlayn Sifarişə Özəl ✨" [level=2] [ref=e2414]:
+                - text: Onlayn Sifarişə Özəl ✨
+                - img [ref=e2416]
+          - listitem [ref=e2417]:
+            - link "Orqanik Məhsullar" [ref=e2418] [cursor=pointer]:
+              - /url: /collections/orqanik-m%C9%99hsullar
+              - heading "Orqanik Məhsullar" [level=2] [ref=e2421]:
+                - text: Orqanik Məhsullar
+                - img [ref=e2423]
+          - listitem [ref=e2424]:
+            - link "Oturacaq Masa" [ref=e2425] [cursor=pointer]:
+              - /url: /collections/oturacaq-masa
+              - heading "Oturacaq Masa" [level=2] [ref=e2428]:
+                - text: Oturacaq Masa
+                - img [ref=e2430]
+          - listitem [ref=e2431]:
+            - link "Oyuncaqlar" [ref=e2432] [cursor=pointer]:
+              - /url: /collections/oyuncaqlar
+              - heading "Oyuncaqlar" [level=2] [ref=e2435]:
+                - text: Oyuncaqlar
+                - img [ref=e2437]
+          - listitem [ref=e2438]:
+            - link "Oyuncaqlı Şokolad" [ref=e2439] [cursor=pointer]:
+              - /url: /collections/oyuncaqli-sokolad
+              - heading "Oyuncaqlı Şokolad" [level=2] [ref=e2442]:
+                - text: Oyuncaqlı Şokolad
+                - img [ref=e2444]
+          - listitem [ref=e2445]:
+            - link "Ozel Liste - Zuccaciye" [ref=e2446] [cursor=pointer]:
+              - /url: /collections/endirimli-ev-ve-metbex-esyalari
+              - heading "Ozel Liste - Zuccaciye" [level=2] [ref=e2449]:
+                - text: Ozel Liste - Zuccaciye
+                - img [ref=e2451]
+          - listitem [ref=e2452]:
+            - link "Oğlan Oyuncaqları" [ref=e2453] [cursor=pointer]:
+              - /url: /collections/oglan-oyuncaqlari
+              - heading "Oğlan Oyuncaqları" [level=2] [ref=e2456]:
+                - text: Oğlan Oyuncaqları
+                - img [ref=e2458]
+          - listitem [ref=e2459]:
+            - link "Padnus, Yemək dəsti" [ref=e2460] [cursor=pointer]:
+              - /url: /collections/padnus-yem%C9%99k-d%C9%99sti
+              - heading "Padnus, Yemək dəsti" [level=2] [ref=e2463]:
+                - text: Padnus, Yemək dəsti
+                - img [ref=e2465]
+          - listitem [ref=e2466]:
+            - link "Paltar Ağardıcılar" [ref=e2467] [cursor=pointer]:
+              - /url: /collections/paltar-agardicilar
+              - heading "Paltar Ağardıcılar" [level=2] [ref=e2470]:
+                - text: Paltar Ağardıcılar
+                - img [ref=e2472]
+          - listitem [ref=e2473]:
+            - link "Paltar Sabunu" [ref=e2474] [cursor=pointer]:
+              - /url: /collections/paltar-sabunu
+              - heading "Paltar Sabunu" [level=2] [ref=e2477]:
+                - text: Paltar Sabunu
+                - img [ref=e2479]
+          - listitem [ref=e2480]:
+            - link "Paltar Təmizlik Məhsulları" [ref=e2481] [cursor=pointer]:
+              - /url: /collections/paltar-t%C9%99mizlik-m%C9%99hsullari
+              - heading "Paltar Təmizlik Məhsulları" [level=2] [ref=e2484]:
+                - text: Paltar Təmizlik Məhsulları
+                - img [ref=e2486]
+          - listitem [ref=e2487]:
+            - link "Paltar Yuma Məhsulları" [ref=e2488] [cursor=pointer]:
+              - /url: /collections/paltar-yuma-m%C9%99hsullari
+              - heading "Paltar Yuma Məhsulları" [level=2] [ref=e2491]:
+                - text: Paltar Yuma Məhsulları
+                - img [ref=e2493]
+          - listitem [ref=e2494]:
+            - link "Paltar Yuma Qatqıları" [ref=e2495] [cursor=pointer]:
+              - /url: /collections/paltar-yuma-qatqilari
+              - heading "Paltar Yuma Qatqıları" [level=2] [ref=e2498]:
+                - text: Paltar Yuma Qatqıları
+                - img [ref=e2500]
+          - listitem [ref=e2501]:
+            - link "Paltar Yumşaldıcı" [ref=e2502] [cursor=pointer]:
+              - /url: /collections/paltar-yumsaldici
+              - heading "Paltar Yumşaldıcı" [level=2] [ref=e2505]:
+                - text: Paltar Yumşaldıcı
+                - img [ref=e2507]
+          - listitem [ref=e2508]:
+            - link "Pambıq,Qulaq Çöpü" [ref=e2509] [cursor=pointer]:
+              - /url: /collections/pambiq-qulaq-copu
+              - heading "Pambıq,Qulaq Çöpü" [level=2] [ref=e2512]:
+                - text: Pambıq,Qulaq Çöpü
+                - img [ref=e2514]
+          - listitem [ref=e2515]:
+            - heading "Parıldadıcı" [level=2] [ref=e2519]:
+              - text: Parıldadıcı
+              - img [ref=e2521]
+          - listitem [ref=e2522]:
+            - link "Pasterizə Süd" [ref=e2523] [cursor=pointer]:
+              - /url: /collections/pasteriz%C9%99-sud
+              - heading "Pasterizə Süd" [level=2] [ref=e2526]:
+                - text: Pasterizə Süd
+                - img [ref=e2528]
+          - listitem [ref=e2529]:
+            - link "Pendir" [ref=e2530] [cursor=pointer]:
+              - /url: /collections/pendir
+              - heading "Pendir" [level=2] [ref=e2533]:
+                - text: Pendir
+                - img [ref=e2535]
+          - listitem [ref=e2536]:
+            - link "Perlova" [ref=e2537] [cursor=pointer]:
+              - /url: /collections/perlova
+              - heading "Perlova" [level=2] [ref=e2540]:
+                - text: Perlova
+                - img [ref=e2542]
+          - listitem [ref=e2543]:
+            - link "persil 1.04" [ref=e2544] [cursor=pointer]:
+              - /url: /collections/persil-1-04
+              - heading "persil 1.04" [level=2] [ref=e2547]:
+                - text: persil 1.04
+                - img [ref=e2549]
+          - listitem [ref=e2550]:
+            - link "persil 5 kq" [ref=e2551] [cursor=pointer]:
+              - /url: /collections/persil-5-kq
+              - heading "persil 5 kq" [level=2] [ref=e2554]:
+                - text: persil 5 kq
+                - img [ref=e2556]
+          - listitem [ref=e2557]:
+            - link "Persil Endirim" [ref=e2558] [cursor=pointer]:
+              - /url: /collections/onlayn-sayta-ozel-endirim
+              - heading "Persil Endirim" [level=2] [ref=e2561]:
+                - text: Persil Endirim
+                - img [ref=e2563]
+          - listitem [ref=e2564]:
+            - link "Pet food" [ref=e2565] [cursor=pointer]:
+              - /url: /collections/pet-food
+              - heading "Pet food" [level=2] [ref=e2568]:
+                - text: Pet food
+                - img [ref=e2570]
+          - listitem [ref=e2571]:
+            - link "Petshop" [ref=e2572] [cursor=pointer]:
+              - /url: /collections/petshop-1
+              - heading "Petshop" [level=2] [ref=e2575]:
+                - text: Petshop
+                - img [ref=e2577]
+          - listitem [ref=e2578]:
+            - link "Petshop Aksesuar" [ref=e2579] [cursor=pointer]:
+              - /url: /collections/petshop-aksesuar
+              - heading "Petshop Aksesuar" [level=2] [ref=e2582]:
+                - text: Petshop Aksesuar
+                - img [ref=e2584]
+          - listitem [ref=e2585]:
+            - link "Peçenyə" [ref=e2586] [cursor=pointer]:
+              - /url: /collections/peceny%C9%99
+              - heading "Peçenyə" [level=2] [ref=e2589]:
+                - text: Peçenyə
+                - img [ref=e2591]
+          - listitem [ref=e2592]:
+            - link "Peçenyə,Piroq" [ref=e2593] [cursor=pointer]:
+              - /url: /collections/peceny%C9%99-piroq
+              - heading "Peçenyə,Piroq" [level=2] [ref=e2596]:
+                - text: Peçenyə,Piroq
+                - img [ref=e2598]
+          - listitem [ref=e2599]:
+            - heading "Pijama,Gecəlik" [level=2] [ref=e2603]:
+              - text: Pijama,Gecəlik
+              - img [ref=e2605]
+          - listitem [ref=e2606]:
+            - link "Piknik məhsullarında endirim" [ref=e2607] [cursor=pointer]:
+              - /url: /collections/piknik-m%C9%99hsullarinda-endirim
+              - heading "Piknik məhsullarında endirim" [level=2] [ref=e2610]:
+                - text: Piknik məhsullarında endirim
+                - img [ref=e2612]
+          - listitem [ref=e2613]:
+            - link "Piknik, səyahət" [ref=e2614] [cursor=pointer]:
+              - /url: /collections/piknik_seyahet
+              - heading "Piknik, səyahət" [level=2] [ref=e2617]:
+                - text: Piknik, səyahət
+                - img [ref=e2619]
+          - listitem [ref=e2620]:
+            - link "Piryanik" [ref=e2621] [cursor=pointer]:
+              - /url: /collections/piryanik
+              - heading "Piryanik" [level=2] [ref=e2624]:
+                - text: Piryanik
+                - img [ref=e2626]
+          - listitem [ref=e2627]:
+            - link "Pivə" [ref=e2628] [cursor=pointer]:
+              - /url: /collections/piv%C9%99
+              - heading "Pivə" [level=2] [ref=e2631]:
+                - text: Pivə
+                - img [ref=e2633]
+          - listitem [ref=e2634]:
+            - link "Pişik Yemi" [ref=e2635] [cursor=pointer]:
+              - /url: /collections/pisik-yemi
+              - heading "Pişik Yemi" [level=2] [ref=e2638]:
+                - text: Pişik Yemi
+                - img [ref=e2640]
+          - listitem [ref=e2641]:
+            - link "Pişik üçün" [ref=e2642] [cursor=pointer]:
+              - /url: /collections/pisik-ucun
+              - heading "Pişik üçün" [level=2] [ref=e2645]:
+                - text: Pişik üçün
+                - img [ref=e2647]
+          - listitem [ref=e2648]:
+            - link "Pişmaniyə" [ref=e2649] [cursor=pointer]:
+              - /url: /collections/pismaniy%C9%99
+              - heading "Pişmaniyə" [level=2] [ref=e2652]:
+                - text: Pişmaniyə
+                - img [ref=e2654]
+          - listitem [ref=e2655]:
+            - link "Popkorn" [ref=e2656] [cursor=pointer]:
+              - /url: /collections/popkorn
+              - heading "Popkorn" [level=2] [ref=e2659]:
+                - text: Popkorn
+                - img [ref=e2661]
+          - listitem [ref=e2662]:
+            - link "Povidlo" [ref=e2663] [cursor=pointer]:
+              - /url: /collections/povidlo
+              - heading "Povidlo" [level=2] [ref=e2666]:
+                - text: Povidlo
+                - img [ref=e2668]
+          - listitem [ref=e2669]:
+            - link "Prezervativ" [ref=e2670] [cursor=pointer]:
+              - /url: /collections/prezervativ
+              - heading "Prezervativ" [level=2] [ref=e2673]:
+                - text: Prezervativ
+                - img [ref=e2675]
+          - listitem [ref=e2676]:
+            - heading "Pryanik" [level=2] [ref=e2680]:
+              - text: Pryanik
+              - img [ref=e2682]
+          - listitem [ref=e2683]:
+            - link "Pudinqlər" [ref=e2684] [cursor=pointer]:
+              - /url: /collections/pudinql%C9%99r
+              - heading "Pudinqlər" [level=2] [ref=e2687]:
+                - text: Pudinqlər
+                - img [ref=e2689]
+          - listitem [ref=e2690]:
+            - link "Pudra Şəkəri" [ref=e2691] [cursor=pointer]:
+              - /url: /collections/pudra-s%C9%99k%C9%99ri
+              - heading "Pudra Şəkəri" [level=2] [ref=e2694]:
+                - text: Pudra Şəkəri
+                - img [ref=e2696]
+          - listitem [ref=e2697]:
+            - heading "Pudra Şəkəri" [level=2] [ref=e2701]:
+              - text: Pudra Şəkəri
+              - img [ref=e2703]
+          - listitem [ref=e2704]:
+            - link "Qabaq Toxumu" [ref=e2705] [cursor=pointer]:
+              - /url: /collections/qabaq-toxumu
+              - heading "Qabaq Toxumu" [level=2] [ref=e2708]:
+                - text: Qabaq Toxumu
+                - img [ref=e2710]
+          - listitem [ref=e2711]:
+            - link "Qabaq Toxumu" [ref=e2712] [cursor=pointer]:
+              - /url: /collections/qabaq-toxumu-1
+              - heading "Qabaq Toxumu" [level=2] [ref=e2715]:
+                - text: Qabaq Toxumu
+                - img [ref=e2717]
+          - listitem [ref=e2718]:
+            - link "Qabartma Tozu" [ref=e2719] [cursor=pointer]:
+              - /url: /collections/qabartma-tozu
+              - heading "Qabartma Tozu" [level=2] [ref=e2722]:
+                - text: Qabartma Tozu
+                - img [ref=e2724]
+          - listitem [ref=e2725]:
+            - link "Qabyuma Məhsulları" [ref=e2726] [cursor=pointer]:
+              - /url: /collections/qabyuma-m%C9%99hsullari
+              - heading "Qabyuma Məhsulları" [level=2] [ref=e2729]:
+                - text: Qabyuma Məhsulları
+                - img [ref=e2731]
+          - listitem [ref=e2732]:
+            - link "Qabyuyan Maye" [ref=e2733] [cursor=pointer]:
+              - /url: /collections/qabyuyan-maye
+              - heading "Qabyuyan Maye" [level=2] [ref=e2736]:
+                - text: Qabyuyan Maye
+                - img [ref=e2738]
+          - listitem [ref=e2739]:
+            - heading "Qabyuyucu Duz" [level=2] [ref=e2743]:
+              - text: Qabyuyucu Duz
+              - img [ref=e2745]
+          - listitem [ref=e2746]:
+            - heading "Qabyuyucu Gel" [level=2] [ref=e2750]:
+              - text: Qabyuyucu Gel
+              - img [ref=e2752]
+          - listitem [ref=e2753]:
+            - link "Qabyuyucu Tablet" [ref=e2754] [cursor=pointer]:
+              - /url: /collections/qabyuyucu-tablet
+              - heading "Qabyuyucu Tablet" [level=2] [ref=e2757]:
+                - text: Qabyuyucu Tablet
+                - img [ref=e2759]
+          - listitem [ref=e2760]:
+            - heading "Qabyuyucu Toz" [level=2] [ref=e2764]:
+              - text: Qabyuyucu Toz
+              - img [ref=e2766]
+          - listitem [ref=e2767]:
+            - link "Qadın Corab" [ref=e2768] [cursor=pointer]:
+              - /url: /collections/qadin-corab
+              - heading "Qadın Corab" [level=2] [ref=e2771]:
+                - text: Qadın Corab
+                - img [ref=e2773]
+          - listitem [ref=e2774]:
+            - link "Qadın Ətirləri" [ref=e2775] [cursor=pointer]:
+              - /url: /collections/qadin-%C9%99tirl%C9%99ri
+              - heading "Qadın Ətirləri" [level=2] [ref=e2778]:
+                - text: Qadın Ətirləri
+                - img [ref=e2780]
+          - listitem [ref=e2781]:
+            - link "Qaleta Unları" [ref=e2782] [cursor=pointer]:
+              - /url: /collections/qaleta-unlari
+              - heading "Qaleta Unları" [level=2] [ref=e2785]:
+                - text: Qaleta Unları
+                - img [ref=e2787]
+          - listitem [ref=e2788]:
+            - link "Qarabaşaq" [ref=e2789] [cursor=pointer]:
+              - /url: /collections/qarabasaq
+              - heading "Qarabaşaq" [level=2] [ref=e2792]:
+                - text: Qarabaşaq
+                - img [ref=e2794]
+          - listitem [ref=e2795]:
+            - link "Qarpız,Yemiş" [ref=e2796] [cursor=pointer]:
+              - /url: /collections/qarpiz-yemis
+              - heading "Qarpız,Yemiş" [level=2] [ref=e2799]:
+                - text: Qarpız,Yemiş
+                - img [ref=e2801]
+          - listitem [ref=e2802]:
+            - link "Qarğıdalı" [ref=e2803] [cursor=pointer]:
+              - /url: /collections/qargidali
+              - heading "Qarğıdalı" [level=2] [ref=e2806]:
+                - text: Qarğıdalı
+                - img [ref=e2808]
+          - listitem [ref=e2809]:
+            - link "Qarğıdalı Unu" [ref=e2810] [cursor=pointer]:
+              - /url: /collections/qargidali-unu
+              - heading "Qarğıdalı Unu" [level=2] [ref=e2813]:
+                - text: Qarğıdalı Unu
+                - img [ref=e2815]
+          - listitem [ref=e2816]:
+            - link "Qarğıdalı Çipsi" [ref=e2817] [cursor=pointer]:
+              - /url: /collections/qargidali-cipsi
+              - heading "Qarğıdalı Çipsi" [level=2] [ref=e2820]:
+                - text: Qarğıdalı Çipsi
+                - img [ref=e2822]
+          - listitem [ref=e2823]:
+            - link "Qarışıq Yağlar" [ref=e2824] [cursor=pointer]:
+              - /url: /collections/qarisiq-yaglar
+              - heading "Qarışıq Yağlar" [level=2] [ref=e2827]:
+                - text: Qarışıq Yağlar
+                - img [ref=e2829]
+          - listitem [ref=e2830]:
+            - link "Qarışıq Çərəz" [ref=e2831] [cursor=pointer]:
+              - /url: /collections/qarisiq-c%C9%99r%C9%99z
+              - heading "Qarışıq Çərəz" [level=2] [ref=e2834]:
+                - text: Qarışıq Çərəz
+                - img [ref=e2836]
+          - listitem [ref=e2837]:
+            - link "Qarışıq Çərəz" [ref=e2838] [cursor=pointer]:
+              - /url: /collections/qarisiq-c%C9%99r%C9%99z-1
+              - heading "Qarışıq Çərəz" [level=2] [ref=e2841]:
+                - text: Qarışıq Çərəz
+                - img [ref=e2843]
+          - listitem [ref=e2844]:
+            - link "Qatı Sabun" [ref=e2845] [cursor=pointer]:
+              - /url: /collections/qati-sabun
+              - heading "Qatı Sabun" [level=2] [ref=e2848]:
+                - text: Qatı Sabun
+                - img [ref=e2850]
+          - listitem [ref=e2851]:
+            - link "Qatılaşdırılmış" [ref=e2852] [cursor=pointer]:
+              - /url: /collections/qatilasdirilmis
+              - heading "Qatılaşdırılmış" [level=2] [ref=e2855]:
+                - text: Qatılaşdırılmış
+                - img [ref=e2857]
+          - listitem [ref=e2858]:
+            - link "Qatıq" [ref=e2859] [cursor=pointer]:
+              - /url: /collections/qatiq
+              - heading "Qatıq" [level=2] [ref=e2862]:
+                - text: Qatıq
+                - img [ref=e2864]
+          - listitem [ref=e2865]:
+            - link "Qaymaq" [ref=e2866] [cursor=pointer]:
+              - /url: /collections/qaymaq
+              - heading "Qaymaq" [level=2] [ref=e2869]:
+                - text: Qaymaq
+                - img [ref=e2871]
+          - listitem [ref=e2872]:
+            - heading "Qaymaqlı Qatıq" [level=2] [ref=e2876]:
+              - text: Qaymaqlı Qatıq
+              - img [ref=e2878]
+          - listitem [ref=e2879]:
+            - link "Qazlı İçkilər" [ref=e2880] [cursor=pointer]:
+              - /url: /collections/qazli-i%CC%87ckil%C9%99r
+              - heading "Qazlı İçkilər" [level=2] [ref=e2883]:
+                - text: Qazlı İçkilər
+                - img [ref=e2885]
+          - listitem [ref=e2886]:
+            - link "Qazsız İçkilər" [ref=e2887] [cursor=pointer]:
+              - /url: /collections/qazsiz-i%CC%87ckil%C9%99r
+              - heading "Qazsız İçkilər" [level=2] [ref=e2890]:
+                - text: Qazsız İçkilər
+                - img [ref=e2892]
+          - listitem [ref=e2893]:
+            - link "Qlutensiz" [ref=e2894] [cursor=pointer]:
+              - /url: /collections/qlutensiz
+              - heading "Qlutensiz" [level=2] [ref=e2897]:
+                - text: Qlutensiz
+                - img [ref=e2899]
+          - listitem [ref=e2900]:
+            - link "Qlutensiz Məhsullar" [ref=e2901] [cursor=pointer]:
+              - /url: /collections/qlutensiz-m%C9%99hsullar
+              - heading "Qlutensiz Məhsullar" [level=2] [ref=e2904]:
+                - text: Qlutensiz Məhsullar
+                - img [ref=e2906]
+          - listitem [ref=e2907]:
+            - link "Qlutensiz məhsullar" [ref=e2908] [cursor=pointer]:
+              - /url: /collections/qlutensiz-mehsullar
+              - heading "Qlutensiz məhsullar" [level=2] [ref=e2911]:
+                - text: Qlutensiz məhsullar
+                - img [ref=e2913]
+          - listitem [ref=e2914]:
+            - link "Qlutensiz Çörək" [ref=e2915] [cursor=pointer]:
+              - /url: /collections/qlutensiz-cor%C9%99k
+              - heading "Qlutensiz Çörək" [level=2] [ref=e2918]:
+                - text: Qlutensiz Çörək
+                - img [ref=e2920]
+          - listitem [ref=e2921]:
+            - link "Qoruyucu Duz" [ref=e2922] [cursor=pointer]:
+              - /url: /collections/qoruyucu-duz
+              - heading "Qoruyucu Duz" [level=2] [ref=e2925]:
+                - text: Qoruyucu Duz
+                - img [ref=e2927]
+          - listitem [ref=e2928]:
+            - link "Qovrulmuş Qarğıdalı" [ref=e2929] [cursor=pointer]:
+              - /url: /collections/qovrulmus-qargidali
+              - heading "Qovrulmuş Qarğıdalı" [level=2] [ref=e2932]:
+                - text: Qovrulmuş Qarğıdalı
+                - img [ref=e2934]
+          - listitem [ref=e2935]:
+            - heading "Qoxu Aparıcı" [level=2] [ref=e2939]:
+              - text: Qoxu Aparıcı
+              - img [ref=e2941]
+          - listitem [ref=e2942]:
+            - heading "Qoz" [level=2] [ref=e2946]:
+              - text: Qoz
+              - img [ref=e2948]
+          - listitem [ref=e2949]:
+            - link "Qoz" [ref=e2950] [cursor=pointer]:
+              - /url: /collections/qoz-1
+              - heading "Qoz" [level=2] [ref=e2953]:
+                - text: Qoz
+                - img [ref=e2955]
+          - listitem [ref=e2956]:
+            - link "Quru Meyvə" [ref=e2957] [cursor=pointer]:
+              - /url: /collections/quru-meyv%C9%99
+              - heading "Quru Meyvə" [level=2] [ref=e2960]:
+                - text: Quru Meyvə
+                - img [ref=e2962]
+          - listitem [ref=e2963]:
+            - link "Quru Meyvə" [ref=e2964] [cursor=pointer]:
+              - /url: /collections/quru-meyv%C9%99-1
+              - heading "Quru Meyvə" [level=2] [ref=e2967]:
+                - text: Quru Meyvə
+                - img [ref=e2969]
+          - listitem [ref=e2970]:
+            - link "Quru Meyvə-Çərəzlər" [ref=e2971] [cursor=pointer]:
+              - /url: /collections/quru-meyv%C9%99-c%C9%99r%C9%99zl%C9%99r
+              - heading "Quru Meyvə-Çərəzlər" [level=2] [ref=e2974]:
+                - text: Quru Meyvə-Çərəzlər
+                - img [ref=e2976]
+          - listitem [ref=e2977]:
+            - link "Qutu Marmalad" [ref=e2978] [cursor=pointer]:
+              - /url: /collections/qutu-marmalad
+              - heading "Qutu Marmalad" [level=2] [ref=e2981]:
+                - text: Qutu Marmalad
+                - img [ref=e2983]
+          - listitem [ref=e2984]:
+            - link "Qutu Salfet" [ref=e2985] [cursor=pointer]:
+              - /url: /collections/qutu-salfet
+              - heading "Qutu Salfet" [level=2] [ref=e2988]:
+                - text: Qutu Salfet
+                - img [ref=e2990]
+          - listitem [ref=e2991]:
+            - link "Quzu İçalat" [ref=e2992] [cursor=pointer]:
+              - /url: /collections/quzu-i%CC%87calat
+              - heading "Quzu İçalat" [level=2] [ref=e2995]:
+                - text: Quzu İçalat
+                - img [ref=e2997]
+          - listitem [ref=e2998]:
+            - link "Qırmızı Ət" [ref=e2999] [cursor=pointer]:
+              - /url: /collections/qirmizi-%C9%99t
+              - heading "Qırmızı Ət" [level=2] [ref=e3002]:
+                - text: Qırmızı Ət
+                - img [ref=e3004]
+          - listitem [ref=e3005]:
+            - link "Qız Oyuncaqları" [ref=e3006] [cursor=pointer]:
+              - /url: /collections/qiz-oyuncaqlari
+              - heading "Qız Oyuncaqları" [level=2] [ref=e3009]:
+                - text: Qız Oyuncaqları
+                - img [ref=e3011]
+          - listitem [ref=e3012]:
+            - link "Qənd" [ref=e3013] [cursor=pointer]:
+              - /url: /collections/q%C9%99nd
+              - heading "Qənd" [level=2] [ref=e3016]:
+                - text: Qənd
+                - img [ref=e3018]
+          - listitem [ref=e3019]:
+            - link "Rakı" [ref=e3020] [cursor=pointer]:
+              - /url: /collections/raki
+              - heading "Rakı" [level=2] [ref=e3023]:
+                - text: Rakı
+                - img [ref=e3025]
+          - listitem [ref=e3026]:
+            - link "Ramazan Endirimləri" [ref=e3027] [cursor=pointer]:
+              - /url: /collections/ramazan-endirimleri
+              - heading "Ramazan Endirimləri" [level=2] [ref=e3030]:
+                - text: Ramazan Endirimləri
+                - img [ref=e3032]
+          - listitem [ref=e3033]:
+            - link "Ramazan məhsulları" [ref=e3034] [cursor=pointer]:
+              - /url: /collections/ramazan-mehsullari
+              - heading "Ramazan məhsulları" [level=2] [ref=e3037]:
+                - text: Ramazan məhsulları
+                - img [ref=e3039]
+          - listitem [ref=e3040]:
+            - heading "Ramazan Paketi" [level=2] [ref=e3044]:
+              - text: Ramazan Paketi
+              - img [ref=e3046]
+          - listitem [ref=e3047]:
+            - link "Roll-On Kişi" [ref=e3048] [cursor=pointer]:
+              - /url: /collections/roll-on-kisi
+              - heading "Roll-On Kişi" [level=2] [ref=e3051]:
+                - text: Roll-On Kişi
+                - img [ref=e3053]
+          - listitem [ref=e3054]:
+            - link "Roll-On Qadın" [ref=e3055] [cursor=pointer]:
+              - /url: /collections/roll-on-qadin
+              - heading "Roll-On Qadın" [level=2] [ref=e3058]:
+                - text: Roll-On Qadın
+                - img [ref=e3060]
+          - listitem [ref=e3061]:
+            - link "Rulet" [ref=e3062] [cursor=pointer]:
+              - /url: /collections/rulet
+              - heading "Rulet" [level=2] [ref=e3065]:
+                - text: Rulet
+                - img [ref=e3067]
+          - listitem [ref=e3068]:
+            - link "Sadə qatıq" [ref=e3069] [cursor=pointer]:
+              - /url: /collections/sad%C9%99-qatiq
+              - heading "Sadə qatıq" [level=2] [ref=e3072]:
+                - text: Sadə qatıq
+                - img [ref=e3074]
+          - listitem [ref=e3075]:
+            - heading "Sadə Unlar" [level=2] [ref=e3079]:
+              - text: Sadə Unlar
+              - img [ref=e3081]
+          - listitem [ref=e3082]:
+            - link "Saqqız" [ref=e3083] [cursor=pointer]:
+              - /url: /collections/saqqiz
+              - heading "Saqqız" [level=2] [ref=e3086]:
+                - text: Saqqız
+                - img [ref=e3088]
+          - listitem [ref=e3089]:
+            - link "Saqqız və Təravətləndiricilər" [ref=e3090] [cursor=pointer]:
+              - /url: /collections/saqqiz-v%C9%99-t%C9%99rav%C9%99tl%C9%99ndiricil%C9%99r
+              - heading "Saqqız və Təravətləndiricilər" [level=2] [ref=e3093]:
+                - text: Saqqız və Təravətləndiricilər
+                - img [ref=e3095]
+          - listitem [ref=e3096]:
+            - link "Saxlama Qabları" [ref=e3097] [cursor=pointer]:
+              - /url: /collections/saxlama-qablari
+              - heading "Saxlama Qabları" [level=2] [ref=e3100]:
+                - text: Saxlama Qabları
+                - img [ref=e3102]
+          - listitem [ref=e3103]:
+            - link "Sayta ozel - heyvan yemleri" [ref=e3104] [cursor=pointer]:
+              - /url: /collections/sayta-ozel-heyvan-yemleri
+              - heading "Sayta ozel - heyvan yemleri" [level=2] [ref=e3107]:
+                - text: Sayta ozel - heyvan yemleri
+                - img [ref=e3109]
+          - listitem [ref=e3110]:
+            - link "Sayta ozel - icki" [ref=e3111] [cursor=pointer]:
+              - /url: /collections/sayta-ozel-icki
+              - heading "Sayta ozel - icki" [level=2] [ref=e3114]:
+                - text: Sayta ozel - icki
+                - img [ref=e3116]
+          - listitem [ref=e3117]:
+            - link "Sayta ozel-gozellik ve baxim" [ref=e3118] [cursor=pointer]:
+              - /url: /collections/sayta-ozel-gozellik-ve-baxim
+              - heading "Sayta ozel-gozellik ve baxim" [level=2] [ref=e3121]:
+                - text: Sayta ozel-gozellik ve baxim
+                - img [ref=e3123]
+          - listitem [ref=e3124]:
+            - link "Saç Boyası" [ref=e3125] [cursor=pointer]:
+              - /url: /collections/sac-boyasi
+              - heading "Saç Boyası" [level=2] [ref=e3128]:
+                - text: Saç Boyası
+                - img [ref=e3130]
+          - listitem [ref=e3131]:
+            - link "Saç Gücləndirici" [ref=e3132] [cursor=pointer]:
+              - /url: /collections/sac-gucl%C9%99ndirici
+              - heading "Saç Gücləndirici" [level=2] [ref=e3135]:
+                - text: Saç Gücləndirici
+                - img [ref=e3137]
+          - listitem [ref=e3138]:
+            - link "Saç Jelesi" [ref=e3139] [cursor=pointer]:
+              - /url: /collections/sac-jelesi
+              - heading "Saç Jelesi" [level=2] [ref=e3142]:
+                - text: Saç Jelesi
+                - img [ref=e3144]
+          - listitem [ref=e3145]:
+            - link "Saç Köpüyü" [ref=e3146] [cursor=pointer]:
+              - /url: /collections/sac-kopuyu
+              - heading "Saç Köpüyü" [level=2] [ref=e3149]:
+                - text: Saç Köpüyü
+                - img [ref=e3151]
+          - listitem [ref=e3152]:
+            - link "Saç Spreyləri" [ref=e3153] [cursor=pointer]:
+              - /url: /collections/sac-spreyl%C9%99ri
+              - heading "Saç Spreyləri" [level=2] [ref=e3156]:
+                - text: Saç Spreyləri
+                - img [ref=e3158]
+          - listitem [ref=e3159]:
+            - link "Saçlara Qulluq" [ref=e3160] [cursor=pointer]:
+              - /url: /collections/saclara-qulluq
+              - heading "Saçlara Qulluq" [level=2] [ref=e3163]:
+                - text: Saçlara Qulluq
+                - img [ref=e3165]
+          - listitem [ref=e3166]:
+            - link "Sağlıq Təmizlik Məhsulları" [ref=e3167] [cursor=pointer]:
+              - /url: /collections/sagliq-t%C9%99mizlik-m%C9%99hsullari
+              - heading "Sağlıq Təmizlik Məhsulları" [level=2] [ref=e3170]:
+                - text: Sağlıq Təmizlik Məhsulları
+                - img [ref=e3172]
+          - listitem [ref=e3173]:
+            - link "Sağlıqlı Həyat Tərzi Məhsulları" [ref=e3174] [cursor=pointer]:
+              - /url: /collections/sagliqli-h%C9%99yat-t%C9%99rzi-m%C9%99hsullari
+              - heading "Sağlıqlı Həyat Tərzi Məhsulları" [level=2] [ref=e3177]:
+                - text: Sağlıqlı Həyat Tərzi Məhsulları
+                - img [ref=e3179]
+          - listitem [ref=e3180]:
+            - heading "Siqar" [level=2] [ref=e3184]:
+              - text: Siqar
+              - img [ref=e3186]
+          - listitem [ref=e3187]:
+            - link "Siqaretlər | Bazarstore - Sərfəli Qiymətlər" [ref=e3188] [cursor=pointer]:
+              - /url: /collections/siqaret
+              - heading "Siqaretlər | Bazarstore - Sərfəli Qiymətlər" [level=2] [ref=e3191]:
+                - text: Siqaretlər | Bazarstore - Sərfəli Qiymətlər
+                - img [ref=e3193]
+          - listitem [ref=e3194]:
+            - link "Sirkə" [ref=e3195] [cursor=pointer]:
+              - /url: /collections/sirk%C9%99
+              - heading "Sirkə" [level=2] [ref=e3198]:
+                - text: Sirkə
+                - img [ref=e3200]
+          - listitem [ref=e3201]:
+            - link "Sirok" [ref=e3202] [cursor=pointer]:
+              - /url: /collections/sirok
+              - heading "Sirok" [level=2] [ref=e3205]:
+                - text: Sirok
+                - img [ref=e3207]
+          - listitem [ref=e3208]:
+            - link "Sitrus Meyvələri" [ref=e3209] [cursor=pointer]:
+              - /url: /collections/sitrus-meyv%C9%99l%C9%99ri
+              - heading "Sitrus Meyvələri" [level=2] [ref=e3212]:
+                - text: Sitrus Meyvələri
+                - img [ref=e3214]
+          - listitem [ref=e3215]:
+            - link "Soda" [ref=e3216] [cursor=pointer]:
+              - /url: /collections/soda
+              - heading "Soda" [level=2] [ref=e3219]:
+                - text: Soda
+                - img [ref=e3221]
+          - listitem [ref=e3222]:
+            - link "Sosis" [ref=e3223] [cursor=pointer]:
+              - /url: /collections/sosis
+              - heading "Sosis" [level=2] [ref=e3226]:
+                - text: Sosis
+                - img [ref=e3228]
+          - listitem [ref=e3229]:
+            - link "Soslar" [ref=e3230] [cursor=pointer]:
+              - /url: /collections/soslar
+              - heading "Soslar" [level=2] [ref=e3233]:
+                - text: Soslar
+                - img [ref=e3235]
+          - listitem [ref=e3236]:
+            - heading "Soyulmuş Tərəvəz" [level=2] [ref=e3240]:
+              - text: Soyulmuş Tərəvəz
+              - img [ref=e3242]
+          - listitem [ref=e3243]:
+            - link "Spirt" [ref=e3244] [cursor=pointer]:
+              - /url: /collections/spirt
+              - heading "Spirt" [level=2] [ref=e3247]:
+                - text: Spirt
+                - img [ref=e3249]
+          - listitem [ref=e3250]:
+            - heading "Spirtli Kokteyllər" [level=2] [ref=e3254]:
+              - text: Spirtli Kokteyllər
+              - img [ref=e3256]
+          - listitem [ref=e3257]:
+            - link "Spirtli İçkilər" [ref=e3258] [cursor=pointer]:
+              - /url: /collections/spirtli-i%CC%87ckil%C9%99r
+              - heading "Spirtli İçkilər" [level=2] [ref=e3261]:
+                - text: Spirtli İçkilər
+                - img [ref=e3263]
+          - listitem [ref=e3264]:
+            - link "Sprey Kişi" [ref=e3265] [cursor=pointer]:
+              - /url: /collections/sprey-kisi
+              - heading "Sprey Kişi" [level=2] [ref=e3268]:
+                - text: Sprey Kişi
+                - img [ref=e3270]
+          - listitem [ref=e3271]:
+            - link "Sprey Qadın" [ref=e3272] [cursor=pointer]:
+              - /url: /collections/sprey-qadin
+              - heading "Sprey Qadın" [level=2] [ref=e3275]:
+                - text: Sprey Qadın
+                - img [ref=e3277]
+          - listitem [ref=e3278]:
+            - link "Stick Kişi" [ref=e3279] [cursor=pointer]:
+              - /url: /collections/stick-kisi
+              - heading "Stick Kişi" [level=2] [ref=e3282]:
+                - text: Stick Kişi
+                - img [ref=e3284]
+          - listitem [ref=e3285]:
+            - link "Stick Qadın" [ref=e3286] [cursor=pointer]:
+              - /url: /collections/stick-qadin
+              - heading "Stick Qadın" [level=2] [ref=e3289]:
+                - text: Stick Qadın
+                - img [ref=e3291]
+          - listitem [ref=e3292]:
+            - link "Stol Örtüyü" [ref=e3293] [cursor=pointer]:
+              - /url: /collections/stol-ortuyu
+              - heading "Stol Örtüyü" [level=2] [ref=e3296]:
+                - text: Stol Örtüyü
+                - img [ref=e3298]
+          - listitem [ref=e3299]:
+            - link "Sucuq" [ref=e3300] [cursor=pointer]:
+              - /url: /collections/sucuq
+              - heading "Sucuq" [level=2] [ref=e3303]:
+                - text: Sucuq
+                - img [ref=e3305]
+          - listitem [ref=e3306]:
+            - link "Sucuqlar" [ref=e3307] [cursor=pointer]:
+              - /url: /collections/sucuqlar
+              - heading "Sucuqlar" [level=2] [ref=e3310]:
+                - text: Sucuqlar
+                - img [ref=e3312]
+          - listitem [ref=e3313]:
+            - link "Sun Bakery" [ref=e3314] [cursor=pointer]:
+              - /url: /collections/sun-bakery
+              - heading "Sun Bakery" [level=2] [ref=e3317]:
+                - text: Sun Bakery
+                - img [ref=e3319]
+          - listitem [ref=e3320]:
+            - link "Sungər, Sim, Top" [ref=e3321] [cursor=pointer]:
+              - /url: /collections/sung%C9%99r-sim-top
+              - heading "Sungər, Sim, Top" [level=2] [ref=e3324]:
+                - text: Sungər, Sim, Top
+                - img [ref=e3326]
+          - listitem [ref=e3327]:
+            - link "Sup" [ref=e3328] [cursor=pointer]:
+              - /url: /collections/sup
+              - heading "Sup" [level=2] [ref=e3331]:
+                - text: Sup
+                - img [ref=e3333]
+          - listitem [ref=e3334]:
+            - link "Suplar və Bulyonlar" [ref=e3335] [cursor=pointer]:
+              - /url: /collections/suplar-v%C9%99-bulyonlar
+              - heading "Suplar və Bulyonlar" [level=2] [ref=e3338]:
+                - text: Suplar və Bulyonlar
+                - img [ref=e3340]
+          - listitem [ref=e3341]:
+            - link "Suxarilər" [ref=e3342] [cursor=pointer]:
+              - /url: /collections/suxaril%C9%99r
+              - heading "Suxarilər" [level=2] [ref=e3345]:
+                - text: Suxarilər
+                - img [ref=e3347]
+          - listitem [ref=e3348]:
+            - link "Suşi Məhsulları" [ref=e3349] [cursor=pointer]:
+              - /url: /collections/susi-m%C9%99hsullari
+              - heading "Suşi Məhsulları" [level=2] [ref=e3352]:
+                - text: Suşi Məhsulları
+                - img [ref=e3354]
+          - listitem [ref=e3355]:
+            - link "Suşi məhsulları" [ref=e3356] [cursor=pointer]:
+              - /url: /collections/susi-m%C9%99hsullari-1
+              - heading "Suşi məhsulları" [level=2] [ref=e3359]:
+                - text: Suşi məhsulları
+                - img [ref=e3361]
+          - listitem [ref=e3362]:
+            - link "Süd" [ref=e3363] [cursor=pointer]:
+              - /url: /collections/sud
+              - heading "Süd" [level=2] [ref=e3366]:
+                - text: Süd
+                - img [ref=e3368]
+          - listitem [ref=e3369]:
+            - link "Süd Məhsulları" [ref=e3370] [cursor=pointer]:
+              - /url: /collections/sud-m%C9%99hsullari
+              - heading "Süd Məhsulları" [level=2] [ref=e3373]:
+                - text: Süd Məhsulları
+                - img [ref=e3375]
+          - listitem [ref=e3376]:
+            - link "Süd, Səhər Yeməyi" [ref=e3377] [cursor=pointer]:
+              - /url: /collections/sud-seher-yemeyi
+              - heading "Süd, Səhər Yeməyi" [level=2] [ref=e3380]:
+                - text: Süd, Səhər Yeməyi
+                - img [ref=e3382]
+          - listitem [ref=e3383]:
+            - heading "Südlü Şirniyyat" [level=2] [ref=e3387]:
+              - text: Südlü Şirniyyat
+              - img [ref=e3389]
+          - listitem [ref=e3390]:
+            - link "Sürahi" [ref=e3391] [cursor=pointer]:
+              - /url: /collections/surahi
+              - heading "Sürahi" [level=2] [ref=e3394]:
+                - text: Sürahi
+                - img [ref=e3396]
+          - listitem [ref=e3397]:
+            - link "Süzmə" [ref=e3398] [cursor=pointer]:
+              - /url: /collections/suzm%C9%99
+              - heading "Süzmə" [level=2] [ref=e3401]:
+                - text: Süzmə
+                - img [ref=e3403]
+          - listitem [ref=e3404]:
+            - link "Səbət" [ref=e3405] [cursor=pointer]:
+              - /url: /collections/s%C9%99b%C9%99t
+              - heading "Səbət" [level=2] [ref=e3408]:
+                - text: Səbət
+                - img [ref=e3410]
+          - listitem [ref=e3411]:
+            - link "Səhər Yeməkləri" [ref=e3412] [cursor=pointer]:
+              - /url: /collections/s%C9%99h%C9%99r-yem%C9%99kl%C9%99ri
+              - heading "Səhər Yeməkləri" [level=2] [ref=e3415]:
+                - text: Səhər Yeməkləri
+                - img [ref=e3417]
+          - listitem [ref=e3418]:
+            - link "Səhər Yeməyi" [ref=e3419] [cursor=pointer]:
+              - /url: /collections/s%C9%99h%C9%99r-yem%C9%99yi
+              - heading "Səhər Yeməyi" [level=2] [ref=e3422]:
+                - text: Səhər Yeməyi
+                - img [ref=e3424]
+          - listitem [ref=e3425]:
+            - link "Səth Təmizləyicilər" [ref=e3426] [cursor=pointer]:
+              - /url: /collections/s%C9%99th-t%C9%99mizl%C9%99yicil%C9%99r
+              - heading "Səth Təmizləyicilər" [level=2] [ref=e3429]:
+                - text: Səth Təmizləyicilər
+                - img [ref=e3431]
+          - listitem [ref=e3432]:
+            - link "Tablet Şokolad" [ref=e3433] [cursor=pointer]:
+              - /url: /collections/tablet-sokolad
+              - heading "Tablet Şokolad" [level=2] [ref=e3436]:
+                - text: Tablet Şokolad
+                - img [ref=e3438]
+          - listitem [ref=e3439]:
+            - link "Tahin" [ref=e3440] [cursor=pointer]:
+              - /url: /collections/tahin
+              - heading "Tahin" [level=2] [ref=e3443]:
+                - text: Tahin
+                - img [ref=e3445]
+          - listitem [ref=e3446]:
+            - link "Tampon" [ref=e3447] [cursor=pointer]:
+              - /url: /collections/tampon
+              - heading "Tampon" [level=2] [ref=e3450]:
+                - text: Tampon
+                - img [ref=e3452]
+          - listitem [ref=e3453]:
+            - link "Tavsiye Olunur" [ref=e3454] [cursor=pointer]:
+              - /url: /collections/bestsellerl%C9%99r
+              - heading "Tavsiye Olunur" [level=2] [ref=e3457]:
+                - text: Tavsiye Olunur
+                - img [ref=e3459]
+          - listitem [ref=e3460]:
+            - link "Tekila" [ref=e3461] [cursor=pointer]:
+              - /url: /collections/tekila
+              - heading "Tekila" [level=2] [ref=e3464]:
+                - text: Tekila
+                - img [ref=e3466]
+          - listitem [ref=e3467]:
+            - link "Tekstil" [ref=e3468] [cursor=pointer]:
+              - /url: /collections/tekstil
+              - heading "Tekstil" [level=2] [ref=e3471]:
+                - text: Tekstil
+                - img [ref=e3473]
+          - listitem [ref=e3474]:
+            - link "Temizlik Bezi" [ref=e3475] [cursor=pointer]:
+              - /url: /collections/temizlik-bezi
+              - heading "Temizlik Bezi" [level=2] [ref=e3478]:
+                - text: Temizlik Bezi
+                - img [ref=e3480]
+          - listitem [ref=e3481]:
+            - link "Tomatlar" [ref=e3482] [cursor=pointer]:
+              - /url: /collections/tomatlar
+              - heading "Tomatlar" [level=2] [ref=e3485]:
+                - text: Tomatlar
+                - img [ref=e3487]
+          - listitem [ref=e3488]:
+            - link "Top,Dəniz Oyuncaqları" [ref=e3489] [cursor=pointer]:
+              - /url: /collections/top-d%C9%99niz-oyuncaqlari
+              - heading "Top,Dəniz Oyuncaqları" [level=2] [ref=e3492]:
+                - text: Top,Dəniz Oyuncaqları
+                - img [ref=e3494]
+          - listitem [ref=e3495]:
+            - heading "Tort Fişəngi" [level=2] [ref=e3499]:
+              - text: Tort Fişəngi
+              - img [ref=e3501]
+          - listitem [ref=e3502]:
+            - link "Tort ləvazimatları" [ref=e3503] [cursor=pointer]:
+              - /url: /collections/tort-l%C9%99vazimatlari
+              - heading "Tort ləvazimatları" [level=2] [ref=e3506]:
+                - text: Tort ləvazimatları
+                - img [ref=e3508]
+          - listitem [ref=e3509]:
+            - link "Tort Saxlama Qabları" [ref=e3510] [cursor=pointer]:
+              - /url: /collections/tort-saxlama-qablari
+              - heading "Tort Saxlama Qabları" [level=2] [ref=e3513]:
+                - text: Tort Saxlama Qabları
+                - img [ref=e3515]
+          - listitem [ref=e3516]:
+            - link "Tort, Bişmələr, Çörək" [ref=e3517] [cursor=pointer]:
+              - /url: /collections/tort-bism%C9%99l%C9%99r-cor%C9%99k
+              - heading "Tort, Bişmələr, Çörək" [level=2] [ref=e3520]:
+                - text: Tort, Bişmələr, Çörək
+                - img [ref=e3522]
+          - listitem [ref=e3523]:
+            - link "Tort-Şirniyyat Aksesuarları" [ref=e3524] [cursor=pointer]:
+              - /url: /collections/tort-sirniyyat-aksesuarlari
+              - heading "Tort-Şirniyyat Aksesuarları" [level=2] [ref=e3527]:
+                - text: Tort-Şirniyyat Aksesuarları
+                - img [ref=e3529]
+          - listitem [ref=e3530]:
+            - link "Tortlar" [ref=e3531] [cursor=pointer]:
+              - /url: /collections/tortlar
+              - heading "Tortlar" [level=2] [ref=e3534]:
+                - text: Tortlar
+                - img [ref=e3536]
+          - listitem [ref=e3537]:
+            - link "Toyuq İçalat" [ref=e3538] [cursor=pointer]:
+              - /url: /collections/toyuq-i%CC%87calat
+              - heading "Toyuq İçalat" [level=2] [ref=e3541]:
+                - text: Toyuq İçalat
+                - img [ref=e3543]
+          - listitem [ref=e3544]:
+            - link "Toz İçkilər" [ref=e3545] [cursor=pointer]:
+              - /url: /collections/toz-i%CC%87ckil%C9%99r
+              - heading "Toz İçkilər" [level=2] [ref=e3548]:
+                - text: Toz İçkilər
+                - img [ref=e3550]
+          - listitem [ref=e3551]:
+            - link "Tualet Kağızı" [ref=e3552] [cursor=pointer]:
+              - /url: /collections/tualet-kagizi
+              - heading "Tualet Kağızı" [level=2] [ref=e3555]:
+                - text: Tualet Kağızı
+                - img [ref=e3557]
+          - listitem [ref=e3558]:
+            - link "Tualet Təmizləyici" [ref=e3559] [cursor=pointer]:
+              - /url: /collections/tualet-t%C9%99mizl%C9%99yici
+              - heading "Tualet Təmizləyici" [level=2] [ref=e3562]:
+                - text: Tualet Təmizləyici
+                - img [ref=e3564]
+          - listitem [ref=e3565]:
+            - link "Tuman Kişi" [ref=e3566] [cursor=pointer]:
+              - /url: /collections/tuman-kisi
+              - heading "Tuman Kişi" [level=2] [ref=e3569]:
+                - text: Tuman Kişi
+                - img [ref=e3571]
+          - listitem [ref=e3572]:
+            - link "Tuman Qadın" [ref=e3573] [cursor=pointer]:
+              - /url: /collections/tuman-qadin
+              - heading "Tuman Qadın" [level=2] [ref=e3576]:
+                - text: Tuman Qadın
+                - img [ref=e3578]
+          - listitem [ref=e3579]:
+            - link "Turşular" [ref=e3580] [cursor=pointer]:
+              - /url: /collections/tursular
+              - heading "Turşular" [level=2] [ref=e3583]:
+                - text: Turşular
+                - img [ref=e3585]
+          - listitem [ref=e3586]:
+            - link "Tük Tökücü Kremlər" [ref=e3587] [cursor=pointer]:
+              - /url: /collections/tuk-tokucu-kreml%C9%99r
+              - heading "Tük Tökücü Kremlər" [level=2] [ref=e3590]:
+                - text: Tük Tökücü Kremlər
+                - img [ref=e3592]
+          - listitem [ref=e3593]:
+            - link "Tütün Məhsulları" [ref=e3594] [cursor=pointer]:
+              - /url: /collections/tutun-m%C9%99hsullari-1
+              - heading "Tütün Məhsulları" [level=2] [ref=e3597]:
+                - text: Tütün Məhsulları
+                - img [ref=e3599]
+          - listitem [ref=e3600]:
+            - link "Təmizlik Kağızları" [ref=e3601] [cursor=pointer]:
+              - /url: /collections/t%C9%99mizlik-kagizlari
+              - heading "Təmizlik Kağızları" [level=2] [ref=e3604]:
+                - text: Təmizlik Kağızları
+                - img [ref=e3606]
+          - listitem [ref=e3607]:
+            - link "Təmizlik Məhsulları" [ref=e3608] [cursor=pointer]:
+              - /url: /collections/t%C9%99mizlik-m%C9%99hsullari
+              - heading "Təmizlik Məhsulları" [level=2] [ref=e3611]:
+                - text: Təmizlik Məhsulları
+                - img [ref=e3613]
+          - listitem [ref=e3614]:
+            - link "Təmizlik Set, Sap, Mop" [ref=e3615] [cursor=pointer]:
+              - /url: /collections/t%C9%99mizlik-set-sap-mop
+              - heading "Təmizlik Set, Sap, Mop" [level=2] [ref=e3618]:
+                - text: Təmizlik Set, Sap, Mop
+                - img [ref=e3620]
+          - listitem [ref=e3621]:
+            - link "Təmizlik Əşyaları" [ref=e3622] [cursor=pointer]:
+              - /url: /collections/t%C9%99mizlik-%C9%99syalari
+              - heading "Təmizlik Əşyaları" [level=2] [ref=e3625]:
+                - text: Təmizlik Əşyaları
+                - img [ref=e3627]
+          - listitem [ref=e3628]:
+            - link "Təmizləmə Gel və Kremi" [ref=e3629] [cursor=pointer]:
+              - /url: /collections/t%C9%99mizl%C9%99m%C9%99-gel-v%C9%99-kremi
+              - heading "Təmizləmə Gel və Kremi" [level=2] [ref=e3632]:
+                - text: Təmizləmə Gel və Kremi
+                - img [ref=e3634]
+          - listitem [ref=e3635]:
+            - link "Təmizləmə Tonikləri" [ref=e3636] [cursor=pointer]:
+              - /url: /collections/t%C9%99mizl%C9%99m%C9%99-tonikl%C9%99ri
+              - heading "Təmizləmə Tonikləri" [level=2] [ref=e3639]:
+                - text: Təmizləmə Tonikləri
+                - img [ref=e3641]
+          - listitem [ref=e3642]:
+            - link "Təməl Qida" [ref=e3643] [cursor=pointer]:
+              - /url: /collections/t%C9%99m%C9%99l-qida
+              - heading "Təməl Qida" [level=2] [ref=e3646]:
+                - text: Təməl Qida
+                - img [ref=e3648]
+          - listitem [ref=e3649]:
+            - link "Təndir Çörəyi" [ref=e3650] [cursor=pointer]:
+              - /url: /collections/t%C9%99ndir-cor%C9%99yi
+              - heading "Təndir Çörəyi" [level=2] [ref=e3653]:
+                - text: Təndir Çörəyi
+                - img [ref=e3655]
+          - listitem [ref=e3656]:
+            - link "Təravətləndirici" [ref=e3657] [cursor=pointer]:
+              - /url: /collections/t%C9%99rav%C9%99tl%C9%99ndirici
+              - heading "Təravətləndirici" [level=2] [ref=e3660]:
+                - text: Təravətləndirici
+                - img [ref=e3662]
+          - listitem [ref=e3663]:
+            - link "Təraş Gelləri" [ref=e3664] [cursor=pointer]:
+              - /url: /collections/t%C9%99ras-gell%C9%99ri
+              - heading "Təraş Gelləri" [level=2] [ref=e3667]:
+                - text: Təraş Gelləri
+                - img [ref=e3669]
+          - listitem [ref=e3670]:
+            - link "Təraş Kremləri" [ref=e3671] [cursor=pointer]:
+              - /url: /collections/t%C9%99ras-kreml%C9%99ri
+              - heading "Təraş Kremləri" [level=2] [ref=e3674]:
+                - text: Təraş Kremləri
+                - img [ref=e3676]
+          - listitem [ref=e3677]:
+            - link "Təraş Köpükləri" [ref=e3678] [cursor=pointer]:
+              - /url: /collections/t%C9%99ras-kopukl%C9%99ri
+              - heading "Təraş Köpükləri" [level=2] [ref=e3681]:
+                - text: Təraş Köpükləri
+                - img [ref=e3683]
+          - listitem [ref=e3684]:
+            - link "Təraş Ləvazimatları" [ref=e3685] [cursor=pointer]:
+              - /url: /collections/t%C9%99ras-l%C9%99vazimatlari
+              - heading "Təraş Ləvazimatları" [level=2] [ref=e3688]:
+                - text: Təraş Ləvazimatları
+                - img [ref=e3690]
+          - listitem [ref=e3691]:
+            - link "Təraş Sabunları" [ref=e3692] [cursor=pointer]:
+              - /url: /collections/t%C9%99ras-sabunlari
+              - heading "Təraş Sabunları" [level=2] [ref=e3695]:
+                - text: Təraş Sabunları
+                - img [ref=e3697]
+          - listitem [ref=e3698]:
+            - link "Təraş Sonrası Losyon" [ref=e3699] [cursor=pointer]:
+              - /url: /collections/t%C9%99ras-sonrasi-losyon
+              - heading "Təraş Sonrası Losyon" [level=2] [ref=e3702]:
+                - text: Təraş Sonrası Losyon
+                - img [ref=e3704]
+          - listitem [ref=e3705]:
+            - link "Təraş Ülgücləri" [ref=e3706] [cursor=pointer]:
+              - /url: /collections/t%C9%99ras-ulgucl%C9%99ri
+              - heading "Təraş Ülgücləri" [level=2] [ref=e3709]:
+                - text: Təraş Ülgücləri
+                - img [ref=e3711]
+          - listitem [ref=e3712]:
+            - link "Tərəvəz" [ref=e3713] [cursor=pointer]:
+              - /url: /collections/t%C9%99r%C9%99v%C9%99z
+              - heading "Tərəvəz" [level=2] [ref=e3716]:
+                - text: Tərəvəz
+                - img [ref=e3718]
+          - listitem [ref=e3719]:
+            - link "Təzə Toyuq" [ref=e3720] [cursor=pointer]:
+              - /url: /collections/t%C9%99z%C9%99-toyuq
+              - heading "Təzə Toyuq" [level=2] [ref=e3723]:
+                - text: Təzə Toyuq
+                - img [ref=e3725]
+          - listitem [ref=e3726]:
+            - link "Un" [ref=e3727] [cursor=pointer]:
+              - /url: /collections/un
+              - heading "Un" [level=2] [ref=e3730]:
+                - text: Un
+                - img [ref=e3732]
+          - listitem [ref=e3733]:
+            - heading "Un Məmulatları" [level=2] [ref=e3737]:
+              - text: Un Məmulatları
+              - img [ref=e3739]
+          - listitem [ref=e3740]:
+            - link "unilever" [ref=e3741] [cursor=pointer]:
+              - /url: /collections/unilever
+              - heading "unilever" [level=2] [ref=e3744]:
+                - text: unilever
+                - img [ref=e3746]
+          - listitem [ref=e3747]:
+            - link "Uzun Ömürlü Aromalı" [ref=e3748] [cursor=pointer]:
+              - /url: /collections/uzun-omurlu-aromali
+              - heading "Uzun Ömürlü Aromalı" [level=2] [ref=e3751]:
+                - text: Uzun Ömürlü Aromalı
+                - img [ref=e3753]
+          - listitem [ref=e3754]:
+            - link "Uçaq Suları" [ref=e3755] [cursor=pointer]:
+              - /url: /collections/ucaq-sulari
+              - heading "Uçaq Suları" [level=2] [ref=e3758]:
+                - text: Uçaq Suları
+                - img [ref=e3760]
+          - listitem [ref=e3761]:
+            - link "Uçaq Yağları" [ref=e3762] [cursor=pointer]:
+              - /url: /collections/ucaq-yaglari
+              - heading "Uçaq Yağları" [level=2] [ref=e3765]:
+                - text: Uçaq Yağları
+                - img [ref=e3767]
+          - listitem [ref=e3768]:
+            - link "Uçaq Şampunları" [ref=e3769] [cursor=pointer]:
+              - /url: /collections/ucaq-sampunlari
+              - heading "Uçaq Şampunları" [level=2] [ref=e3772]:
+                - text: Uçaq Şampunları
+                - img [ref=e3774]
+          - listitem [ref=e3775]:
+            - link "Uşaq Baxım Məhsulları" [ref=e3776] [cursor=pointer]:
+              - /url: /collections/usaq-baxim-m%C9%99hsullari
+              - heading "Uşaq Baxım Məhsulları" [level=2] [ref=e3779]:
+                - text: Uşaq Baxım Məhsulları
+                - img [ref=e3781]
+          - listitem [ref=e3782]:
+            - link "Uşaq Baxım Məhsulları" [ref=e3783] [cursor=pointer]:
+              - /url: /collections/usaq-baxim-m%C9%99hsullari-1
+              - heading "Uşaq Baxım Məhsulları" [level=2] [ref=e3786]:
+                - text: Uşaq Baxım Məhsulları
+                - img [ref=e3788]
+          - listitem [ref=e3789]:
+            - link "Uşaq Baxım Əşyaları" [ref=e3790] [cursor=pointer]:
+              - /url: /collections/usaq-baxim-%C9%99syalari
+              - heading "Uşaq Baxım Əşyaları" [level=2] [ref=e3793]:
+                - text: Uşaq Baxım Əşyaları
+                - img [ref=e3795]
+          - listitem [ref=e3796]:
+            - link "Uşaq Bezləri | Endirimli Qiymətlərlə - Bazarstore Uşaq Bezləri | Endirimli Qiymətlərlə - Bazarstore" [ref=e3797] [cursor=pointer]:
+              - /url: /collections/usaq-bezi
+              - generic [ref=e3798]:
+                - img "Uşaq Bezləri | Endirimli Qiymətlərlə - Bazarstore" [ref=e3801]
+                - heading "Uşaq Bezləri | Endirimli Qiymətlərlə - Bazarstore" [level=2] [ref=e3803]:
+                  - text: Uşaq Bezləri | Endirimli Qiymətlərlə - Bazarstore
+                  - img [ref=e3805]
+          - listitem [ref=e3806]:
+            - link "Uşaq Deterjan,Yumşaldıcı" [ref=e3807] [cursor=pointer]:
+              - /url: /collections/usaq-deterjan-yumsaldici
+              - heading "Uşaq Deterjan,Yumşaldıcı" [level=2] [ref=e3810]:
+                - text: Uşaq Deterjan,Yumşaldıcı
+                - img [ref=e3812]
+          - listitem [ref=e3813]:
+            - link "Uşaq Diş Fırçaları" [ref=e3814] [cursor=pointer]:
+              - /url: /collections/usaq-dis-fircalari
+              - heading "Uşaq Diş Fırçaları" [level=2] [ref=e3817]:
+                - text: Uşaq Diş Fırçaları
+                - img [ref=e3819]
+          - listitem [ref=e3820]:
+            - link "Uşaq Dünyası" [ref=e3821] [cursor=pointer]:
+              - /url: /collections/usaq-dunyasi-1
+              - heading "Uşaq Dünyası" [level=2] [ref=e3824]:
+                - text: Uşaq Dünyası
+                - img [ref=e3826]
+          - listitem [ref=e3827]:
+            - link "Uşaq Hamam Köpüyü" [ref=e3828] [cursor=pointer]:
+              - /url: /collections/usaq-hamam-kopuyu
+              - heading "Uşaq Hamam Köpüyü" [level=2] [ref=e3831]:
+                - text: Uşaq Hamam Köpüyü
+                - img [ref=e3833]
+          - listitem [ref=e3834]:
+            - link "Uşaq Kremləri" [ref=e3835] [cursor=pointer]:
+              - /url: /collections/usaq-kreml%C9%99ri
+              - heading "Uşaq Kremləri" [level=2] [ref=e3838]:
+                - text: Uşaq Kremləri
+                - img [ref=e3840]
+          - listitem [ref=e3841]:
+            - heading "Uşaq Makaronları" [level=2] [ref=e3845]:
+              - text: Uşaq Makaronları
+              - img [ref=e3847]
+          - listitem [ref=e3848]:
+            - link "Uşaq Oyuncaqları" [ref=e3849] [cursor=pointer]:
+              - /url: /collections/usaq-oyuncaqlari
+              - heading "Uşaq Oyuncaqları" [level=2] [ref=e3852]:
+                - text: Uşaq Oyuncaqları
+                - img [ref=e3854]
+          - listitem [ref=e3855]:
+            - link "Uşaq Peçenyəsi" [ref=e3856] [cursor=pointer]:
+              - /url: /collections/usaq-peceny%C9%99si
+              - heading "Uşaq Peçenyəsi" [level=2] [ref=e3859]:
+                - text: Uşaq Peçenyəsi
+                - img [ref=e3861]
+          - listitem [ref=e3862]:
+            - link "Uşaq Pudarası" [ref=e3863] [cursor=pointer]:
+              - /url: /collections/usaq-pudarasi
+              - heading "Uşaq Pudarası" [level=2] [ref=e3866]:
+                - text: Uşaq Pudarası
+                - img [ref=e3868]
+          - listitem [ref=e3869]:
+            - link "Uşaq Püreləri" [ref=e3870] [cursor=pointer]:
+              - /url: /collections/usaq-purel%C9%99ri
+              - heading "Uşaq Püreləri" [level=2] [ref=e3873]:
+                - text: Uşaq Püreləri
+                - img [ref=e3875]
+          - listitem [ref=e3876]:
+            - link "Uşaq Qidası" [ref=e3877] [cursor=pointer]:
+              - /url: /collections/usaq-qidasi
+              - heading "Uşaq Qidası" [level=2] [ref=e3880]:
+                - text: Uşaq Qidası
+                - img [ref=e3882]
+          - listitem [ref=e3883]:
+            - link "Uşaq Sabunu" [ref=e3884] [cursor=pointer]:
+              - /url: /collections/usaq-sabunu
+              - heading "Uşaq Sabunu" [level=2] [ref=e3887]:
+                - text: Uşaq Sabunu
+                - img [ref=e3889]
+          - listitem [ref=e3890]:
+            - link "Uşaq Südü" [ref=e3891] [cursor=pointer]:
+              - /url: /collections/usaq-sudu
+              - heading "Uşaq Südü" [level=2] [ref=e3894]:
+                - text: Uşaq Südü
+                - img [ref=e3896]
+          - listitem [ref=e3897]:
+            - link "Uşaq Sıyığı" [ref=e3898] [cursor=pointer]:
+              - /url: /collections/usaq-siyigi
+              - heading "Uşaq Sıyığı" [level=2] [ref=e3901]:
+                - text: Uşaq Sıyığı
+                - img [ref=e3903]
+          - listitem [ref=e3904]:
+            - link "Uşaq Tekstili" [ref=e3905] [cursor=pointer]:
+              - /url: /collections/usaq-tekstili
+              - heading "Uşaq Tekstili" [level=2] [ref=e3908]:
+                - text: Uşaq Tekstili
+                - img [ref=e3910]
+          - listitem [ref=e3911]:
+            - link "Uşaq Yağları" [ref=e3912] [cursor=pointer]:
+              - /url: /collections/usaq-yaglari
+              - heading "Uşaq Yağları" [level=2] [ref=e3915]:
+                - text: Uşaq Yağları
+                - img [ref=e3917]
+          - listitem [ref=e3918]:
+            - link "Uşaq Yuyiucu Toz" [ref=e3919] [cursor=pointer]:
+              - /url: /collections/usaq-yuyiucu-toz
+              - heading "Uşaq Yuyiucu Toz" [level=2] [ref=e3922]:
+                - text: Uşaq Yuyiucu Toz
+                - img [ref=e3924]
+          - listitem [ref=e3925]:
+            - heading "Uşaq Çayları" [level=2] [ref=e3929]:
+              - text: Uşaq Çayları
+              - img [ref=e3931]
+          - listitem [ref=e3932]:
+            - link "Uşaq Şirələri" [ref=e3933] [cursor=pointer]:
+              - /url: /collections/usaq-sir%C9%99l%C9%99ri
+              - heading "Uşaq Şirələri" [level=2] [ref=e3936]:
+                - text: Uşaq Şirələri
+                - img [ref=e3938]
+          - listitem [ref=e3939]:
+            - link "Vafli" [ref=e3940] [cursor=pointer]:
+              - /url: /collections/vafli
+              - heading "Vafli" [level=2] [ref=e3943]:
+                - text: Vafli
+                - img [ref=e3945]
+          - listitem [ref=e3946]:
+            - link "Vafli,Rulet" [ref=e3947] [cursor=pointer]:
+              - /url: /collections/vafli-rulet
+              - heading "Vafli,Rulet" [level=2] [ref=e3950]:
+                - text: Vafli,Rulet
+                - img [ref=e3952]
+          - listitem [ref=e3953]:
+            - link "Vanil" [ref=e3954] [cursor=pointer]:
+              - /url: /collections/vanil
+              - heading "Vanil" [level=2] [ref=e3957]:
+                - text: Vanil
+                - img [ref=e3959]
+          - listitem [ref=e3960]:
+            - link "Vazlar" [ref=e3961] [cursor=pointer]:
+              - /url: /collections/vazlar
+              - heading "Vazlar" [level=2] [ref=e3964]:
+                - text: Vazlar
+                - img [ref=e3966]
+          - listitem [ref=e3967]:
+            - link "Velospiped" [ref=e3968] [cursor=pointer]:
+              - /url: /collections/velospiped
+              - heading "Velospiped" [level=2] [ref=e3971]:
+                - text: Velospiped
+                - img [ref=e3973]
+          - listitem [ref=e3974]:
+            - link "Ventilyator" [ref=e3975] [cursor=pointer]:
+              - /url: /collections/ventilyator
+              - heading "Ventilyator" [level=2] [ref=e3978]:
+                - text: Ventilyator
+                - img [ref=e3980]
+          - listitem [ref=e3981]:
+            - link "Vetçina,Jambon" [ref=e3982] [cursor=pointer]:
+              - /url: /collections/vetcina-jambon
+              - heading "Vetçina,Jambon" [level=2] [ref=e3985]:
+                - text: Vetçina,Jambon
+                - img [ref=e3987]
+          - listitem [ref=e3988]:
+            - link "Viski,Burbon" [ref=e3989] [cursor=pointer]:
+              - /url: /collections/viski-burbon
+              - heading "Viski,Burbon" [level=2] [ref=e3992]:
+                - text: Viski,Burbon
+                - img [ref=e3994]
+          - listitem [ref=e3995]:
+            - link "Vodka" [ref=e3996] [cursor=pointer]:
+              - /url: /collections/vodka
+              - heading "Vodka" [level=2] [ref=e3999]:
+                - text: Vodka
+                - img [ref=e4001]
+          - listitem [ref=e4002]:
+            - heading "Xalatlar" [level=2] [ref=e4006]:
+              - text: Xalatlar
+              - img [ref=e4008]
+          - listitem [ref=e4009]:
+            - link "Xalça Təmizləyici" [ref=e4010] [cursor=pointer]:
+              - /url: /collections/xalca-t%C9%99mizl%C9%99yici
+              - heading "Xalça Təmizləyici" [level=2] [ref=e4013]:
+                - text: Xalça Təmizləyici
+                - img [ref=e4015]
+          - listitem [ref=e4016]:
+            - link "Xalça,Kilim" [ref=e4017] [cursor=pointer]:
+              - /url: /collections/xalca-kilim
+              - heading "Xalça,Kilim" [level=2] [ref=e4020]:
+                - text: Xalça,Kilim
+                - img [ref=e4022]
+          - listitem [ref=e4023]:
+            - link "Xama" [ref=e4024] [cursor=pointer]:
+              - /url: /collections/xama
+              - heading "Xama" [level=2] [ref=e4027]:
+                - text: Xama
+                - img [ref=e4029]
+          - listitem [ref=e4030]:
+            - link "Xardal" [ref=e4031] [cursor=pointer]:
+              - /url: /collections/xardal
+              - heading "Xardal" [level=2] [ref=e4034]:
+                - text: Xardal
+                - img [ref=e4036]
+          - listitem [ref=e4037]:
+            - link "Xüsusi Süd" [ref=e4038] [cursor=pointer]:
+              - /url: /collections/xususi-sud
+              - heading "Xüsusi Süd" [level=2] [ref=e4041]:
+                - text: Xüsusi Süd
+                - img [ref=e4043]
+          - listitem [ref=e4044]:
+            - link "Xüsusi Çörək" [ref=e4045] [cursor=pointer]:
+              - /url: /collections/xususi-cor%C9%99k
+              - heading "Xüsusi Çörək" [level=2] [ref=e4048]:
+                - text: Xüsusi Çörək
+                - img [ref=e4050]
+          - listitem [ref=e4051]:
+            - link "Xüsusi Şokoladıar" [ref=e4052] [cursor=pointer]:
+              - /url: /collections/xususi-sokoladiar
+              - heading "Xüsusi Şokoladıar" [level=2] [ref=e4055]:
+                - text: Xüsusi Şokoladıar
+                - img [ref=e4057]
+          - listitem [ref=e4058]:
+            - link "Xırdavat" [ref=e4059] [cursor=pointer]:
+              - /url: /collections/xirdavat
+              - heading "Xırdavat" [level=2] [ref=e4062]:
+                - text: Xırdavat
+                - img [ref=e4064]
+          - listitem [ref=e4065]:
+            - link "Xırdavat" [ref=e4066] [cursor=pointer]:
+              - /url: /collections/xirdavat-1
+              - heading "Xırdavat" [level=2] [ref=e4069]:
+                - text: Xırdavat
+                - img [ref=e4071]
+          - listitem [ref=e4072]:
+            - link "Xırdavat" [ref=e4073] [cursor=pointer]:
+              - /url: /collections/xirdavat-2
+              - heading "Xırdavat" [level=2] [ref=e4076]:
+                - text: Xırdavat
+                - img [ref=e4078]
+          - listitem [ref=e4079]:
+            - link "Xırdavat" [ref=e4080] [cursor=pointer]:
+              - /url: /collections/xirdavat-3
+              - heading "Xırdavat" [level=2] [ref=e4083]:
+                - text: Xırdavat
+                - img [ref=e4085]
+          - listitem [ref=e4086]:
+            - heading "Xırdavatlar" [level=2] [ref=e4090]:
+              - text: Xırdavatlar
+              - img [ref=e4092]
+          - listitem [ref=e4093]:
+            - link "Xəstə Bezi" [ref=e4094] [cursor=pointer]:
+              - /url: /collections/x%C9%99st%C9%99-bezi
+              - heading "Xəstə Bezi" [level=2] [ref=e4097]:
+                - text: Xəstə Bezi
+                - img [ref=e4099]
+          - listitem [ref=e4100]:
+            - link "Yastıq, Yorğan" [ref=e4101] [cursor=pointer]:
+              - /url: /collections/yastiq-yorgan
+              - heading "Yastıq, Yorğan" [level=2] [ref=e4104]:
+                - text: Yastıq, Yorğan
+                - img [ref=e4106]
+          - listitem [ref=e4107]:
+            - link "Yay endirimləri" [ref=e4108] [cursor=pointer]:
+              - /url: /collections/yay-endirimleri
+              - heading "Yay endirimləri" [level=2] [ref=e4111]:
+                - text: Yay endirimləri
+                - img [ref=e4113]
+          - listitem [ref=e4114]:
+            - link "Yay Məhsulları" [ref=e4115] [cursor=pointer]:
+              - /url: /collections/yay-m%C9%99hsullari
+              - heading "Yay Məhsulları" [level=2] [ref=e4118]:
+                - text: Yay Məhsulları
+                - img [ref=e4120]
+          - listitem [ref=e4121]:
+            - link "Yazı Yazma və Aksesuarları" [ref=e4122] [cursor=pointer]:
+              - /url: /collections/yazi-yazma-v%C9%99-aksesuarlari
+              - heading "Yazı Yazma və Aksesuarları" [level=2] [ref=e4125]:
+                - text: Yazı Yazma və Aksesuarları
+                - img [ref=e4127]
+          - listitem [ref=e4128]:
+            - link "Yağ" [ref=e4129] [cursor=pointer]:
+              - /url: /collections/yag
+              - heading "Yağ" [level=2] [ref=e4132]:
+                - text: Yağ
+                - img [ref=e4134]
+          - listitem [ref=e4135]:
+            - link "Yaş Maya" [ref=e4136] [cursor=pointer]:
+              - /url: /collections/yas-maya
+              - heading "Yaş Maya" [level=2] [ref=e4139]:
+                - text: Yaş Maya
+                - img [ref=e4141]
+          - listitem [ref=e4142]:
+            - heading "Yeni Gələnlər" [level=2] [ref=e4146]:
+              - text: Yeni Gələnlər
+              - img [ref=e4148]
+          - listitem [ref=e4149]:
+            - link "Yeni il endirimləri 🎄✨ Yeni il endirimləri 🎄✨" [ref=e4150] [cursor=pointer]:
+              - /url: /collections/yeni-il-endirimleri
+              - generic [ref=e4151]:
+                - img "Yeni il endirimləri 🎄✨" [ref=e4154]
+                - heading "Yeni il endirimləri 🎄✨" [level=2] [ref=e4156]:
+                  - text: Yeni il endirimləri 🎄✨
+                  - img [ref=e4158]
+          - listitem [ref=e4159]:
+            - heading "Yeni il hədiyyələri" [level=2] [ref=e4163]:
+              - text: Yeni il hədiyyələri
+              - img [ref=e4165]
+          - listitem [ref=e4166]:
+            - link "Yeni Məhsullar" [ref=e4167] [cursor=pointer]:
+              - /url: /collections/yeni-m%C9%99hsullar
+              - heading "Yeni Məhsullar" [level=2] [ref=e4170]:
+                - text: Yeni Məhsullar
+                - img [ref=e4172]
+          - listitem [ref=e4173]:
+            - link "Yeni məhsullar - manual" [ref=e4174] [cursor=pointer]:
+              - /url: /collections/yeni-mehsullar
+              - heading "Yeni məhsullar - manual" [level=2] [ref=e4177]:
+                - text: Yeni məhsullar - manual
+                - img [ref=e4179]
+          - listitem [ref=e4180]:
+            - link "Yeni İl Dekorasiyası" [ref=e4181] [cursor=pointer]:
+              - /url: /collections/yeni-i%CC%87l-dekorasiyasi
+              - heading "Yeni İl Dekorasiyası" [level=2] [ref=e4184]:
+                - text: Yeni İl Dekorasiyası
+                - img [ref=e4186]
+          - listitem [ref=e4187]:
+            - link "Yoqurt" [ref=e4188] [cursor=pointer]:
+              - /url: /collections/yoqurt
+              - heading "Yoqurt" [level=2] [ref=e4191]:
+                - text: Yoqurt
+                - img [ref=e4193]
+          - listitem [ref=e4194]:
+            - link "Yumurta" [ref=e4195] [cursor=pointer]:
+              - /url: /collections/yumurta
+              - heading "Yumurta" [level=2] [ref=e4198]:
+                - text: Yumurta
+                - img [ref=e4200]
+          - listitem [ref=e4201]:
+            - link "Yumurta push" [ref=e4202] [cursor=pointer]:
+              - /url: /collections/yumurta-push
+              - heading "Yumurta push" [level=2] [ref=e4205]:
+                - text: Yumurta push
+                - img [ref=e4207]
+          - listitem [ref=e4208]:
+            - link "Yumşaq Meyvələr" [ref=e4209] [cursor=pointer]:
+              - /url: /collections/yumsaq-meyv%C9%99l%C9%99r
+              - heading "Yumşaq Meyvələr" [level=2] [ref=e4212]:
+                - text: Yumşaq Meyvələr
+                - img [ref=e4214]
+          - listitem [ref=e4215]:
+            - link "Yumşaq Oyuncaqlar" [ref=e4216] [cursor=pointer]:
+              - /url: /collections/yumsaq-oyuncaqlar
+              - heading "Yumşaq Oyuncaqlar" [level=2] [ref=e4219]:
+                - text: Yumşaq Oyuncaqlar
+                - img [ref=e4221]
+          - listitem [ref=e4222]:
+            - link "Yuyucu Gel" [ref=e4223] [cursor=pointer]:
+              - /url: /collections/yuyucu-gel
+              - heading "Yuyucu Gel" [level=2] [ref=e4226]:
+                - text: Yuyucu Gel
+                - img [ref=e4228]
+          - listitem [ref=e4229]:
+            - link "Yuyucu Kapsul" [ref=e4230] [cursor=pointer]:
+              - /url: /collections/yuyucu-kapsul
+              - heading "Yuyucu Kapsul" [level=2] [ref=e4233]:
+                - text: Yuyucu Kapsul
+                - img [ref=e4235]
+          - listitem [ref=e4236]:
+            - link "Yuyucu Toz Avtomat" [ref=e4237] [cursor=pointer]:
+              - /url: /collections/yuyucu-toz-avtomat
+              - heading "Yuyucu Toz Avtomat" [level=2] [ref=e4240]:
+                - text: Yuyucu Toz Avtomat
+                - img [ref=e4242]
+          - listitem [ref=e4243]:
+            - link "Yuyucu Toz Əl" [ref=e4244] [cursor=pointer]:
+              - /url: /collections/yuyucu-toz-%C9%99l
+              - heading "Yuyucu Toz Əl" [level=2] [ref=e4247]:
+                - text: Yuyucu Toz Əl
+                - img [ref=e4249]
+          - listitem [ref=e4250]:
+            - link "Yuyucu Vasitələr" [ref=e4251] [cursor=pointer]:
+              - /url: /collections/yuyucu-vasit%C9%99l%C9%99r
+              - heading "Yuyucu Vasitələr" [level=2] [ref=e4254]:
+                - text: Yuyucu Vasitələr
+                - img [ref=e4256]
+          - listitem [ref=e4257]:
+            - link "Yük Baqajı,Çantalar" [ref=e4258] [cursor=pointer]:
+              - /url: /collections/yuk-baqaji-cantalar
+              - heading "Yük Baqajı,Çantalar" [level=2] [ref=e4261]:
+                - text: Yük Baqajı,Çantalar
+                - img [ref=e4263]
+          - listitem [ref=e4264]:
+            - heading "Zarf,Not kağızı" [level=2] [ref=e4268]:
+              - text: Zarf,Not kağızı
+              - img [ref=e4270]
+          - listitem [ref=e4271]:
+            - link "Zavod Çörəyi" [ref=e4272] [cursor=pointer]:
+              - /url: /collections/zavod-cor%C9%99yi
+              - heading "Zavod Çörəyi" [level=2] [ref=e4275]:
+                - text: Zavod Çörəyi
+                - img [ref=e4277]
+          - listitem [ref=e4278]:
+            - link "Zefirlər" [ref=e4279] [cursor=pointer]:
+              - /url: /collections/zefirl%C9%99r
+              - heading "Zefirlər" [level=2] [ref=e4282]:
+                - text: Zefirlər
+                - img [ref=e4284]
+          - listitem [ref=e4285]:
+            - link "Zeytun" [ref=e4286] [cursor=pointer]:
+              - /url: /collections/zeytun
+              - heading "Zeytun" [level=2] [ref=e4289]:
+                - text: Zeytun
+                - img [ref=e4291]
+          - listitem [ref=e4292]:
+            - link "Zeytun Yağı" [ref=e4293] [cursor=pointer]:
+              - /url: /collections/zeytun-yagi
+              - heading "Zeytun Yağı" [level=2] [ref=e4296]:
+                - text: Zeytun Yağı
+                - img [ref=e4298]
+          - listitem [ref=e4299]:
+            - link "Zibil Torbaları" [ref=e4300] [cursor=pointer]:
+              - /url: /collections/zibil-torbalari
+              - heading "Zibil Torbaları" [level=2] [ref=e4303]:
+                - text: Zibil Torbaları
+                - img [ref=e4305]
+          - listitem [ref=e4306]:
+            - link "Züccaciye endirimi" [ref=e4307] [cursor=pointer]:
+              - /url: /collections/ev-metbex-esyalari-endirimi
+              - heading "Züccaciye endirimi" [level=2] [ref=e4310]:
+                - text: Züccaciye endirimi
+                - img [ref=e4312]
+          - listitem [ref=e4313]:
+            - heading "Çantalar" [level=2] [ref=e4317]:
+              - text: Çantalar
+              - img [ref=e4319]
+          - listitem [ref=e4320]:
+            - link "Çay" [ref=e4321] [cursor=pointer]:
+              - /url: /collections/cay
+              - heading "Çay" [level=2] [ref=e4324]:
+                - text: Çay
+                - img [ref=e4326]
+          - listitem [ref=e4327]:
+            - link "Çay stəkanı,Dəsti" [ref=e4328] [cursor=pointer]:
+              - /url: /collections/cay-st%C9%99kani-d%C9%99sti
+              - heading "Çay stəkanı,Dəsti" [level=2] [ref=e4331]:
+                - text: Çay stəkanı,Dəsti
+                - img [ref=e4333]
+          - listitem [ref=e4334]:
+            - link "Çay, Kofe, Şəkər" [ref=e4335] [cursor=pointer]:
+              - /url: /collections/cay-kofe-seker
+              - heading "Çay, Kofe, Şəkər" [level=2] [ref=e4338]:
+                - text: Çay, Kofe, Şəkər
+                - img [ref=e4340]
+          - listitem [ref=e4341]:
+            - link "Çips" [ref=e4342] [cursor=pointer]:
+              - /url: /collections/cips
+              - heading "Çips" [level=2] [ref=e4345]:
+                - text: Çips
+                - img [ref=e4347]
+          - listitem [ref=e4348]:
+            - link "Çovda Unu" [ref=e4349] [cursor=pointer]:
+              - /url: /collections/covda-unu
+              - heading "Çovda Unu" [level=2] [ref=e4352]:
+                - text: Çovda Unu
+                - img [ref=e4354]
+          - listitem [ref=e4355]:
+            - link "Çox Satanlar" [ref=e4356] [cursor=pointer]:
+              - /url: /collections/bazarstore-bestsellers
+              - heading "Çox Satanlar" [level=2] [ref=e4359]:
+                - text: Çox Satanlar
+                - img [ref=e4361]
+          - listitem [ref=e4362]:
+            - link "Çubuq Şirniyyatlar" [ref=e4363] [cursor=pointer]:
+              - /url: /collections/cubuq-sirniyyatlar
+              - heading "Çubuq Şirniyyatlar" [level=2] [ref=e4366]:
+                - text: Çubuq Şirniyyatlar
+                - img [ref=e4368]
+          - listitem [ref=e4369]:
+            - link "Çörəklər" [ref=e4370] [cursor=pointer]:
+              - /url: /collections/cor%C9%99kl%C9%99r
+              - heading "Çörəklər" [level=2] [ref=e4373]:
+                - text: Çörəklər
+                - img [ref=e4375]
+          - listitem [ref=e4376]:
+            - link "Çəkili Bakliyyat" [ref=e4377] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-bakliyyat
+              - heading "Çəkili Bakliyyat" [level=2] [ref=e4380]:
+                - text: Çəkili Bakliyyat
+                - img [ref=e4382]
+          - listitem [ref=e4383]:
+            - link "Çəkili Biskivit" [ref=e4384] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-biskivit
+              - heading "Çəkili Biskivit" [level=2] [ref=e4387]:
+                - text: Çəkili Biskivit
+                - img [ref=e4389]
+          - listitem [ref=e4390]:
+            - link "Çəkili Draje" [ref=e4391] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-draje
+              - heading "Çəkili Draje" [level=2] [ref=e4394]:
+                - text: Çəkili Draje
+                - img [ref=e4396]
+          - listitem [ref=e4397]:
+            - link "Çəkili Jelibom" [ref=e4398] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-jelibom
+              - heading "Çəkili Jelibom" [level=2] [ref=e4401]:
+                - text: Çəkili Jelibom
+                - img [ref=e4403]
+          - listitem [ref=e4404]:
+            - link "Çəkili Karamel" [ref=e4405] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-karamel
+              - heading "Çəkili Karamel" [level=2] [ref=e4408]:
+                - text: Çəkili Karamel
+                - img [ref=e4410]
+          - listitem [ref=e4411]:
+            - link "Çəkili Kreker" [ref=e4412] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-kreker
+              - heading "Çəkili Kreker" [level=2] [ref=e4415]:
+                - text: Çəkili Kreker
+                - img [ref=e4417]
+          - listitem [ref=e4418]:
+            - link "Çəkili Lokum" [ref=e4419] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-lokum
+              - heading "Çəkili Lokum" [level=2] [ref=e4422]:
+                - text: Çəkili Lokum
+                - img [ref=e4424]
+          - listitem [ref=e4425]:
+            - link "Çəkili Makaron" [ref=e4426] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-makaron
+              - heading "Çəkili Makaron" [level=2] [ref=e4429]:
+                - text: Çəkili Makaron
+                - img [ref=e4431]
+          - listitem [ref=e4432]:
+            - link "Çəkili Marmalad" [ref=e4433] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-marmalad
+              - heading "Çəkili Marmalad" [level=2] [ref=e4436]:
+                - text: Çəkili Marmalad
+                - img [ref=e4438]
+          - listitem [ref=e4439]:
+            - link "Çəkili Peçenyə" [ref=e4440] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-peceny%C9%99
+              - heading "Çəkili Peçenyə" [level=2] [ref=e4443]:
+                - text: Çəkili Peçenyə
+                - img [ref=e4445]
+          - listitem [ref=e4446]:
+            - link "Çəkili Piryanik" [ref=e4447] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-piryanik
+              - heading "Çəkili Piryanik" [level=2] [ref=e4450]:
+                - text: Çəkili Piryanik
+                - img [ref=e4452]
+          - listitem [ref=e4453]:
+            - link "Çəkili Turşular" [ref=e4454] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-tursular
+              - heading "Çəkili Turşular" [level=2] [ref=e4457]:
+                - text: Çəkili Turşular
+                - img [ref=e4459]
+          - listitem [ref=e4460]:
+            - link "Çəkili Vafli" [ref=e4461] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-vafli
+              - heading "Çəkili Vafli" [level=2] [ref=e4464]:
+                - text: Çəkili Vafli
+                - img [ref=e4466]
+          - listitem [ref=e4467]:
+            - link "Çəkili Vafli" [ref=e4468] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-vafli-1
+              - heading "Çəkili Vafli" [level=2] [ref=e4471]:
+                - text: Çəkili Vafli
+                - img [ref=e4473]
+          - listitem [ref=e4474]:
+            - link "Çəkili Çay, Şəkər,Kofe" [ref=e4475] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-cay-s%C9%99k%C9%99r-kofe
+              - heading "Çəkili Çay, Şəkər,Kofe" [level=2] [ref=e4478]:
+                - text: Çəkili Çay, Şəkər,Kofe
+                - img [ref=e4480]
+          - listitem [ref=e4481]:
+            - link "Çəkili Çərəzlər" [ref=e4482] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-c%C9%99r%C9%99zl%C9%99r
+              - heading "Çəkili Çərəzlər" [level=2] [ref=e4485]:
+                - text: Çəkili Çərəzlər
+                - img [ref=e4487]
+          - listitem [ref=e4488]:
+            - link "Çəkili Şirniyyat" [ref=e4489] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-sirniyyat
+              - heading "Çəkili Şirniyyat" [level=2] [ref=e4492]:
+                - text: Çəkili Şirniyyat
+                - img [ref=e4494]
+          - listitem [ref=e4495]:
+            - link "Çəkili Şokolad" [ref=e4496] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-sokolad
+              - heading "Çəkili Şokolad" [level=2] [ref=e4499]:
+                - text: Çəkili Şokolad
+                - img [ref=e4501]
+          - listitem [ref=e4502]:
+            - link "Çəkili Ədviyyat" [ref=e4503] [cursor=pointer]:
+              - /url: /collections/c%C9%99kili-%C9%99dviyyat
+              - heading "Çəkili Ədviyyat" [level=2] [ref=e4506]:
+                - text: Çəkili Ədviyyat
+                - img [ref=e4508]
+          - listitem [ref=e4509]:
+            - heading "Çəkənək" [level=2] [ref=e4513]:
+              - text: Çəkənək
+              - img [ref=e4515]
+          - listitem [ref=e4516]:
+            - link "Çəkənək Kişi" [ref=e4517] [cursor=pointer]:
+              - /url: /collections/c%C9%99k%C9%99n%C9%99k-kisi
+              - heading "Çəkənək Kişi" [level=2] [ref=e4520]:
+                - text: Çəkənək Kişi
+                - img [ref=e4522]
+          - listitem [ref=e4523]:
+            - link "Çəkənək Qadın" [ref=e4524] [cursor=pointer]:
+              - /url: /collections/c%C9%99k%C9%99n%C9%99k-qadin
+              - heading "Çəkənək Qadın" [level=2] [ref=e4527]:
+                - text: Çəkənək Qadın
+                - img [ref=e4529]
+          - listitem [ref=e4530]:
+            - link "Çərərzlik,Kasa" [ref=e4531] [cursor=pointer]:
+              - /url: /collections/c%C9%99r%C9%99rzlik-kasa
+              - heading "Çərərzlik,Kasa" [level=2] [ref=e4534]:
+                - text: Çərərzlik,Kasa
+                - img [ref=e4536]
+          - listitem [ref=e4537]:
+            - link "Çərəzlər" [ref=e4538] [cursor=pointer]:
+              - /url: /collections/c%C9%99r%C9%99zl%C9%99r
+              - heading "Çərəzlər" [level=2] [ref=e4541]:
+                - text: Çərəzlər
+                - img [ref=e4543]
+          - listitem [ref=e4544]:
+            - heading "Ördəy Əti" [level=2] [ref=e4548]:
+              - text: Ördəy Əti
+              - img [ref=e4550]
+          - listitem [ref=e4551]:
+            - link "Örtük" [ref=e4552] [cursor=pointer]:
+              - /url: /collections/ortuk
+              - heading "Örtük" [level=2] [ref=e4555]:
+                - text: Örtük
+                - img [ref=e4557]
+          - listitem [ref=e4558]:
+            - link "Öyrədici Oyuncaqlar" [ref=e4559] [cursor=pointer]:
+              - /url: /collections/oyr%C9%99dici-oyuncaqlar
+              - heading "Öyrədici Oyuncaqlar" [level=2] [ref=e4562]:
+                - text: Öyrədici Oyuncaqlar
+                - img [ref=e4564]
+          - listitem [ref=e4565]:
+            - link "Öz Markamız" [ref=e4566] [cursor=pointer]:
+              - /url: /collections/oz-markamiz
+              - heading "Öz Markamız" [level=2] [ref=e4569]:
+                - text: Öz Markamız
+                - img [ref=e4571]
+          - listitem [ref=e4572]:
+            - link "Özəl Makaronlar" [ref=e4573] [cursor=pointer]:
+              - /url: /collections/oz%C9%99l-makaronlar
+              - heading "Özəl Makaronlar" [level=2] [ref=e4576]:
+                - text: Özəl Makaronlar
+                - img [ref=e4578]
+          - listitem [ref=e4579]:
+            - link "Özəl Pendirlər" [ref=e4580] [cursor=pointer]:
+              - /url: /collections/oz%C9%99l-pendirl%C9%99r
+              - heading "Özəl Pendirlər" [level=2] [ref=e4583]:
+                - text: Özəl Pendirlər
+                - img [ref=e4585]
+          - listitem [ref=e4586]:
+            - link "Özəl səbət" [ref=e4587] [cursor=pointer]:
+              - /url: /collections/oz%C9%99l-s%C9%99b%C9%99t
+              - heading "Özəl səbət" [level=2] [ref=e4590]:
+                - text: Özəl səbət
+                - img [ref=e4592]
+          - listitem [ref=e4593]:
+            - heading "Özəl Unlar" [level=2] [ref=e4597]:
+              - text: Özəl Unlar
+              - img [ref=e4599]
+          - listitem [ref=e4600]:
+            - link "Ümumi Təmizlik Məhsulları" [ref=e4601] [cursor=pointer]:
+              - /url: /collections/umumi-t%C9%99mizlik-m%C9%99hsullari
+              - heading "Ümumi Təmizlik Məhsulları" [level=2] [ref=e4604]:
+                - text: Ümumi Təmizlik Məhsulları
+                - img [ref=e4606]
+          - listitem [ref=e4607]:
+            - link "Üz Maskaları" [ref=e4608] [cursor=pointer]:
+              - /url: /collections/uz-maskalari
+              - heading "Üz Maskaları" [level=2] [ref=e4611]:
+                - text: Üz Maskaları
+                - img [ref=e4613]
+          - listitem [ref=e4614]:
+            - heading "İdman Məhsulları" [level=2] [ref=e4618]:
+              - text: İdman Məhsulları
+              - img [ref=e4620]
+          - listitem [ref=e4621]:
+            - link "İdman,Səyyahət" [ref=e4622] [cursor=pointer]:
+              - /url: /collections/i%CC%87dman-s%C9%99yyah%C9%99t
+              - heading "İdman,Səyyahət" [level=2] [ref=e4625]:
+                - text: İdman,Səyyahət
+                - img [ref=e4627]
+          - listitem [ref=e4628]:
+            - link "İntim Gel" [ref=e4629] [cursor=pointer]:
+              - /url: /collections/i%CC%87ntim-gel
+              - heading "İntim Gel" [level=2] [ref=e4632]:
+                - text: İntim Gel
+                - img [ref=e4634]
+          - listitem [ref=e4635]:
+            - link "İntim Salfet" [ref=e4636] [cursor=pointer]:
+              - /url: /collections/i%CC%87ntim-salfet
+              - heading "İntim Salfet" [level=2] [ref=e4639]:
+                - text: İntim Salfet
+                - img [ref=e4641]
+          - listitem [ref=e4642]:
+            - link "İsidicilər" [ref=e4643] [cursor=pointer]:
+              - /url: /collections/i%CC%87sidicil%C9%99r
+              - heading "İsidicilər" [level=2] [ref=e4646]:
+                - text: İsidicilər
+                - img [ref=e4648]
+          - listitem [ref=e4649]:
+            - link "İsitmə,Soyutma" [ref=e4650] [cursor=pointer]:
+              - /url: /collections/i%CC%87sitm%C9%99-soyutma
+              - heading "İsitmə,Soyutma" [level=2] [ref=e4653]:
+                - text: İsitmə,Soyutma
+                - img [ref=e4655]
+          - listitem [ref=e4656]:
+            - link "İt Yemi" [ref=e4657] [cursor=pointer]:
+              - /url: /collections/i%CC%87t-yemi
+              - heading "İt Yemi" [level=2] [ref=e4660]:
+                - text: İt Yemi
+                - img [ref=e4662]
+          - listitem [ref=e4663]:
+            - heading "İt üçün" [level=2] [ref=e4667]:
+              - text: İt üçün
+              - img [ref=e4669]
+          - listitem [ref=e4670]:
+            - link "İçalat" [ref=e4671] [cursor=pointer]:
+              - /url: /collections/i%CC%87calat
+              - heading "İçalat" [level=2] [ref=e4674]:
+                - text: İçalat
+                - img [ref=e4676]
+          - listitem [ref=e4677]:
+            - link "İçkilər" [ref=e4678] [cursor=pointer]:
+              - /url: /collections/ickil%C9%99r
+              - heading "İçkilər" [level=2] [ref=e4681]:
+                - text: İçkilər
+                - img [ref=e4683]
+          - listitem [ref=e4684]:
+            - link "İçliklər" [ref=e4685] [cursor=pointer]:
+              - /url: /collections/i%CC%87clikl%C9%99r
+              - heading "İçliklər" [level=2] [ref=e4688]:
+                - text: İçliklər
+                - img [ref=e4690]
+          - listitem [ref=e4691]:
+            - link "İşıqlandırma" [ref=e4692] [cursor=pointer]:
+              - /url: /collections/i%CC%87siqlandirma
+              - heading "İşıqlandırma" [level=2] [ref=e4695]:
+                - text: İşıqlandırma
+                - img [ref=e4697]
+          - listitem [ref=e4698]:
+            - link "İşıqlandırma, Elektrik Məhsulları" [ref=e4699] [cursor=pointer]:
+              - /url: /collections/i%CC%87siqlandirma-elektrik-m%C9%99hsullari
+              - heading "İşıqlandırma, Elektrik Məhsulları" [level=2] [ref=e4702]:
+                - text: İşıqlandırma, Elektrik Məhsulları
+                - img [ref=e4704]
+          - listitem [ref=e4705]:
+            - heading "Şam ağacı" [level=2] [ref=e4709]:
+              - text: Şam ağacı
+              - img [ref=e4711]
+          - listitem [ref=e4712]:
+            - link "Şamlar" [ref=e4713] [cursor=pointer]:
+              - /url: /collections/samlar
+              - heading "Şamlar" [level=2] [ref=e4716]:
+                - text: Şamlar
+                - img [ref=e4718]
+          - listitem [ref=e4719]:
+            - link "Şampun" [ref=e4720] [cursor=pointer]:
+              - /url: /collections/sampun
+              - heading "Şampun" [level=2] [ref=e4723]:
+                - text: Şampun
+                - img [ref=e4725]
+          - listitem [ref=e4726]:
+            - link "Şapman" [ref=e4727] [cursor=pointer]:
+              - /url: /collections/sapman
+              - heading "Şapman" [level=2] [ref=e4730]:
+                - text: Şapman
+                - img [ref=e4732]
+          - listitem [ref=e4733]:
+            - heading "Şar" [level=2] [ref=e4737]:
+              - text: Şar
+              - img [ref=e4739]
+          - listitem [ref=e4740]:
+            - link "Şirniyyat flyer" [ref=e4741] [cursor=pointer]:
+              - /url: /collections/sirniyyat-flyer
+              - heading "Şirniyyat flyer" [level=2] [ref=e4744]:
+                - text: Şirniyyat flyer
+                - img [ref=e4746]
+          - listitem [ref=e4747]:
+            - link "Şirniyyatlar" [ref=e4748] [cursor=pointer]:
+              - /url: /collections/sirniyyatlar
+              - heading "Şirniyyatlar" [level=2] [ref=e4751]:
+                - text: Şirniyyatlar
+                - img [ref=e4753]
+          - listitem [ref=e4754]:
+            - link "Şokoladlar" [ref=e4755] [cursor=pointer]:
+              - /url: /collections/sokoladlar
+              - heading "Şokoladlar" [level=2] [ref=e4758]:
+                - text: Şokoladlar
+                - img [ref=e4760]
+          - listitem [ref=e4761]:
+            - link "Şor" [ref=e4762] [cursor=pointer]:
+              - /url: /collections/sor
+              - heading "Şor" [level=2] [ref=e4765]:
+                - text: Şor
+                - img [ref=e4767]
+          - listitem [ref=e4768]:
+            - link "Şüşə Təmizləyici" [ref=e4769] [cursor=pointer]:
+              - /url: /collections/sus%C9%99-t%C9%99mizl%C9%99yici
+              - heading "Şüşə Təmizləyici" [level=2] [ref=e4772]:
+                - text: Şüşə Təmizləyici
+                - img [ref=e4774]
+          - listitem [ref=e4775]:
+            - link "Şəkər Tozu" [ref=e4776] [cursor=pointer]:
+              - /url: /collections/s%C9%99k%C9%99r-tozu
+              - heading "Şəkər Tozu" [level=2] [ref=e4779]:
+                - text: Şəkər Tozu
+                - img [ref=e4781]
+          - listitem [ref=e4782]:
+            - link "Şəkərləmə" [ref=e4783] [cursor=pointer]:
+              - /url: /collections/s%C9%99k%C9%99rl%C9%99m%C9%99
+              - heading "Şəkərləmə" [level=2] [ref=e4786]:
+                - text: Şəkərləmə
+                - img [ref=e4788]
+          - listitem [ref=e4789]:
+            - link "Şərab" [ref=e4790] [cursor=pointer]:
+              - /url: /collections/s%C9%99rab
+              - heading "Şərab" [level=2] [ref=e4793]:
+                - text: Şərab
+                - img [ref=e4795]
+          - listitem [ref=e4796]:
+            - link "Şərbətli Şirniyyat" [ref=e4797] [cursor=pointer]:
+              - /url: /collections/s%C9%99rb%C9%99tli-sirniyyat
+              - heading "Şərbətli Şirniyyat" [level=2] [ref=e4800]:
+                - text: Şərbətli Şirniyyat
+                - img [ref=e4802]
+          - listitem [ref=e4803]:
+            - link "Ədviyyat" [ref=e4804] [cursor=pointer]:
+              - /url: /collections/%C9%99dviyyat
+              - heading "Ədviyyat" [level=2] [ref=e4807]:
+                - text: Ədviyyat
+                - img [ref=e4809]
+          - listitem [ref=e4810]:
+            - link "Ədyal,Mələfə" [ref=e4811] [cursor=pointer]:
+              - /url: /collections/%C9%99dyal-m%C9%99l%C9%99f%C9%99
+              - heading "Ədyal,Mələfə" [level=2] [ref=e4814]:
+                - text: Ədyal,Mələfə
+                - img [ref=e4816]
+          - listitem [ref=e4817]:
+            - heading "Əl-Üz Dəsmalı" [level=2] [ref=e4821]:
+              - text: Əl-Üz Dəsmalı
+              - img [ref=e4823]
+          - listitem [ref=e4824]:
+            - link "Ən Çox Baxılanlar" [ref=e4825] [cursor=pointer]:
+              - /url: /collections/%C9%99n-cox-sevimlil%C9%99r
+              - heading "Ən Çox Baxılanlar" [level=2] [ref=e4828]:
+                - text: Ən Çox Baxılanlar
+                - img [ref=e4830]
+          - listitem [ref=e4831]:
+            - link "Ən çox satılan ürünlər" [ref=e4832] [cursor=pointer]:
+              - /url: /collections/en_cox_satilan_mehsullar
+              - heading "Ən çox satılan ürünlər" [level=2] [ref=e4835]:
+                - text: Ən çox satılan ürünlər
+                - img [ref=e4837]
+          - listitem [ref=e4838]:
+            - link "Ən çox satılanlar" [ref=e4839] [cursor=pointer]:
+              - /url: /collections/bestseller
+              - heading "Ən çox satılanlar" [level=2] [ref=e4842]:
+                - text: Ən çox satılanlar
+                - img [ref=e4844]
+          - listitem [ref=e4845]:
+            - link "Əridilmiş kərə yağı" [ref=e4846] [cursor=pointer]:
+              - /url: /collections/%C9%99ridilmis-k%C9%99r%C9%99-yagi
+              - heading "Əridilmiş kərə yağı" [level=2] [ref=e4849]:
+                - text: Əridilmiş kərə yağı
+                - img [ref=e4851]
+          - listitem [ref=e4852]:
+            - link "Ət Qastronom" [ref=e4853] [cursor=pointer]:
+              - /url: /collections/%C9%99t-qastronom
+              - heading "Ət Qastronom" [level=2] [ref=e4856]:
+                - text: Ət Qastronom
+                - img [ref=e4858]
+          - listitem [ref=e4859]:
+            - link "Ət, Toyuq, Balıq" [ref=e4860] [cursor=pointer]:
+              - /url: /collections/%C9%99t-toyuq-baliq
+              - heading "Ət, Toyuq, Balıq" [level=2] [ref=e4863]:
+                - text: Ət, Toyuq, Balıq
+                - img [ref=e4865]
+          - listitem [ref=e4866]:
+            - link "Ətir Seti" [ref=e4867] [cursor=pointer]:
+              - /url: /collections/%C9%99tir-seti
+              - heading "Ətir Seti" [level=2] [ref=e4870]:
+                - text: Ətir Seti
+                - img [ref=e4872]
+          - listitem [ref=e4873]:
+            - link "Ətirlər,Aerozollar" [ref=e4874] [cursor=pointer]:
+              - /url: /collections/%C9%99tirl%C9%99r-aerozollar
+              - heading "Ətirlər,Aerozollar" [level=2] [ref=e4877]:
+                - text: Ətirlər,Aerozollar
+                - img [ref=e4879]
+          - listitem [ref=e4880]:
+            - link "Ətirləri,Aerozollar" [ref=e4881] [cursor=pointer]:
+              - /url: /collections/%C9%99tirl%C9%99ri-aerozollar
+              - heading "Ətirləri,Aerozollar" [level=2] [ref=e4884]:
+                - text: Ətirləri,Aerozollar
+                - img [ref=e4886]
+        - link [ref=e4891] [cursor=pointer]:
+          - /url: https://bazarstore.az/collections/kateqoriya-endirimleri
+    - generic [ref=e4895]:
+      - generic [ref=e4896]:
+        - img [ref=e4897]
+        - heading "Ən son xəbərlərimizi və xüsusi satışlarımızı əldə edin" [level=2] [ref=e4907]
+      - generic [ref=e4908]:
+        - generic [ref=e4910]:
+          - textbox "E-poçtunuz" [ref=e4911]
+          - generic: E-poçtunuz
+        - button "Abunə ol" [ref=e4912] [cursor=pointer]
+    - contentinfo [ref=e4913]:
+      - generic [ref=e4914]:
+        - group [ref=e4916]:
+          - generic "Əlaqə" [ref=e4917] [cursor=pointer]:
+            - heading "Əlaqə" [level=2] [ref=e4918]
+            - img [ref=e4919]
+        - group [ref=e4922]:
+          - generic "Məlumat" [ref=e4923] [cursor=pointer]:
+            - heading "Məlumat" [level=2] [ref=e4924]
+            - img [ref=e4925]
+        - group [ref=e4928]:
+          - generic "Bazarstore" [ref=e4929] [cursor=pointer]:
+            - heading "Bazarstore" [level=2] [ref=e4930]
+            - img [ref=e4931]
+        - group [ref=e4934]:
+          - generic "Populyar Kateqoriyalar" [ref=e4935] [cursor=pointer]:
+            - heading "Populyar Kateqoriyalar" [level=2] [ref=e4936]
+            - img [ref=e4937]
+        - group [ref=e4940]:
+          - generic "Blog" [ref=e4941] [cursor=pointer]:
+            - heading "Blog" [level=2] [ref=e4942]
+            - img [ref=e4943]
+      - generic [ref=e4946]:
+        - generic [ref=e4947]:
+          - generic [ref=e4948]:
+            - text: © 2026,
+            - link "Bazarstore" [ref=e4949] [cursor=pointer]:
+              - /url: /
+          - link "HollyPalm Tərəfindən Dəstəklənir" [ref=e4951] [cursor=pointer]:
+            - /url: https://hollypalm.com
+        - generic [ref=e4952]: Ödəmə metodları
+    - text: ❮
+  - dialog [ref=e4953]:
+    - generic [ref=e4954]:
+      - generic [ref=e4957]:
+        - heading "Endirimlərdən ilk sən xəbərdar ol! ⏰" [level=2] [ref=e4958]
+        - paragraph [ref=e4959]: Abunə ol, kampaniyalar və fürsətlər haqqında bildiriş al.
+      - generic [ref=e4961]:
+        - button "Later" [ref=e4962] [cursor=pointer]
+        - button "Allow" [ref=e4963] [cursor=pointer]

@@ -1,0 +1,658 @@
+{
+    "data": [
+        {
+            "title": "Meyvə, tərəvəz, quru meyvə",
+            "children": [
+                {
+                    "title": "Meyvə",
+                    "url": "https://neptun.az/meyve-terevez-quru-meyveler/meyve",
+                    "children": []
+                },
+                {
+                    "title": "Tərəvəz",
+                    "url": "https://neptun.az/meyve-terevez-quru-meyveler/terevez",
+                    "children": []
+                },
+                {
+                    "title": "Göyərti",
+                    "url": "https://neptun.az/meyve-terevez-quru-meyveler/goyerti",
+                    "children": []
+                },
+                {
+                    "title": "Quru meyvələr",
+                    "url": "https://neptun.az/meyve-terevez-quru-meyveler/quru-meyve",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Ət, toyuq, dəniz məhsulları",
+            "children": [
+                {
+                    "title": "Ət",
+                    "url": "https://neptun.az/et-toyuq-deniz-mehsullari/mal-eti",
+                    "children": []
+                },
+                {
+                    "title": "Toyuq",
+                    "url": "https://neptun.az/et-toyuq-deniz-mehsullari/toyuq",
+                    "children": []
+                },
+                {
+                    "title": "Dəniz məhsulları",
+                    "url": "https://neptun.az/et-toyuq-deniz-mehsullari/deniz-mehsullari",
+                    "children": []
+                },
+                {
+                    "title": "Yumurta",
+                    "url": "https://neptun.az/et-toyuq-deniz-mehsullari/yumurta",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Qastronom",
+            "children": [
+                {
+                    "title": "Kolbasa və sosislər",
+                    "url": "https://neptun.az/qastronom/kolbasa-sosisler",
+                    "children": []
+                },
+                {
+                    "title": "Donmuş məhsullar",
+                    "url": "https://neptun.az/qastronom/donmus_mehsullar",
+                    "children": []
+                },
+                {
+                    "title": "Dondurma",
+                    "url": "https://neptun.az/qastronom/dondurma",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Ərzaq məhsulları",
+            "children": [
+                {
+                    "title": "Dənlilər",
+                    "url": "https://neptun.az/erzaq-mehsullari/denliler",
+                    "children": []
+                },
+                {
+                    "title": "Unlar",
+                    "url": "https://neptun.az/erzaq-mehsullari/unlar",
+                    "children": []
+                },
+                {
+                    "title": "Ədviyyatlar",
+                    "url": "https://neptun.az/erzaq-mehsullari/edviyyatlar",
+                    "children": []
+                },
+                {
+                    "title": "Souslar",
+                    "url": "https://neptun.az/erzaq-mehsullari/souslar",
+                    "children": []
+                },
+                {
+                    "title": "Turşular",
+                    "url": "https://neptun.az/erzaq-mehsullari/tursular",
+                    "children": []
+                },
+                {
+                    "title": "Zeytunlar",
+                    "url": "https://neptun.az/erzaq-mehsullari/zeytunlar",
+                    "children": []
+                },
+                {
+                    "title": "Balıq konservləri",
+                    "url": "https://neptun.az/et-toyuq-deniz-mehsullari/baliq-konservleri",
+                    "children": []
+                },
+                {
+                    "title": "Konservlər",
+                    "url": "https://neptun.az/erzaq-mehsullari/konservler",
+                    "children": []
+                },
+                {
+                    "title": "Hazır yeməklər",
+                    "url": "https://neptun.az/erzaq-mehsullari/hazir-yemekler",
+                    "children": []
+                },
+                {
+                    "title": "Tərəvəz konservləri",
+                    "url": "https://neptun.az/erzaq-mehsullari/terevez-konservleri",
+                    "children": []
+                },
+                {
+                    "title": "Qatılaşdırılmış süd",
+                    "url": "https://neptun.az/erzaq-mehsullari/qatilasdirilmis-sud",
+                    "children": []
+                },
+                {
+                    "title": "Səhər yeməkləri",
+                    "url": "https://neptun.az/erzaq-mehsullari/seher-yemekleri",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Şirniyyat, çay, kofe, diabetik",
+            "children": [
+                {
+                    "title": "Şirniyyat",
+                    "url": "https://neptun.az/sirniyyat-cay-kofe-diabet/sirniyyat",
+                    "children": []
+                },
+                {
+                    "title": "Quru meyvə paketli",
+                    "url": "https://neptun.az/sirniyyat-cay-kofe-diabet/quru-meyvə-paketli",
+                    "children": []
+                },
+                {
+                    "title": "Saqqızlar",
+                    "url": "https://neptun.az/sirniyyat-cay-kofe-diabet/saqqizlar",
+                    "children": []
+                },
+                {
+                    "title": "Çörək",
+                    "url": "https://neptun.az/sirniyyat-cay-kofe-diabet/corek",
+                    "children": []
+                },
+                {
+                    "title": "Diabetik",
+                    "url": "https://neptun.az/sirniyyat-cay-kofe-diabet/diabetik",
+                    "children": []
+                },
+                {
+                    "title": "NesCake",
+                    "url": "https://neptun.az/sirniyyat-cay-kofe-diabet/nescake",
+                    "children": []
+                },
+                {
+                    "title": "Mürəbbələr",
+                    "url": "https://neptun.az/sirniyyat-cay-kofe-diabet/murebbeler",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "İçkilər",
+            "children": [
+                {
+                    "title": "Çay",
+                    "url": "https://neptun.az/ickiler/cay",
+                    "children": []
+                },
+                {
+                    "title": "Kofe, kakao və s.",
+                    "url": "https://neptun.az/ickiler/kofe-kakao",
+                    "children": []
+                },
+                {
+                    "title": "Meyvə Suları",
+                    "url": "https://neptun.az/ickiler/meyve-sulari",
+                    "children": []
+                },
+                {
+                    "title": "Kompotlar",
+                    "url": "https://neptun.az/ickiler/kompotlar",
+                    "children": []
+                },
+                {
+                    "title": "Sular",
+                    "url": "https://neptun.az/ickiler/sular",
+                    "children": []
+                },
+                {
+                    "title": "Kolalar",
+                    "url": "https://neptun.az/ickiler/kolalar",
+                    "children": []
+                },
+                {
+                    "title": "Soyuq çay",
+                    "url": "https://neptun.az/ickiler/soyuq-cay",
+                    "children": []
+                },
+                {
+                    "title": "Enerji içəcək",
+                    "url": "https://neptun.az/ickiler/enerji-icecek",
+                    "children": []
+                },
+                {
+                    "title": "Araq",
+                    "url": "https://neptun.az/ickiler/araq",
+                    "children": []
+                },
+                {
+                    "title": "Şərab",
+                    "url": "https://neptun.az/ickiler/serablar",
+                    "children": []
+                },
+                {
+                    "title": "Pivə",
+                    "url": "https://neptun.az/ickiler/pive",
+                    "children": []
+                },
+                {
+                    "title": "Şampan",
+                    "url": "https://neptun.az/ickiler/sampan",
+                    "children": []
+                },
+                {
+                    "title": "Konyak",
+                    "url": "https://neptun.az/ickiler/konyak",
+                    "children": []
+                },
+                {
+                    "title": "Viski,tekila və s.",
+                    "url": "https://neptun.az/ickiler/viski-tekila",
+                    "children": []
+                },
+                {
+                    "title": "Tütün məhsulları",
+                    "url": "https://neptun.az/ickiler/tutun-mehsullari",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Süd məhsulları",
+            "children": [
+                {
+                    "title": "Yağlar",
+                    "url": "https://neptun.az/sud-mehsullari/yaglar",
+                    "children": []
+                },
+                {
+                    "title": "Ayran",
+                    "url": "https://neptun.az/sud-mehsullari/ayran",
+                    "children": []
+                },
+                {
+                    "title": "Südlər",
+                    "url": "https://neptun.az/sud-mehsullari/sud",
+                    "children": []
+                },
+                {
+                    "title": "Şor",
+                    "url": "https://neptun.az/sud-mehsullari/sor",
+                    "children": []
+                },
+                {
+                    "title": "Dovğa",
+                    "url": "https://neptun.az/sud-mehsullari/dovga",
+                    "children": []
+                },
+                {
+                    "title": "Kəsmik",
+                    "url": "https://neptun.az/sud-mehsullari/kesmik",
+                    "children": []
+                },
+                {
+                    "title": "Kefir",
+                    "url": "https://neptun.az/sud-mehsullari/kefir",
+                    "children": []
+                },
+                {
+                    "title": "Kokteyllər",
+                    "url": "https://neptun.az/sud-mehsullari/kokteyller",
+                    "children": []
+                },
+                {
+                    "title": "Pendirlər",
+                    "url": "https://neptun.az/sud-mehsullari/pendir",
+                    "children": []
+                },
+                {
+                    "title": "Qatıq",
+                    "url": "https://neptun.az/sud-mehsullari/qatiq",
+                    "children": []
+                },
+                {
+                    "title": "Qaymaq",
+                    "url": "https://neptun.az/sud-mehsullari/qaymaq",
+                    "children": []
+                },
+                {
+                    "title": "Xama",
+                    "url": "https://neptun.az/sud-mehsullari/xama",
+                    "children": []
+                },
+                {
+                    "title": "Yogurt",
+                    "url": "https://neptun.az/sud-mehsullari/yoqurt",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Uşaq məhsulları",
+            "children": [
+                {
+                    "title": "Oyuncaqlar",
+                    "url": "https://neptun.az/usaq-mehsullari/oyuncaq",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq Bezləri",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-bezleri",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq ləvazimatları",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-levazimatlari",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq pudrası",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-pudrasi",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq sabunları",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-sabunlari",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq şampunları",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-sampunlari",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq tekstili",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-tekstili",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq üçün yuyucu tozlar",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-ucun-yuyucu-tozlar",
+                    "children": []
+                },
+                {
+                    "title": "Uşaq yeməyi",
+                    "url": "https://neptun.az/usaq-mehsullari/usaq-yemeyi",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Yuyucu,təmizləyici vasitələr",
+            "children": [
+                {
+                    "title": "Paltarlar üçün",
+                    "url": "https://neptun.az/yuyucu-temizleyici-vasiteler/paltarlar-ucun",
+                    "children": []
+                },
+                {
+                    "title": "Qab yumaq üçün",
+                    "url": "https://neptun.az/yuyucu-temizleyici-vasiteler/qab_yumaq_ucun",
+                    "children": []
+                },
+                {
+                    "title": "Yuyucu, təmizləyicilər",
+                    "url": "https://neptun.az/yuyucu-temizleyici-vasiteler/yuyucu_temizleyiciler",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Kosmetik və gigiyenik",
+            "children": [
+                {
+                    "title": "Ətirlər",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/etirler",
+                    "children": []
+                },
+                {
+                    "title": "Ağız baxımı",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/agiz-baxim",
+                    "children": []
+                },
+                {
+                    "title": "Antiperspirant",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/antiperspirant",
+                    "children": []
+                },
+                {
+                    "title": "Aseton",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/aseton",
+                    "children": []
+                },
+                {
+                    "title": "Təraş ləvazimatları",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/teras-levazimatlari",
+                    "children": []
+                },
+                {
+                    "title": "Təravətləndiricilər",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/teravetlendiriciler",
+                    "children": []
+                },
+                {
+                    "title": "Dezodorant",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/dezodorant",
+                    "children": []
+                },
+                {
+                    "title": "Duş Gelləri",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/dus-gelleri",
+                    "children": []
+                },
+                {
+                    "title": "Kağız məhsulları",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/kagiz-mehsullari",
+                    "children": []
+                },
+                {
+                    "title": "Kolonyalar",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/kolonyalar",
+                    "children": []
+                },
+                {
+                    "title": "Kosmetik",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/kosmetika",
+                    "children": []
+                },
+                {
+                    "title": "Kremlər",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/kremler",
+                    "children": []
+                },
+                {
+                    "title": "Losyonlar",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/lasyon",
+                    "children": []
+                },
+                {
+                    "title": "Makiyaj diski",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/makyaj-diski",
+                    "children": []
+                },
+                {
+                    "title": "Mövsümi məhsullar",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/movsumi-mehsullar",
+                    "children": []
+                },
+                {
+                    "title": "Nəm salfetlər",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/nem-salfetler",
+                    "children": []
+                },
+                {
+                    "title": "Otaq təravətləndirici",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/otaq-teravetlendirici",
+                    "children": []
+                },
+                {
+                    "title": "Qadın məhsulları",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/qadin-mehsullari",
+                    "children": []
+                },
+                {
+                    "title": "Qulaq çubuğu",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/qulaq-cubugu",
+                    "children": []
+                },
+                {
+                    "title": "Sabunlar",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/sabunlar",
+                    "children": []
+                },
+                {
+                    "title": "Saç baxımı",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/sac-baximi",
+                    "children": []
+                },
+                {
+                    "title": "Xəstə bezləri",
+                    "url": "https://neptun.az/kosmetik-gigiyenik-vasiteler/xeste-bezleri",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Məişət, mətbəx, tekstil",
+            "children": [
+                {
+                    "title": "Avto",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/avto",
+                    "children": []
+                },
+                {
+                    "title": "Bayram aksessuarları",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/bayram-aksessuarlari",
+                    "children": []
+                },
+                {
+                    "title": "Batareya",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/batareya",
+                    "children": []
+                },
+                {
+                    "title": "Corablar",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/corablar",
+                    "children": []
+                },
+                {
+                    "title": "Plastik qablar",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/plastik-qablar",
+                    "children": []
+                },
+                {
+                    "title": "Qab-qacaq",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/qab-qacaq",
+                    "children": []
+                },
+                {
+                    "title": "Məişət məhsulları",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/meiset-mehsullar",
+                    "children": []
+                },
+                {
+                    "title": "Həşəratlara qarşı",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/heseratlara-qarsi",
+                    "children": []
+                },
+                {
+                    "title": "Ayaqqabı ləvazimatları",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/ayaqqabi-lvazimatlari",
+                    "children": []
+                },
+                {
+                    "title": "Tekstil",
+                    "url": "https://neptun.az/meiset-metbex-tekstil/tekstil",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Konselyariya",
+            "children": [
+                {
+                    "title": "Uşaq kitabları",
+                    "url": "https://neptun.az/konselyariya/usaq-kitablari",
+                    "children": []
+                },
+                {
+                    "title": "Dəftər",
+                    "url": "https://neptun.az/konselyariya/defter",
+                    "children": []
+                },
+                {
+                    "title": "Qələm",
+                    "url": "https://neptun.az/konselyariya/qelem",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Heyvan yemləri",
+            "children": [
+                {
+                    "title": "İt Yemləri",
+                    "url": "https://neptun.az/heyvan-yemleri/it-yemleri",
+                    "children": []
+                },
+                {
+                    "title": "Pişik Yemləri",
+                    "url": "https://neptun.az/heyvan-yemleri/pisik-yemleri",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "title": "Yalnız Neptunda",
+            "children": []
+        },
+        {
+            "title": "Elektronika & Mebel",
+            "children": [
+                {
+                    "title": "Telefon",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "TV və Audio",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "Oyun və Əyləncə",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "Foto-Video Kamera",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "Kompüter və Aksessuarlar",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "Məişət Texnikası",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "Mətbəx Texnikası",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "Kiçik ev Alətləri",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                },
+                {
+                    "title": "Mebel",
+                    "url": "https://www.soliton.az/",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
