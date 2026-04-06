@@ -35,3 +35,6 @@ neptun_product_matches = db["neptun_product_matches"]
 
 wolt_bravo_normalised_products = db["wolt_bravo_normalised_products"]
 bravo_product_matches = db["bravo_product_matches"]
+
+website_bazarstore_normalised_products = db["website_bazarstore_normalised_products"]
+bazarstore_product_matches = db["bazarstore_product_matches"]

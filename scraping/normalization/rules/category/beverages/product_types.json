@@ -7,7 +7,7 @@
         {"regex": "\\bnektar(?:ı|i|in)?\\b", "type": "Meyvə şirəsi"},
         {"regex": "\\bmors(?:ok)?\\b", "type": "Meyvə şirəsi"},
         {"regex": "\\bsmuz[iı]\\b|\\bsmoothie\\b", "type": "Smuzi"},
-        {"regex": "\\bşirə\\b|\\bsirə\\b|\\bsire\\b|\\bsok\\b|\\bsoku\\b|\\bşirəsi\\b|\\bsiresi\\b", "type": "Meyvə şirəsi"},
+        {"regex": "\\bşirə\\b|\\bsirə\\b|\\bsire\\b|\\bsok\\b|\\bsoku\\b|\\bşirəsi\\b|\\bsiresi\\b|\\bshiresi\\b", "type": "Meyvə şirəsi"},
         {"regex": "\\blimonad(?:ı)?\\b|\\blemonade?\\b", "type": "Limonad"},
         {"regex": "\\bkvas\\b", "type": "Kvas"},
         {"regex": "\\btonik\\b|\\btonic\\b", "type": "Tonik"},

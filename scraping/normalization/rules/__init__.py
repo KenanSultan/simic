@@ -151,6 +151,16 @@ class RuleLoader:
 
         return result
 
+    def get_sugar_free_rules(self):
+        """Load sugar-free indicator patterns. Scope: CATEGORY."""
+        rules = self._load_category_patterns("sugar_free.json")
+        return [(pattern, entry["value"]) for pattern, entry in rules]
+
+    def get_product_line_rules(self):
+        """Load product line / sub-brand patterns. Scope: CATEGORY."""
+        rules = self._load_category_patterns("product_lines.json")
+        return [(pattern, entry["canonical"]) for pattern, entry in rules]
+
     def get_sanity_checker(self):
         """Load sanity check function. Scope: CATEGORY (beverages)."""
         cat_dir = self._category_dir()

@@ -31,6 +31,8 @@ class ArazWebsiteExtractor(BaseExtractor):
         inference_fn = self.rule_loader.get_inference_fn()
         if inference_fn:
             inference_fn(parsed, canonical_category_id, original_name=name)
+            if parsed.get("_skip"):
+                return None
             if "_corrected_category_id" in parsed:
                 canonical_category_id = parsed.pop("_corrected_category_id")
 
@@ -79,6 +81,8 @@ class ArazWebsiteExtractor(BaseExtractor):
             "pack_size": parsed["pack_size"],
             "packaging": parsed["packaging"],
             "is_sparkling": parsed["is_sparkling"],
+            "is_sugar_free": parsed["is_sugar_free"],
+            "product_line": parsed["product_line"],
             "flavor": parsed["flavor"],
             "product_type": parsed["product_type"],
 

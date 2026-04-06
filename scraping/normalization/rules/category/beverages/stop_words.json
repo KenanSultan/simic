@@ -5,9 +5,14 @@
     "phrases": [
         "enerji\\s+(?:içkisi|ickisi|ichkisi)",
         "qazl[ıi]\\s+(?:içki|icki)",
-        "meyvə\\s+(?:şirəsi|siresi)",
-        "meyve\\s+(?:şirəsi|siresi)",
-        "mineral\\s+su"
+        "meyvə\\s+(?:şirəsi|siresi|shiresi)",
+        "meyve\\s+(?:şirəsi|siresi|shiresi|suyu)",
+        "mineral\\s+su",
+        "plastik\\s+qabda",
+        "demir\\s+qab(?:da)?",
+        "energy\\s+drink"
     ],
-    "words": ["su", "icki", "içki", "ickileri", "içkiləri", "içkisi", "ickisi", "və", "ve"]
+    "words": ["su", "icki", "içki", "ickileri", "içkiləri", "içkisi", "ickisi", "və", "ve",
+              "napitok", "napitki", "plastik", "qabda", "paket",
+              "tebii", "təbii", "new"]
 }

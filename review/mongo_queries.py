@@ -27,6 +27,13 @@ MARKETS = {
             ("wolt", "wolt_bravo_normalised_products"),
         ],
     },
+    "bazarstore": {
+        "name": "Bazarstore",
+        "matches": "bazarstore_product_matches",
+        "normalised": [
+            ("website", "website_bazarstore_normalised_products"),
+        ],
+    },
 }
 
 DEFAULT_MARKET = "araz"

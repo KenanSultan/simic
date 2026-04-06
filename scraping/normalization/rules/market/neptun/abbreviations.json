@@ -7,6 +7,9 @@
         {"pattern": "PL/Q", "expansion": "Pet"},
         {"pattern": "S/Q", "expansion": "Şüşə"},
         {"pattern": "T/P", "expansion": "Tetra pak"},
-        {"pattern": "D/Q", "expansion": "Dəmir qab"}
+        {"pattern": "D/Q", "expansion": "Dəmir qab"},
+        {"pattern": "M\\.SIRESI", "expansion": "Meyvə şirəsi"},
+        {"pattern": "M\\.ŞİRƏSİ", "expansion": "Meyvə şirəsi"},
+        {"pattern": "\\bPK\\b", "expansion": "Paket"}
     ]
 }

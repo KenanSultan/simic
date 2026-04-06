@@ -1,0 +1,13 @@
+{
+    "scope": "market",
+    "market": "bazarstore",
+    "description": "Bazarstore website abbreviations used in ALL CAPS product names",
+    "abbreviations": [
+        {"pattern": "\\bTP\\b", "expansion": "tetra pak"},
+        {"pattern": "\\bBAN\\.?\\b", "expansion": "banka"},
+        {"pattern": "\\bM\\.ŞİRƏSİ\\b", "expansion": "meyvə şirəsi"},
+        {"pattern": "\\bM\\.SIRESI\\b", "expansion": "meyvə şirəsi"},
+        {"pattern": "\\bQ\\.İÇKİ\\b", "expansion": "qazlı içki"},
+        {"pattern": "\\bQ\\.ICKI\\b", "expansion": "qazlı içki"}
+    ]
+}

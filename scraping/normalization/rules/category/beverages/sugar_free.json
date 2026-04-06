@@ -1,0 +1,15 @@
+{
+    "scope": "category",
+    "category": "spirtsiz-ickiler",
+    "description": "Sugar-free / diet product indicators. Matched text is removed from name. Null means product has sugar (default).",
+    "patterns": [
+        {"regex": "\\bzero\\b", "value": true},
+        {"regex": "\\bşəkərsiz\\b|\\bsekersiz\\b|\\bşekersiz\\b", "value": true},
+        {"regex": "\\bsugar\\s*free\\b", "value": true},
+        {"regex": "\\bdiet\\b", "value": true},
+        {"regex": "\\blight\\b", "value": true},
+        {"regex": "\\b0\\s*calorie?s?\\b", "value": true},
+        {"regex": "\\bno\\s*sugar\\b", "value": true},
+        {"regex": "\\bsifir\\b|\\bsıfır\\b", "value": true}
+    ]
+}

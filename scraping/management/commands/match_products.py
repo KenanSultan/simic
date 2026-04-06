@@ -8,7 +8,6 @@ from scraping.mongo import db
 from scraping.normalization.category import load_canonical_categories, get_subcategory_ids
 from scraping.identification.dedup import dedup_within_branch
 from scraping.identification.matchers.barcode import match_by_barcode
-from scraping.identification.matchers.fuzzy import _similarity
 from scraping.identification.matchers.exact import match_by_exact_fields
 from scraping.identification.matchers.structured import match_by_structured_fields, match_by_structured_sparkling
 from scraping.identification.matchers.fuzzy import match_by_fuzzy
@@ -22,7 +21,7 @@ class Command(BaseCommand):
         parser.add_argument(
             "--scope",
             required=True,
-            choices=["intra_marketplace", "cross_source"],
+            choices=["intra_marketplace", "cross_source", "passthrough"],
         )
         parser.add_argument(
             "--market",
@@ -64,6 +63,9 @@ class Command(BaseCommand):
 
         if scope == "cross_source":
             return self._handle_cross_source(market, category_slug, fuzzy_threshold, dry_run)
+
+        if scope == "passthrough":
+            return self._handle_passthrough(market, source_type, category_slug, dry_run)
 
 
         # Determine target canonical category IDs
@@ -190,68 +192,110 @@ class Command(BaseCommand):
         else:
             self.stdout.write(self.style.WARNING("\n  [DRY RUN] No data written."))
 
-    def _handle_cross_source(self, market, category_slug, fuzzy_threshold, dry_run):
-        """Match website products against existing Wolt golden records."""
+    def _handle_passthrough(self, market, source_type, category_slug, dry_run):
+        """Create golden records directly from normalized products (no matching).
+
+        Used for single-source marketplaces like Bazarstore where each
+        normalized product becomes its own golden record.
+        """
         canonical_cats = load_canonical_categories()
         target_ids = get_subcategory_ids(canonical_cats, category_slug)
 
-        # Load website products (per-market collection)
+        # Load normalized products
+        collection_map = {
+            "wolt": f"wolt_{market}_normalised_products",
+            "website": f"website_{market}_normalised_products",
+        }
+
+        products = []
+        for src, coll_name in collection_map.items():
+            if source_type not in (src, "all"):
+                continue
+            coll = db[coll_name]
+            query = {"canonical_category_id": {"$in": list(target_ids)}}
+            docs = list(coll.find(query))
+            products.extend(docs)
+            self.stdout.write(f"  Loaded {len(docs)} from {coll_name}")
+
+        self.stdout.write(f"  Total products: {len(products)}")
+
+        # Create one golden record per product
+        now = datetime.now(timezone.utc)
+        match_docs = []
+
+        for product in products:
+            golden = create_golden_record_consensus([product])
+            match_docs.append({
+                "match_group_id": str(uuid.uuid4()),
+                "scope": "passthrough",
+                "marketplace": market,
+                "match_type": "passthrough",
+                "match_confidence": 1.0,
+                "needs_review": False,
+                "products": [{
+                    "source_type": product["source_type"],
+                    "branch": product.get("branch"),
+                    "product_id": product["product_id"],
+                }],
+                "golden_record": golden,
+                "provenance": {
+                    "total_products": len(products),
+                    "passthrough": True,
+                },
+                "created_at": now,
+            })
+
+        # Category distribution
+        cat_counts = Counter()
+        for doc in match_docs:
+            cat_id = doc["golden_record"].get("canonical_category_id")
+            cat_name = canonical_cats.get(cat_id, {}).get("name", "?")
+            cat_counts[f"{cat_id} ({cat_name})"] += 1
+
+        self.stdout.write(f"\n  Golden records: {len(match_docs)}")
+        for cat, count in cat_counts.most_common():
+            self.stdout.write(f"    {cat}: {count}")
+
+        if not dry_run:
+            matches_coll = db[f"{market}_product_matches"]
+            matches_coll.delete_many({"scope": "passthrough"})
+            if match_docs:
+                matches_coll.insert_many(match_docs)
+            self.stdout.write(self.style.SUCCESS(
+                f"\n  [DONE] Written {len(match_docs)} passthrough golden records"
+            ))
+        else:
+            self.stdout.write(self.style.WARNING("\n  [DRY RUN] No data written."))
+
+    def _handle_cross_source(self, market, category_slug, fuzzy_threshold, dry_run):
+        """Match website products against existing Wolt golden records.
+
+        Uses the CrossSourceMatcher with 3-tier hybrid approach:
+        Tier 1 (EXACT) → Tier 2 (EXACT-ON-SHARED) → Tier 3 (SCORING)
+        """
+        from scraping.identification.cross_source_matcher import CrossSourceMatcher
+
+        canonical_cats = load_canonical_categories()
+        target_ids = get_subcategory_ids(canonical_cats, category_slug)
+
+        # Load website products
         website_coll = db[f"website_{market}_normalised_products"]
         web_products = list(website_coll.find({
             "canonical_category_id": {"$in": list(target_ids)},
         }))
         self.stdout.write(f"  Website products: {len(web_products)}")
 
-        # Load existing Wolt golden records (per-market collection)
+        # Load existing Wolt golden records
         matches_coll = db[f"{market}_product_matches"]
         golden_docs = list(matches_coll.find({
             "scope": "intra_marketplace",
         }))
         self.stdout.write(f"  Wolt golden records: {len(golden_docs)}")
 
-        # Build lookups
-        golden_by_key = {}       # (brand, name, size, unit, packaging, flavor) → doc
-        golden_by_key_no_pkg = {}  # (brand, name, size, unit, flavor) → [docs]
-        golden_by_structured = {}  # (brand, size, unit, pack_size, flavor) → doc
-        golden_by_sparkling = {}   # (brand, size, unit, pack_size, is_sparkling, packaging, flavor) → doc
-        golden_prices = {}       # golden doc _id → average price from Wolt
+        # Preload Wolt prices for golden records
+        golden_prices = {}
         wolt_norm_coll = db[f"wolt_{market}_normalised_products"]
-
         for doc in golden_docs:
-            gr = doc["golden_record"]
-            key = (
-                gr.get("normalized_brand") or "",
-                gr.get("normalized_name") or "",
-                gr.get("size"),
-                gr.get("unit"),
-                gr.get("packaging"),
-                gr.get("flavor") or "",
-            )
-            key_no_pkg = (
-                gr.get("normalized_brand") or "",
-                gr.get("normalized_name") or "",
-                gr.get("size"),
-                gr.get("unit"),
-                gr.get("flavor") or "",
-            )
-            golden_by_key[key] = doc
-            golden_by_key_no_pkg.setdefault(key_no_pkg, []).append(doc)
-
-            # Structured key (brand + size + flavor) — requires flavor
-            s_brand = gr.get("normalized_brand") or ""
-            s_flavor = gr.get("flavor") or ""
-            if s_brand and s_flavor:
-                s_key = (s_brand, gr.get("size"), gr.get("unit"), gr.get("pack_size"), s_flavor)
-                golden_by_structured[s_key] = doc
-
-            # Sparkling key (brand + size + sparkling + packaging + flavor)
-            s_sparkling = gr.get("is_sparkling")
-            s_pkg = gr.get("packaging")
-            if s_brand and s_sparkling is not None and s_pkg:
-                sp_key = (s_brand, gr.get("size"), gr.get("unit"), gr.get("pack_size"), s_sparkling, s_pkg, s_flavor)
-                golden_by_sparkling[sp_key] = doc
-
-            # Preload one Wolt price for this golden record
             wolt_prods = [p for p in doc.get("products", []) if p.get("source_type") == "wolt"]
             if wolt_prods:
                 norm = wolt_norm_coll.find_one({
@@ -261,121 +305,38 @@ class Command(BaseCommand):
                 if norm and norm.get("price"):
                     golden_prices[doc["_id"]] = norm["price"]
 
-        # Build list of golden records for fuzzy matching
-        golden_list = [(doc, doc["golden_record"]) for doc in golden_docs]
+        # Run matching
+        matcher = CrossSourceMatcher(
+            score_threshold=0.70,
+            review_threshold=0.50,
+        )
+        matched, unmatched_web, stats = matcher.match(
+            web_products, golden_docs,
+            golden_prices=golden_prices,
+        )
 
-        # Match website products
-        stats = Counter()
-        matched_pairs = []  # (website_product, golden_doc, match_type, confidence)
-        unmatched_web = []
+        # Report
+        total_matched = len(matched)
+        self.stdout.write(f"\n  Matched: {total_matched} ({total_matched/len(web_products)*100:.1f}%)")
+        for tier in ["exact", "exact_shared", "scoring", "scoring_review", "no_candidates", "unmatched"]:
+            if stats[tier]:
+                self.stdout.write(f"    {tier:20s}: {stats[tier]}")
 
-        for wp in web_products:
-            key = (
-                wp.get("normalized_brand") or "",
-                wp.get("normalized_name") or "",
-                wp.get("size"),
-                wp.get("unit"),
-                wp.get("packaging"),
-                wp.get("flavor") or "",
-            )
+        # Show scoring match samples
+        scoring_pairs = [(wp, gd, c) for wp, gd, t, c in matched if t in ("scoring", "scoring_review")]
+        if scoring_pairs:
+            self.stdout.write(f"\n  === Scoring match samples (first 10) ===")
+            for wp, gd, conf in scoring_pairs[:10]:
+                self.stdout.write(f"    [{conf:.2f}] Website: {wp['original_name']}")
+                self.stdout.write(f"           Wolt:    {gd['golden_record']['original_name']}")
 
-            # Tier 1: Exact match (with packaging)
-            if key in golden_by_key:
-                matched_pairs.append((wp, golden_by_key[key], "exact", 0.95))
-                stats["exact"] += 1
-                continue
-
-            # Tier 2: Relaxed packaging match — brand+name+size+unit+flavor match,
-            # one side has packaging=None, prices are the same
-            key_no_pkg = (
-                wp.get("normalized_brand") or "",
-                wp.get("normalized_name") or "",
-                wp.get("size"),
-                wp.get("unit"),
-                wp.get("flavor") or "",
-            )
-            wp_price = wp.get("price")
-            wp_pkg = wp.get("packaging")
-            relaxed_match = None
-
-            if key_no_pkg in golden_by_key_no_pkg:
-                for candidate in golden_by_key_no_pkg[key_no_pkg]:
-                    c_pkg = candidate["golden_record"].get("packaging")
-                    # Only if one has packaging and the other doesn't
-                    if (wp_pkg is None) == (c_pkg is None):
-                        continue
-                    # Check price similarity (within 15% of the lower price)
-                    c_price = golden_prices.get(candidate["_id"])
-                    if wp_price and c_price:
-                        lower = min(wp_price, c_price)
-                        if lower > 0 and abs(wp_price - c_price) / lower <= 0.15:
-                            relaxed_match = candidate
-                            break
-
-            if relaxed_match:
-                matched_pairs.append((wp, relaxed_match, "relaxed_pkg", 0.90))
-                stats["relaxed_pkg"] += 1
-                continue
-
-            # Tier 3: Structured match (brand + size + unit + pack_size + flavor) — requires flavor
-            wp_brand = wp.get("normalized_brand") or ""
-            wp_flavor = wp.get("flavor") or ""
-            if wp_brand and wp_flavor:
-                s_key = (wp_brand, wp.get("size"), wp.get("unit"), wp.get("pack_size"), wp_flavor)
-                if s_key in golden_by_structured:
-                    matched_pairs.append((wp, golden_by_structured[s_key], "structured", 0.92))
-                    stats["structured"] += 1
-                    continue
-
-            # Tier 4: Structured sparkling match (brand + size + sparkling + packaging + flavor)
-            wp_sparkling = wp.get("is_sparkling")
-            if wp_brand and wp_sparkling is not None and wp_pkg:
-                sp_key = (wp_brand, wp.get("size"), wp.get("unit"), wp.get("pack_size"), wp_sparkling, wp_pkg, wp.get("flavor") or "")
-                if sp_key in golden_by_sparkling:
-                    matched_pairs.append((wp, golden_by_sparkling[sp_key], "structured_sparkling", 0.92))
-                    stats["structured_sparkling"] += 1
-                    continue
-
-            # Tier 5: Fuzzy match (same size+unit+packaging+flavor required)
-            best_score = 0
-            best_golden = None
-            wp_name = wp.get("normalized_name") or ""
-            wp_size = wp.get("size")
-            wp_unit = wp.get("unit")
-
-            for doc, gr in golden_list:
-                if gr.get("size") != wp_size or gr.get("unit") != wp_unit or gr.get("packaging") != wp_pkg:
-                    continue
-                if (gr.get("flavor") or "") != (wp.get("flavor") or ""):
-                    continue
-                gr_name = gr.get("normalized_name") or ""
-                score = _similarity(wp_name, gr_name)
-                if score > best_score:
-                    best_score = score
-                    best_golden = doc
-
-            if best_score >= fuzzy_threshold and best_golden:
-                matched_pairs.append((wp, best_golden, "fuzzy", best_score))
-                stats["fuzzy"] += 1
-            else:
-                unmatched_web.append(wp)
-                stats["unmatched"] += 1
-
-        self.stdout.write(f"\n  Exact matches:       {stats['exact']}")
-        self.stdout.write(f"  Relaxed pkg matches: {stats['relaxed_pkg']}")
-        self.stdout.write(f"  Structured matches:  {stats['structured']}")
-        self.stdout.write(f"  Sparkling matches:   {stats['structured_sparkling']}")
-        self.stdout.write(f"  Fuzzy matches:       {stats['fuzzy']}")
-        self.stdout.write(f"  Unmatched:           {stats['unmatched']} (website-only products)")
-
-        # Update golden records with website info
+        # Write results
         now = datetime.now(timezone.utc)
         updates = 0
         new_records = []
 
         if not dry_run:
-            # Clear previous cross-source results for idempotent re-runs:
-            # 1. Remove website products from existing golden records
+            # Clear previous cross-source results
             matches_coll.update_many(
                 {"has_website": True, "match_type": {"$ne": "website_only"}},
                 {
@@ -387,11 +348,10 @@ class Command(BaseCommand):
                     },
                 },
             )
-            # 2. Delete previous website-only records
             matches_coll.delete_many({"match_type": "website_only"})
 
-            for wp, golden_doc, match_type, confidence in matched_pairs:
-                # Add website product to the golden record's products list
+            for wp, golden_doc, match_type, confidence in matched:
+                needs_review = match_type == "scoring_review"
                 matches_coll.update_one(
                     {"_id": golden_doc["_id"]},
                     {
@@ -406,12 +366,12 @@ class Command(BaseCommand):
                             "golden_record.website_barcode": wp.get("website_barcode"),
                             "golden_record.website_price": wp.get("price"),
                             "has_website": True,
+                            "needs_review": needs_review or None,
                         },
                     },
                 )
                 updates += 1
 
-            # Create new golden records for website-only products
             for wp in unmatched_web:
                 golden = create_golden_record_consensus([wp])
                 golden["website_barcode"] = wp.get("website_barcode")
@@ -441,11 +401,3 @@ class Command(BaseCommand):
             ))
         else:
             self.stdout.write(self.style.WARNING("\n  [DRY RUN] No data written."))
-
-        # Show fuzzy match samples
-        fuzzy_pairs = [(wp, gd, s) for wp, gd, mt, s in matched_pairs if mt == "fuzzy"]
-        if fuzzy_pairs:
-            self.stdout.write(f"\n  === Fuzzy match samples (first 10) ===")
-            for wp, gd, score in fuzzy_pairs[:10]:
-                self.stdout.write(f"    [{score:.2f}] Website: {wp['original_name']}")
-                self.stdout.write(f"           Wolt:    {gd['golden_record']['original_name']}")

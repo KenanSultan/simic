@@ -8,13 +8,13 @@ _UNIT_BOUNDARY = r"(?-i:(?=[^a-z]|$))"
 
 # Pack pattern: "4x500ml", "6 x 1.5l"
 PACK_RE = re.compile(
-    r"(\d+)\s*[xXхХ×]\s*(\d+(?:[.,]\d+)?)\s*(ml|l|lt|litr|cl|g|gr|qr|kg|kq)" + _UNIT_BOUNDARY,
+    r"(\d+)\s*[xXхХ×]\s*(\d+(?:[.,]\d+)?)\s*(ml|l|lt|litr|cl|g|gr|qr|q|kg|kq)" + _UNIT_BOUNDARY,
     re.IGNORECASE,
 )
 
-# Single size: "500ml", "1.5l", "250gr"
+# Single size: "500ml", "1.5l", "250gr", "110q" (q = qram in Azerbaijani)
 SIZE_RE = re.compile(
-    r"(\d+(?:[.,]\d+)?)\s*(ml|l|lt|litr|cl|g|gr|qr|kg|kq)" + _UNIT_BOUNDARY,
+    r"(\d+(?:[.,]\d+)?)\s*(ml|l|lt|litr|cl|g|gr|qr|q|kg|kq)" + _UNIT_BOUNDARY,
     re.IGNORECASE,
 )
 
@@ -24,7 +24,7 @@ BARE_VOLUME_RE = re.compile(r"\b(0[.,]\d+|[12][.,]\d+)\b")
 # Standardize unit names
 UNIT_MAP = {
     "ml": "ml", "l": "l", "lt": "l", "litr": "l", "cl": "cl",
-    "g": "g", "gr": "g", "qr": "g", "kg": "kg", "kq": "kg",
+    "g": "g", "gr": "g", "qr": "g", "q": "g", "kg": "kg", "kq": "kg",
 }
 
 # Convert to base units

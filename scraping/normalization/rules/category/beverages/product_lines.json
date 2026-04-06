@@ -1,0 +1,21 @@
+{
+    "scope": "category",
+    "category": "spirtsiz-ickiler",
+    "description": "Product line / sub-brand identifiers within beverage brands. Matched text is removed from name. Null means standard/base product.",
+    "patterns": [
+        {"regex": "\\bpulpy\\b", "canonical": "Pulpy"},
+        {"regex": "\\bmax\\b", "canonical": "Max"},
+        {"regex": "\\btwist\\b|\\btvist\\b", "canonical": "Twist"},
+        {"regex": "\\bclassic\\b|\\bclasic\\b|\\bklassik\\b", "canonical": "Classic"},
+        {"regex": "\\boriginal\\b|\\boriqinal\\b", "canonical": "Original"},
+        {"regex": "\\bplus\\b", "canonical": "Plus"},
+        {"regex": "\\bexotic\\b|\\bekzotik\\b", "canonical": "Exotic"},
+        {"regex": "\\bpremium\\b", "canonical": "Premium"},
+        {"regex": "\\bfresh\\b", "canonical": "Fresh"},
+        {"regex": "\\bekonomik\\b|\\bekonomi\\b", "canonical": "Ekonomik"},
+        {"regex": "\\bslim\\b", "canonical": "Slim"},
+        {"regex": "\\bextra\\b|\\bekstra\\b", "canonical": "Extra"},
+        {"regex": "\\bpro\\b", "canonical": "Pro"},
+        {"regex": "\\blima\\b", "canonical": "Lima"}
+    ]
+}

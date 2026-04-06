@@ -13,6 +13,7 @@ from scraping.normalization.rules import RuleLoader
 from scraping.normalization.extractors.wolt import WoltExtractor
 from scraping.normalization.extractors.araz_website import ArazWebsiteExtractor
 from scraping.normalization.extractors.neptun_website import NeptunWebsiteExtractor
+from scraping.normalization.extractors.bazarstore_website import BazarstoreWebsiteExtractor
 
 # Source type → config (collection templates use {market} placeholder)
 # "market_extractors" overrides extractor_class and category_field per market.
@@ -31,6 +32,10 @@ SOURCE_REGISTRY = {
         "market_extractors": {
             "neptun": {
                 "extractor_class": NeptunWebsiteExtractor,
+                "category_field": "product._meta.category_title",
+            },
+            "bazarstore": {
+                "extractor_class": BazarstoreWebsiteExtractor,
                 "category_field": "product._meta.category_title",
             },
         },

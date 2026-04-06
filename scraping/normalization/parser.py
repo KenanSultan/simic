@@ -178,14 +178,44 @@ def extract_flavor(name, rules):
 def extract_product_type(name, rules):
     """Detect and remove product type. Scope: CATEGORY. Rules from product_types.json.
 
-    Returns (product_type, remaining_name).
+    Returns (product_type, remaining_name). Removes ALL matching patterns but keeps first type.
     """
+    detected_type = None
     for pattern, ptype in rules:
+        match = pattern.search(name)
+        if match:
+            if detected_type is None:
+                detected_type = ptype
+            name = name[:match.start()] + name[match.end():]
+            name = re.sub(r"\s+", " ", name).strip()
+    return detected_type, name
+
+
+def extract_sugar_free(name, rules):
+    """Extract sugar-free indicator. Scope: CATEGORY. Rules from sugar_free.json.
+
+    Returns (is_sugar_free, remaining_name).
+    """
+    for pattern, value in rules:
         match = pattern.search(name)
         if match:
             remaining = name[:match.start()] + name[match.end():]
             remaining = re.sub(r"\s+", " ", remaining).strip()
-            return ptype, remaining
+            return value, remaining
+    return None, name
+
+
+def extract_product_line(name, rules):
+    """Extract product line / sub-brand. Scope: CATEGORY. Rules from product_lines.json.
+
+    Returns (product_line, remaining_name).
+    """
+    for pattern, canonical in rules:
+        match = pattern.search(name)
+        if match:
+            remaining = name[:match.start()] + name[match.end():]
+            remaining = re.sub(r"\s+", " ", remaining).strip()
+            return canonical, remaining
     return None, name
 
 
@@ -256,6 +286,14 @@ def parse_product_name(name, rule_loader):
     sparkling_rules = rule_loader.get_sparkling_rules()
     is_sparkling, name = extract_sparkling(name, sparkling_rules)
 
+    # ── Category: Extract sugar-free indicator ──
+    sugar_free_rules = rule_loader.get_sugar_free_rules()
+    is_sugar_free, name = extract_sugar_free(name, sugar_free_rules)
+
+    # ── Category: Extract product line / sub-brand ──
+    product_line_rules = rule_loader.get_product_line_rules()
+    product_line, name = extract_product_line(name, product_line_rules)
+
     # ── Category: Detect and remove product type (before flavor) ──
     product_type_rules = rule_loader.get_product_type_rules()
     product_type, name = extract_product_type(name, product_type_rules)
@@ -302,6 +340,8 @@ def parse_product_name(name, rule_loader):
         "pack_size": pack_size,
         "packaging": packaging,
         "is_sparkling": is_sparkling,
+        "is_sugar_free": is_sugar_free,
+        "product_line": product_line,
         "flavor": flavor,
         "product_type": product_type,
         "normalized_brand": normalize_for_matching(brand) if brand else None,

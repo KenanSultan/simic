@@ -54,6 +54,8 @@ def create_golden_record_consensus(match_group):
         "flavor": most_frequent([p.get("flavor") for p in match_group]),
         "product_type": most_frequent([p.get("product_type") for p in match_group]),
         "is_sparkling": most_frequent([p.get("is_sparkling") for p in match_group]),
+        "is_sugar_free": most_frequent([p.get("is_sugar_free") for p in match_group]),
+        "product_line": most_frequent([p.get("product_line") for p in match_group]),
         "barcode": any_non_null([p.get("barcode") for p in match_group]),
         "canonical_category_id": most_frequent([p.get("canonical_category_id") for p in match_group]),
         "image": any_non_null([p.get("image") for p in match_group]),
