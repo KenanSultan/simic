@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "spirtli-ickiler",
+    "description": "Maps Wolt Neptun alcoholic beverage categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Araqlar", "canonical_category_id": 1603, "canonical_category_name": "Araq"},
+        {"wolt_category": "Şərablar", "canonical_category_id": 1602, "canonical_category_name": "Şərab"},
+        {"wolt_category": "Spirtli Kokteyllər", "canonical_category_id": 1612, "canonical_category_name": "Spirtli kokteyller"},
+        {"wolt_category": "Pivə", "canonical_category_id": 1601, "canonical_category_name": "Pivə"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Viski,Likor,Tekila və.s",
+            "rules": [
+                {
+                    "keywords": ["tekila", "tequila", "mezcal"],
+                    "canonical_category_id": 1607,
+                    "canonical_category_name": "Tekila"
+                },
+                {
+                    "keywords": ["likör", "likor", "likyor", "limoncello", "sambuca", "amaretto", "absent"],
+                    "canonical_category_id": 1609,
+                    "canonical_category_name": "Likör"
+                }
+            ],
+            "default_canonical_category_id": 1605,
+            "default_canonical_category_name": "Viski"
+        }
+    ]
+}

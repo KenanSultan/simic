@@ -1,0 +1,358 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "konservler-tursular",
+    "description": "Maps Araz website konserv/turşu leaf categories. Sources: KONSERVLƏŞDİRİLMİŞ (excl. SOUS→sous-edviyyat, SUŞİ) + QURU QİDA→SƏHƏR YEMƏKLƏRİ (bal/mürəbbə).",
+    "direct_mappings": [
+        {
+            "wolt_category": "ZEYTUN TURŞUSU",
+            "category_id": 4403,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "SOĞAN TURŞUSU",
+            "category_id": 4404,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "SARIMSAQ TURŞUSU",
+            "category_id": 4405,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "POMİDOR TURŞUSU",
+            "category_id": 4406,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "MEYVƏ MARİNADLARI",
+            "category_id": 4407,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "QARIŞIQ TURŞULAR",
+            "category_id": 4408,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "QARĞIDALI TURŞUSU",
+            "category_id": 4409,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ GÖBƏLƏK",
+            "category_id": 4410,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "KƏLƏM TURŞUSU",
+            "category_id": 4411,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "XİYAR TURŞUSU",
+            "category_id": 4412,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "DİGƏR TURŞULAR",
+            "category_id": 4413,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "BİBƏR TURŞUSU",
+            "category_id": 4414,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "BADIMCAN TURŞUSU",
+            "category_id": 4415,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "ASSORTİ TURŞULAR",
+            "category_id": 4416,
+            "canonical_category_id": 1103,
+            "canonical_category_name": "Turşu & Zeytun"
+        },
+        {
+            "wolt_category": "YAŞIL NOXUD KONSERVASI",
+            "category_id": 4418,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "PAXLA KONSERVASI",
+            "category_id": 4419,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "LOBYA KONSERVASI",
+            "category_id": 4420,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "QARIŞIQ TƏRƏVƏZ KONSERVLƏRİ",
+            "category_id": 4421,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "QARĞIDALI DƏNƏLƏRİ KONSERVLƏŞMİŞ",
+            "category_id": 4422,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "MEYVƏ ÖZ SUYUNDA",
+            "category_id": 4424,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "POMİDOR YEMƏKLƏRİ",
+            "category_id": 4427,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "QARIŞIQ TƏRƏVƏZ YEMƏKLƏRİ",
+            "category_id": 4428,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "XAŞLANMIŞ NOXUD",
+            "category_id": 4429,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "BİBƏR YEMƏKLƏRİ",
+            "category_id": 4430,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "BADIMCAN YEMƏKLƏRİ",
+            "category_id": 4431,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "QUŞ ƏTİ XÖRƏKLƏRİ",
+            "category_id": 4433,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "QIRMIZI ƏT XÖRƏKLƏRİ",
+            "category_id": 4434,
+            "canonical_category_id": 1101,
+            "canonical_category_name": "Tərəvəz konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ SHPROT",
+            "category_id": 1872,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ SELD",
+            "category_id": 1873,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ SARDİNA",
+            "category_id": 1874,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ LOSOS",
+            "category_id": 1875,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ KİLKƏ",
+            "category_id": 1876,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ FAREL",
+            "category_id": 1877,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ DİGƏR BALIQ",
+            "category_id": 1878,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "PAŞTET BALIQ ƏTİ",
+            "category_id": 4449,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ TUNA",
+            "category_id": 4450,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "KONSERVLƏŞDİRİLMİŞ SKUMBRIYA",
+            "category_id": 4451,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "TOYUQ KONSERVASI",
+            "category_id": 4436,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "PAŞTET QUŞ ƏTİ",
+            "category_id": 4437,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "ÖRDƏK KONSERVASI",
+            "category_id": 4438,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "QIRQOVUL KONSERVASI",
+            "category_id": 4439,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "QAZ KONSERVASI",
+            "category_id": 4440,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "HİND QUŞU KONSERVASI",
+            "category_id": 4441,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "BİLDİRÇİN KONSERVASI",
+            "category_id": 4442,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "PAŞTET QIRMIZI ƏT",
+            "category_id": 4444,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "MAL ƏTİ KONSERVASI",
+            "category_id": 4445,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "QOYUN ƏTİ KONSERVASI",
+            "category_id": 4446,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "DONUZ ƏTİ KONSERVASI",
+            "category_id": 4447,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "DİGƏR HEYVAN ƏTİ KONSERVALARI",
+            "category_id": 4448,
+            "canonical_category_id": 1102,
+            "canonical_category_name": "Balıq konservləri"
+        },
+        {
+            "wolt_category": "MÜRƏBBƏ",
+            "category_id": 1475,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "CEM",
+            "category_id": 1476,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "BƏHMƏZ",
+            "category_id": 1477,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "DAĞ BALI SÜZÜLMÜŞ",
+            "category_id": 1488,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "DAĞ BALI PƏTƏK",
+            "category_id": 1489,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "ÇİÇƏK BALI SÜZÜLMÜŞ",
+            "category_id": 1490,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "ÇİÇƏK BALI PƏTƏK",
+            "category_id": 1491,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "AĞAC BALI SÜZÜLMÜŞ",
+            "category_id": 1492,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        },
+        {
+            "wolt_category": "AĞAC BALI PƏTƏK",
+            "category_id": 1493,
+            "canonical_category_id": 1104,
+            "canonical_category_name": "Mürəbbə & Bal"
+        }
+    ],
+    "rule_based_mappings": []
+}

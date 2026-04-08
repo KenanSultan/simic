@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "cay-kofe",
+    "description": "Maps Bazarstore website categories under Təməl Qida > Çay, Qəhvə, Şəkər to canonical Tea & Coffee IDs (excluding şəkər which belongs to quru-qida).",
+    "direct_mappings": [
+        {"wolt_category": "Çay", "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "Kofe", "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "Kofe Kremi,Kakao,Süd Tozu", "canonical_category_id": 1503, "canonical_category_name": "Kakao"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Çəkili Çay,Şəkər,Kofe",
+            "rules": [
+                {
+                    "keywords": ["kofe", "qəhvə", "coffee", "nescafe"],
+                    "canonical_category_id": 1502,
+                    "canonical_category_name": "Kofe"
+                },
+                {
+                    "keywords": ["kakao", "cocoa"],
+                    "canonical_category_id": 1503,
+                    "canonical_category_name": "Kakao"
+                }
+            ],
+            "default_canonical_category_id": 1501,
+            "default_canonical_category_name": "Çay"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "konservler-tursular",
+    "description": "Maps Neptun Wolt konserv/turşu categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Konserv", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Balıq Konservi", "canonical_category_id": 1102, "canonical_category_name": "Balıq konservləri"},
+        {"wolt_category": "Zeytun", "canonical_category_id": 1103, "canonical_category_name": "Turşu & Zeytun"},
+        {"wolt_category": "Bal, Mürəbbə və Əzmələr", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"}
+    ],
+    "rule_based_mappings": []
+}

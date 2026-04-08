@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "baliq-deniz-mehsullari",
+    "description": "Maps Wolt Araz 'Dəniz məhsulları' category to canonical fish & seafood IDs via keyword rules.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Dəniz məhsulları",
+            "rules": [
+                {
+                    "keywords": ["dondurulmuş", "dondurulmus", "donmuş", "donmus"],
+                    "canonical_category_id": 302,
+                    "canonical_category_name": "Dondurulmuş balıq"
+                },
+                {
+                    "keywords": ["hisə", "hise", "qaxac"],
+                    "canonical_category_id": 304,
+                    "canonical_category_name": "Hisə verilmiş balıq"
+                },
+                {
+                    "keywords": ["krevet", "krab", "karides", "ahtapot", "kalmar", "midye", "kürü", "kuru"],
+                    "canonical_category_id": 303,
+                    "canonical_category_name": "Dəniz məhsulları"
+                }
+            ],
+            "default_canonical_category_id": 301,
+            "default_canonical_category_name": "Təzə balıq"
+        }
+    ]
+}

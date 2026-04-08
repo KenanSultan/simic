@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "konservler-tursular",
+    "description": "Maps Neptun website konserv/turşu categories. Source: 'Ərzaq məhsulları' (Turşular, Zeytunlar, Balıq konservləri, Konservlər, Tərəvəz konservləri) + 'Şirniyyat' (Mürəbbələr).",
+    "direct_mappings": [
+        {"wolt_category": "Konservlər", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Tərəvəz konservləri", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Balıq konservləri", "canonical_category_id": 1102, "canonical_category_name": "Balıq konservləri"},
+        {"wolt_category": "Turşular", "canonical_category_id": 1103, "canonical_category_name": "Turşu & Zeytun"},
+        {"wolt_category": "Zeytunlar", "canonical_category_id": 1103, "canonical_category_name": "Turşu & Zeytun"},
+        {"wolt_category": "Mürəbbələr", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"}
+    ],
+    "rule_based_mappings": []
+}

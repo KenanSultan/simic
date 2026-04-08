@@ -1,0 +1,886 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "sexsi-baxim-kosmetika",
+    "description": "Maps Araz website KOSMETİKA VƏ QULLUQ VASİTƏLƏRİ leaf categories to canonical personal care IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "SAÇ ÜÇÜN YAĞ",
+            "category_id": 1841,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN MASKA",
+            "category_id": 1842,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN LOSYONLAR",
+            "category_id": 1843,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ SPREYİ",
+            "category_id": 1844,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "SAÇ KONDİSİONERİ",
+            "category_id": 1845,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "QURU ŞAMPUNLAR",
+            "category_id": 1846,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN MUSS",
+            "category_id": 1848,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN LAK",
+            "category_id": 1849,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN KREMLƏR",
+            "category_id": 1850,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN KÖPÜK",
+            "category_id": 1851,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN KERATİNLƏR",
+            "category_id": 1852,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN GEL",
+            "category_id": 1853,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "TƏBİİ SAÇ BOYALARI",
+            "category_id": 1855,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "SAÇ BOYA AKSESUARLARI",
+            "category_id": 1856,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "MÜVƏQQƏTİ SAÇ BOYALARI",
+            "category_id": 1857,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "QAŞ ÜÇÜN BOYALAR",
+            "category_id": 1858,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "KİŞİ SAÇ BOYALARI",
+            "category_id": 1859,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "KİMYƏVİ SAÇ BOYALARI",
+            "category_id": 1860,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "XINA",
+            "category_id": 1861,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "BOYA SUYU",
+            "category_id": 1862,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "AMONYAKSIZ SAÇ BOYALARI",
+            "category_id": 1863,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "MASKA TƏMİZLƏYİCİLƏR",
+            "category_id": 1866,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ TƏMİZLƏYİCİ TONİK",
+            "category_id": 1867,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ TƏMİZLƏYİCİ SÜD",
+            "category_id": 1868,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ TƏMİZLƏYİCİ SU",
+            "category_id": 4199,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ TƏMİZLƏYİCİ PAMBIQLAR",
+            "category_id": 4200,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ TƏMİZLƏYİCİ NƏM SALFETLƏR",
+            "category_id": 4201,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ TƏMİZLƏYİCİ LOSYON",
+            "category_id": 4202,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ TƏMİZLƏYİCİ GEL",
+            "category_id": 4203,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "BOYA SİLMƏK ÜÇÜN MAYE",
+            "category_id": 4204,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ASETON",
+            "category_id": 4205,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ MAKİYAJI MƏHSULLARI",
+            "category_id": 4207,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÖZ MAKİYAJI MƏHSULLARI",
+            "category_id": 4208,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "DODAQ MAKİYAJI MƏHSULLARI",
+            "category_id": 4209,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "DIRNAQ MAKİYAJI MƏHSULLARI",
+            "category_id": 4210,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ ÜÇÜN MAKİYAJ AKSESUARLARI",
+            "category_id": 4212,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "PİNSET",
+            "category_id": 4213,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "PAMBIQLAR",
+            "category_id": 4214,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MANİKUR ALƏTLƏRİ",
+            "category_id": 4215,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ FIRÇA",
+            "category_id": 4216,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ ÇANTASI",
+            "category_id": 4217,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MAKİYAJ SÜNGƏRİ",
+            "category_id": 4218,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜZGÜ",
+            "category_id": 4219,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "DARAQ",
+            "category_id": 4220,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ODEKOLONLAR",
+            "category_id": 4223,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "QARIŞIQ PARFÜM SETLƏRİ",
+            "category_id": 4224,
+            "canonical_category_id": 1907,
+            "canonical_category_name": "Ətirlər"
+        },
+        {
+            "wolt_category": "QADIN PARFÜMLƏRİ",
+            "category_id": 4225,
+            "canonical_category_id": 1907,
+            "canonical_category_name": "Ətirlər"
+        },
+        {
+            "wolt_category": "KOLONYALAR",
+            "category_id": 4226,
+            "canonical_category_id": 1907,
+            "canonical_category_name": "Ətirlər"
+        },
+        {
+            "wolt_category": "KİŞİ PARFÜMLƏRİ",
+            "category_id": 4227,
+            "canonical_category_id": 1907,
+            "canonical_category_name": "Ətirlər"
+        },
+        {
+            "wolt_category": "TÜK TÖKÜCÜ KREMLƏR",
+            "category_id": 4229,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "QADIN ÜÇÜN TƏRAŞ BIÇAĞI",
+            "category_id": 4230,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "AĞDA ÜÇÜN MƏHSULLAR",
+            "category_id": 4231,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "AĞDA ÜÇÜN BANTLAR",
+            "category_id": 4232,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "AĞDA SONRASI MƏHSULLAR",
+            "category_id": 4233,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "TƏRAŞ SONRASI LOSYONLAR",
+            "category_id": 4235,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ SONRASI KREMLƏR",
+            "category_id": 4236,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ SONRASI BALZAMLAR",
+            "category_id": 4237,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ KREMİ",
+            "category_id": 4238,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ KÖPÜYÜ",
+            "category_id": 4239,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ GELİ",
+            "category_id": 4240,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ BIÇAĞI PARÇALARI",
+            "category_id": 4241,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ BIÇAĞI BİRDƏFƏLİK",
+            "category_id": 4242,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "TƏRAŞ BIÇAĞI",
+            "category_id": 4243,
+            "canonical_category_id": 1905,
+            "canonical_category_name": "Təraş"
+        },
+        {
+            "wolt_category": "ZAQAR SONRASI YAĞ",
+            "category_id": 4245,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ZAQAR SONRASI SÜD",
+            "category_id": 4246,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ZAQAR SONRASI SPREY",
+            "category_id": 4247,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ZAQAR SONRASI LOSYON",
+            "category_id": 4248,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ZAQAR SONRASI KREM",
+            "category_id": 4249,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ZAQAR SONRASI KÖPÜK",
+            "category_id": 4250,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ZAQAR SONRASI GEL",
+            "category_id": 4251,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UŞAQ ÜÇÜN GÜNƏŞDƏN QORUYUCU SÜD",
+            "category_id": 4252,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UŞAQ ÜÇÜN GÜNƏŞDƏN QORUYUCU SPREY",
+            "category_id": 4253,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UŞAQ ÜÇÜN GÜNESHDEN QORUYUCU LOSYON",
+            "category_id": 4254,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UŞAQ ÜÇÜN GÜNƏŞDƏN QORUYUCU KREM",
+            "category_id": 4255,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UŞAQ ÜÇÜN GÜNƏŞDƏN QORUYUCU KÖPÜK",
+            "category_id": 4256,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UŞAQ ÜÇÜN GÜNƏŞDƏN QORUYUCU GEL",
+            "category_id": 4257,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜNƏŞDƏN QORUYUCU YAĞ",
+            "category_id": 4258,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜNƏŞDƏN QORUYUCU SÜD",
+            "category_id": 4259,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜNƏŞDƏN QORUYUCU SPREY",
+            "category_id": 4260,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜNƏŞDƏN QORUYUCU LOSYON",
+            "category_id": 4261,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜNƏŞDƏN QORUYUCU KREM",
+            "category_id": 4262,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜNƏŞDƏN QORUYUCU GEL",
+            "category_id": 4263,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "AVTOZAQAR GELİ",
+            "category_id": 4264,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ YUMAQ ÜÇÜN KÖPÜKLƏR",
+            "category_id": 4266,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ ÜÇÜN TONİKLƏR",
+            "category_id": 4267,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ ÜÇÜN SÜDLƏR",
+            "category_id": 4268,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ ÜÇÜN MASKALAR",
+            "category_id": 4269,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ ÜÇÜN LOSYONLAR",
+            "category_id": 4270,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ ÜÇÜN KREMLƏR",
+            "category_id": 4271,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ ÜÇÜN GELLƏR",
+            "category_id": 4272,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ÜZ TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 4273,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UNİVERSAL KREMLƏR",
+            "category_id": 4274,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MASAJ ÜÇÜN KREMLƏR",
+            "category_id": 4275,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "MASAJ AKSESUARLARI",
+            "category_id": 4276,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "QARIŞIQ QULLUQ SETLƏRİ",
+            "category_id": 4277,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÖZ ƏTRAFI ÜÇÜN KREMLƏR",
+            "category_id": 4278,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ƏL ÜÇÜN KREMLƏR",
+            "category_id": 4279,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "BƏDƏN ÜÇÜN YAĞLAR",
+            "category_id": 4280,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "BƏDƏN ÜÇÜN SÜDLƏR",
+            "category_id": 4281,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "BƏDƏN ÜÇÜN SKRABLAR",
+            "category_id": 4282,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "BƏDƏN ÜÇÜN LOSYONLAR",
+            "category_id": 4283,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "BƏDƏN ÜÇÜN KREMLƏR",
+            "category_id": 4284,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "AYAQ ÜÇÜN SPREYLƏR",
+            "category_id": 4285,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "AYAQ ÜÇÜN KREMLƏR",
+            "category_id": 4286,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ANTİSELÜLİT KREMLƏR",
+            "category_id": 4287,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "SAÇ ÜÇÜN BALZAMLAR",
+            "category_id": 4290,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ŞAMPUN QADIN ÜÇÜN",
+            "category_id": 4291,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "ŞAMPUN KİŞİ ÜÇÜN",
+            "category_id": 4292,
+            "canonical_category_id": 1902,
+            "canonical_category_name": "Saç baxımı"
+        },
+        {
+            "wolt_category": "QURU SABUNLAR",
+            "category_id": 4294,
+            "canonical_category_id": 1901,
+            "canonical_category_name": "Duş & Hamam"
+        },
+        {
+            "wolt_category": "MAYE SABUNLAR",
+            "category_id": 4295,
+            "canonical_category_id": 1901,
+            "canonical_category_name": "Duş & Hamam"
+        },
+        {
+            "wolt_category": "VANNA DUZU",
+            "category_id": 4297,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "DUŞ KREMİ",
+            "category_id": 4298,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "DUŞ KÖPÜYÜ",
+            "category_id": 4299,
+            "canonical_category_id": 1901,
+            "canonical_category_name": "Duş & Hamam"
+        },
+        {
+            "wolt_category": "DUŞ GELİ",
+            "category_id": 4300,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "TİBBİ MASKALAR",
+            "category_id": 4302,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ŞƏXSİ HAMAM TƏMİZLİK MƏHSULLARI",
+            "category_id": 4303,
+            "canonical_category_id": 1901,
+            "canonical_category_name": "Duş & Hamam"
+        },
+        {
+            "wolt_category": "QULAQ ÇÖPLƏRİ",
+            "category_id": 4304,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "QARIŞIQ TƏMİZLİK SETLƏRİ",
+            "category_id": 4305,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "ANTİBAKTERİAL MƏHSULLAR",
+            "category_id": 4306,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "UŞAQLAR ÜÇÜN TİBBİ MƏHSULLAR",
+            "category_id": 4308,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "TİBBİ MƏHSULLAR",
+            "category_id": 4309,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "OPTİKA MƏHSULLARI",
+            "category_id": 4310,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "HAMİLƏLİK TESTLƏRİ",
+            "category_id": 4311,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "DİŞ GİGİYENASI",
+            "category_id": 4312,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        },
+        {
+            "wolt_category": "DERMOKOZMETİK MƏHSULLAR",
+            "category_id": 4313,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "QOCALAR ÜÇÜN BEZLƏR",
+            "category_id": 4315,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "XÜSUSİ QULLUQ ÜÇÜN NƏM SALFETLƏR",
+            "category_id": 4316,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "XƏSTƏLƏR ÜÇÜN BEZLƏR",
+            "category_id": 4317,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "TAMPONLAR",
+            "category_id": 4319,
+            "canonical_category_id": 1906,
+            "canonical_category_name": "Qadın gigiyenası"
+        },
+        {
+            "wolt_category": "QORUYUCU REZİN",
+            "category_id": 4320,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "İNTİM SALFETLƏR",
+            "category_id": 4321,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "İNTİM SABUNLAR",
+            "category_id": 4322,
+            "canonical_category_id": 1901,
+            "canonical_category_name": "Duş & Hamam"
+        },
+        {
+            "wolt_category": "İNTİM GEL",
+            "category_id": 4323,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "GÜNDƏLİK GİGİYENİK QADIN BEZLƏRİ",
+            "category_id": 4324,
+            "canonical_category_id": 1906,
+            "canonical_category_name": "Qadın gigiyenası"
+        },
+        {
+            "wolt_category": "AYLIQ GİGİYENİK QADIN BEZLƏRİ",
+            "category_id": 4325,
+            "canonical_category_id": 1906,
+            "canonical_category_name": "Qadın gigiyenası"
+        },
+        {
+            "wolt_category": "BƏDƏN ÜÇÜN SPREYLƏR",
+            "category_id": 4327,
+            "canonical_category_id": 1908,
+            "canonical_category_name": "Kosmetika"
+        },
+        {
+            "wolt_category": "STİCK DEZODORANTLAR",
+            "category_id": 4328,
+            "canonical_category_id": 1904,
+            "canonical_category_name": "Dezodorant"
+        },
+        {
+            "wolt_category": "SPREY DEZODORANTLAR",
+            "category_id": 4329,
+            "canonical_category_id": 1904,
+            "canonical_category_name": "Dezodorant"
+        },
+        {
+            "wolt_category": "ROLL ON DEZODORANTLAR",
+            "category_id": 4330,
+            "canonical_category_id": 1904,
+            "canonical_category_name": "Dezodorant"
+        },
+        {
+            "wolt_category": "ELEKTRONİK DİŞ FIRÇASI",
+            "category_id": 4332,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        },
+        {
+            "wolt_category": "DİŞ TƏMİZLƏYİCİ TABLET",
+            "category_id": 4333,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        },
+        {
+            "wolt_category": "DİŞ PASTASI",
+            "category_id": 4334,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        },
+        {
+            "wolt_category": "DİŞ İPLƏRİ",
+            "category_id": 4335,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        },
+        {
+            "wolt_category": "DİŞ FIRÇASI",
+            "category_id": 4336,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        },
+        {
+            "wolt_category": "AĞIZ SUYU",
+            "category_id": 4337,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        },
+        {
+            "wolt_category": "AĞIZ SPREYİ",
+            "category_id": 4338,
+            "canonical_category_id": 1903,
+            "canonical_category_name": "Diş baxımı"
+        }
+    ],
+    "rule_based_mappings": []
+}

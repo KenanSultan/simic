@@ -1,0 +1,24 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "cay-kofe",
+    "description": "Maps Neptun website categories under Şirniyyat, çay, kofe, diabetik to canonical Tea & Coffee IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Çay", "canonical_category_id": 1501, "canonical_category_name": "Çay"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Kofe, kakao və s.",
+            "rules": [
+                {
+                    "keywords": ["kakao", "cocoa", "şokolad"],
+                    "canonical_category_id": 1503,
+                    "canonical_category_name": "Kakao"
+                }
+            ],
+            "default_canonical_category_id": 1502,
+            "default_canonical_category_name": "Kofe"
+        }
+    ]
+}

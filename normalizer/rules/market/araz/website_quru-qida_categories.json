@@ -1,0 +1,550 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "quru-qida",
+    "description": "Maps Araz website leaf categories to canonical dry goods IDs. Source: QURU QİDA (PAXLALILAR, ŞƏKƏR, UN, SƏHƏR YEMƏKLƏRİ excl. bal/mürəbbə, TEZ HAZIRLANAN). Excludes: DURU YAĞLAR→yag-sirke, ÇAY/KOFE→cay-kofe, QƏLYANALTILAR→sirniyyat/meyve-terevez, ƏDVİYYAT→sous-edviyyat.",
+    "direct_mappings": [
+        {
+            "wolt_category": "POPKORN ÇƏKİ",
+            "category_id": 1797,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "DÜYÜ PARTLAĞI ÇƏKİ",
+            "category_id": 1798,
+            "canonical_category_id": 802,
+            "canonical_category_name": "Düyü"
+        },
+        {
+            "wolt_category": "BUĞDA PARTLAĞI ÇƏKİ",
+            "category_id": 1799,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "YAŞIL MƏRCİ PAKET",
+            "category_id": 1801,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "YAŞIL MƏRCİ ÇƏKİ",
+            "category_id": 1802,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "PAXLALI BİTKİLƏR DİGƏR PAKET",
+            "category_id": 1803,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "PAXLALI BİTKİLƏR DİGƏR ÇƏKİ",
+            "category_id": 1804,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "NOXUD PAKET",
+            "category_id": 1805,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "NOXUD CEKI",
+            "category_id": 1806,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "LOBYA PAKET",
+            "category_id": 1807,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "LOBYA ÇƏKİ",
+            "category_id": 1808,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "QIRMIZI MƏRCİ PAKET",
+            "category_id": 1809,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "QIRMIZI MƏRCİ ÇƏKİ",
+            "category_id": 1810,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "QARĞIDALI DƏNƏLƏRİ PAKET",
+            "category_id": 1811,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "QARĞIDALI DƏNƏLƏRİ ÇƏKİ",
+            "category_id": 1812,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "YUMRU DÜYÜ PAKET",
+            "category_id": 1814,
+            "canonical_category_id": 802,
+            "canonical_category_name": "Düyü"
+        },
+        {
+            "wolt_category": "YUMRU DÜYÜ ÇƏKİ",
+            "category_id": 1815,
+            "canonical_category_id": 802,
+            "canonical_category_name": "Düyü"
+        },
+        {
+            "wolt_category": "YULAF ÇƏKİ",
+            "category_id": 1816,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "UZUN DÜYÜ PAKET",
+            "category_id": 1817,
+            "canonical_category_id": 802,
+            "canonical_category_name": "Düyü"
+        },
+        {
+            "wolt_category": "UZUN DÜYÜ ÇƏKİ",
+            "category_id": 1818,
+            "canonical_category_id": 802,
+            "canonical_category_name": "Düyü"
+        },
+        {
+            "wolt_category": "PERLOVA PAKET",
+            "category_id": 1819,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "PERLOVA ÇƏKİ",
+            "category_id": 1820,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "MANNI PAKET",
+            "category_id": 1821,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "MANNI ÇƏKİ",
+            "category_id": 1822,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "QARIŞIQ PAXLALILAR PAKET",
+            "category_id": 1823,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "QARABAŞAQ PAKET",
+            "category_id": 1824,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "QARABAŞAQ ÇƏKİ",
+            "category_id": 1825,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "KİNOA PAKET",
+            "category_id": 1826,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "KİNOA ÇƏKİ",
+            "category_id": 1827,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "DƏNLİ BİTKİLƏR DİGƏR PAKET",
+            "category_id": 1828,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "DƏNLİ BİTKİLƏR DİGƏR ÇƏKİ",
+            "category_id": 1829,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "DARI PAKET",
+            "category_id": 1830,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "DARI ÇƏKİ",
+            "category_id": 1831,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "BULQUR PAKET",
+            "category_id": 1832,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "BULQUR ÇƏKİ",
+            "category_id": 1833,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "BASMATİ DÜYÜ PAKET",
+            "category_id": 1834,
+            "canonical_category_id": 802,
+            "canonical_category_name": "Düyü"
+        },
+        {
+            "wolt_category": "BASMATİ DÜYÜ ÇƏKİ",
+            "category_id": 1835,
+            "canonical_category_id": 802,
+            "canonical_category_name": "Düyü"
+        },
+        {
+            "wolt_category": "ARPA PAKET",
+            "category_id": 1836,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "ARPA ÇƏKİ",
+            "category_id": 1837,
+            "canonical_category_id": 804,
+            "canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "SİNCAB ÇƏKİ",
+            "category_id": 1449,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "SİNCAB PAKET",
+            "category_id": 1451,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "NOĞUL PAKET",
+            "category_id": 1452,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "NOĞUL ÇƏKİ",
+            "category_id": 1453,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "NABAT PAKET",
+            "category_id": 1454,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "NABAT ÇƏKİ",
+            "category_id": 1455,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "ŞƏKƏR TOZU PAKET",
+            "category_id": 1457,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "ŞƏKƏR TOZU DİGƏR",
+            "category_id": 1458,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "ŞƏKƏR TOZU ÇƏKİ",
+            "category_id": 1459,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "SIXMA QƏND ÇƏKİ",
+            "category_id": 1461,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "SIXMA QƏND",
+            "category_id": 1462,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "KƏLLƏ QƏND ÇƏKİ",
+            "category_id": 1463,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "KƏLLƏ QƏND",
+            "category_id": 1464,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "DİGƏR QƏNDLƏR ÇƏKİ",
+            "category_id": 1465,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "DİGƏR QƏNDLƏR",
+            "category_id": 1466,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "YULAFLI SIYIQLAR",
+            "category_id": 1469,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "DİGƏR SIYIQLAR",
+            "category_id": 1470,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "FISTIQ ƏZMƏSİ",
+            "category_id": 1472,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "FINDIQ ŞOKOLAD YAĞI",
+            "category_id": 1473,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "LOPALAR",
+            "category_id": 1479,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "QRANULLAR",
+            "category_id": 1480,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "QATILAŞDIRILMIŞ SÜD ŞOKOLAD",
+            "category_id": 1482,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "QATILAŞDIRILMIŞ SÜD SADƏ",
+            "category_id": 1483,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "QATILAŞDIRILMIŞ SÜD MEYVƏLİ",
+            "category_id": 1484,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "QATILAŞDIRILMIŞ SÜD KAKAO",
+            "category_id": 1485,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "QATILAŞDIRILMIŞ SÜD BİŞMİŞ",
+            "category_id": 1486,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "YULAF UNU PAKET",
+            "category_id": 1496,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "QARĞIDALI UNU PAKET",
+            "category_id": 1497,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "QARABAŞAQ UNU PAKET",
+            "category_id": 1498,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "KƏTAN UNU PAKET",
+            "category_id": 1499,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "DÜYÜ UNU PAKET",
+            "category_id": 1500,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "DİGƏR UNLAR PAKET",
+            "category_id": 1501,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "ÇOVDAR UNU PAKET",
+            "category_id": 1502,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "BUĞDA UNU PAKET",
+            "category_id": 1503,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "BİŞİNTİ ÜÇÜN HAZIR QARIŞIQ UN PAKET",
+            "category_id": 1504,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "QARĞIDALI UNU ÇƏKİ",
+            "category_id": 1506,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "DİGƏR UNLAR ÇƏKİ",
+            "category_id": 1507,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "BUĞDA UNU ÇƏKİ",
+            "category_id": 1508,
+            "canonical_category_id": 801,
+            "canonical_category_name": "Un"
+        },
+        {
+            "wolt_category": "VERMEŞİL QABLAŞDIRILMIŞ",
+            "category_id": 1510,
+            "canonical_category_id": 803,
+            "canonical_category_name": "Makaron"
+        },
+        {
+            "wolt_category": "MAKARON QABLAŞDIRILMIŞ",
+            "category_id": 1511,
+            "canonical_category_id": 803,
+            "canonical_category_name": "Makaron"
+        },
+        {
+            "wolt_category": "MAKARON ÇƏKİ",
+            "category_id": 1512,
+            "canonical_category_id": 803,
+            "canonical_category_name": "Makaron"
+        },
+        {
+            "wolt_category": "XƏNGƏL",
+            "category_id": 1514,
+            "canonical_category_id": 803,
+            "canonical_category_name": "Makaron"
+        },
+        {
+            "wolt_category": "ƏRİŞTƏ",
+            "category_id": 1515,
+            "canonical_category_id": 803,
+            "canonical_category_name": "Makaron"
+        },
+        {
+            "wolt_category": "TEZ HAZIRLANAN SULU YEMƏKLƏR",
+            "category_id": 1518,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "TEZ HAZIRLANAN QURU YEMƏKLƏR",
+            "category_id": 1519,
+            "canonical_category_id": 806,
+            "canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "NARIN DUZ",
+            "category_id": 1633,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "QAYA DUZU",
+            "category_id": 1634,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "QARIŞIQ DUZ",
+            "category_id": 1635,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "KRİSTAL DUZ",
+            "category_id": 1636,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "HİMALAY DUZ",
+            "category_id": 1637,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        },
+        {
+            "wolt_category": "DƏNİZ DUZU",
+            "category_id": 1638,
+            "canonical_category_id": 805,
+            "canonical_category_name": "Şəkər & Duz"
+        }
+    ],
+    "rule_based_mappings": []
+}

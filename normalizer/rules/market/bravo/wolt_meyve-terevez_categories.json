@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "meyve-terevez",
+    "description": "Maps Bravo Wolt fruit & vegetable categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Meyvələr", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+        {"wolt_category": "Tərəvəzlər", "canonical_category_id": 102, "canonical_category_name": "Tərəvəz"},
+        {"wolt_category": "Göyərti", "canonical_category_id": 103, "canonical_category_name": "Göyərti"}
+    ],
+    "rule_based_mappings": []
+}

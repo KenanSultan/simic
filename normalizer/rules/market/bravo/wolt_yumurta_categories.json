@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "yumurta",
+    "description": "Maps Bravo Wolt 'Yumurtalar' to canonical egg ID.",
+    "direct_mappings": [
+        {"wolt_category": "Yumurtalar", "canonical_category_id": 401, "canonical_category_name": "Yumurta"}
+    ],
+    "rule_based_mappings": []
+}

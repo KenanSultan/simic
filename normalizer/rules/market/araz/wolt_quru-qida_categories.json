@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "quru-qida",
+    "description": "Maps Wolt Araz dry goods categories to canonical IDs. Multiple top-level Wolt categories contribute.",
+    "direct_mappings": [
+        {"wolt_category": "Un", "canonical_category_id": 801, "canonical_category_name": "Un"},
+        {"wolt_category": "Şəkər tozu və qənd", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+        {"wolt_category": "Hazır səhər yeməkləri", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Hazır qida", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Makaron və düyü",
+            "rules": [
+                {
+                    "keywords": ["düyü", "duyu", "rice", "basmati", "jasmin"],
+                    "canonical_category_id": 802,
+                    "canonical_category_name": "Düyü"
+                }
+            ],
+            "default_canonical_category_id": 803,
+            "default_canonical_category_name": "Makaron"
+        },
+        {
+            "wolt_category": "Dənli bitkilər və paxlalılar",
+            "rules": [
+                {
+                    "keywords": ["düyü", "duyu", "rice", "basmati"],
+                    "canonical_category_id": 802,
+                    "canonical_category_name": "Düyü"
+                }
+            ],
+            "default_canonical_category_id": 804,
+            "default_canonical_category_name": "Bakliyyat & Dənlilər"
+        }
+    ]
+}

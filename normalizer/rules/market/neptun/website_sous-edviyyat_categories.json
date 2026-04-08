@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "sous-edviyyat",
+    "description": "Maps Neptun website sauce/spice leaf categories to canonical IDs. Source: 'Ərzaq məhsulları' top-level.",
+    "direct_mappings": [
+        {"wolt_category": "Ədviyyatlar", "canonical_category_id": 1002, "canonical_category_name": "Ədviyyatlar"},
+        {"wolt_category": "Souslar", "canonical_category_id": 1001, "canonical_category_name": "Souslar"}
+    ],
+    "rule_based_mappings": []
+}

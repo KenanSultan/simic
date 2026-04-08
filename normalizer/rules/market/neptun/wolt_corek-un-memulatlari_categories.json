@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "corek-un-memulatlari",
+    "description": "Maps Neptun Wolt bread/bakery categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Çörəklər və Lavaşlar", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "NesCake Un Məmulatları", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"}
+    ],
+    "rule_based_mappings": []
+}

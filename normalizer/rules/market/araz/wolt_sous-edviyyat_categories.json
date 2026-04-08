@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "sous-edviyyat",
+    "description": "Maps Wolt Araz sauce/spice categories to canonical IDs. Two Wolt top-level categories contribute: 'Ədviyyat və bişirmə məhsulları' (mixed spices/baking) and 'Sous və sirkələr' (mostly sauces).",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Ədviyyat və bişirmə məhsulları",
+            "rules": [
+                {
+                    "keywords": ["ketçup", "mayonez", "xardal", "sous", "narşərab", "sirkə"],
+                    "canonical_category_id": 1001,
+                    "canonical_category_name": "Souslar"
+                },
+                {
+                    "keywords": ["maya", "vanilin", "şanti", "qabartma", "nişasta", "jelatin"],
+                    "canonical_category_id": 1003,
+                    "canonical_category_name": "Bişirmə məhsulları"
+                }
+            ],
+            "default_canonical_category_id": 1002,
+            "default_canonical_category_name": "Ədviyyatlar"
+        },
+        {
+            "wolt_category": "Sous və sirkələr",
+            "rules": [
+                {
+                    "keywords": ["ədviyyat", "istiot", "darçın", "zəncəfil"],
+                    "canonical_category_id": 1002,
+                    "canonical_category_name": "Ədviyyatlar"
+                }
+            ],
+            "default_canonical_category_id": 1001,
+            "default_canonical_category_name": "Souslar"
+        }
+    ]
+}

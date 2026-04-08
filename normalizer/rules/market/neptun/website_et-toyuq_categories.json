@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "et-toyuq",
+    "description": "Maps Neptun website meat/poultry categories to canonical category IDs. Source: \u018et, toyuq, d\u0259niz m\u0259hsullar\u0131 (excluding D\u0259niz m\u0259hsullar\u0131, Yumurta).",
+    "direct_mappings": [
+        {
+            "wolt_category": "\u018et",
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal \u0259ti"
+        },
+        {
+            "wolt_category": "Toyuq",
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        }
+    ],
+    "rule_based_mappings": []
+}

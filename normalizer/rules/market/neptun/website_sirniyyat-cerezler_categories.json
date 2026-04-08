@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "sirniyyat-cerezler",
+    "description": "Maps Neptun website leaf categories to canonical sweets/snacks IDs. Source: 'Şirniyyat, çay, kofe, diabetik' (excluding Çay, Kofe→cay-kofe, Diabetik→saglam-heyat).",
+    "direct_mappings": [
+        {"wolt_category": "Şirniyyat", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Saqqızlar", "canonical_category_id": 1303, "canonical_category_name": "Saqqız"},
+        {"wolt_category": "Mürəbbələr", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Quru meyvə paketli",
+            "rules": [],
+            "default_canonical_category_id": 1301,
+            "default_canonical_category_name": "Şokolad & Konfet",
+            "_comment": "Packaged dried fruit snacks — treated as confection/snack rather than produce"
+        }
+    ]
+}

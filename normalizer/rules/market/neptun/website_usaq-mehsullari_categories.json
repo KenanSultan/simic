@@ -1,0 +1,18 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "usaq-mehsullari",
+    "description": "Maps Neptun website categories under Uşaq məhsulları to canonical Baby Products IDs (excluding Oyuncaqlar).",
+    "direct_mappings": [
+        {"wolt_category": "Uşaq yeməyi", "canonical_category_id": 2101, "canonical_category_name": "Uşaq qidası"},
+        {"wolt_category": "Uşaq Bezləri", "canonical_category_id": 2102, "canonical_category_name": "Uşaq bezləri"},
+        {"wolt_category": "Uşaq ləvazimatları", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq pudrası", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq sabunları", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq şampunları", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq tekstili", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq üçün yuyucu tozlar", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"}
+    ],
+    "rule_based_mappings": []
+}

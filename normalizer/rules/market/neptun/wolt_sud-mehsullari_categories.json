@@ -1,0 +1,56 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "sud-mehsullari",
+    "description": "Maps Neptun Wolt dairy categories to canonical dairy IDs. Neptun Wolt uses dedicated top-level categories for each dairy type. Note: 'Süd Məhsulları' is a catch-all that needs rule-based matching.",
+    "direct_mappings": [
+        {"wolt_category": "Pendir və Şor", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+        {"wolt_category": "Yoqurtlar", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "Qatıq və Ayran", "canonical_category_id": 504, "canonical_category_name": "Kefir & Ayran"},
+        {"wolt_category": "Xama", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+        {"wolt_category": "Kəsmik", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"},
+        {"wolt_category": "Sırok", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"},
+        {"wolt_category": "Kərə Yağları və Spredlər", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"},
+        {"wolt_category": "Qatılaşdırılmış Süd", "canonical_category_id": 501, "canonical_category_name": "Süd"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Süd Məhsulları",
+            "rules": [
+                {
+                    "keywords": ["pendir", "feta", "mozzarella", "kaşar", "brinza", "əritmə", "saçaq"],
+                    "canonical_category_id": 502,
+                    "canonical_category_name": "Pendir"
+                },
+                {
+                    "keywords": ["yoqurt", "yogurt", "qatıq", "qatiq", "activia"],
+                    "canonical_category_id": 503,
+                    "canonical_category_name": "Yoğurt & Qatıq"
+                },
+                {
+                    "keywords": ["kefir", "ayran", "dovğa"],
+                    "canonical_category_id": 504,
+                    "canonical_category_name": "Kefir & Ayran"
+                },
+                {
+                    "keywords": ["qaymaq", "xama", "slivki"],
+                    "canonical_category_id": 505,
+                    "canonical_category_name": "Qaymaq & Xama"
+                },
+                {
+                    "keywords": ["kəsmik", "kesmik", "şor", "sor ", "süzmə", "tvorog"],
+                    "canonical_category_id": 506,
+                    "canonical_category_name": "Kəsmik & Şor"
+                },
+                {
+                    "keywords": ["kərə yağ", "kere yag", "marqarin", "spred"],
+                    "canonical_category_id": 507,
+                    "canonical_category_name": "Kərə yağı"
+                }
+            ],
+            "default_canonical_category_id": 501,
+            "default_canonical_category_name": "Süd"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "kagiz-birdefelik",
+    "description": "Maps Araz website leaf categories under KAĞIZ VƏ SALFETLƏR to canonical Paper & Disposables IDs.",
+    "direct_mappings": [
+        {"wolt_category": "TUALET KAĞIZLARI 4 QATLI", "category_id": 325, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "TUALET KAĞIZLARI 3 QATLI", "category_id": 326, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "TUALET KAĞIZLARI 2 QATLI", "category_id": 327, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "SÜFRƏ SALFETLƏRİ", "category_id": 329, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "NƏM SALFETLƏR", "category_id": 330, "canonical_category_id": 2002, "canonical_category_name": "Nəm salfetlər"},
+        {"wolt_category": "QUTU SALFETLƏR", "category_id": 331, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "QURU CİB DƏSMALI", "category_id": 332, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "DISPENSER  SALFETLƏR", "category_id": 333, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "KAĞIZ DƏSMALLAR 4 QATLI", "category_id": 335, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "KAĞIZ DƏSMALLAR 3 QATLI", "category_id": 336, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "KAĞIZ DƏSMALLAR 2 QATLI", "category_id": 337, "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"}
+    ],
+    "rule_based_mappings": []
+}

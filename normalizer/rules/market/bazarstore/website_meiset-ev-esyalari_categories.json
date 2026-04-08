@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "meiset-ev-esyalari",
+    "description": "Maps Bazarstore website categories under Ev və Bağ Məhsullari to canonical Household IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Mətbəx Əşyaları", "canonical_category_id": 2301, "canonical_category_name": "Mətbəx ləvazimatları"},
+        {"wolt_category": "Tekstil", "canonical_category_id": 2302, "canonical_category_name": "Tekstil"},
+        {"wolt_category": "Xırdavat", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"}
+    ],
+    "rule_based_mappings": []
+}

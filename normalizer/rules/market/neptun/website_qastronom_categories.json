@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "qastronom",
+    "description": "Maps Neptun website deli/charcuterie categories to canonical category IDs. Source: Qastronom (excluding Donmu\u015f m\u0259hsullar, Dondurma).",
+    "direct_mappings": [
+        {
+            "wolt_category": "Kolbasa v\u0259 sosisl\u0259r",
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        }
+    ],
+    "rule_based_mappings": []
+}

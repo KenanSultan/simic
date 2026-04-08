@@ -1,0 +1,24 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "sous-edviyyat",
+    "description": "Maps Bazarstore website sauce/spice categories to canonical IDs. Source: 'Təməl Qida' root. Spice leaves map to 1002, sauce leaves map to 1001.",
+    "direct_mappings": [
+        {"wolt_category": "Ədviyyat", "canonical_category_id": 1002, "canonical_category_name": "Ədviyyatlar"},
+        {"wolt_category": "Çəkili Ədviyyat", "canonical_category_id": 1002, "canonical_category_name": "Ədviyyatlar"},
+        {"wolt_category": "İçliklər", "canonical_category_id": 1002, "canonical_category_name": "Ədviyyatlar"},
+
+        {"wolt_category": "Limon Suyu", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Mayonez", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Digər Soslar", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Ketçup", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Sirkə", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Xardal", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Nar Şərab", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Makaron Sosları", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Acika", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Kabab Sosları", "canonical_category_id": 1001, "canonical_category_name": "Souslar"}
+    ],
+    "rule_based_mappings": []
+}

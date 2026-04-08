@@ -1,0 +1,30 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "yag-sirke",
+    "description": "Maps Bazarstore website oil/vinegar categories to canonical category IDs. Source: T\u0259m\u0259l Qida \u2192 Ya\u011f.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Zeytun Ya\u011f\u0131",
+            "canonical_category_id": 902,
+            "canonical_category_name": "Zeytun ya\u011f\u0131"
+        },
+        {
+            "wolt_category": "Duru Ya\u011f (G\u00fcn\u0259baxan)",
+            "canonical_category_id": 901,
+            "canonical_category_name": "Bitki ya\u011f\u0131"
+        },
+        {
+            "wolt_category": "Ghee Ya\u011f",
+            "canonical_category_id": 901,
+            "canonical_category_name": "Bitki ya\u011f\u0131"
+        },
+        {
+            "wolt_category": "Qar\u0131\u015f\u0131q Ya\u011flar",
+            "canonical_category_id": 901,
+            "canonical_category_name": "Bitki ya\u011f\u0131"
+        }
+    ],
+    "rule_based_mappings": []
+}

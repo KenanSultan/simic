@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "sud-mehsullari",
+    "description": "Maps Bravo Wolt dairy sub-categories to canonical dairy IDs. Source: 'Süd Məhsulları' top-level with detailed sub-categories. Note: Mayonezlər excluded (→ sous-edviyyat), Qatılaşdırılmış Südlər excluded (→ quru-qida/səhər yeməkləri).",
+    "direct_mappings": [
+        {"wolt_category": "Südlər", "canonical_category_id": 501, "canonical_category_name": "Süd"},
+
+        {"wolt_category": "Pendirlər", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+        {"wolt_category": "Kəsmik, Şor və Labne Pendirlər", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+
+        {"wolt_category": "Yoqurt və Kokteyllər", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "Qatıqlar", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "Sıroklar və Donmuş Qəlyanaltılar", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+
+        {"wolt_category": "Ayran, Kefir və Dovğalar", "canonical_category_id": 504, "canonical_category_name": "Kefir & Ayran"},
+
+        {"wolt_category": "Qaymaqlar", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+        {"wolt_category": "Xamalar", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+
+        {"wolt_category": "Kərə Yağı və Bitki Tərkibli Yağlar", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"}
+    ],
+    "rule_based_mappings": []
+}

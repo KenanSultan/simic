@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "corek-un-memulatlari",
+    "description": "Maps Wolt Araz bread/bakery categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Çörək və lavaş", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "Xonça Un Məmulatları", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Un məmulatları", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Araz bakery",
+            "rules": [
+                {
+                    "keywords": ["çörək", "lavaş", "təndir"],
+                    "canonical_category_id": 601,
+                    "canonical_category_name": "Çörək & Lavaş"
+                },
+                {
+                    "keywords": ["tort", "pirojna"],
+                    "canonical_category_id": 603,
+                    "canonical_category_name": "Tort & Bişmələr"
+                }
+            ],
+            "default_canonical_category_id": 602,
+            "default_canonical_category_name": "Un məmulatları"
+        }
+    ]
+}

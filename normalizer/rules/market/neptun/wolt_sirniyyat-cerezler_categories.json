@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "sirniyyat-cerezler",
+    "description": "Maps Neptun Wolt sweets/snacks categories to canonical IDs. Neptun Wolt has dedicated top-level categories. Note: brand-level subcategories under these are too granular to list.",
+    "direct_mappings": [
+        {"wolt_category": "Şirniyyat", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Çəkili Şirniyyat", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Saqqız", "canonical_category_id": 1303, "canonical_category_name": "Saqqız"},
+        {"wolt_category": "Çərəz və Snack", "canonical_category_id": 1304, "canonical_category_name": "Çipslər & Kraker"}
+    ],
+    "rule_based_mappings": []
+}

@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "yag-sirke",
+    "description": "Maps Wolt Araz oil/vinegar categories to canonical category IDs.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Bitki ya\u011flar\u0131",
+            "rules": [
+                {
+                    "keywords": ["zeytun"],
+                    "canonical_category_id": 902,
+                    "canonical_category_name": "Zeytun ya\u011f\u0131"
+                }
+            ],
+            "default_canonical_category_id": 901,
+            "default_canonical_category_name": "Bitki ya\u011f\u0131"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "tutun-mehsullari",
+    "description": "Maps Neptun Wolt 'Tütün Məhsulları' (with many brand sub-categories) to canonical tobacco IDs via keyword rules.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Tütün Məhsulları",
+            "rules": [
+                {
+                    "keywords": ["elektron", "iqos", "terea", "heets", "puff", "vape", "stick"],
+                    "canonical_category_id": 1702,
+                    "canonical_category_name": "Elektron siqaret"
+                }
+            ],
+            "default_canonical_category_id": 1701,
+            "default_canonical_category_name": "Siqaret"
+        }
+    ]
+}

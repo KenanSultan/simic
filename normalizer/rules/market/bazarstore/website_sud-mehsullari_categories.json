@@ -1,0 +1,44 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "sud-mehsullari",
+    "description": "Maps Bazarstore dairy categories to canonical dairy IDs. Source: 'Süd, Səhər Yeməyi' root (excluding Zeytun→konservler, Yumurta→yumurta, Səhər Yeməyi→quru-qida/konservler).",
+    "direct_mappings": [
+        {"wolt_category": "Uzunömürlü Süd", "canonical_category_id": 501, "canonical_category_name": "Süd"},
+        {"wolt_category": "Aromalı", "canonical_category_id": 501, "canonical_category_name": "Süd"},
+        {"wolt_category": "Xüsusi Süd", "canonical_category_id": 501, "canonical_category_name": "Süd"},
+
+        {"wolt_category": "Özəl Pendirlər", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+        {"wolt_category": "Əridilmiş Pendir", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+        {"wolt_category": "Ağ Pendir Ədəd", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+        {"wolt_category": "Ağ Pendir Çəki", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+        {"wolt_category": "Digər Ağ Pendirlər", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+        {"wolt_category": "Ağ Pendir Qoyun", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+
+        {"wolt_category": "Meyvəli Yoqurt", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "İçməli Yoqurt", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "Sadə Qatıq", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "Kənd Qatığı", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "Camış qatığı", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+
+        {"wolt_category": "Ayran", "canonical_category_id": 504, "canonical_category_name": "Kefir & Ayran"},
+        {"wolt_category": "Dovğa", "canonical_category_id": 504, "canonical_category_name": "Kefir & Ayran"},
+
+        {"wolt_category": "Xama", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+        {"wolt_category": "Qaymaq", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+        {"wolt_category": "Krem", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+
+        {"wolt_category": "Kəsmik", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"},
+        {"wolt_category": "Şor", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"},
+        {"wolt_category": "Sirok", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"},
+        {"wolt_category": "Süzmə", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"},
+
+        {"wolt_category": "Kərə Yağı(ədəd)", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"},
+        {"wolt_category": "Kərə Yağı (çəki)", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"},
+        {"wolt_category": "Melanj yağı (ədəd)", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"},
+        {"wolt_category": "Melanj yağı (çəki)", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"},
+        {"wolt_category": "Marqarin", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"}
+    ],
+    "rule_based_mappings": []
+}

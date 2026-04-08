@@ -1,0 +1,40 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "dondurulmus-mehsullar",
+    "description": "Maps Wolt Bravo frozen product categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Dondurmalar",
+            "canonical_category_id": 1203,
+            "canonical_category_name": "Dondurma"
+        },
+        {
+            "wolt_category": "Buz",
+            "canonical_category_id": 1203,
+            "canonical_category_name": "Dondurma"
+        },
+        {
+            "wolt_category": "X\u0259mir M\u0259hsullar\u0131",
+            "canonical_category_id": 1201,
+            "canonical_category_name": "Yar\u0131mfabrikatlar"
+        },
+        {
+            "wolt_category": "\u018et v\u0259 Toyuq M\u0259hsullar\u0131",
+            "canonical_category_id": 1201,
+            "canonical_category_name": "Yar\u0131mfabrikatlar"
+        },
+        {
+            "wolt_category": "T\u0259r\u0259v\u0259zl\u0259r v\u0259 Meyv\u0259l\u0259r",
+            "canonical_category_id": 1202,
+            "canonical_category_name": "Dondurulmu\u015f t\u0259r\u0259v\u0259z"
+        },
+        {
+            "wolt_category": "D\u0259niz M\u0259hsullar\u0131",
+            "canonical_category_id": 1201,
+            "canonical_category_name": "Yar\u0131mfabrikatlar"
+        }
+    ],
+    "rule_based_mappings": []
+}

@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "et-toyuq",
+    "description": "Maps Wolt Bravo meat/poultry categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "T\u0259z\u0259 \u018et M\u0259hsullar\u0131",
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal \u0259ti"
+        },
+        {
+            "wolt_category": "Toyuq M\u0259hsullar\u0131",
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        }
+    ],
+    "rule_based_mappings": []
+}

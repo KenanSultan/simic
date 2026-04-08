@@ -1,0 +1,46 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "quru-qida",
+    "description": "Maps Neptun Wolt dry goods categories to canonical IDs. Neptun Wolt uses dedicated top-level categories and brand-level subcategories.",
+    "direct_mappings": [
+        {"wolt_category": "Şəkər", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+        {"wolt_category": "Un", "canonical_category_id": 801, "canonical_category_name": "Un"},
+        {"wolt_category": "Səhər Yeməyi", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Bal, Mürəbbə və Əzmələr", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Qatılaşdırılmış Süd", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Makaronlar",
+            "rules": [],
+            "default_canonical_category_id": 803,
+            "default_canonical_category_name": "Makaron"
+        },
+        {
+            "wolt_category": "Dənli və Paxlalı Məhsullar",
+            "rules": [
+                {
+                    "keywords": ["düyü", "duyu", "rice", "basmati"],
+                    "canonical_category_id": 802,
+                    "canonical_category_name": "Düyü"
+                }
+            ],
+            "default_canonical_category_id": 804,
+            "default_canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "Hazır Suplar",
+            "rules": [],
+            "default_canonical_category_id": 806,
+            "default_canonical_category_name": "Səhər yeməkləri"
+        },
+        {
+            "wolt_category": "Bulyonlar",
+            "rules": [],
+            "default_canonical_category_id": 806,
+            "default_canonical_category_name": "Səhər yeməkləri"
+        }
+    ]
+}

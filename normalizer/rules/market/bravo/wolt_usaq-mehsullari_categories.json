@@ -1,0 +1,27 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "usaq-mehsullari",
+    "description": "Maps Wolt Bravo Uşaq Məhsulları category to canonical Baby Products IDs using keyword rules.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Uşaq Məhsulları",
+            "rules": [
+                {
+                    "keywords": ["qida", "süd", "sıyıq", "siyiq", "pürə", "pure", "peçenye", "şirə", "körpə", "yemək"],
+                    "canonical_category_id": 2101,
+                    "canonical_category_name": "Uşaq qidası"
+                },
+                {
+                    "keywords": ["bez", "pampers", "huggies", "pants", "diaper"],
+                    "canonical_category_id": 2102,
+                    "canonical_category_name": "Uşaq bezləri"
+                }
+            ],
+            "default_canonical_category_id": 2103,
+            "default_canonical_category_name": "Uşaq baxımı"
+        }
+    ]
+}

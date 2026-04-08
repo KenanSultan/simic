@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "yumurta",
+    "description": "Maps Neptun website 'Yumurta' (under 'Ət, toyuq, dəniz məhsulları') to canonical egg ID.",
+    "direct_mappings": [
+        {"wolt_category": "Yumurta", "canonical_category_id": 401, "canonical_category_name": "Yumurta"}
+    ],
+    "rule_based_mappings": []
+}

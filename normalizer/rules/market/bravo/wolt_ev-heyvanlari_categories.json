@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "ev-heyvanlari",
+    "description": "Maps Wolt Bravo pet product categories to canonical Pet Products IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Pişiklər üçün Yem \ud83d\udc31", "canonical_category_id": 2202, "canonical_category_name": "Pişik yemləri"},
+        {"wolt_category": "İtlər üçün Yem \ud83d\udc36", "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"}
+    ],
+    "rule_based_mappings": []
+}

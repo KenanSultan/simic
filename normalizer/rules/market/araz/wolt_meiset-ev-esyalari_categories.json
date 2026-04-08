@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "meiset-ev-esyalari",
+    "description": "Maps Wolt Araz household/home goods categories to canonical Household IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Xırdavat ləvazimatları", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Məişət məhsulları", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Xırdavatlar", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Dekorasiya məhsulları", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"}
+    ],
+    "rule_based_mappings": []
+}

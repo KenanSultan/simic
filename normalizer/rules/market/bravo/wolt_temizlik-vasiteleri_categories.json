@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "temizlik-vasiteleri",
+    "description": "Maps Bravo Wolt cleaning subcategories to canonical cleaning IDs. Source: 'Yuyucu Vasitələr' and 'Təmizlik və Məişət Məhsulları' top-level categories.",
+    "direct_mappings": [
+        {"wolt_category": "Yuyucu Tozlar", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yuyucu Mayelər", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yuyucu Tabletlər", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yumşaldıcı Vasitələr", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Ağardıcı Vasitələr", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+
+        {"wolt_category": "Qabyuyan Maye və Tabletlər", "canonical_category_id": 1802, "canonical_category_name": "Qabyuyan"},
+
+        {"wolt_category": "Duş Otağı və Mətbəx Təmizləyici Vasitələr", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Hava Təravətləndiriciləri", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Təmizləyici Tozlar", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Şüşə və Pəncərə Təmizləyici Vasitələr", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Mebel Parıldadıcısı və Cilası Məhsulları", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+
+        {"wolt_category": "Həşərat Məhv Edici Vasitələr", "canonical_category_id": 1804, "canonical_category_name": "Həşəratlara qarşı"}
+    ],
+    "rule_based_mappings": []
+}

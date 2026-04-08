@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "konservler-tursular",
+    "description": "Maps Bravo Wolt konserv/turşu sub-categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Tərəvəzlər", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Pastalar", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Meyvələr", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Ət və Balıq Məhsulları", "canonical_category_id": 1102, "canonical_category_name": "Balıq konservləri"},
+        {"wolt_category": "Zeytunlar", "canonical_category_id": 1103, "canonical_category_name": "Turşu & Zeytun"},
+        {"wolt_category": "Turşular", "canonical_category_id": 1103, "canonical_category_name": "Turşu & Zeytun"},
+        {"wolt_category": "Bal, Cem və Mürəbbələr", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"},
+        {"wolt_category": "Krem Pastalar və Şokolad Yağları", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"},
+        {"wolt_category": "Qatılaşdırılmış Südlər", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"}
+    ],
+    "rule_based_mappings": []
+}

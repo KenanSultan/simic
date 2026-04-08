@@ -1,0 +1,38 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "dondurulmus-mehsullar",
+    "description": "Maps Wolt Araz frozen product categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Dondurma",
+            "canonical_category_id": 1203,
+            "canonical_category_name": "Dondurma"
+        }
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Dondurulmu\u015f qida",
+            "rules": [
+                {
+                    "keywords": ["dondurma"],
+                    "canonical_category_id": 1203,
+                    "canonical_category_name": "Dondurma"
+                },
+                {
+                    "keywords": ["t\u0259r\u0259v\u0259z", "terevez", "meyv\u0259", "meyve", "kartof", "ispanaq", "brokoli"],
+                    "canonical_category_id": 1202,
+                    "canonical_category_name": "Dondurulmu\u015f t\u0259r\u0259v\u0259z"
+                },
+                {
+                    "keywords": ["haz\u0131r", "hazir", "haz\u0131r yem\u0259k"],
+                    "canonical_category_id": 1204,
+                    "canonical_category_name": "Haz\u0131r yem\u0259kl\u0259r"
+                }
+            ],
+            "default_canonical_category_id": 1201,
+            "default_canonical_category_name": "Yar\u0131mfabrikatlar"
+        }
+    ]
+}

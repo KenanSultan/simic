@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "meyve-terevez",
+    "description": "Maps Wolt Araz fruit & vegetable categories to canonical IDs. Source: 'Meyvə & Tərəvəz' top-level sub-categories + 'Quru meyvə' top-level.",
+    "direct_mappings": [
+        {"wolt_category": "Meyvə", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+        {"wolt_category": "Tərəvəz", "canonical_category_id": 102, "canonical_category_name": "Tərəvəz"},
+        {"wolt_category": "Göyərti", "canonical_category_id": 103, "canonical_category_name": "Göyərti"},
+        {"wolt_category": "Quru meyvə", "canonical_category_id": 105, "canonical_category_name": "Quru meyvə & Çərəzlər"}
+    ],
+    "rule_based_mappings": []
+}

@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "meiset-ev-esyalari",
+    "description": "Maps Wolt Neptun household categories to canonical Household IDs.",
+    "direct_mappings": [
+        {"wolt_category": "1001 Xırdavat", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Batareyalar", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Ofis və Dəftərxana Ləvazimatları", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Maska və Tekstil", "canonical_category_id": 2302, "canonical_category_name": "Tekstil"}
+    ],
+    "rule_based_mappings": []
+}

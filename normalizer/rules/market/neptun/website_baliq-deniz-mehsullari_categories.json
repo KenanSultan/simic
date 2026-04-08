@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "baliq-deniz-mehsullari",
+    "description": "Maps Neptun website 'Dəniz məhsulları' (under 'Ət, toyuq, dəniz məhsulları') to canonical fish & seafood IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Dəniz məhsulları", "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"}
+    ],
+    "rule_based_mappings": []
+}

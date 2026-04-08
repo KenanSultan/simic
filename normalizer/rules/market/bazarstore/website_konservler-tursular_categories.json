@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "konservler-tursular",
+    "description": "Maps Bazarstore konserv/turşu categories. Source: Təməl Qida→Konserva + Süd,Səhər Yeməyi→Zeytun + Bal/Mürəbbə/Cem.",
+    "direct_mappings": [
+        {"wolt_category": "Konservlər", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Tomatlar", "canonical_category_id": 1101, "canonical_category_name": "Tərəvəz konservləri"},
+        {"wolt_category": "Dəniz Məhsulu Konservləri", "canonical_category_id": 1102, "canonical_category_name": "Balıq konservləri"},
+        {"wolt_category": "Turşular", "canonical_category_id": 1103, "canonical_category_name": "Turşu & Zeytun"},
+        {"wolt_category": "Zeytun", "canonical_category_id": 1103, "canonical_category_name": "Turşu & Zeytun"},
+        {"wolt_category": "Bal", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"},
+        {"wolt_category": "Mürəbbə", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"},
+        {"wolt_category": "Cem", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"},
+        {"wolt_category": "Bəkməz", "canonical_category_id": 1104, "canonical_category_name": "Mürəbbə & Bal"}
+    ],
+    "rule_based_mappings": []
+}

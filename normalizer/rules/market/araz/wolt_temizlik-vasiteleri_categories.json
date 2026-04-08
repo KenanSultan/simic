@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "temizlik-vasiteleri",
+    "description": "Maps Wolt Araz cleaning category to canonical cleaning IDs. Source: single flat 'Təmizlik' category (~7,989 products) — entirely rule-based since no subcategories exist.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Təmizlik",
+            "rules": [
+                {
+                    "keywords": ["yuyucu toz", "paltaryuyan", "yumşaldıcı", "ağardıcı"],
+                    "canonical_category_id": 1801,
+                    "canonical_category_name": "Paltaryuyan"
+                },
+                {
+                    "keywords": ["qabyuyan", "qab yumaq"],
+                    "canonical_category_id": 1802,
+                    "canonical_category_name": "Qabyuyan"
+                },
+                {
+                    "keywords": ["həşərat", "sivrisinek", "böcək", "raid"],
+                    "canonical_category_id": 1804,
+                    "canonical_category_name": "Həşəratlara qarşı"
+                }
+            ],
+            "default_canonical_category_id": 1803,
+            "default_canonical_category_name": "Ümumi təmizlik"
+        }
+    ]
+}

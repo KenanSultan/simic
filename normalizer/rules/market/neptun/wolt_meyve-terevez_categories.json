@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "meyve-terevez",
+    "description": "Maps Neptun Wolt fruit & vegetable categories to canonical IDs. Neptun Wolt has dedicated 'Meyvə' and 'Tərəvəz' top-level categories with many sub-categories.",
+    "direct_mappings": [
+        {"wolt_category": "Meyvə", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+        {"wolt_category": "Tərəvəz", "canonical_category_id": 102, "canonical_category_name": "Tərəvəz"}
+    ],
+    "rule_based_mappings": []
+}

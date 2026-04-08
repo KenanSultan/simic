@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "kagiz-birdefelik",
+    "description": "Maps Wolt Bravo paper products and disposables categories to canonical Paper & Disposables IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Tualet Kağızları", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "Mətbəx kağızları", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "Salfetlər", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "Nəm Salfetlər", "canonical_category_id": 2002, "canonical_category_name": "Nəm salfetlər"},
+        {"wolt_category": "Birdəfəlik Məhsullar", "canonical_category_id": 2003, "canonical_category_name": "Birdəfəlik qablar"},
+        {"wolt_category": "Stəkanlar", "canonical_category_id": 2003, "canonical_category_name": "Birdəfəlik qablar"}
+    ],
+    "rule_based_mappings": []
+}

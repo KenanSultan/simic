@@ -1,0 +1,102 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "sexsi-baxim-kosmetika",
+    "description": "Maps Wolt Araz personal care categories to canonical IDs. Sources: 'Xanımlar ucun sexsi baxim', 'Beyler ucun sexsi baxim', 'Umumi hamam mehsullari', 'Dis pastalari ve fircalari', 'Kosmetika ve qulluq vasiteleri'.",
+    "direct_mappings": [
+        {"wolt_category": "Diş pastaları və fırçaları", "canonical_category_id": 1903, "canonical_category_name": "Diş baxımı"},
+        {"wolt_category": "Gigiyena məhsulları", "canonical_category_id": 1906, "canonical_category_name": "Qadın gigiyenası"},
+        {"wolt_category": "Gözəllik və qulluq vasitələri", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Makiyaj vasitələri", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Saç üçün qulluq vasitələri", "canonical_category_id": 1902, "canonical_category_name": "Saç baxımı"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Xanımlar üçün şəxsi baxım",
+            "rules": [
+                {
+                    "keywords": ["şampun", "saç", "balzam"],
+                    "canonical_category_id": 1902,
+                    "canonical_category_name": "Saç baxımı"
+                },
+                {
+                    "keywords": ["diş"],
+                    "canonical_category_id": 1903,
+                    "canonical_category_name": "Diş baxımı"
+                },
+                {
+                    "keywords": ["dezodorant", "antiperspirant", "roll-on"],
+                    "canonical_category_id": 1904,
+                    "canonical_category_name": "Dezodorant"
+                },
+                {
+                    "keywords": ["bezlər", "gigiyena", "tampon", "günlük"],
+                    "canonical_category_id": 1906,
+                    "canonical_category_name": "Qadın gigiyenası"
+                },
+                {
+                    "keywords": ["ətir", "parfüm", "parfum"],
+                    "canonical_category_id": 1907,
+                    "canonical_category_name": "Ətirlər"
+                },
+                {
+                    "keywords": ["krem", "maska", "losyon", "makiyaj", "göz", "dodaq", "dırmaq"],
+                    "canonical_category_id": 1908,
+                    "canonical_category_name": "Kosmetika"
+                }
+            ],
+            "default_canonical_category_id": 1901,
+            "default_canonical_category_name": "Duş & Hamam"
+        },
+        {
+            "wolt_category": "Bəylər üçün şəxsi baxım",
+            "rules": [
+                {
+                    "keywords": ["şampun", "saç"],
+                    "canonical_category_id": 1902,
+                    "canonical_category_name": "Saç baxımı"
+                },
+                {
+                    "keywords": ["dezodorant", "antiperspirant"],
+                    "canonical_category_id": 1904,
+                    "canonical_category_name": "Dezodorant"
+                },
+                {
+                    "keywords": ["təraş", "ülgüc", "gillette", "aftershave"],
+                    "canonical_category_id": 1905,
+                    "canonical_category_name": "Təraş"
+                },
+                {
+                    "keywords": ["ətir", "parfüm", "kolonya"],
+                    "canonical_category_id": 1907,
+                    "canonical_category_name": "Ətirlər"
+                }
+            ],
+            "default_canonical_category_id": 1901,
+            "default_canonical_category_name": "Duş & Hamam"
+        },
+        {
+            "wolt_category": "Ümumi hamam məhsulları",
+            "rules": [
+                {
+                    "keywords": ["şampun", "saç", "balzam"],
+                    "canonical_category_id": 1902,
+                    "canonical_category_name": "Saç baxımı"
+                },
+                {
+                    "keywords": ["diş", "ağız"],
+                    "canonical_category_id": 1903,
+                    "canonical_category_name": "Diş baxımı"
+                },
+                {
+                    "keywords": ["dezodorant", "antiperspirant"],
+                    "canonical_category_id": 1904,
+                    "canonical_category_name": "Dezodorant"
+                }
+            ],
+            "default_canonical_category_id": 1901,
+            "default_canonical_category_name": "Duş & Hamam"
+        }
+    ]
+}

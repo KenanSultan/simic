@@ -1,0 +1,1174 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "sirniyyat-cerezler",
+    "description": "Maps Araz website leaf categories to canonical sweets/snacks IDs. Sources: ŞİRNİYYAT (excl. SƏHƏR YEMƏKLƏRİ) + QURU QİDA→QƏLYANALTILAR (chips/suxari only).",
+    "direct_mappings": [
+        {
+            "wolt_category": "TORT ƏDƏD BÖYÜK (B) FRESH - İCARƏDAR",
+            "category_id": 608,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD KİÇİK (S) FRESH - İCARƏDAR",
+            "category_id": 609,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD ORTA (M) FRESH - İCARƏDAR",
+            "category_id": 610,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ZEFİR ƏDƏD",
+            "category_id": 612,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "MAŞMELLO ƏDƏD",
+            "category_id": 613,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "YENİ İL ŞİRNİYYAT SETLƏRİ",
+            "category_id": 615,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "YENİ İL FIQUR ŞİRNİYYATLAR",
+            "category_id": 616,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD ŞAXTA BABA",
+            "category_id": 617,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD QAR QIZ",
+            "category_id": 618,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "VAFLİ ƏDƏD SADƏ",
+            "category_id": 620,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "VAFLİ ƏDƏD ÖRTÜKLÜ",
+            "category_id": 621,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "VAFLİ ƏDƏD DOLĞULU",
+            "category_id": 622,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD VAFLİLİ",
+            "category_id": 624,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD ORTA (M) FRESH",
+            "category_id": 625,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD KİÇİK (S) FRESH",
+            "category_id": 626,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD BÖYÜK (B) FRESH",
+            "category_id": 627,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD BİSKİVİT",
+            "category_id": 628,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ƏDƏD",
+            "category_id": 629,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "DESSERT ƏDƏD FRESH",
+            "category_id": 630,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "DESSERT ƏDƏD",
+            "category_id": 631,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TƏRAVƏTLƏNDİRİCİ KONFET",
+            "category_id": 633,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "PLİTKA ŞOKOLAD",
+            "category_id": 635,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD QUTU",
+            "category_id": 637,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "PEÇENYELİ ŞOKOLADLAR",
+            "category_id": 639,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD FİQURLARI",
+            "category_id": 640,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD BATON VAFLİLİ BAR",
+            "category_id": 641,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD BATON NUQALI BAR",
+            "category_id": 642,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD BATON DOLĞULU BAR",
+            "category_id": 643,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD BATON ÇƏRƏZLİ BAR",
+            "category_id": 644,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD BATON ARAXİSLİ BAR",
+            "category_id": 645,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "YASTIQ SAQQIZLAR",
+            "category_id": 647,
+            "canonical_category_id": 1303,
+            "canonical_category_name": "Saqqız"
+        },
+        {
+            "wolt_category": "UŞAQ SAQQIZI",
+            "category_id": 648,
+            "canonical_category_id": 1303,
+            "canonical_category_name": "Saqqız"
+        },
+        {
+            "wolt_category": "LENTVARİ SAQQIZLAR",
+            "category_id": 649,
+            "canonical_category_id": 1303,
+            "canonical_category_name": "Saqqız"
+        },
+        {
+            "wolt_category": "DİGƏR SAQQIZLAR",
+            "category_id": 650,
+            "canonical_category_id": 1303,
+            "canonical_category_name": "Saqqız"
+        },
+        {
+            "wolt_category": "RULET ƏDƏD VANİLLİ",
+            "category_id": 652,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "RULET ƏDƏD ŞOKOLADLI",
+            "category_id": 653,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "RULET ƏDƏD MEYVƏLİ",
+            "category_id": 654,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PRYANİK SADƏ ƏDƏD",
+            "category_id": 656,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PRYANİK ÖRTÜKLÜ ƏDƏD",
+            "category_id": 657,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PRYANİK DOLĞULU ƏDƏD",
+            "category_id": 658,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PİROQ ƏDƏD DOLĞULU",
+            "category_id": 660,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "EKLER ƏDƏD",
+            "category_id": 661,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "SENDVİÇ PEÇENYE ƏDƏD",
+            "category_id": 663,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE YULAFLI ƏDƏD",
+            "category_id": 664,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE ÖRTÜKLÜ ƏDƏD",
+            "category_id": 665,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE QUTU ƏDƏD",
+            "category_id": 666,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE KLASSİK ƏDƏD",
+            "category_id": 667,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE DOLĞULU ƏDƏD",
+            "category_id": 668,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE ÇƏRƏZLİ ƏDƏD",
+            "category_id": 669,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE BƏRK ƏDƏD",
+            "category_id": 670,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KURABİYƏ ƏDƏD",
+            "category_id": 671,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PAXLAVA ƏDƏD",
+            "category_id": 673,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞOKOLADLI SÜRPRİZ YUMURTA",
+            "category_id": 675,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "SADƏ SÜRPRİZ YUMURTA",
+            "category_id": 676,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "OYUNCAQLI DİGƏR FİQURLAR",
+            "category_id": 677,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "MARMELAD ŞOKOLADLI ƏDƏD",
+            "category_id": 679,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "MARMELAD MEYVƏLİ ƏDƏD",
+            "category_id": 680,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "MARMELAD QARIŞIQ ƏDƏD",
+            "category_id": 681,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "SUCUQ ƏDƏD",
+            "category_id": 683,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD ÖRTÜKLÜ MEYVƏ ƏDƏD",
+            "category_id": 684,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD ÖRTÜKLÜ ÇƏRƏZ ƏDƏD",
+            "category_id": 685,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞƏKƏRLİ PAMBIQ ƏDƏD",
+            "category_id": 686,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "PİŞMANİYƏ ƏDƏD",
+            "category_id": 687,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "LOKUM ƏDƏD",
+            "category_id": 688,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "TRUBOÇKA DOLĞULU ƏDƏD",
+            "category_id": 690,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞUŞKİ ƏDƏD",
+            "category_id": 691,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞİRƏLİ MƏMULATLAR ƏDƏD",
+            "category_id": 692,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞƏKƏRÇÖRƏK ƏDƏD",
+            "category_id": 693,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞƏKƏRBURA ƏDƏD",
+            "category_id": 694,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "MUTAKİ ƏDƏD",
+            "category_id": 695,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "QOZ QAT. SÜD İLƏ ƏDƏD",
+            "category_id": 696,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KƏTƏ ƏDƏD",
+            "category_id": 697,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KADAYIF ƏDƏD",
+            "category_id": 698,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BANAN ŞİRNİYYAT ƏDƏD",
+            "category_id": 699,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BADAMBURA ƏDƏD",
+            "category_id": 700,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KRUASSAN DOLĞULU",
+            "category_id": 702,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KREKER ƏDƏD",
+            "category_id": 704,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "DONUTLAR",
+            "category_id": 706,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "MUFFİN SADƏ ƏDƏD",
+            "category_id": 707,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "MUFFİN DOLĞULU ƏDƏD",
+            "category_id": 708,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS SADƏ ƏDƏD",
+            "category_id": 709,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS ÖRTÜKLÜ ƏDƏD",
+            "category_id": 710,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS MİNİ ƏDƏD",
+            "category_id": 711,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS MEYVƏLİ ƏDƏD",
+            "category_id": 712,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS DOLĞULU ƏDƏD",
+            "category_id": 713,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "MANPASI",
+            "category_id": 715,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KARAMEL YUMŞAQ",
+            "category_id": 716,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KARAMEL ŞÜŞƏ",
+            "category_id": 717,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KARAMEL ŞƏKƏRLƏMƏ OYUNCAQ",
+            "category_id": 718,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "İRİS ƏDƏD",
+            "category_id": 719,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "JELİBON ƏDƏD MEYVƏLİ",
+            "category_id": 721,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "JELİBON ƏDƏD DİGƏR",
+            "category_id": 722,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KOZINAK ƏDƏD",
+            "category_id": 724,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "HALVA ƏDƏD",
+            "category_id": 725,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ƏDƏD ŞOKOLADLI",
+            "category_id": 727,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ƏDƏD MEYVƏLİ",
+            "category_id": 728,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ƏDƏD ÇƏRƏZLİ",
+            "category_id": 729,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "BİSKVİT SADƏ ƏDƏD",
+            "category_id": 731,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT ÖRTÜKLÜ ƏDƏD",
+            "category_id": 732,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT MİNİ ƏDƏD",
+            "category_id": 733,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT MEYVƏLİ ƏDƏD",
+            "category_id": 734,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT DOLĞULU ƏDƏD",
+            "category_id": 735,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PRYANİK SADƏ ÇƏKİ",
+            "category_id": 770,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PRYANİK ÖRTÜKLÜ ÇƏKİ",
+            "category_id": 771,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PRYANİK DOLĞULU ÇƏKİ",
+            "category_id": 772,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PİROQ ÇƏKİ DOLĞULU",
+            "category_id": 774,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "EKLER ÇƏKİ",
+            "category_id": 775,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "SENDVİÇ PEÇENYE ÇƏKİ",
+            "category_id": 777,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE YULAFLI ÇƏKİ",
+            "category_id": 778,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE ÖRTÜKLÜ ÇƏKİ",
+            "category_id": 779,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE KLASSİK ÇƏKİ",
+            "category_id": 780,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE DOLĞULU ÇƏKİ",
+            "category_id": 781,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE ÇƏRƏZLİ ÇƏKİ",
+            "category_id": 782,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PEÇENYE BƏRK ÇƏKİ",
+            "category_id": 783,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KURABİYƏ ÇƏKİ",
+            "category_id": 784,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "PAXLAVA ÇƏKİ",
+            "category_id": 786,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "MARMELAD ÇƏKİ ŞOKOLADLI",
+            "category_id": 788,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "MARMELAD ÇƏKİ MEYVƏLİ",
+            "category_id": 789,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "MARMELAD ÇƏKİ QARIŞIQ",
+            "category_id": 790,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ŞOKOLAD ÖRTÜKLÜ MEYVƏ ÇƏKİ",
+            "category_id": 792,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "SUCUQ ÇƏKİ",
+            "category_id": 793,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "LOKUM ÇƏKİ",
+            "category_id": 794,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "TRUBOÇKA DOLĞULU ÇƏKİ",
+            "category_id": 796,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞUŞKİ ÇƏKİ",
+            "category_id": 797,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞİRƏLİ MƏMULATLAR ÇƏKİ",
+            "category_id": 798,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ŞƏKƏRÇÖRƏK ÇƏKİ",
+            "category_id": 799,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "MUTAKİ ÇƏKİ",
+            "category_id": 800,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "QOZ QAT. SÜD İLƏ ÇƏKİ",
+            "category_id": 801,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KƏTƏ ÇƏKİ",
+            "category_id": 802,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "DİGƏR QƏNNADI MƏMULATLARI ÇƏKİ",
+            "category_id": 803,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "BANAN ŞİRNİYYAT ÇƏKİ",
+            "category_id": 804,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KRUASSAN DOLĞULU ÇƏKİ",
+            "category_id": 806,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "FİQUR KREKERLƏR",
+            "category_id": 808,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "ÇUBUQ KREKERLƏR",
+            "category_id": 809,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "KEKS SADƏ ÇƏKİ",
+            "category_id": 811,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS ÖRTÜKLÜ ÇƏKİ",
+            "category_id": 812,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS MİNİ ÇƏKİ",
+            "category_id": 813,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS MEYVƏLİ ÇƏKİ",
+            "category_id": 814,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KEKS DOLĞULU ÇƏKİ",
+            "category_id": 815,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "KAROVKA KLASSİK",
+            "category_id": 817,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KAROVKA DİGƏR",
+            "category_id": 818,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KARAMEL YUMŞAQ ÇƏKİ",
+            "category_id": 820,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KARAMEL ŞÜŞƏ ÇƏKİ",
+            "category_id": 821,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KARAMEL ÖRTÜKLÜ ÇƏKİ",
+            "category_id": 822,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KARAMEL DOLĞULU ÇƏKİ",
+            "category_id": 823,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "İRİS ÇƏKİ",
+            "category_id": 824,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "JELİBON ÇƏKİ MEYVƏLİ",
+            "category_id": 826,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "JELİBON ÇƏKİ DİGƏR",
+            "category_id": 827,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "KOZİNAK ÇƏKİ",
+            "category_id": 829,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "HALVA ÇƏKİ",
+            "category_id": 830,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ÇƏKİ ŞOKOLADLI",
+            "category_id": 832,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ÇƏKİ MEYVƏLİ",
+            "category_id": 833,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ÇƏKİ QARIŞIQ",
+            "category_id": 834,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ÇƏKİ KAKAOLU",
+            "category_id": 835,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DRAJE ÇƏKİ ÇƏRƏZLİ",
+            "category_id": 836,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "BİSKVİT SADƏ ÇƏKİ",
+            "category_id": 838,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT ÖRTÜKLÜ ÇƏKİ",
+            "category_id": 839,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT MİNİ ÇƏKİ",
+            "category_id": 840,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT MEYVƏLİ ÇƏKİ",
+            "category_id": 841,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "BİSKVİT DOLĞULU ÇƏKİ",
+            "category_id": 842,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ÇƏKİ - İCARƏDAR",
+            "category_id": 738,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ÇƏKİ FRESH - İCARƏDAR",
+            "category_id": 739,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "QAT-QAT BULKALAR",
+            "category_id": 741,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "DOLĞULU BULKALAR",
+            "category_id": 742,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "SADƏ BULKALAR",
+            "category_id": 743,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "ZEFİR ÇƏKİ",
+            "category_id": 745,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "VAFLİ ÇƏKİ SADƏ",
+            "category_id": 747,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "VAFLİ ÇƏKİ ÖRTÜKLÜ",
+            "category_id": 748,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "VAFLİ ÇƏKİ DOLĞULU",
+            "category_id": 749,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ÇƏKİ FRESH",
+            "category_id": 751,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "TORT ÇƏKİ",
+            "category_id": 752,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "DESSERT ÇƏKİ",
+            "category_id": 753,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "VAFLİLİ ŞOKOLADLAR",
+            "category_id": 755,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "PRALİNALI ŞOKOLADLAR",
+            "category_id": 756,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "POMADA ŞOKOLADLAR",
+            "category_id": 757,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "PEÇENYELİ ŞOKOLADLAR",
+            "category_id": 758,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "NUQALI ŞOKOLADLAR",
+            "category_id": 759,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "MEYVƏLİ ŞOKOLADLAR",
+            "category_id": 760,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "QUŞ SÜDLÜ ŞOKOLADLAR",
+            "category_id": 761,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "İÇKİLİ ŞOKOLADLAR",
+            "category_id": 762,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "DOLĞULU ŞOKOLADLAR",
+            "category_id": 763,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "ÇƏRƏZLİ SHOKOLADLAR",
+            "category_id": 764,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "RULET ÇƏKİ MEYVƏLİ",
+            "category_id": 768,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "RULET ÇƏKİ VANİLLİ",
+            "category_id": 766,
+            "canonical_category_id": 1302,
+            "canonical_category_name": "Peçenye & Vafli"
+        },
+        {
+            "wolt_category": "RULET ÇƏKİ ŞOKOLADLI",
+            "category_id": 767,
+            "canonical_category_id": 1301,
+            "canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "SADƏ SUXARİKLƏR",
+            "category_id": 1662,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "DAD ƏLAVƏLİ SUXARİKLƏR",
+            "category_id": 1663,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "TƏRƏVƏZ ÇİPSİSİ",
+            "category_id": 1710,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "MEYVƏ ÇİPSİSİ",
+            "category_id": 1711,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "QARĞIDALI ÇİPSİLƏRİ",
+            "category_id": 1712,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "KARTOF ÇİPSİLƏRİ",
+            "category_id": 1713,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "DİGƏR ÇİPSİLƏR",
+            "category_id": 1714,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "POPKORN PAKET",
+            "category_id": 1717,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "POPKORN ÇƏKİ",
+            "category_id": 1736,
+            "canonical_category_id": 1304,
+            "canonical_category_name": "Çipslər & Kraker"
+        }
+    ],
+    "rule_based_mappings": []
+}

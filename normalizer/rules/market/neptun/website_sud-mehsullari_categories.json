@@ -1,0 +1,41 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "sud-mehsullari",
+    "description": "Maps Neptun website dairy leaf categories to canonical dairy IDs. Source: 'Süd məhsulları' top-level. Note: 'Yağlar' contains both kərə yağı and duru yağ — rule-based to separate.",
+    "direct_mappings": [
+        {"wolt_category": "Südlər", "canonical_category_id": 501, "canonical_category_name": "Süd"},
+        {"wolt_category": "Kokteyllər", "canonical_category_id": 501, "canonical_category_name": "Süd"},
+
+        {"wolt_category": "Pendirlər", "canonical_category_id": 502, "canonical_category_name": "Pendir"},
+
+        {"wolt_category": "Yogurt", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+        {"wolt_category": "Qatıq", "canonical_category_id": 503, "canonical_category_name": "Yoğurt & Qatıq"},
+
+        {"wolt_category": "Ayran", "canonical_category_id": 504, "canonical_category_name": "Kefir & Ayran"},
+        {"wolt_category": "Kefir", "canonical_category_id": 504, "canonical_category_name": "Kefir & Ayran"},
+        {"wolt_category": "Dovğa", "canonical_category_id": 504, "canonical_category_name": "Kefir & Ayran"},
+
+        {"wolt_category": "Qaymaq", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+        {"wolt_category": "Xama", "canonical_category_id": 505, "canonical_category_name": "Qaymaq & Xama"},
+
+        {"wolt_category": "Kəsmik", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"},
+        {"wolt_category": "Şor", "canonical_category_id": 506, "canonical_category_name": "Kəsmik & Şor"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Yağlar",
+            "rules": [
+                {
+                    "keywords": ["zeytun", "günəbaxan", "bitki", "duru yağ", "soya", "qarğıdalı", "kətan"],
+                    "canonical_category_id": null,
+                    "canonical_category_name": null,
+                    "_comment": "Duru yağlar → yag-sirke, not dairy. Skip these."
+                }
+            ],
+            "default_canonical_category_id": 507,
+            "default_canonical_category_name": "Kərə yağı"
+        }
+    ]
+}

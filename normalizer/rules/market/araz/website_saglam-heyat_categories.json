@@ -1,0 +1,934 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "saglam-heyat",
+    "description": "Maps Araz website SAĞLAM YAŞAM leaf categories to canonical healthy living IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "VEGETERİAN QİDALAR",
+            "category_id": 1143,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "VEGAN QİDALAR",
+            "category_id": 1144,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "LAKTOZASIZ SÜD",
+            "category_id": 1146,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "LAKTOZASIZ QAYMAQ",
+            "category_id": 1147,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ DİGƏR UNLAR",
+            "category_id": 1149,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ DİGƏR MƏHSULLAR",
+            "category_id": 1150,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ ÇİPSİLƏR",
+            "category_id": 1151,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ YAĞLAR",
+            "category_id": 1152,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ VAFLİLƏR",
+            "category_id": 1153,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ UNLU MƏMULATLAR",
+            "category_id": 1154,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ UN PAKET",
+            "category_id": 1155,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ SÜD MƏHSULLARI",
+            "category_id": 1156,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ SƏHƏR YEMƏYİ",
+            "category_id": 1157,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ PRYANİKLƏR",
+            "category_id": 1158,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ PEÇENYELƏR",
+            "category_id": 1159,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ MEYVƏ VƏ TƏRƏVƏZ",
+            "category_id": 1160,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ MAKARON",
+            "category_id": 1161,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ KEKSLƏR",
+            "category_id": 1162,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ İÇKİLƏR",
+            "category_id": 1163,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ ÇƏRƏZLƏR",
+            "category_id": 1164,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "QLÜTENSİZ PAXLALI MƏMULATLAR",
+            "category_id": 1165,
+            "canonical_category_id": 2403,
+            "canonical_category_name": "Qlütensiz"
+        },
+        {
+            "wolt_category": "VİTAMİNLƏR",
+            "category_id": 1167,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "RESEPTSİZ DƏRMANLAR",
+            "category_id": 1168,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "QİDA ƏLAVƏLƏRİ",
+            "category_id": 1169,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "FİTNES SULARI",
+            "category_id": 1171,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ DONDURMALAR",
+            "category_id": 1172,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ FISTIQ ƏZMƏSİ",
+            "category_id": 1173,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ FINDIQ ƏZMƏSİ",
+            "category_id": 1174,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ BAR",
+            "category_id": 1175,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "PROTEİNLİ ŞƏKƏRSİZ ÇƏRƏZLƏR ƏDƏD",
+            "category_id": 1176,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "PROTEİNLİ PANKEKLƏR ƏDƏD",
+            "category_id": 1177,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "PROTEİNLI PEÇENYELƏR ƏDƏD",
+            "category_id": 1178,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "PROTEİNLI KEKSLƏR ƏDƏD",
+            "category_id": 1179,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "ŞOKOLAD BATON FİTNES BAR",
+            "category_id": 1180,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "PROTEİN TOZU",
+            "category_id": 1181,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "PROTEİN BAR",
+            "category_id": 1182,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "MUSLE BAR",
+            "category_id": 1183,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "DİGƏR FİTNES QİDALARI",
+            "category_id": 1184,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "DƏNLİ BAR",
+            "category_id": 1185,
+            "canonical_category_id": 2404,
+            "canonical_category_name": "Fitness & Protein"
+        },
+        {
+            "wolt_category": "DİETİK KOFE",
+            "category_id": 1187,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ QATILAŞDIRILMIŞ SÜD",
+            "category_id": 1188,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ PEÇENYELƏR ƏDƏD",
+            "category_id": 1189,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ KEKSLƏR ƏDƏD",
+            "category_id": 1190,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ PLİTKA ŞOKOLAD",
+            "category_id": 1191,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "ŞƏKƏRSİZ SOUSLAR",
+            "category_id": 1192,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "PƏHRİZ DÜYÜ",
+            "category_id": 1193,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK UN MƏMULATLARI",
+            "category_id": 1194,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK SUXARİLƏR",
+            "category_id": 1195,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK SÜD",
+            "category_id": 1196,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK ŞOKOLAD",
+            "category_id": 1197,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK PEÇENYE",
+            "category_id": 1198,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK MAKARON",
+            "category_id": 1199,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK KONFETLƏR",
+            "category_id": 1200,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK KƏPƏKLƏR",
+            "category_id": 1201,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK XLEBSİ",
+            "category_id": 1202,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİETİK ÇİPSİ",
+            "category_id": 1203,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "PROPOLIS",
+            "category_id": 1205,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "HOMOGENAT",
+            "category_id": 1206,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "ÇİÇƏK TOZU",
+            "category_id": 1207,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "ARI SÜDÜ",
+            "category_id": 1208,
+            "canonical_category_id": 2402,
+            "canonical_category_name": "Dietik & Şəkərsiz"
+        },
+        {
+            "wolt_category": "DİGƏR ŞİRİNLƏŞDİRİCİLƏR",
+            "category_id": 1211,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ŞƏKƏR TOZU",
+            "category_id": 1212,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ŞƏKƏR ƏVƏZLƏYİCİ",
+            "category_id": 1213,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK MÜRƏBBƏ",
+            "category_id": 1214,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK MARMELAD",
+            "category_id": 1215,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK QƏND",
+            "category_id": 1216,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK CEM",
+            "category_id": 1217,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİGƏR DİABETİK UN MƏMULATLARI",
+            "category_id": 1219,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ŞUŞKI",
+            "category_id": 1220,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK PRYANİK",
+            "category_id": 1221,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK VAFLİ",
+            "category_id": 1222,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK PEÇENYE",
+            "category_id": 1223,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİGƏR DİABETİK ŞOKOLADLAR",
+            "category_id": 1225,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK PLİTKA ŞOKOLAD",
+            "category_id": 1226,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK KONFET",
+            "category_id": 1227,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK BATON ŞOKOLADLAR",
+            "category_id": 1228,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİGƏR DİABETİK QATQILAR",
+            "category_id": 1230,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK SİROPLAR",
+            "category_id": 1231,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ƏDVİYYATLAR",
+            "category_id": 1232,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK YAĞLAR",
+            "category_id": 1234,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK VAFLİ",
+            "category_id": 1235,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ŞUŞKİ",
+            "category_id": 1236,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK SİROPLAR",
+            "category_id": 1237,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ŞƏKƏR TOZU",
+            "category_id": 1238,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ŞƏKƏR ƏVƏZLƏYİCİ",
+            "category_id": 1239,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK PRYANİK",
+            "category_id": 1240,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK PLİTKA ŞOKOLAD",
+            "category_id": 1241,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK PEÇENYE",
+            "category_id": 1242,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK MÜRƏBBƏ",
+            "category_id": 1243,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK MARMELAD",
+            "category_id": 1244,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK QƏND",
+            "category_id": 1245,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK KONFET",
+            "category_id": 1246,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK KOFE",
+            "category_id": 1247,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ƏDVİYYATLAR",
+            "category_id": 1248,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİGƏR DİABETİK İÇKİLƏR",
+            "category_id": 1249,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK KOFE",
+            "category_id": 1250,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "DİABETİK ÇAY",
+            "category_id": 1251,
+            "canonical_category_id": 2401,
+            "canonical_category_name": "Diabetik"
+        },
+        {
+            "wolt_category": "BİO KOFE ÜYÜDÜLMÜŞ",
+            "category_id": 1282,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO KOFE TÜRK",
+            "category_id": 1283,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO KOFE DƏNƏVƏR",
+            "category_id": 1284,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO CAPPUÇİNO",
+            "category_id": 1285,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO XLEBSİ",
+            "category_id": 1287,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO ƏDVİYYAT",
+            "category_id": 1289,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO DİGƏR DURU YAĞLAR",
+            "category_id": 1291,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO ZEYTUN YAĞLARI",
+            "category_id": 1292,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO ÜZÜM YAĞI",
+            "category_id": 1293,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARĞIDALI YAĞLARI",
+            "category_id": 1294,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO KƏTAN YAĞI",
+            "category_id": 1295,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO XARDAL YAĞI",
+            "category_id": 1296,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO GÜNƏBAXAN ZEYTUN MİX",
+            "category_id": 1297,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO GÜNƏBAXAN YAĞLARI",
+            "category_id": 1298,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO YAŞIL ÇAY PAKET",
+            "category_id": 1300,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO YAŞIL ÇAY DƏMLƏMƏ",
+            "category_id": 1301,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO YAŞIL ÇAY ÇƏKİ",
+            "category_id": 1302,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARA ÇAY PAKET",
+            "category_id": 1303,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARA ÇAY DƏMLƏMƏ",
+            "category_id": 1304,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARA ÇAY ÇƏKİ",
+            "category_id": 1305,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO BİTKİ ÇAYI PAKET",
+            "category_id": 1306,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO BİTKİ ÇAYI DƏMLƏMƏ",
+            "category_id": 1307,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO YULAF",
+            "category_id": 1309,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO PERLOVA",
+            "category_id": 1310,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO PAXLALI DƏNLİ BİTKİLƏR DİGƏR",
+            "category_id": 1311,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO NOXUDLAR",
+            "category_id": 1312,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO MƏRCİLƏR",
+            "category_id": 1313,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO MANNILAR",
+            "category_id": 1314,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO LOBYALAR",
+            "category_id": 1315,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARIŞIQ PAXLALILAR",
+            "category_id": 1316,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARĞIDALI DƏNƏLƏRİ",
+            "category_id": 1317,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARABAŞAQ",
+            "category_id": 1318,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO KİNOA",
+            "category_id": 1319,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO DÜYÜLƏR",
+            "category_id": 1320,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO DƏNLİ PAXLALILAR DİGƏR",
+            "category_id": 1321,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO DARI",
+            "category_id": 1322,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO BULQURLAR",
+            "category_id": 1323,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO ARPA",
+            "category_id": 1324,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO KONFETLƏR",
+            "category_id": 1254,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO MEYVƏ ŞİRƏLƏRİ",
+            "category_id": 1256,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO ÇƏRƏZ",
+            "category_id": 1258,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO DİGƏR KONSERV MƏHSULLARI",
+            "category_id": 1260,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO TƏRƏVƏZ KONSERVASI",
+            "category_id": 1261,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO BİBƏR PASTASI",
+            "category_id": 1262,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO TOMAT PASTASI",
+            "category_id": 1263,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO BALIQ KONSERVASI",
+            "category_id": 1264,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO ƏT KONSERVASI",
+            "category_id": 1265,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARĞIDALI UNU",
+            "category_id": 1267,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO BUĞDA UNU",
+            "category_id": 1268,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO QARABAŞAQ UNU",
+            "category_id": 1269,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO DÜYÜ UNU",
+            "category_id": 1270,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO UNLAR",
+            "category_id": 1271,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO SÜDLƏR",
+            "category_id": 1273,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO FISTIQ ƏZMƏSİ",
+            "category_id": 1275,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO FINDIQ ŞOKOLAD YAĞI",
+            "category_id": 1276,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO PLİTKA ŞOKOLAD",
+            "category_id": 1278,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        },
+        {
+            "wolt_category": "BİO MAKARON QABLAŞDIRILMIŞ",
+            "category_id": 1280,
+            "canonical_category_id": 2405,
+            "canonical_category_name": "Bio & Orqanik"
+        }
+    ],
+    "rule_based_mappings": []
+}

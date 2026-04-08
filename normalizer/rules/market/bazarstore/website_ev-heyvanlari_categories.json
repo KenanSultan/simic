@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "ev-heyvanlari",
+    "description": "Maps Bazarstore website categories under Petshop to canonical Pet Products IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Pişik Yemi", "canonical_category_id": 2202, "canonical_category_name": "Pişik yemləri"},
+        {"wolt_category": "İt Yemi", "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"}
+    ],
+    "rule_based_mappings": []
+}

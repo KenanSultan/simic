@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "yumurta",
+    "description": "Neptun Wolt has no dedicated egg category. Empty mappings file.",
+    "direct_mappings": [],
+    "rule_based_mappings": []
+}

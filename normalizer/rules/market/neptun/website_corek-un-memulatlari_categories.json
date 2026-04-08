@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "corek-un-memulatlari",
+    "description": "Maps Neptun website bread/bakery categories. Source: 'Şirniyyat, çay, kofe, diabetik' (Çörək, NesCake).",
+    "direct_mappings": [
+        {"wolt_category": "Çörək", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "NesCake", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"}
+    ],
+    "rule_based_mappings": []
+}

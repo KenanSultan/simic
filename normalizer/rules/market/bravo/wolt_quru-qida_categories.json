@@ -1,0 +1,37 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "quru-qida",
+    "description": "Maps Bravo Wolt dry goods sub-categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Şəkər Məhsulları", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+        {"wolt_category": "Un Məhsulları", "canonical_category_id": 801, "canonical_category_name": "Un"},
+        {"wolt_category": "Hazır Qidalar", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Makaron, Düyü və Bakliyyat Məhsulları",
+            "rules": [
+                {
+                    "keywords": ["düyü", "duyu", "rice", "basmati", "jasmin"],
+                    "canonical_category_id": 802,
+                    "canonical_category_name": "Düyü"
+                },
+                {
+                    "keywords": ["makaron", "spagetti", "penne", "fusilli", "farfalle", "lazanya", "noodle", "vermişel"],
+                    "canonical_category_id": 803,
+                    "canonical_category_name": "Makaron"
+                }
+            ],
+            "default_canonical_category_id": 804,
+            "default_canonical_category_name": "Bakliyyat & Dənlilər"
+        },
+        {
+            "wolt_category": "Səhər Yeməkləri",
+            "rules": [],
+            "default_canonical_category_id": 806,
+            "default_canonical_category_name": "Səhər yeməkləri"
+        }
+    ]
+}

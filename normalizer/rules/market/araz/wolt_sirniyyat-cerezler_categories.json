@@ -1,0 +1,66 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "sirniyyat-cerezler",
+    "description": "Maps Wolt Araz sweets/snacks categories to canonical IDs. Multiple top-level Wolt categories contribute.",
+    "direct_mappings": [
+        {"wolt_category": "Saqqız", "canonical_category_id": 1303, "canonical_category_name": "Saqqız"},
+        {"wolt_category": "Çips", "canonical_category_id": 1304, "canonical_category_name": "Çipslər & Kraker"},
+        {"wolt_category": "Suxari", "canonical_category_id": 1304, "canonical_category_name": "Çipslər & Kraker"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Şirniyyat ədədli",
+            "rules": [
+                {
+                    "keywords": ["saqqız", "gum"],
+                    "canonical_category_id": 1303,
+                    "canonical_category_name": "Saqqız"
+                },
+                {
+                    "keywords": ["kreker", "çips", "suxari"],
+                    "canonical_category_id": 1304,
+                    "canonical_category_name": "Çipslər & Kraker"
+                },
+                {
+                    "keywords": ["peçenye", "vafli", "tort", "keks", "biskvit", "kruassan", "rulet", "pryanik", "piroq", "kurabiyə", "paxlava", "donut", "muffin", "şuşki", "ekler"],
+                    "canonical_category_id": 1302,
+                    "canonical_category_name": "Peçenye & Vafli"
+                }
+            ],
+            "default_canonical_category_id": 1301,
+            "default_canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "Çəki şirniyyatları",
+            "rules": [
+                {
+                    "keywords": ["peçenye", "vafli", "tort", "keks", "biskvit", "kruassan", "rulet", "pryanik", "kurabiyə", "paxlava", "bulka", "şuşki"],
+                    "canonical_category_id": 1302,
+                    "canonical_category_name": "Peçenye & Vafli"
+                }
+            ],
+            "default_canonical_category_id": 1301,
+            "default_canonical_category_name": "Şokolad & Konfet"
+        },
+        {
+            "wolt_category": "Digər çərəzlər",
+            "rules": [
+                {
+                    "keywords": ["çips", "kreker", "suxari", "popkorn"],
+                    "canonical_category_id": 1304,
+                    "canonical_category_name": "Çipslər & Kraker"
+                }
+            ],
+            "default_canonical_category_id": 1304,
+            "default_canonical_category_name": "Çipslər & Kraker"
+        },
+        {
+            "wolt_category": "Tum",
+            "rules": [],
+            "default_canonical_category_id": 1304,
+            "default_canonical_category_name": "Çipslər & Kraker"
+        }
+    ]
+}

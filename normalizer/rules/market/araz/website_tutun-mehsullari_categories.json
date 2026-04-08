@@ -1,0 +1,28 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "tutun-mehsullari",
+    "description": "Maps Araz website leaf categories under 'TÜTÜN VƏ TÜTÜN MƏHSULLARI' (14 leaves) to canonical tobacco IDs. SİQARET→1701, ELEKTRON→1702, TÜTÜN/SİQAR/QƏLYAN→1703.",
+    "direct_mappings": [
+        {"wolt_category": "SİQARET TÜTÜNÜ", "category_id": 295, "canonical_category_id": 1703, "canonical_category_name": "Tütün & Siqar"},
+        {"wolt_category": "QƏLYAN TÜTÜNÜ", "category_id": 296, "canonical_category_id": 1703, "canonical_category_name": "Tütün & Siqar"},
+
+        {"wolt_category": "SİQARİLLA", "category_id": 298, "canonical_category_id": 1703, "canonical_category_name": "Tütün & Siqar"},
+
+        {"wolt_category": "SİQARET FİLTERSİZ", "category_id": 300, "canonical_category_id": 1701, "canonical_category_name": "Siqaret"},
+        {"wolt_category": "PAPİROS", "category_id": 301, "canonical_category_id": 1701, "canonical_category_name": "Siqaret"},
+        {"wolt_category": "NANO", "category_id": 302, "canonical_category_id": 1701, "canonical_category_name": "Siqaret"},
+        {"wolt_category": "KİNG SİZE", "category_id": 303, "canonical_category_id": 1701, "canonical_category_name": "Siqaret"},
+        {"wolt_category": "COMPACT", "category_id": 304, "canonical_category_id": 1701, "canonical_category_name": "Siqaret"},
+
+        {"wolt_category": "SİQAR", "category_id": 306, "canonical_category_id": 1703, "canonical_category_name": "Tütün & Siqar"},
+
+        {"wolt_category": "NANO STİCK", "category_id": 314, "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"},
+        {"wolt_category": "COMPACT STİCK", "category_id": 315, "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"},
+        {"wolt_category": "ELEKTRON SİQARET CİHAZI", "category_id": 317, "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"},
+        {"wolt_category": "ELEKTRON PUFFLƏRİ", "category_id": 319, "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"},
+        {"wolt_category": "ELEKTRON QƏLYAN", "category_id": 321, "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"}
+    ],
+    "rule_based_mappings": []
+}

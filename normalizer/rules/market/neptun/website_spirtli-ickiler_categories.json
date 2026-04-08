@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "spirtli-ickiler",
+    "description": "Maps Neptun website categories under İçkilər to canonical alcoholic beverage IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Araq", "canonical_category_id": 1603, "canonical_category_name": "Araq"},
+        {"wolt_category": "Şərab", "canonical_category_id": 1602, "canonical_category_name": "Şərab"},
+        {"wolt_category": "Pivə", "canonical_category_id": 1601, "canonical_category_name": "Pivə"},
+        {"wolt_category": "Viski,tekila və s.", "canonical_category_id": 1605, "canonical_category_name": "Viski"},
+        {"wolt_category": "Konyak", "canonical_category_id": 1604, "canonical_category_name": "Konyak"},
+        {"wolt_category": "Şampan", "canonical_category_id": 1606, "canonical_category_name": "Şampan"}
+    ],
+    "rule_based_mappings": []
+}

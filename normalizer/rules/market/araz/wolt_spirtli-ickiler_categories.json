@@ -1,9 +1,9 @@
 {
-    "version": 2,
+    "version": 3,
     "market": "araz",
     "source_type": "wolt",
     "canonical_parent": "spirtli-ickiler",
-    "description": "Maps Wolt Araz alcoholic beverage categories to canonical category IDs.",
+    "description": "Maps Wolt Araz alcoholic beverage categories to canonical category IDs. v3: expanded subcategories.",
     "direct_mappings": [],
     "rule_based_mappings": [
         {
@@ -25,7 +25,7 @@
                     "canonical_category_name": "Araq"
                 },
                 {
-                    "keywords": ["konyak", "cognac", "brandy"],
+                    "keywords": ["konyak", "cognac", "brandy", "armanyak"],
                     "canonical_category_id": 1604,
                     "canonical_category_name": "Konyak"
                 },
@@ -33,10 +33,40 @@
                     "keywords": ["şampan", "sampan", "prosecco", "champagne", "köpüklü"],
                     "canonical_category_id": 1606,
                     "canonical_category_name": "Şampan"
+                },
+                {
+                    "keywords": ["tekila", "tequila", "mezcal"],
+                    "canonical_category_id": 1607,
+                    "canonical_category_name": "Tekila"
+                },
+                {
+                    "keywords": ["cin ", "gin ", "london dry"],
+                    "canonical_category_id": 1608,
+                    "canonical_category_name": "Cin"
+                },
+                {
+                    "keywords": ["likör", "likor", "likyor", "limoncello", "sambuca", "amaretto", "absent", "grappa", "schnapps", "vermut", "bitter", "sider"],
+                    "canonical_category_id": 1609,
+                    "canonical_category_name": "Likör"
+                },
+                {
+                    "keywords": ["rakı", "raki"],
+                    "canonical_category_id": 1610,
+                    "canonical_category_name": "Rakı"
+                },
+                {
+                    "keywords": ["rom ", "rum ", "bacardi", "captain morgan", "havana club"],
+                    "canonical_category_id": 1611,
+                    "canonical_category_name": "Rom"
+                },
+                {
+                    "keywords": ["kokteyl", "cocktail"],
+                    "canonical_category_id": 1612,
+                    "canonical_category_name": "Spirtli kokteyller"
                 }
             ],
             "default_canonical_category_id": 1605,
-            "default_canonical_category_name": "Viski & Tekila"
+            "default_canonical_category_name": "Viski"
         }
     ]
 }

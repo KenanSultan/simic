@@ -1,0 +1,40 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "qastronom",
+    "description": "Maps Bazarstore website deli/charcuterie categories to canonical category IDs. Source: \u018et, Toyuq, Bal\u0131q \u2192 \u018et Qastronom.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Bi\u015fmi\u015f Kolbasa",
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        },
+        {
+            "wolt_category": "His\u0259 verilmi\u015f Kolbasa",
+            "canonical_category_id": 702,
+            "canonical_category_name": "His\u0259 verilmi\u015f \u0259t"
+        },
+        {
+            "wolt_category": "Sosis",
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        },
+        {
+            "wolt_category": "Vet\u00e7ina, Jambon",
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        },
+        {
+            "wolt_category": "Sucuqlar",
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        },
+        {
+            "wolt_category": "His\u0259 verilmi\u015f \u018et",
+            "canonical_category_id": 702,
+            "canonical_category_name": "His\u0259 verilmi\u015f \u0259t"
+        }
+    ],
+    "rule_based_mappings": []
+}

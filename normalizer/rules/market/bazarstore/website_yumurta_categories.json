@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "yumurta",
+    "description": "Maps Bazarstore 'Yumurta' (under 'Süd, Səhər Yeməyi') to canonical egg ID.",
+    "direct_mappings": [
+        {"wolt_category": "Yumurta", "canonical_category_id": 401, "canonical_category_name": "Yumurta"}
+    ],
+    "rule_based_mappings": []
+}

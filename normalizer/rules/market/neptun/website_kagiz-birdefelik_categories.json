@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "kagiz-birdefelik",
+    "description": "Maps Neptun website categories under Kosmetik və gigiyenik to canonical Paper & Disposables IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Kağız məhsulları", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "Nəm salfetlər", "canonical_category_id": 2002, "canonical_category_name": "Nəm salfetlər"}
+    ],
+    "rule_based_mappings": []
+}

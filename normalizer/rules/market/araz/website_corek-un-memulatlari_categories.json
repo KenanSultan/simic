@@ -1,0 +1,754 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "corek-un-memulatlari",
+    "description": "Maps Araz website bread/bakery categories. Sources: 'Çörək və mayalı məmulatlar' + 'ARAZ UN MƏMULATLARI' (excl. İÇKİLƏR/KETRİNQ).",
+    "direct_mappings": [
+        {
+            "wolt_category": "SİMİT",
+            "category_id": 2492,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "SADƏ BULKALAR",
+            "category_id": 2493,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "PİROJKİ SOBADA",
+            "category_id": 2494,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "HOT DOQ",
+            "category_id": 2495,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "DOLĞULU BULKALAR",
+            "category_id": 2496,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "DİGƏR SADƏ XƏMİRLİ MƏMULATLAR",
+            "category_id": 2497,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "POĞAÇA",
+            "category_id": 2499,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "QOĞAL",
+            "category_id": 2500,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "QAT-QAT BULKALAR",
+            "category_id": 2501,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "KRUASSAN",
+            "category_id": 2502,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "XAÇAPURİ",
+            "category_id": 2503,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "DİGƏR QAT-QAT XƏMİRLİ MƏMULATLAR",
+            "category_id": 2504,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "ÇUDU",
+            "category_id": 2505,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "BÖRƏK",
+            "category_id": 2506,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AÇMA",
+            "category_id": 2507,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "QARA TƏNDİR ÇÖRƏYİ",
+            "category_id": 2510,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "KURƏ ÇÖRƏYİ",
+            "category_id": 2511,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AĞ TƏNDİR ÇÖRƏYİ",
+            "category_id": 2512,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "SAC LAVAŞ ÇÖRƏYİ",
+            "category_id": 2514,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "LAVAŞ ÇÖRƏK",
+            "category_id": 2515,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "KVADRAT LAVAŞ",
+            "category_id": 2516,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "DÖNƏR LAVAŞI",
+            "category_id": 2517,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "ZAVOD QARA ÇÖRƏYİ",
+            "category_id": 2519,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "PEHRİZ ÇÖRƏYİ",
+            "category_id": 2520,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "QARA BURGER ÇÖRƏYİ",
+            "category_id": 2521,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "DİGƏR QARA ÇÖRƏK",
+            "category_id": 2522,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "ÇOVDAR ÇÖRƏYİ",
+            "category_id": 2523,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "ZAVOD AĞ ÇÖRƏYİ",
+            "category_id": 2525,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "TOST ÇÖRƏYİ",
+            "category_id": 2526,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "MAYASIZ ÇÖRƏK",
+            "category_id": 2527,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "QLUTENSİZ ÇÖRƏK",
+            "category_id": 2528,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "DİGƏR AĞ ÇÖRƏK",
+            "category_id": 2529,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "BURGER ÇÖRƏYİ",
+            "category_id": 2530,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "BATON ÇÖRƏYİ",
+            "category_id": 2531,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "BAGET ÇÖRƏK",
+            "category_id": 2532,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB TÜRK PAXLAVASI ƏDƏDLİ",
+            "category_id": 2579,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB ŞƏKİ PAXLAVASI ƏDƏDLİ",
+            "category_id": 2580,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB MİLLİ PAXLAVA ƏDƏDLİ",
+            "category_id": 2581,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB QUBA PAXLAVASI ƏDƏDLİ",
+            "category_id": 2582,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB TÜRK PAXLAVASI",
+            "category_id": 2584,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB ŞƏKİ PAXLAVASI",
+            "category_id": 2585,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB MİLLİ PAXLAVA",
+            "category_id": 2586,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB QUBA PAXLAVASI",
+            "category_id": 2587,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB ŞƏKƏRPARƏ ƏDƏD",
+            "category_id": 2589,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB BAMİYƏ",
+            "category_id": 2590,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB SİMİT",
+            "category_id": 2593,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB SADƏ BULKALAR",
+            "category_id": 2594,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB PİZZA",
+            "category_id": 2595,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB PIROJKI SOBADA",
+            "category_id": 2596,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB HOT DOQ",
+            "category_id": 2597,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB DONUT",
+            "category_id": 2598,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB DOLGULU BULKALAR",
+            "category_id": 2599,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB DIGER SADE XEMIRLI MEMULATLAR",
+            "category_id": 2600,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB POGACA",
+            "category_id": 2602,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB QOĞAL",
+            "category_id": 2603,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB QAT-QAT BULKALAR",
+            "category_id": 2604,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB KRUASSAN",
+            "category_id": 2605,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB XAÇAPURİ",
+            "category_id": 2606,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB DİGƏR QAT-QAT XƏMİRLİ MƏMULATLAR",
+            "category_id": 2607,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB ÇUDU",
+            "category_id": 2608,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB BÖRƏK",
+            "category_id": 2609,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB AÇMA",
+            "category_id": 2610,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB PEÇENYE ƏDƏDLİ",
+            "category_id": 2613,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB SÜTLAÇ",
+            "category_id": 2614,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB ŞƏKƏRBURA",
+            "category_id": 2615,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB MUFFİN",
+            "category_id": 2616,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB KULIC",
+            "category_id": 2617,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB KƏTƏ ƏDƏDLİ",
+            "category_id": 2618,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB DİGƏR ƏDƏDLİ ŞİRNİYYAT",
+            "category_id": 2619,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB BADAMDURA",
+            "category_id": 2620,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB PEÇENYE ÇƏKİ",
+            "category_id": 2622,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB TRUBOÇKA",
+            "category_id": 2623,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB TRILIÇE",
+            "category_id": 2624,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB PRYANİK",
+            "category_id": 2625,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB MUTAKİ",
+            "category_id": 2626,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB MİNİ KEKS",
+            "category_id": 2627,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB KƏTƏ ÇEKİ",
+            "category_id": 2628,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB DİGƏR ÇƏKİ ŞİRNİYYAT",
+            "category_id": 2629,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB ÇEVİZ QAT. SÜD İLƏ",
+            "category_id": 2630,
+            "canonical_category_id": 602,
+            "canonical_category_name": "Un məmulatları"
+        },
+        {
+            "wolt_category": "AB TƏNDİR ÇÖRƏK",
+            "category_id": 2644,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB QARA TƏNDİR ÇÖRƏYİ",
+            "category_id": 2645,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB KURƏ ÇÖRƏYİ",
+            "category_id": 2646,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB SAC LAVAŞ ÇÖRƏYİ",
+            "category_id": 2648,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB LAVAŞ ÇÖRƏK",
+            "category_id": 2649,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB KVADRAT LAVASH",
+            "category_id": 2650,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB DONER LAVASHI",
+            "category_id": 2651,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB QARA TOST ÇÖRƏYİ",
+            "category_id": 2653,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB QARA TƏNDİR ÇÖRƏK SOBADA",
+            "category_id": 2654,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB QARA BAGET ÇÖRƏK",
+            "category_id": 2655,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB DİGƏR QARA ÇÖRƏK",
+            "category_id": 2656,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB ÇOVDAR ÇÖRƏK",
+            "category_id": 2657,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB SUXARİ (QURUDULMUŞ ÇÖRƏK)",
+            "category_id": 2659,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB PƏHRİZ ÇÖRƏYİ",
+            "category_id": 2660,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB QARĞIDALI ÇÖRƏYİ",
+            "category_id": 2661,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB QARABAŞAQ ÇÖRƏYİ",
+            "category_id": 2662,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB KOMURLU COREK",
+            "category_id": 2663,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB ZAVOD ÇÖRƏYİ",
+            "category_id": 2665,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB TOST ÇÖRƏYİ",
+            "category_id": 2666,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB TƏNDİR ÇÖRƏK SOBADA",
+            "category_id": 2667,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB SİMİT ÇÖRƏK",
+            "category_id": 2668,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB SENDİVİÇ ÇÖRƏYİ",
+            "category_id": 2669,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB QLUTENSİZ ÇÖRƏK",
+            "category_id": 2670,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB DÖNƏR ÇÖRƏYİ",
+            "category_id": 2671,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB DİGƏR AĞ ÇÖRƏK",
+            "category_id": 2672,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB BURGER ÇÖRƏYİ",
+            "category_id": 2673,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB BATON ÇÖRƏK",
+            "category_id": 2674,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB BAGET ÇÖRƏK",
+            "category_id": 2675,
+            "canonical_category_id": 601,
+            "canonical_category_name": "Çörək & Lavaş"
+        },
+        {
+            "wolt_category": "AB RULET",
+            "category_id": 2568,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB KEKS",
+            "category_id": 2569,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB ISLAK KEKS",
+            "category_id": 2570,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB DOLGULU PIROQ",
+            "category_id": 2571,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB DİGƏR PİROQLAR",
+            "category_id": 2572,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB EKLER ƏDƏD",
+            "category_id": 2574,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB EKLER ÇƏKİ",
+            "category_id": 2575,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB DİGƏR PIROJNALAR",
+            "category_id": 2576,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB TORT KİÇİK (S)",
+            "category_id": 2560,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB TORT ÇƏKİ",
+            "category_id": 2561,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB TORT BÖYÜK (B)",
+            "category_id": 2562,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB MARSEPAN DEKORU",
+            "category_id": 2563,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB DİGƏR TORTLAR",
+            "category_id": 2564,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB DESERT STƏKAN",
+            "category_id": 2565,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB DESERT DİLİM",
+            "category_id": 2566,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB TORT SİFARİŞ",
+            "category_id": 2558,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        },
+        {
+            "wolt_category": "AB TORT ORTA (M)",
+            "category_id": 2559,
+            "canonical_category_id": 603,
+            "canonical_category_name": "Tort & Bişmələr"
+        }
+    ],
+    "rule_based_mappings": []
+}

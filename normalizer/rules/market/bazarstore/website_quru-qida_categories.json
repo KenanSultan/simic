@@ -1,0 +1,46 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "quru-qida",
+    "description": "Maps Bazarstore dry goods categories to canonical IDs. Source: 'Təməl Qida' root (only Bakliyyat, Un, Makaron, Suplar). Excludes: Yağ→yag-sirke, Soslar/Ədviyyat→sous-edviyyat, Konserva/Turşu→konservler, Çay/Qəhvə/Şəkər→cay-kofe/quru-qida. Also: 'Süd, Səhər Yeməyi'→Səhər Yeməyi for cereals.",
+    "direct_mappings": [
+        {"wolt_category": "Düyü", "canonical_category_id": 802, "canonical_category_name": "Düyü"},
+
+        {"wolt_category": "Makaron", "canonical_category_id": 803, "canonical_category_name": "Makaron"},
+        {"wolt_category": "Normal Makaron", "canonical_category_id": 803, "canonical_category_name": "Makaron"},
+        {"wolt_category": "Suşi Məhsulları", "canonical_category_id": 803, "canonical_category_name": "Makaron"},
+
+        {"wolt_category": "Mərci", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Qarabaşaq", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Noxud", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Lobya", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Mannı", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Buğday", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Perlova", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Qarğıdalı", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Çəkili Bakliyyat", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+
+        {"wolt_category": "Şəkər Tozu", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+        {"wolt_category": "Pudra Şəkəri", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+        {"wolt_category": "Qənd", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+        {"wolt_category": "Noğul", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+        {"wolt_category": "Duz", "canonical_category_id": 805, "canonical_category_name": "Şəkər & Duz"},
+
+        {"wolt_category": "Səhər Yeməkləri", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Halva", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Krem, Əzmələr", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Qatılaşdırılmış", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Tahin", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Povidlo", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+
+        {"wolt_category": "Buğda Unu", "canonical_category_id": 801, "canonical_category_name": "Un"},
+        {"wolt_category": "Qaleta Unları", "canonical_category_id": 801, "canonical_category_name": "Un"},
+        {"wolt_category": "Çovdar Unu", "canonical_category_id": 801, "canonical_category_name": "Un"},
+        {"wolt_category": "Qarğıdalı Unu", "canonical_category_id": 801, "canonical_category_name": "Un"},
+
+        {"wolt_category": "Sup", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Bulyon", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"}
+    ],
+    "rule_based_mappings": []
+}

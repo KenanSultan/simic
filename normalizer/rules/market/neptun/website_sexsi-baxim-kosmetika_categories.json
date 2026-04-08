@@ -1,0 +1,37 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "sexsi-baxim-kosmetika",
+    "description": "Maps Neptun website 'Kosmetik ve gigiyenik' leaf categories to canonical personal care IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Duş Gelləri", "canonical_category_id": 1901, "canonical_category_name": "Duş & Hamam"},
+        {"wolt_category": "Sabunlar", "canonical_category_id": 1901, "canonical_category_name": "Duş & Hamam"},
+
+        {"wolt_category": "Saç baxımı", "canonical_category_id": 1902, "canonical_category_name": "Saç baxımı"},
+
+        {"wolt_category": "Ağız baxımı", "canonical_category_id": 1903, "canonical_category_name": "Diş baxımı"},
+
+        {"wolt_category": "Antiperspirant", "canonical_category_id": 1904, "canonical_category_name": "Dezodorant"},
+        {"wolt_category": "Dezodorant", "canonical_category_id": 1904, "canonical_category_name": "Dezodorant"},
+
+        {"wolt_category": "Təraş ləvazimatları", "canonical_category_id": 1905, "canonical_category_name": "Təraş"},
+
+        {"wolt_category": "Qadın məhsulları", "canonical_category_id": 1906, "canonical_category_name": "Qadın gigiyenası"},
+        {"wolt_category": "Xəstə bezləri", "canonical_category_id": 1906, "canonical_category_name": "Qadın gigiyenası"},
+
+        {"wolt_category": "Ətirlər", "canonical_category_id": 1907, "canonical_category_name": "Ətirlər"},
+        {"wolt_category": "Kolonyalar", "canonical_category_id": 1907, "canonical_category_name": "Ətirlər"},
+
+        {"wolt_category": "Kremlər", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Losyonlar", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Kosmetik", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Makiyaj diski", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Aseton", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Təravətləndiricilər", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Otaq təravətləndirici", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Mövsümi məhsullar", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Qulaq çubuğu", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"}
+    ],
+    "rule_based_mappings": []
+}

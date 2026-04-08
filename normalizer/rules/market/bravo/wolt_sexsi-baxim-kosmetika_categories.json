@@ -1,0 +1,36 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "sexsi-baxim-kosmetika",
+    "description": "Maps Bravo Wolt personal care sub-categories to canonical IDs. Sources: 'Sac Baximi Mehsullari', 'Uz ve Beden Baximi Mehsullari'.",
+    "direct_mappings": [
+        {"wolt_category": "Şampunlar", "canonical_category_id": 1902, "canonical_category_name": "Saç baxımı"},
+        {"wolt_category": "Saç Boyaları", "canonical_category_id": 1902, "canonical_category_name": "Saç baxımı"},
+        {"wolt_category": "Saç Düzümü Məhsulları", "canonical_category_id": 1902, "canonical_category_name": "Saç baxımı"},
+        {"wolt_category": "Saça Qulluq Məhsulları", "canonical_category_id": 1902, "canonical_category_name": "Saç baxımı"},
+
+        {"wolt_category": "Duş Gelləri", "canonical_category_id": 1901, "canonical_category_name": "Duş & Hamam"},
+        {"wolt_category": "Sabunlar", "canonical_category_id": 1901, "canonical_category_name": "Duş & Hamam"},
+        {"wolt_category": "Hamam Aksesuarları", "canonical_category_id": 1901, "canonical_category_name": "Duş & Hamam"},
+
+        {"wolt_category": "Diş Baxımı Məhsulları", "canonical_category_id": 1903, "canonical_category_name": "Diş baxımı"},
+
+        {"wolt_category": "Dezodarantlar", "canonical_category_id": 1904, "canonical_category_name": "Dezodorant"},
+
+        {"wolt_category": "Kişilər üçün Təraş Məhsulları", "canonical_category_id": 1905, "canonical_category_name": "Təraş"},
+        {"wolt_category": "Qadınlar üçün Təraş Məhsulları", "canonical_category_id": 1905, "canonical_category_name": "Təraş"},
+
+        {"wolt_category": "Qadınlar üçün Gigiyenik Məhsullar ", "canonical_category_id": 1906, "canonical_category_name": "Qadın gigiyenası"},
+
+        {"wolt_category": "Ətir və Kaloniyalar", "canonical_category_id": 1907, "canonical_category_name": "Ətirlər"},
+
+        {"wolt_category": "Dəri Baxımı Məhsulları", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Dəri Təmizləmə Məhsulları", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Günəş Kremi və SPF-lər", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Kosmetik Məhsullar", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Manikür və Pedikür Məhsulları", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"},
+        {"wolt_category": "Qoruyucular", "canonical_category_id": 1908, "canonical_category_name": "Kosmetika"}
+    ],
+    "rule_based_mappings": []
+}

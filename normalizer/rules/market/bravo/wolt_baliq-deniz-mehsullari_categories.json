@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "baliq-deniz-mehsullari",
+    "description": "Maps Bravo Wolt 'Dəniz Məhsulları və Hisə Verilmiş Balıqlar' to canonical fish & seafood IDs via keyword rules.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Dəniz Məhsulları və Hisə Verilmiş Balıqlar",
+            "rules": [
+                {
+                    "keywords": ["hisə", "hise", "qaxac", "hisələnmiş", "hiselenmiş"],
+                    "canonical_category_id": 304,
+                    "canonical_category_name": "Hisə verilmiş balıq"
+                },
+                {
+                    "keywords": ["dondurulmuş", "dondurulmus", "donmuş", "donmus"],
+                    "canonical_category_id": 302,
+                    "canonical_category_name": "Dondurulmuş balıq"
+                },
+                {
+                    "keywords": ["krevet", "krab", "karides", "ahtapot", "kalmar", "midye", "kürü", "kuru"],
+                    "canonical_category_id": 303,
+                    "canonical_category_name": "Dəniz məhsulları"
+                }
+            ],
+            "default_canonical_category_id": 301,
+            "default_canonical_category_name": "Təzə balıq"
+        }
+    ]
+}

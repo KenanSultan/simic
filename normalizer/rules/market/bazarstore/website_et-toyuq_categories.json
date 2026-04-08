@@ -1,0 +1,50 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "et-toyuq",
+    "description": "Maps Bazarstore website meat/poultry categories to canonical category IDs. Source: \u018et, Toyuq, Bal\u0131q (excluding D\u0259niz M\u0259hsullar\u0131).",
+    "direct_mappings": [
+        {
+            "wolt_category": "Dana \u018eti",
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal \u0259ti"
+        },
+        {
+            "wolt_category": "Toyuq \u0130\u00e7alat",
+            "canonical_category_id": 205,
+            "canonical_category_name": "\u0130\u00e7alat"
+        },
+        {
+            "wolt_category": "Dana \u0130\u00e7alat",
+            "canonical_category_id": 205,
+            "canonical_category_name": "\u0130\u00e7alat"
+        },
+        {
+            "wolt_category": "Quzu \u0130\u00e7alat",
+            "canonical_category_id": 205,
+            "canonical_category_name": "\u0130\u00e7alat"
+        },
+        {
+            "wolt_category": "T\u0259z\u0259 Toyuq",
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "Dondurulmu\u015f Toyuq",
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "Dondurulmu\u015f \u018et M\u0259hsullar\u0131",
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal \u0259ti"
+        },
+        {
+            "wolt_category": "Dondurulmu\u015f \u00d6rd\u0259k, Hindu\u015fka, Bildir\u00e7in",
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hindu\u015fka"
+        }
+    ],
+    "rule_based_mappings": []
+}

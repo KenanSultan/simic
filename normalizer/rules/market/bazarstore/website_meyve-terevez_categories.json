@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "meyve-terevez",
+    "description": "Maps Bazarstore fruit & vegetable categories to canonical IDs. Source: 'Meyvə, Tərəvəz' root category.",
+    "direct_mappings": [
+        {"wolt_category": "Yumşaq Meyvələr", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+        {"wolt_category": "Bərk Meyvələr", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+        {"wolt_category": "Sitrus Meyvələri", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+        {"wolt_category": "Eqzotik Meyvələr", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+        {"wolt_category": "Qarpız,Yemiş", "canonical_category_id": 101, "canonical_category_name": "Meyvə"},
+
+        {"wolt_category": "Quru Meyvə-Çərəzlər", "canonical_category_id": 105, "canonical_category_name": "Quru meyvə & Çərəzlər"},
+
+        {"wolt_category": "Mövsüm Tərəvəzləri", "canonical_category_id": 102, "canonical_category_name": "Tərəvəz"},
+        {"wolt_category": "Katof,Soğan,Sarımsaq", "canonical_category_id": 102, "canonical_category_name": "Tərəvəz"},
+        {"wolt_category": "Eqzotik Tərəvəzlər", "canonical_category_id": 102, "canonical_category_name": "Tərəvəz"},
+
+        {"wolt_category": "Göbələk", "canonical_category_id": 104, "canonical_category_name": "Göbələk"},
+
+        {"wolt_category": "Göyərti, Yarpaq", "canonical_category_id": 103, "canonical_category_name": "Göyərti"}
+    ],
+    "rule_based_mappings": []
+}

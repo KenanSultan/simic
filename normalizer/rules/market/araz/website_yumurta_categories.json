@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "yumurta",
+    "description": "Maps Araz website leaf categories under 'YUMURTA' to canonical egg IDs. All 3 leaves → 401.",
+    "direct_mappings": [
+        {"wolt_category": "BİLDİRÇİN YUMURTASI", "category_id": 4154, "canonical_category_id": 401, "canonical_category_name": "Yumurta"},
+        {"wolt_category": "TOYUQ YUMURTASI BROYLER", "category_id": 4156, "canonical_category_id": 401, "canonical_category_name": "Yumurta"},
+        {"wolt_category": "TOYUQ YUMURTASI KƏND", "category_id": 4157, "canonical_category_id": 401, "canonical_category_name": "Yumurta"}
+    ],
+    "rule_based_mappings": []
+}

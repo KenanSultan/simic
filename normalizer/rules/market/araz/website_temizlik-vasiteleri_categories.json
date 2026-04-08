@@ -1,0 +1,220 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "temizlik-vasiteleri",
+    "description": "Maps Araz website TƏMİZLİK leaf categories (EV TƏMİZLİYİ + YUYUCU VASİTƏLƏR) to canonical cleaning IDs. KAĞIZ VƏ SALFETLƏR excluded → kagiz-birdefelik.",
+    "direct_mappings": [
+        {
+            "wolt_category": "QURU CİB DƏSMALI",
+            "category_id": 332,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "HAVA TƏRAVƏTLƏNDİRİCİLƏR",
+            "category_id": 340,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "YER TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 342,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "UNİVERSAL SƏTH TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 343,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "TUALET TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 344,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "ŞÜŞƏ TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 345,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "MƏTBƏX TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 346,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "MEBEL TƏMİZLƏMƏ MƏHSULLARI",
+            "category_id": 347,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "XALÇA TƏMİZLƏMƏ MƏHSULLARI",
+            "category_id": 348,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "ƏRP TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 349,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "DƏRİ TƏMİZLƏMƏ MƏHSULLARI",
+            "category_id": 350,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "SANİTAR TUALET TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 352,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "HAVA TƏRAVƏTLƏNDİRİCİLƏR",
+            "category_id": 353,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "BORU TƏMİZLƏYİCİ MƏHSULLAR",
+            "category_id": 354,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "QABYUYAN MƏHSULLAR ƏLDƏ YUMA",
+            "category_id": 356,
+            "canonical_category_id": 1802,
+            "canonical_category_name": "Qabyuyan"
+        },
+        {
+            "wolt_category": "QABYUYAN MƏHSULLAR AVTO YUMA",
+            "category_id": 357,
+            "canonical_category_id": 1802,
+            "canonical_category_name": "Qabyuyan"
+        },
+        {
+            "wolt_category": "TƏMİZLİK BEZLƏRİ",
+            "category_id": 359,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "SÜNGƏRLƏR",
+            "category_id": 360,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "ƏLCƏKLƏR",
+            "category_id": 361,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "YUMŞALDICILAR",
+            "category_id": 364,
+            "canonical_category_id": 1801,
+            "canonical_category_name": "Paltaryuyan"
+        },
+        {
+            "wolt_category": "SİNKA",
+            "category_id": 365,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "PALTARYUMA ÜÇÜN SABUNLAR",
+            "category_id": 366,
+            "canonical_category_id": 1801,
+            "canonical_category_name": "Paltaryuyan"
+        },
+        {
+            "wolt_category": "NİŞASTA",
+            "category_id": 367,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "LƏKƏ ÇIXARICILAR",
+            "category_id": 368,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "DEZİNFEKSİYA EDİCİLƏR",
+            "category_id": 369,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "BƏRPA EDİCİLƏR",
+            "category_id": 370,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "AĞARDICILAR",
+            "category_id": 371,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "YUYUCU TOZ HƏSSAS YUMA",
+            "category_id": 373,
+            "canonical_category_id": 1801,
+            "canonical_category_name": "Paltaryuyan"
+        },
+        {
+            "wolt_category": "YUYUCU TOZ  ƏLDƏ YUMA",
+            "category_id": 374,
+            "canonical_category_id": 1801,
+            "canonical_category_name": "Paltaryuyan"
+        },
+        {
+            "wolt_category": "YUYUCU TOZ  AVTO YUMA",
+            "category_id": 375,
+            "canonical_category_id": 1801,
+            "canonical_category_name": "Paltaryuyan"
+        },
+        {
+            "wolt_category": "YUYUCU MAYE HƏSSAS YUMA",
+            "category_id": 377,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "YUYUCU MAYE AVTO YUMA",
+            "category_id": 378,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "YUYUCU KAPSUL AVTO YUMA",
+            "category_id": 380,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "YUYUCU BİO ƏLDƏ YUMA",
+            "category_id": 382,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        },
+        {
+            "wolt_category": "YUYUCU BİO AVTO YUMA",
+            "category_id": 383,
+            "canonical_category_id": 1803,
+            "canonical_category_name": "Ümumi təmizlik"
+        }
+    ],
+    "rule_based_mappings": []
+}

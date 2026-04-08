@@ -1,0 +1,48 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "et-toyuq",
+    "description": "Maps Wolt Araz meat/poultry categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Toyuq m\u0259hsullar\u0131",
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        }
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "T\u0259z\u0259 \u0259t m\u0259hsullar\u0131",
+            "rules": [
+                {
+                    "keywords": ["toyuq"],
+                    "canonical_category_id": 203,
+                    "canonical_category_name": "Toyuq"
+                },
+                {
+                    "keywords": ["hindu\u015fka", "hinduska"],
+                    "canonical_category_id": 204,
+                    "canonical_category_name": "Hindu\u015fka"
+                },
+                {
+                    "keywords": ["i\u00e7alat", "icalat"],
+                    "canonical_category_id": 205,
+                    "canonical_category_name": "\u0130\u00e7alat"
+                },
+                {
+                    "keywords": ["qiym\u0259", "qiyme", "far\u015f", "fars"],
+                    "canonical_category_id": 206,
+                    "canonical_category_name": "Qiym\u0259"
+                },
+                {
+                    "keywords": ["quzu"],
+                    "canonical_category_id": 202,
+                    "canonical_category_name": "Quzu \u0259ti"
+                }
+            ],
+            "default_canonical_category_id": 201,
+            "default_canonical_category_name": "Mal \u0259ti"
+        }
+    ]
+}

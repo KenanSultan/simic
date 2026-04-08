@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "ev-heyvanlari",
+    "description": "Maps Wolt Araz pet product categories to canonical Pet Products IDs using keyword rules.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Ev heyvanları üçün",
+            "rules": [
+                {
+                    "keywords": ["pişik", "pisik", "cat", "kedi"],
+                    "canonical_category_id": 2202,
+                    "canonical_category_name": "Pişik yemləri"
+                }
+            ],
+            "default_canonical_category_id": 2201,
+            "default_canonical_category_name": "İt yemləri"
+        },
+        {
+            "wolt_category": "ZooShop",
+            "rules": [
+                {
+                    "keywords": ["pişik", "pisik", "cat", "kedi"],
+                    "canonical_category_id": 2202,
+                    "canonical_category_name": "Pişik yemləri"
+                }
+            ],
+            "default_canonical_category_id": 2201,
+            "default_canonical_category_name": "İt yemləri"
+        }
+    ]
+}

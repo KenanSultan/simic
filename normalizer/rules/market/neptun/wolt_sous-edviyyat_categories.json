@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "sous-edviyyat",
+    "description": "Maps Neptun Wolt sauce/spice categories to canonical IDs. 'Duz və Ədviyyatlar' maps to spices, 'Souslar' parent with sub-categories maps to sauces.",
+    "direct_mappings": [
+        {"wolt_category": "Duz və Ədviyyatlar", "canonical_category_id": 1002, "canonical_category_name": "Ədviyyatlar"},
+        {"wolt_category": "Ketçuplar", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Mayonezlər", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Other", "canonical_category_id": 1001, "canonical_category_name": "Souslar"}
+    ],
+    "rule_based_mappings": []
+}

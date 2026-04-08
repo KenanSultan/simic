@@ -1,0 +1,38 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "qastronom",
+    "description": "Maps Wolt Araz deli/charcuterie categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Kolbasa",
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        },
+        {
+            "wolt_category": "Sosis",
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        }
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Qastronom",
+            "rules": [
+                {
+                    "keywords": ["his\u0259", "hise", "his\u0259 verilmi\u015f", "hise verilmis"],
+                    "canonical_category_id": 702,
+                    "canonical_category_name": "His\u0259 verilmi\u015f \u0259t"
+                },
+                {
+                    "keywords": ["delikates", "delikates"],
+                    "canonical_category_id": 703,
+                    "canonical_category_name": "Delikates"
+                }
+            ],
+            "default_canonical_category_id": 701,
+            "default_canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        }
+    ]
+}

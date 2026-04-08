@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "tutun-mehsullari",
+    "description": "Maps Bazarstore tobacco categories to canonical IDs. Source: 'Tütün Məhsulları' root.",
+    "direct_mappings": [
+        {"wolt_category": "Siqaret", "canonical_category_id": 1701, "canonical_category_name": "Siqaret"},
+        {"wolt_category": "Elektron Siqaret", "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"},
+        {"wolt_category": "Siqar", "canonical_category_id": 1703, "canonical_category_name": "Tütün & Siqar"}
+    ],
+    "rule_based_mappings": []
+}

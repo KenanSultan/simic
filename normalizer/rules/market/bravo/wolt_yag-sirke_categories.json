@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "yag-sirke",
+    "description": "Maps Wolt Bravo oil/vinegar categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "G\u00fcn\u0259baxan Ya\u011flar\u0131",
+            "canonical_category_id": 901,
+            "canonical_category_name": "Bitki ya\u011f\u0131"
+        },
+        {
+            "wolt_category": "Zeytun Ya\u011flar\u0131",
+            "canonical_category_id": 902,
+            "canonical_category_name": "Zeytun ya\u011f\u0131"
+        },
+        {
+            "wolt_category": "Qar\u011f\u0131dal\u0131 Ya\u011f\u0131",
+            "canonical_category_id": 901,
+            "canonical_category_name": "Bitki ya\u011f\u0131"
+        }
+    ],
+    "rule_based_mappings": []
+}

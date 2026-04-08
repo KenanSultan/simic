@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "yag-sirke",
+    "description": "Maps Wolt Neptun oil/vinegar categories to canonical category IDs. Only 'Duru Ya\u011flar' maps here; 'K\u0259r\u0259 Ya\u011flar\u0131 v\u0259 Spredl\u0259r' belongs to dairy.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Duru Ya\u011flar",
+            "rules": [
+                {
+                    "keywords": ["zeytun"],
+                    "canonical_category_id": 902,
+                    "canonical_category_name": "Zeytun ya\u011f\u0131"
+                }
+            ],
+            "default_canonical_category_id": 901,
+            "default_canonical_category_name": "Bitki ya\u011f\u0131"
+        }
+    ]
+}

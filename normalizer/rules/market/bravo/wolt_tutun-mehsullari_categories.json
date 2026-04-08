@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "tutun-mehsullari",
+    "description": "Maps Bravo Wolt tobacco categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Siqaretlər", "canonical_category_id": 1701, "canonical_category_name": "Siqaret"},
+        {"wolt_category": "Elektron Siqaretlər", "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"},
+        {"wolt_category": "Alışqanlar", "canonical_category_id": 1703, "canonical_category_name": "Tütün & Siqar"}
+    ],
+    "rule_based_mappings": []
+}

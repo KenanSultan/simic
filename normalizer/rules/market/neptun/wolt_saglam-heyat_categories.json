@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "saglam-heyat",
+    "description": "Maps Neptun Wolt healthy living categories. Neptun Wolt has no dedicated healthy living category — products are scattered across brand categories. This file captures the few identifiable ones.",
+    "direct_mappings": [],
+    "rule_based_mappings": []
+}

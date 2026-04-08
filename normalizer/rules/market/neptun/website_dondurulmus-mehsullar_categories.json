@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "dondurulmus-mehsullar",
+    "description": "Maps Neptun website frozen product categories to canonical category IDs. Source: Qastronom \u2192 Donmu\u015f m\u0259hsullar, Dondurma.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Donmu\u015f m\u0259hsullar",
+            "canonical_category_id": 1201,
+            "canonical_category_name": "Yar\u0131mfabrikatlar"
+        },
+        {
+            "wolt_category": "Dondurma",
+            "canonical_category_id": 1203,
+            "canonical_category_name": "Dondurma"
+        }
+    ],
+    "rule_based_mappings": []
+}

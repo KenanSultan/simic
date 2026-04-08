@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "spirtli-ickiler",
+    "description": "Maps Bazarstore website categories under İçkilər > Spirtli İçkilər to canonical alcoholic beverage IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Vodka", "canonical_category_id": 1603, "canonical_category_name": "Araq"},
+        {"wolt_category": "Şərab", "canonical_category_id": 1602, "canonical_category_name": "Şərab"},
+        {"wolt_category": "Pivə", "canonical_category_id": 1601, "canonical_category_name": "Pivə"},
+        {"wolt_category": "Viski, Burbon", "canonical_category_id": 1605, "canonical_category_name": "Viski"},
+        {"wolt_category": "Likor", "canonical_category_id": 1609, "canonical_category_name": "Likör"},
+        {"wolt_category": "Konyak, Vermut, Rom", "canonical_category_id": 1604, "canonical_category_name": "Konyak"},
+        {"wolt_category": "Tekila", "canonical_category_id": 1607, "canonical_category_name": "Tekila"},
+        {"wolt_category": "Rakı", "canonical_category_id": 1610, "canonical_category_name": "Rakı"},
+        {"wolt_category": "Şapman", "canonical_category_id": 1606, "canonical_category_name": "Şampan"},
+        {"wolt_category": "Cin", "canonical_category_id": 1608, "canonical_category_name": "Cin"}
+    ],
+    "rule_based_mappings": []
+}

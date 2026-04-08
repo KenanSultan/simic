@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "saglam-heyat",
+    "description": "Maps Neptun website healthy living categories. Source: 'Şirniyyat, çay, kofe, diabetik' → Diabetik.",
+    "direct_mappings": [
+        {"wolt_category": "Diabetik", "canonical_category_id": 2401, "canonical_category_name": "Diabetik"}
+    ],
+    "rule_based_mappings": []
+}

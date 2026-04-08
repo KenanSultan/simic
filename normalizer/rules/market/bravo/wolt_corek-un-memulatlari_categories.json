@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "corek-un-memulatlari",
+    "description": "Maps Bravo Wolt bread/bakery sub-categories to canonical IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Çörəklər", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "Un Məmulatları", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"}
+    ],
+    "rule_based_mappings": []
+}

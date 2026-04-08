@@ -1,0 +1,43 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "baliq-deniz-mehsullari",
+    "description": "Maps Araz website leaf categories under 'BALIQ MƏHSULLARI' to canonical fish & seafood IDs. DONDURULMUŞ→302, HİSƏ→304, DƏNİZ MƏHSULLARI→303, default→301.",
+    "direct_mappings": [
+        {"wolt_category": "DONDURULMUŞ KREVET", "category_id": 173, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+        {"wolt_category": "DONDURULMUŞ KRAB ÇUBUQLARI", "category_id": 174, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+        {"wolt_category": "DONDURULMUŞ DİGƏR DƏNİZ MƏHSULLARI", "category_id": 175, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+
+        {"wolt_category": "TƏZƏ DONDURULMUŞ BALIQ", "category_id": 177, "canonical_category_id": 302, "canonical_category_name": "Dondurulmuş balıq"},
+        {"wolt_category": "DONDURULMUŞ BALIQ", "category_id": 178, "canonical_category_id": 302, "canonical_category_name": "Dondurulmuş balıq"},
+
+        {"wolt_category": "TƏZƏ XƏRÇƏNGKİMİLƏR", "category_id": 181, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+        {"wolt_category": "TƏZƏ GÖL BALIĞI", "category_id": 182, "canonical_category_id": 301, "canonical_category_name": "Təzə balıq"},
+        {"wolt_category": "TƏZƏ DİGƏR DƏNİZ MƏHSULLARI", "category_id": 183, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+        {"wolt_category": "TƏZƏ DƏNİZ BALIĞI", "category_id": 184, "canonical_category_id": 301, "canonical_category_name": "Təzə balıq"},
+        {"wolt_category": "TƏZƏ ÇAY BALIĞI", "category_id": 185, "canonical_category_id": 301, "canonical_category_name": "Təzə balıq"},
+
+        {"wolt_category": "QAXAC EDİLMİŞ OKEAN BALIĞI", "category_id": 187, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "QAXAC EDİLMİŞ GÖL BAIIĞI", "category_id": 188, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "QAXAC EDİLMİŞ DƏNİZ BALIĞI", "category_id": 189, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "QAXAC EDİLMİŞ ÇAY BALIĞI", "category_id": 190, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+
+        {"wolt_category": "SOYUQ HİSƏ VERİLMİŞ OKEAN BALIĞI", "category_id": 192, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "SOYUQ HİSƏ VERİLMİŞ GÖL BALIĞI", "category_id": 193, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "SOYUQ HİSƏ VERİLMİŞ DƏNİZ BALIĞI", "category_id": 194, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "SOYUQ HİSƏ VERİLMİŞ ÇAY BALIĞI", "category_id": 195, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "İSTİ HİSƏ VERİLMİŞ OKEAN BALIĞI", "category_id": 196, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "İSTİ HISƏ VERİLMİŞ GÖL BALIĞI", "category_id": 197, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "İSTİ HİSƏ VERİLMİŞ DƏNİZ BALIĞI", "category_id": 198, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "İSTİ HİSƏ VERİLMİŞ ÇAY BALIĞI", "category_id": 199, "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+
+        {"wolt_category": "PRİSERVLƏŞDİRİLMİŞ BALIQLAR", "category_id": 201, "canonical_category_id": 301, "canonical_category_name": "Təzə balıq"},
+        {"wolt_category": "DUZLU SUYA QOYULMUŞ BALIQLAR", "category_id": 202, "canonical_category_id": 301, "canonical_category_name": "Təzə balıq"},
+
+        {"wolt_category": "BALIQ KÜRÜSÜ QIRMIZI", "category_id": 204, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+        {"wolt_category": "BALIQ KÜRÜSÜ QARA", "category_id": 205, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+        {"wolt_category": "BALIQ KÜRÜSÜ DELİKATES", "category_id": 206, "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"}
+    ],
+    "rule_based_mappings": []
+}

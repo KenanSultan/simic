@@ -1,0 +1,28 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "dondurulmus-mehsullar",
+    "description": "Maps Wolt Neptun frozen product categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Dondurma",
+            "canonical_category_id": 1203,
+            "canonical_category_name": "Dondurma"
+        }
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Dondurulmu\u015f M\u0259hsullar",
+            "rules": [
+                {
+                    "keywords": ["dondurma"],
+                    "canonical_category_id": 1203,
+                    "canonical_category_name": "Dondurma"
+                }
+            ],
+            "default_canonical_category_id": 1201,
+            "default_canonical_category_name": "Yar\u0131mfabrikatlar"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "temizlik-vasiteleri",
+    "description": "Maps Neptun Wolt cleaning subcategories to canonical cleaning IDs. Source: 'Paltaryuyan Vasitələr', 'Ev Təmizliyi', and 'Qabyuyan Maye' top-level categories.",
+    "direct_mappings": [
+        {"wolt_category": "Paltaryuyan Vasitələr", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Paltaryuyan Maye", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Çamaşır Suyu və Ağardıcılar", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+
+        {"wolt_category": "Qabyuyan Mayelər və Tabletlər", "canonical_category_id": 1802, "canonical_category_name": "Qabyuyan"},
+        {"wolt_category": "Qabyuyan Maye", "canonical_category_id": 1802, "canonical_category_name": "Qabyuyan"},
+
+        {"wolt_category": "Qab Süngərləri və Simlər", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Mətbəx və Hamam Təmizləyicilər", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Hava Təravətləndiricilər", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Təmizlik Bezləri və Əlcəklər", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Zibil Torbaları", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"}
+    ],
+    "rule_based_mappings": []
+}

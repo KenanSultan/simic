@@ -1,0 +1,27 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "sirniyyat-cerezler",
+    "description": "Maps Bravo Wolt sweets/snacks sub-categories to canonical IDs. Sources: 'Şirniyyatlar', 'Şirin Ləzzətlər', 'Ağız Təravətləndiriciləri', 'Çips, Çərəz və Qəlyanaltılar'.",
+    "direct_mappings": [
+        {"wolt_category": "Plitka şokolad", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Qutuda Şokoladlar", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Şokoladlar", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Uşaqlar üçün Şokoladlar", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Nanəli və Meyvəli Konfetlər", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Çəki Şirniyyatlar", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Halvalar", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+        {"wolt_category": "Lokumlar", "canonical_category_id": 1301, "canonical_category_name": "Şokolad & Konfet"},
+
+        {"wolt_category": "Vafli və Kurabiyələr", "canonical_category_id": 1302, "canonical_category_name": "Peçenye & Vafli"},
+        {"wolt_category": "Keks və Kruassanlar", "canonical_category_id": 1302, "canonical_category_name": "Peçenye & Vafli"},
+
+        {"wolt_category": "Ağız Təravətləndiriciləri", "canonical_category_id": 1303, "canonical_category_name": "Saqqız"},
+
+        {"wolt_category": "Çipslər", "canonical_category_id": 1304, "canonical_category_name": "Çipslər & Kraker"},
+        {"wolt_category": "Qəlyanaltılar", "canonical_category_id": 1304, "canonical_category_name": "Çipslər & Kraker"},
+        {"wolt_category": "Tumlar", "canonical_category_id": 1304, "canonical_category_name": "Çipslər & Kraker"}
+    ],
+    "rule_based_mappings": []
+}

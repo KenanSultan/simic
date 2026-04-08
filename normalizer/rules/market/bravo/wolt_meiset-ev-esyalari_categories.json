@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "meiset-ev-esyalari",
+    "description": "Maps Wolt Bravo household categories under Xırdavat və Kiçik Ev Əşyaları to canonical Household IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Mətbəx Ləvazimatları", "canonical_category_id": 2301, "canonical_category_name": "Mətbəx ləvazimatları"},
+        {"wolt_category": "Xırdavat Ləvazimatları", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Şamlar", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"}
+    ],
+    "rule_based_mappings": []
+}

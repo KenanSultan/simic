@@ -1,0 +1,44 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "temizlik-vasiteleri",
+    "description": "Maps Bazarstore website cleaning subcategories to canonical cleaning IDs. Source: 'Deterjan, Təmizlik' root.",
+    "direct_mappings": [
+        {"wolt_category": "Paltar Təmizlik Məhsulları", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yuyucu Toz (Avtomat)", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Paltar Ağardıcılar", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yuyucu Gel", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yuyucu Vasitələr", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Paltar Yumşaldıcı", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Paltar Sabunu", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yuyucu Toz (Əl)", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Yuyucu Kapsul", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+
+        {"wolt_category": "Qabyuyan Maye", "canonical_category_id": 1802, "canonical_category_name": "Qabyuyan"},
+        {"wolt_category": "Qabyuyucu Tablet", "canonical_category_id": 1802, "canonical_category_name": "Qabyuyan"},
+        {"wolt_category": "Qoruyucu Duz", "canonical_category_id": 1802, "canonical_category_name": "Qabyuyan"},
+
+        {"wolt_category": "Mətbəx-Hamam Təmizliyi", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Səth Təmizləyicilər", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Tualet Təmizləyici", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Kirəc Təmizləyici", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Şüşə Təmizləyici", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Xalça Təmizləyici", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Boru Açıcı", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Mebel Təmizləyici", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Ayaqqabı Təmizliyi", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Ev ətirləri, Aerozollar", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Hamam Avadanlıqları", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Zibil Torbaları", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Süngər, Sim, Top", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Təmizlik Bezi", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Maska, Əlcək", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Təmizlik Seti, Sap, Mop", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Digər Təmizlik Məhsulları", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+        {"wolt_category": "Fırçalar", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"},
+
+        {"wolt_category": "Həşərat Öldürücülər", "canonical_category_id": 1804, "canonical_category_name": "Həşəratlara qarşı"}
+    ],
+    "rule_based_mappings": []
+}

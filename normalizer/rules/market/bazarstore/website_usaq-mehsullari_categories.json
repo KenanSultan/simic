@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "usaq-mehsullari",
+    "description": "Maps Bazarstore website categories under Uşaq Dünyası to canonical Baby Products IDs (excluding Oyuncaqlar).",
+    "direct_mappings": [
+        {"wolt_category": "Uşaq Südü", "canonical_category_id": 2101, "canonical_category_name": "Uşaq qidası"},
+        {"wolt_category": "Uşaq Sıyığı", "canonical_category_id": 2101, "canonical_category_name": "Uşaq qidası"},
+        {"wolt_category": "Uşaq Püreləri", "canonical_category_id": 2101, "canonical_category_name": "Uşaq qidası"},
+        {"wolt_category": "Uşaq Şirələri", "canonical_category_id": 2101, "canonical_category_name": "Uşaq qidası"},
+        {"wolt_category": "Uşaq Peçenyesi", "canonical_category_id": 2101, "canonical_category_name": "Uşaq qidası"},
+        {"wolt_category": "Uşaq Suları", "canonical_category_id": 2101, "canonical_category_name": "Uşaq qidası"},
+        {"wolt_category": "Uşaq Bezi", "canonical_category_id": 2102, "canonical_category_name": "Uşaq bezləri"},
+        {"wolt_category": "Uşaq Baxım Məhsulları", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq Baxım Əşyaları", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq Deterjanı, Yumşaldıcı", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"},
+        {"wolt_category": "Uşaq Tekstili", "canonical_category_id": 2103, "canonical_category_name": "Uşaq baxımı"}
+    ],
+    "rule_based_mappings": []
+}

@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "kagiz-birdefelik",
+    "description": "Maps Wolt Neptun Salfetlər category to canonical Paper & Disposables IDs using keyword rules.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Salfetlər",
+            "rules": [
+                {
+                    "keywords": ["nəm", "nem", "wet", "islaq"],
+                    "canonical_category_id": 2002,
+                    "canonical_category_name": "Nəm salfetlər"
+                }
+            ],
+            "default_canonical_category_id": 2001,
+            "default_canonical_category_name": "Tualet kağızı & Salfetlər"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "qastronom",
+    "description": "Maps Araz website deli meat categories. Source: SÜD VƏ EMAL OLUNMUŞ ƏT → EMAL OLUNMUŞ ƏT MƏHSULLARI.",
+    "direct_mappings": [
+        {
+            "wolt_category": "SOSİSKA TOYUQ ƏTİ ƏDƏD",
+            "category_id": 890,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA UŞAQ ÜÇÜN ÇƏKİ",
+            "category_id": 891,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA TOYUQ ÇƏKİ",
+            "category_id": 892,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA MAL ƏTİ ƏDƏD",
+            "category_id": 893,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA MAL ƏTİ ÇƏKİ",
+            "category_id": 894,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA UŞAQ ÜÇÜN ƏDƏD",
+            "category_id": 895,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA SÜDLÜ ƏDƏD",
+            "category_id": 896,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA SÜDLÜ ÇƏKİ",
+            "category_id": 897,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA SADƏ ƏDƏD",
+            "category_id": 898,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA SADƏ ÇƏKİ",
+            "category_id": 899,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SOSİSKA HİSƏ VERİLMİŞ ƏDƏD",
+            "category_id": 900,
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        },
+        {
+            "wolt_category": "SOSİSKA HİSƏ VERİLMİŞ ÇƏKİ",
+            "category_id": 901,
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        },
+        {
+            "wolt_category": "SARDELKA SÜDLÜ ƏDƏD",
+            "category_id": 902,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SARDELKA SÜDLÜ ÇƏKİ",
+            "category_id": 903,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SARDELKA SADƏ ƏDƏD",
+            "category_id": 904,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SARDELKA SADƏ ÇƏKİ",
+            "category_id": 905,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "SARDELKA HİSƏ VERİLMİŞ ƏDƏD",
+            "category_id": 906,
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        },
+        {
+            "wolt_category": "SARDELKA HİSƏ VERİLMİŞ ÇƏKİ",
+            "category_id": 907,
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        },
+        {
+            "wolt_category": "KOLBASA SUCUQ ƏDƏD",
+            "category_id": 909,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA SUCUQ ÇƏKİ",
+            "category_id": 910,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA SERVELAT ƏDƏD",
+            "category_id": 911,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA SERVELAT ÇƏKİ",
+            "category_id": 912,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA SALYAMİ ƏDƏD",
+            "category_id": 913,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA SALYAMİ ÇƏKİ",
+            "category_id": 914,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA OXOT ƏDƏD",
+            "category_id": 915,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA OXOT ÇƏKİ",
+            "category_id": 916,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA KRAKOV ƏDƏD",
+            "category_id": 917,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA KRAKOV ÇƏKİ",
+            "category_id": 918,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA KABANOSI ƏDƏD",
+            "category_id": 919,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA KABANOSI ÇƏKİ",
+            "category_id": 920,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA İVERİYA ƏDƏD",
+            "category_id": 921,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA İVERİYA ÇƏKİ",
+            "category_id": 922,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA ÇEŞİDLƏRİ",
+            "category_id": 924,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA HƏVƏSKAR ƏDƏD",
+            "category_id": 925,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA HƏVƏSKAR ÇƏKİ",
+            "category_id": 926,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA DOKTOR ƏDƏD",
+            "category_id": 927,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "KOLBASA DOKTOR ÇƏKİ",
+            "category_id": 928,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "VETÇİNA ÇƏKİ",
+            "category_id": 930,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "VETÇİNA ƏDƏD",
+            "category_id": 931,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "PAŞTET ƏDƏD",
+            "category_id": 932,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "PAŞTET ÇƏKİ",
+            "category_id": 933,
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosislər"
+        },
+        {
+            "wolt_category": "DELİKATES ƏDƏD",
+            "category_id": 934,
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        },
+        {
+            "wolt_category": "DELİKATES ÇƏKİ",
+            "category_id": 935,
+            "canonical_category_id": 703,
+            "canonical_category_name": "Delikates"
+        }
+    ],
+    "rule_based_mappings": []
+}

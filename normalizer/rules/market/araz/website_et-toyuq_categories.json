@@ -1,0 +1,604 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "et-toyuq",
+    "description": "Maps Araz website meat/poultry leaf categories. Sources: ƏT MƏHSULLARI + AĞ ƏT MƏHSULLARI.",
+    "direct_mappings": [
+        {
+            "wolt_category": "DANA ƏTİ HİSSƏLƏRİ ƏDƏD",
+            "category_id": 4142,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DANA ƏTİ QİYMƏ",
+            "category_id": 4143,
+            "canonical_category_id": 206,
+            "canonical_category_name": "Qiymə"
+        },
+        {
+            "wolt_category": "DANA ƏTİ HİSSƏLƏRİ ÇƏKİ",
+            "category_id": 4164,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DANA ƏTİ İÇALAT VƏ QUYRUQ ÇƏKİ",
+            "category_id": 4145,
+            "canonical_category_id": 205,
+            "canonical_category_name": "İçalat"
+        },
+        {
+            "wolt_category": "QIRMIZI ƏT YARIMFABRİKATLARI",
+            "category_id": 4147,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "QUZU ƏTİ FARŞ ÇƏKİ",
+            "category_id": 4149,
+            "canonical_category_id": 202,
+            "canonical_category_name": "Quzu əti"
+        },
+        {
+            "wolt_category": "QUZU ƏTİ HİSSƏLƏRİ ÇƏKİ",
+            "category_id": 4150,
+            "canonical_category_id": 202,
+            "canonical_category_name": "Quzu əti"
+        },
+        {
+            "wolt_category": "ÇƏPİŞ ƏTİ HİSSƏLƏRİ ÇƏKİ",
+            "category_id": 4163,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 68,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ QANAD",
+            "category_id": 69,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ KƏND",
+            "category_id": 70,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ İÇALAT",
+            "category_id": 71,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ FİLE",
+            "category_id": 72,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ FARŞI",
+            "category_id": 73,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ BÜTÖV",
+            "category_id": 74,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ BUD DİBİ",
+            "category_id": 75,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ BUD BÜTÖV",
+            "category_id": 76,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ TOYUQ BUD",
+            "category_id": 77,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 79,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK QANAD",
+            "category_id": 80,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK İÇALAT",
+            "category_id": 81,
+            "canonical_category_id": 205,
+            "canonical_category_name": "İçalat"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK FİLE",
+            "category_id": 82,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK FARŞI",
+            "category_id": 83,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK BÜTÖV",
+            "category_id": 84,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK BUD DİBİ",
+            "category_id": 85,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK BUD BÜTÖV",
+            "category_id": 86,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ ÖRDƏK BUD",
+            "category_id": 87,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 89,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ QANAD",
+            "category_id": 90,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ İÇALAT",
+            "category_id": 91,
+            "canonical_category_id": 205,
+            "canonical_category_name": "İçalat"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ FİLE",
+            "category_id": 92,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ FARŞI",
+            "category_id": 93,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ BÜTÖV",
+            "category_id": 94,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ BUD DİBİ",
+            "category_id": 95,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ BUD BÜTÖV",
+            "category_id": 96,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ QAZ BUD",
+            "category_id": 97,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 99,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA QANAD",
+            "category_id": 100,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA KƏND",
+            "category_id": 101,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA İÇALAT",
+            "category_id": 102,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA FİLE",
+            "category_id": 103,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA FARŞI",
+            "category_id": 104,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA BÜTÖV",
+            "category_id": 105,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA BUD DİBİ",
+            "category_id": 106,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA BUD BÜTÖV",
+            "category_id": 107,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "TƏZƏ HİNDUŞKA BUD",
+            "category_id": 108,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 111,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ QANAD",
+            "category_id": 112,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ KƏND",
+            "category_id": 113,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ İÇALAT",
+            "category_id": 114,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ FİLE",
+            "category_id": 115,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ FARŞI",
+            "category_id": 116,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ BÜTÖV",
+            "category_id": 117,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ BUD DİBİ",
+            "category_id": 118,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ BUD BÜTÖV",
+            "category_id": 119,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ TOYUQ BUD",
+            "category_id": 120,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 122,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK QANAD",
+            "category_id": 123,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK  İÇALAT",
+            "category_id": 124,
+            "canonical_category_id": 205,
+            "canonical_category_name": "İçalat"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK  FİLE",
+            "category_id": 125,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK FARŞI",
+            "category_id": 126,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK BÜTÖV",
+            "category_id": 127,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK BUD BÜTÖV",
+            "category_id": 128,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK BUD DİBİ",
+            "category_id": 129,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ ÖRDƏK BUD",
+            "category_id": 130,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 132,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ QANAD",
+            "category_id": 133,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ ICALAT",
+            "category_id": 134,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ FILE",
+            "category_id": 135,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ FARSHI",
+            "category_id": 136,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ BUTOV",
+            "category_id": 137,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ BUD DIBI",
+            "category_id": 138,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ BUD BUTOV",
+            "category_id": 139,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUSH QAZ BUD",
+            "category_id": 140,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 142,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA QANAD",
+            "category_id": 143,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA İÇALAT",
+            "category_id": 144,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA FİLE",
+            "category_id": 145,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA FARŞI",
+            "category_id": 146,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA BÜTÖV",
+            "category_id": 147,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA BUD DİBİ",
+            "category_id": 148,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA BUD BÜTÖV",
+            "category_id": 149,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ HİNDUŞKA BUD",
+            "category_id": 150,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ SÜMÜKLÜ HİSSƏLƏRİ",
+            "category_id": 152,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ QANAD",
+            "category_id": 153,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ KƏND",
+            "category_id": 154,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ İÇALAT",
+            "category_id": 155,
+            "canonical_category_id": 205,
+            "canonical_category_name": "İçalat"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ FİLE",
+            "category_id": 156,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DIGƏR QUŞ FARŞI",
+            "category_id": 157,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ ƏTİ HİSSƏLƏRİ",
+            "category_id": 158,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ BÜTÖV",
+            "category_id": 159,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ BUD DİBİ",
+            "category_id": 160,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ BUD BÜTÖV",
+            "category_id": 161,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ DİGƏR QUŞ BUD",
+            "category_id": 162,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "DONDURULMUŞ BİLDİRÇİN",
+            "category_id": 163,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "TOYUQ ƏTİ YARIMFABRİKATLARI",
+            "category_id": 166,
+            "canonical_category_id": 203,
+            "canonical_category_name": "Toyuq"
+        },
+        {
+            "wolt_category": "ÖRDƏK ƏTİ YARIMFABRİKATLARI",
+            "category_id": 167,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "QAZ ƏTİ YARIMFABRİKATLARI",
+            "category_id": 168,
+            "canonical_category_id": 201,
+            "canonical_category_name": "Mal əti"
+        },
+        {
+            "wolt_category": "HİNDUŞKA ƏTİ YARIMFABRİKATLARI",
+            "category_id": 169,
+            "canonical_category_id": 204,
+            "canonical_category_name": "Hinduşka"
+        }
+    ],
+    "rule_based_mappings": []
+}

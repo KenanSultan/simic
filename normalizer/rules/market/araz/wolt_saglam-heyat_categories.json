@@ -1,0 +1,37 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "saglam-heyat",
+    "description": "Maps Wolt Araz healthy living category (4,503 products) to canonical IDs.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Diabetik və dietik qidalar",
+            "rules": [
+                {
+                    "keywords": ["diabetik", "şirinləşdirici", "stevia", "şəkər əvəz"],
+                    "canonical_category_id": 2401,
+                    "canonical_category_name": "Diabetik"
+                },
+                {
+                    "keywords": ["qlütensiz", "glutensiz", "gluten free"],
+                    "canonical_category_id": 2403,
+                    "canonical_category_name": "Qlütensiz"
+                },
+                {
+                    "keywords": ["protein", "fitnes", "fitness", "bombbar", "snaq fabriq", "enerji bar", "musle bar"],
+                    "canonical_category_id": 2404,
+                    "canonical_category_name": "Fitness & Protein"
+                },
+                {
+                    "keywords": ["bio ", "bio-", "orqanik", "organic"],
+                    "canonical_category_id": 2405,
+                    "canonical_category_name": "Bio & Orqanik"
+                }
+            ],
+            "default_canonical_category_id": 2402,
+            "default_canonical_category_name": "Dietik & Şəkərsiz"
+        }
+    ]
+}

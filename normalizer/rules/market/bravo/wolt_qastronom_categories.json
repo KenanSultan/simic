@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "qastronom",
+    "description": "Maps Wolt Bravo deli/charcuterie categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Kolbasalar",
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        },
+        {
+            "wolt_category": "Sosisl\u0259r",
+            "canonical_category_id": 701,
+            "canonical_category_name": "Kolbasa & Sosisl\u0259r"
+        },
+        {
+            "wolt_category": "His\u0259 Verilmi\u015f \u018et M\u0259hsullar\u0131",
+            "canonical_category_id": 702,
+            "canonical_category_name": "His\u0259 verilmi\u015f \u0259t"
+        }
+    ],
+    "rule_based_mappings": []
+}

@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "saglam-heyat",
+    "description": "Maps Bravo Wolt healthy living sub-categories (3,970 products). Source: 'Sağlam Qida Məhsulları' parent.",
+    "direct_mappings": [
+        {"wolt_category": "Diabetik Məhsullar", "canonical_category_id": 2401, "canonical_category_name": "Diabetik"},
+        {"wolt_category": "Dietik Məhsullar", "canonical_category_id": 2402, "canonical_category_name": "Dietik & Şəkərsiz"},
+        {"wolt_category": "Qlutensiz Məhsullar", "canonical_category_id": 2403, "canonical_category_name": "Qlütensiz"},
+        {"wolt_category": "Orqanik Məhsullar", "canonical_category_id": 2405, "canonical_category_name": "Bio & Orqanik"}
+    ],
+    "rule_based_mappings": []
+}

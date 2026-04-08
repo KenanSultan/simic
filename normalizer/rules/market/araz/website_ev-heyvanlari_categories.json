@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "ev-heyvanlari",
+    "description": "Maps Araz website leaf categories under HEYVAN YEMƏKLƏRİ VƏ QULLUQ MƏHSULLARI to canonical Pet Products IDs.",
+    "direct_mappings": [
+        {"wolt_category": "SÜRÜNƏN YEMLƏRİ", "category_id": 1916, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "YAŞ PİŞİK YEMİ", "category_id": 1918, "canonical_category_id": 2202, "canonical_category_name": "Pişik yemləri"},
+        {"wolt_category": "QURU PİŞİK YEMİ", "category_id": 1919, "canonical_category_id": 2202, "canonical_category_name": "Pişik yemləri"},
+        {"wolt_category": "QUŞ YEMLƏRİ", "category_id": 1921, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "YAŞ İT YEMİ", "category_id": 1923, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "QURU İT YEMİ", "category_id": 1924, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "GƏMİRİCİ YEMLƏRİ", "category_id": 1926, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "BALIQ YEMLƏRİ", "category_id": 1928, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "HEYVANA QULLUQ VASITELERI", "category_id": 1931, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "HEYVAN DƏRMANLARI", "category_id": 1932, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "HEYVAN YUVALARI", "category_id": 1934, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "HEYVAN YEMEK QABLARI", "category_id": 1936, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "HEYVAN TEKSTİLİ", "category_id": 1938, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "HEYVAN OYUNCAQLARI", "category_id": 1940, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"},
+        {"wolt_category": "HEYVAN AKSESUARLARI", "category_id": 1942, "canonical_category_id": 2201, "canonical_category_name": "İt yemləri"}
+    ],
+    "rule_based_mappings": []
+}

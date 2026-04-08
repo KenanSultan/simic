@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "dondurulmus-mehsullar",
+    "description": "Maps Bazarstore website frozen product categories to canonical category IDs. Source: At\u0131\u015fd\u0131rmal\u0131q \u2192 Dondurma.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Dondurma",
+            "canonical_category_id": 1203,
+            "canonical_category_name": "Dondurma"
+        }
+    ],
+    "rule_based_mappings": []
+}

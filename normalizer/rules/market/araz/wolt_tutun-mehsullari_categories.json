@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "tutun-mehsullari",
+    "description": "Maps Wolt Araz tobacco categories to canonical IDs. 'Elektron siqaret' is direct, 'Tütün məhsulları' is rule-based.",
+    "direct_mappings": [
+        {"wolt_category": "Elektron siqaret", "canonical_category_id": 1702, "canonical_category_name": "Elektron siqaret"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Tütün məhsulları",
+            "rules": [
+                {
+                    "keywords": ["elektron", "iqos", "terea", "heets", "puff", "vape", "stick"],
+                    "canonical_category_id": 1702,
+                    "canonical_category_name": "Elektron siqaret"
+                },
+                {
+                    "keywords": ["tütün", "tutun", "siqar", "siqarilla", "qəlyan", "qelyan"],
+                    "canonical_category_id": 1703,
+                    "canonical_category_name": "Tütün & Siqar"
+                }
+            ],
+            "default_canonical_category_id": 1701,
+            "default_canonical_category_name": "Siqaret"
+        }
+    ]
+}

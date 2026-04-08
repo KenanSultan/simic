@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "kagiz-birdefelik",
+    "description": "Maps Bazarstore website categories under Deterjan, Təmizlik > Təmizlik Kağızları to canonical Paper & Disposables IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Mətbəx Kağızları", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "Tualet Kağızı", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "Nəm Salfet", "canonical_category_id": 2002, "canonical_category_name": "Nəm salfetlər"},
+        {"wolt_category": "Qutu Salfet", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"},
+        {"wolt_category": "Cib Salfeti", "canonical_category_id": 2001, "canonical_category_name": "Tualet kağızı & Salfetlər"}
+    ],
+    "rule_based_mappings": []
+}

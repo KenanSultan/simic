@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "baliq-deniz-mehsullari",
+    "description": "Maps Bazarstore fish & seafood categories to canonical IDs. Source: 'Ət, Toyuq, Balıq' root, sub-categories under 'Dəniz Məhsulları' and 'Balıq'.",
+    "direct_mappings": [
+        {"wolt_category": "Dəniz Məhsulları", "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"},
+        {"wolt_category": "Balıq", "canonical_category_id": 301, "canonical_category_name": "Təzə balıq"},
+        {"wolt_category": "Hisə verilmiş Balıq", "canonical_category_id": 304, "canonical_category_name": "Hisə verilmiş balıq"},
+        {"wolt_category": "Hazır Dəniz Məhsulları", "canonical_category_id": 303, "canonical_category_name": "Dəniz məhsulları"}
+    ],
+    "rule_based_mappings": []
+}

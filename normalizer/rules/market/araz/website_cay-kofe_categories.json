@@ -1,0 +1,33 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "cay-kofe",
+    "description": "Maps Araz website leaf categories under ÇAY VƏ KOFELƏR to canonical Tea & Coffee IDs.",
+    "direct_mappings": [
+        {"wolt_category": "KOFE ÜYÜDÜLMÜŞ YAŞIL", "category_id": 1769, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KOFE ÜYÜDÜLMÜŞ", "category_id": 1770, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KOFE ÜCÜN SÜD TOZU", "category_id": 1771, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KOFE TÜRK", "category_id": 1772, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KOFE KAPSUL", "category_id": 1773, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KOFE DƏNƏVƏR YAŞIL", "category_id": 1774, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KOFE DƏNƏVƏR", "category_id": 1775, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "HAZIR KOFELƏR", "category_id": 1776, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KAPUÇİNO", "category_id": 1777, "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "KAKAO İÇKİ TOZU", "category_id": 1779, "canonical_category_id": 1503, "canonical_category_name": "Kakao"},
+        {"wolt_category": "İSTİ ŞOKOLAD İÇKİ TOZU", "category_id": 1781, "canonical_category_id": 1503, "canonical_category_name": "Kakao"},
+        {"wolt_category": "BİTKİ ÇAYI TEA-BAG", "category_id": 1792, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "BİTKİ ÇAYI DƏMLƏMƏ", "category_id": 1793, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "BİTKİ ÇAYI ÇƏKİ", "category_id": 1794, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "YAŞIL ÇAY  TEA-POT", "category_id": 1783, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "YAŞIL ÇAY TEA-BAG", "category_id": 1784, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "YAŞIL ÇAY DƏMLƏMƏ", "category_id": 1785, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "YAŞIL ÇAY ÇƏKİ", "category_id": 1786, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "QARA ÇAY TEA-POT", "category_id": 1787, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "QARA ÇAY TEA-BAG", "category_id": 1788, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "QARA ÇAY DƏMLƏMƏ", "category_id": 1789, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "QARA ÇAY ÇƏKİ", "category_id": 1790, "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "BİTKİ ÇAYI TEA-POT", "category_id": 1791, "canonical_category_id": 1501, "canonical_category_name": "Çay"}
+    ],
+    "rule_based_mappings": []
+}

@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "sous-edviyyat",
+    "description": "Maps Bravo Wolt sauce/spice sub-categories to canonical IDs. Main source: 'Sous və Ədviyyat Məhsulları' parent. Also includes 'Mayonezlər' from 'Süd Məhsulları' parent and 'Bişirmə Məhsulları' parent sub-categories.",
+    "direct_mappings": [
+        {"wolt_category": "Ketçuplar", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Digər Souslar", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Xardal, Sirkə və Narşərab", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+        {"wolt_category": "Mayonezlər", "canonical_category_id": 1001, "canonical_category_name": "Souslar"},
+
+        {"wolt_category": "Ədviyyatlar", "canonical_category_id": 1002, "canonical_category_name": "Ədviyyatlar"},
+        {"wolt_category": "Duz", "canonical_category_id": 1002, "canonical_category_name": "Ədviyyatlar"},
+
+        {"wolt_category": "Alimunium Folqalar", "canonical_category_id": 1003, "canonical_category_name": "Bişirmə məhsulları"},
+        {"wolt_category": "Bişirmə Kağızları", "canonical_category_id": 1003, "canonical_category_name": "Bişirmə məhsulları"},
+        {"wolt_category": "Streçlər", "canonical_category_id": 1003, "canonical_category_name": "Bişirmə məhsulları"}
+    ],
+    "rule_based_mappings": []
+}

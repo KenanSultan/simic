@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "meiset-ev-esyalari",
+    "description": "Maps Neptun website categories under Məişət, mətbəx, tekstil to canonical Household IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Qab-qacaq", "canonical_category_id": 2301, "canonical_category_name": "Mətbəx ləvazimatları"},
+        {"wolt_category": "Tekstil", "canonical_category_id": 2302, "canonical_category_name": "Tekstil"},
+        {"wolt_category": "Məişət məhsulları", "canonical_category_id": 2303, "canonical_category_name": "Xırdavat"},
+        {"wolt_category": "Plastik qablar", "canonical_category_id": 2301, "canonical_category_name": "Mətbəx ləvazimatları"}
+    ],
+    "rule_based_mappings": []
+}

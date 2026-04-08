@@ -1,0 +1,38 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "corek-un-memulatlari",
+    "description": "Maps Bazarstore bread/bakery categories. Source: 'Tort, Bişmələr, Çörək' root.",
+    "direct_mappings": [
+        {"wolt_category": "Normal Çörək", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "Xüsusi Çörək", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "Təndir Çörəyi", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "Zavod Çörəyi", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "Qlutensiz Çörək", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+        {"wolt_category": "Diabetik Çörək", "canonical_category_id": 601, "canonical_category_name": "Çörək & Lavaş"},
+
+        {"wolt_category": "Bişmələr", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Yaş Maya", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Şərbətli Şirniyyat", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Qabartma Tozu", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Vanil", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Mayalar", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Nişastalar", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Krem Şantilər", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Kakao", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Manna", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Krem və Souslar", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Kekslər", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Kadayiflər", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Düyü Unları", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Jele", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Kekun", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Soda", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Pudinqlər", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+        {"wolt_category": "Tort ləvazimatları", "canonical_category_id": 602, "canonical_category_name": "Un məmulatları"},
+
+        {"wolt_category": "Tortlar", "canonical_category_id": 603, "canonical_category_name": "Tort & Bişmələr"}
+    ],
+    "rule_based_mappings": []
+}

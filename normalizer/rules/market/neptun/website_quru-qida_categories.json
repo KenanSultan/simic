@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "quru-qida",
+    "description": "Maps Neptun website dry goods leaf categories to canonical IDs. Source: 'Ərzaq məhsulları' top-level (only Dənlilər, Unlar, Hazır yeməklər, Səhər yeməkləri). Excludes: Ədviyyatlar/Souslar→sous-edviyyat, Turşular/Zeytunlar/Konservlər→konservler-tursular.",
+    "direct_mappings": [
+        {"wolt_category": "Dənlilər", "canonical_category_id": 804, "canonical_category_name": "Bakliyyat & Dənlilər"},
+        {"wolt_category": "Unlar", "canonical_category_id": 801, "canonical_category_name": "Un"},
+        {"wolt_category": "Hazır yeməklər", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Səhər yeməkləri", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"},
+        {"wolt_category": "Qatılaşdırılmış süd", "canonical_category_id": 806, "canonical_category_name": "Səhər yeməkləri"}
+    ],
+    "rule_based_mappings": []
+}

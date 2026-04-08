@@ -1,0 +1,24 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "yag-sirke",
+    "description": "Maps Araz website oil/vinegar leaf categories to canonical category IDs. Source: QURU Q\u0130DA \u2192 DURU V\u018e \u018eR\u0130D\u0130LM\u0130\u015e YA\u011eLAR (id 1750).",
+    "direct_mappings": [
+        {"wolt_category": "QIZARTMALIQ YA\u011e", "category_id": 1752, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "\u018eR\u0130D\u0130LM\u0130\u015e SOYA YA\u011eI", "category_id": 1753, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "\u018eR\u0130D\u0130LM\u0130\u015e KOKOS YA\u011eI", "category_id": 1754, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "\u018eR\u0130D\u0130LM\u0130\u015e D\u0130G\u018eR YA\u011eLAR", "category_id": 1755, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "\u018eR\u0130D\u0130LM\u0130\u015e B\u0130TK\u0130 YA\u011eI", "category_id": 1756, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "ZEYTUN YA\u011eLARI", "category_id": 1758, "canonical_category_id": 902, "canonical_category_name": "Zeytun ya\u011f\u0131"},
+        {"wolt_category": "\u00dcZ\u00dcM YA\u011eI", "category_id": 1759, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "QIZARTMALIQ DURU YA\u011e", "category_id": 1760, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "QAR\u011eIDALI YA\u011eLARI", "category_id": 1761, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "K\u018eTAN YA\u011eI", "category_id": 1762, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "XARDAL YA\u011eI", "category_id": 1763, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "G\u00dcN\u018eBAXAN ZEYTUN M\u0130X", "category_id": 1764, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "G\u00dcN\u018eBAXAN YA\u011eLARI", "category_id": 1765, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"},
+        {"wolt_category": "DURU YA\u011eLAR D\u0130G\u018eR", "category_id": 1766, "canonical_category_id": 901, "canonical_category_name": "Bitki ya\u011f\u0131"}
+    ],
+    "rule_based_mappings": []
+}

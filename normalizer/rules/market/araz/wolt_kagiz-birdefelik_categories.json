@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "kagiz-birdefelik",
+    "description": "Wolt Araz has no dedicated paper/disposables category. Products are scattered across other categories.",
+    "direct_mappings": [],
+    "rule_based_mappings": []
+}

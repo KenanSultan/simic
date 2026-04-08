@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "wolt",
+    "canonical_parent": "ev-heyvanlari",
+    "description": "Maps Wolt Neptun pet category to canonical Pet Products IDs using keyword rules.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "İt və Pişik üçün",
+            "rules": [
+                {
+                    "keywords": ["pişik", "pisik", "cat", "kedi"],
+                    "canonical_category_id": 2202,
+                    "canonical_category_name": "Pişik yemləri"
+                }
+            ],
+            "default_canonical_category_id": 2201,
+            "default_canonical_category_name": "İt yemləri"
+        }
+    ]
+}

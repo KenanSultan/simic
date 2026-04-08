@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "spirtli-ickiler",
+    "description": "Maps Wolt Bravo alcoholic beverage categories to canonical IDs. Note: Spirtsiz Pivələr belongs to spirtsiz-ickiler and is excluded.",
+    "direct_mappings": [
+        {"wolt_category": "Araqlar", "canonical_category_id": 1603, "canonical_category_name": "Araq"},
+        {"wolt_category": "Pivələr", "canonical_category_id": 1601, "canonical_category_name": "Pivə"},
+        {"wolt_category": "Qırmızı Şərablar", "canonical_category_id": 1602, "canonical_category_name": "Şərab"},
+        {"wolt_category": "Ağ Şərablar", "canonical_category_id": 1602, "canonical_category_name": "Şərab"},
+        {"wolt_category": "Çəhrayı Şərablar", "canonical_category_id": 1602, "canonical_category_name": "Şərab"},
+        {"wolt_category": "Oynaq Şərablar", "canonical_category_id": 1602, "canonical_category_name": "Şərab"},
+        {"wolt_category": "Viskilər", "canonical_category_id": 1605, "canonical_category_name": "Viski"},
+        {"wolt_category": "Spirtli kokteyllər", "canonical_category_id": 1612, "canonical_category_name": "Spirtli kokteyller"},
+        {"wolt_category": "Elit İçkilər (Digər)", "canonical_category_id": 1605, "canonical_category_name": "Viski"}
+    ],
+    "rule_based_mappings": []
+}

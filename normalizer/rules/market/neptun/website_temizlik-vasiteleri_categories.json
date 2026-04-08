@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "temizlik-vasiteleri",
+    "description": "Maps Neptun website cleaning leaf categories to canonical cleaning IDs. Source: 'Yuyucu,təmizləyici vasitələr' top-level.",
+    "direct_mappings": [
+        {"wolt_category": "Paltarlar üçün", "canonical_category_id": 1801, "canonical_category_name": "Paltaryuyan"},
+        {"wolt_category": "Qab yumaq üçün", "canonical_category_id": 1802, "canonical_category_name": "Qabyuyan"},
+        {"wolt_category": "Yuyucu, təmizləyicilər", "canonical_category_id": 1803, "canonical_category_name": "Ümumi təmizlik"}
+    ],
+    "rule_based_mappings": []
+}

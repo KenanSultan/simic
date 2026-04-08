@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "yumurta",
+    "description": "Maps Wolt Araz 'Yumurta' category to canonical egg ID.",
+    "direct_mappings": [
+        {"wolt_category": "Yumurta", "canonical_category_id": 401, "canonical_category_name": "Yumurta"}
+    ],
+    "rule_based_mappings": []
+}

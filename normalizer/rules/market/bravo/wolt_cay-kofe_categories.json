@@ -1,0 +1,18 @@
+{
+    "version": 2,
+    "market": "bravo",
+    "source_type": "wolt",
+    "canonical_parent": "cay-kofe",
+    "description": "Maps Wolt Bravo tea and coffee categories to canonical Tea & Coffee IDs.",
+    "direct_mappings": [
+        {"wolt_category": "Qara Çaylar", "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "Yaşıl Çaylar", "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "Bitki Çayları", "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "Sallama Çaylar", "canonical_category_id": 1501, "canonical_category_name": "Çay"},
+        {"wolt_category": "3-ü 1-də Qəhvələr", "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "Həll Olunan Qəhvələr", "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "Kapsullar", "canonical_category_id": 1502, "canonical_category_name": "Kofe"},
+        {"wolt_category": "Kakaolar", "canonical_category_id": 1503, "canonical_category_name": "Kakao"}
+    ],
+    "rule_based_mappings": []
+}

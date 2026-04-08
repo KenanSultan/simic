@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "market": "bazarstore",
+    "source_type": "website",
+    "canonical_parent": "saglam-heyat",
+    "description": "Maps Bazarstore healthy living categories (209 products). Source: Təməl Qida → Sağlıqlı Həyat Tərzi Məhsulları.",
+    "direct_mappings": [
+        {"wolt_category": "Diabetik Məhsullar", "canonical_category_id": 2401, "canonical_category_name": "Diabetik"},
+        {"wolt_category": "Diyetik Məhsullar", "canonical_category_id": 2402, "canonical_category_name": "Dietik & Şəkərsiz"},
+        {"wolt_category": "Qlutensiz", "canonical_category_id": 2403, "canonical_category_name": "Qlütensiz"},
+        {"wolt_category": "Qlutensiz Məhsullar", "canonical_category_id": 2403, "canonical_category_name": "Qlütensiz"}
+    ],
+    "rule_based_mappings": []
+}

@@ -1,0 +1,49 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "sud-mehsullari",
+    "description": "Maps Wolt Araz dairy categories to canonical dairy IDs. 'Süd məhsulları' is a flat top-level category (no sub-categories) — needs rule-based keyword matching. 'Kərə yağları' sub-categories also included.",
+    "direct_mappings": [
+        {"wolt_category": "Kərə yağları", "canonical_category_id": 507, "canonical_category_name": "Kərə yağı"}
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Süd məhsulları",
+            "rules": [
+                {
+                    "keywords": ["pendir", "feta", "mozzarella", "cheddar", "parmesan", "gouda", "brinza", "saçaq", "kaşar", "kaskaval", "labne", "əritmə"],
+                    "canonical_category_id": 502,
+                    "canonical_category_name": "Pendir"
+                },
+                {
+                    "keywords": ["yoqurt", "yogurt", "qatıq", "qatiq", "activia", "pudinq"],
+                    "canonical_category_id": 503,
+                    "canonical_category_name": "Yoğurt & Qatıq"
+                },
+                {
+                    "keywords": ["kefir", "ayran", "dovğa", "dovga", "ryajenka"],
+                    "canonical_category_id": 504,
+                    "canonical_category_name": "Kefir & Ayran"
+                },
+                {
+                    "keywords": ["qaymaq", "xama", "slivki"],
+                    "canonical_category_id": 505,
+                    "canonical_category_name": "Qaymaq & Xama"
+                },
+                {
+                    "keywords": ["kəsmik", "kesmik", "şor", "sor ", "süzmə", "suzme", "sirok", "sırok", "tvorog"],
+                    "canonical_category_id": 506,
+                    "canonical_category_name": "Kəsmik & Şor"
+                },
+                {
+                    "keywords": ["kərə yağ", "kere yag", "marqarin", "spred"],
+                    "canonical_category_id": 507,
+                    "canonical_category_name": "Kərə yağı"
+                }
+            ],
+            "default_canonical_category_id": 501,
+            "default_canonical_category_name": "Süd"
+        }
+    ]
+}

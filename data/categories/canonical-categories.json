@@ -182,8 +182,14 @@
                 {"id": 1602, "slug": "serab", "name": "Şərab"},
                 {"id": 1603, "slug": "araq", "name": "Araq"},
                 {"id": 1604, "slug": "konyak", "name": "Konyak"},
-                {"id": 1605, "slug": "viski-tekila", "name": "Viski & Tekila"},
-                {"id": 1606, "slug": "sampan", "name": "Şampan"}
+                {"id": 1605, "slug": "viski", "name": "Viski"},
+                {"id": 1606, "slug": "sampan", "name": "Şampan"},
+                {"id": 1607, "slug": "tekila", "name": "Tekila"},
+                {"id": 1608, "slug": "cin", "name": "Cin"},
+                {"id": 1609, "slug": "likor", "name": "Likör"},
+                {"id": 1610, "slug": "raki", "name": "Rakı"},
+                {"id": 1611, "slug": "rom", "name": "Rom"},
+                {"id": 1612, "slug": "spirtli-kokteyller", "name": "Spirtli kokteyller"}
             ]
         },
         {
@@ -259,6 +265,18 @@
                 {"id": 2301, "slug": "metbex-levazimatlari", "name": "Mətbəx ləvazimatları"},
                 {"id": 2302, "slug": "tekstil", "name": "Tekstil"},
                 {"id": 2303, "slug": "xirdavat", "name": "Xırdavat"}
+            ]
+        },
+        {
+            "id": 24,
+            "slug": "saglam-heyat",
+            "name": "Sağlam həyat",
+            "children": [
+                {"id": 2401, "slug": "diabetik", "name": "Diabetik"},
+                {"id": 2402, "slug": "dietik-sekersiz", "name": "Dietik & Şəkərsiz"},
+                {"id": 2403, "slug": "glutensiz", "name": "Qlütensiz"},
+                {"id": 2404, "slug": "fitness-protein", "name": "Fitness & Protein"},
+                {"id": 2405, "slug": "bio-orqanik", "name": "Bio & Orqanik"}
             ]
         }
     ]

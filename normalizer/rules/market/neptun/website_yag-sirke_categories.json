@@ -1,0 +1,27 @@
+{
+    "version": 2,
+    "market": "neptun",
+    "source_type": "website",
+    "canonical_parent": "yag-sirke",
+    "description": "Maps Neptun website oil/vinegar categories to canonical category IDs. Note: duru ya\u011f is mixed into the 'Ya\u011flar' leaf under S\u00fcd m\u0259hsullar\u0131; rule-based split needed.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Ya\u011flar",
+            "rules": [
+                {
+                    "keywords": ["zeytun"],
+                    "canonical_category_id": 902,
+                    "canonical_category_name": "Zeytun ya\u011f\u0131"
+                },
+                {
+                    "keywords": ["g\u00fcn\u0259baxan", "gunebaxan", "duru", "qar\u011f\u0131dal\u0131", "qargidali", "soya", "kokos", "bitki ya\u011f", "k\u0259tan", "ketan", "rapskol"],
+                    "canonical_category_id": 901,
+                    "canonical_category_name": "Bitki ya\u011f\u0131"
+                }
+            ],
+            "default_canonical_category_id": null,
+            "default_canonical_category_name": null
+        }
+    ]
+}
