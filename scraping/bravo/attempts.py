@@ -1,4 +1,4 @@
-from scraping.mongo import bravo_raw_pages
+from datastore.mongo import bravo_raw_pages
 
 
 def get_next_attempt() -> int:

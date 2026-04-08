@@ -5,7 +5,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-from scraping.mongo import bazarstore_raw_categories
+from datastore.mongo import bazarstore_raw_categories
 
 BASE_URL = "https://bazarstore.az"
 OUTPUT_PATH = Path(__file__).resolve().parents[2] / "data" / "categories" / "bazarstore-categories.json"

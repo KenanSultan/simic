@@ -1,0 +1,54 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "website",
+    "canonical_parent": "spirtsiz-ickiler",
+    "description": "Maps Araz website leaf categories to canonical non-alcoholic beverage IDs.",
+    "direct_mappings": [
+        {"wolt_category": "QAZSIZ SU SADƏ", "category_id": 1034, "canonical_category_id": 1401, "canonical_category_name": "Qazsız su"},
+        {"wolt_category": "BÖYÜK HƏCMLİ SULAR", "category_id": 1033, "canonical_category_id": 1401, "canonical_category_name": "Qazsız su"},
+        {"wolt_category": "FİTNES SULARI", "category_id": 1171, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "VİTAMİNLIİ SU SADƏ", "category_id": 1030, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "VİTAMİNLİ SU AROMALI", "category_id": 1031, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+
+        {"wolt_category": "QAZLI SU SADƏ", "category_id": 1036, "canonical_category_id": 1402, "canonical_category_name": "Qazlı su & Mineral su"},
+        {"wolt_category": "QAZLI MİNERAL SU", "category_id": 1037, "canonical_category_id": 1402, "canonical_category_name": "Qazlı su & Mineral su"},
+
+        {"wolt_category": "MEYVƏ ŞİRƏLƏRİ", "category_id": 1049, "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "POMİDOR ŞİRƏSİ", "category_id": 1042, "canonical_category_id": 1403, "canonical_category_name": "Meyvə şirəsi & Nektar"},
+        {"wolt_category": "QAZSIZ MEYVƏ AROMALI KOKTEYL", "category_id": 1053, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "QAZSIZ MEYVƏ AROMALI İÇKİLƏR", "category_id": 1054, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "ŞALĞAM SUYU ACILI", "category_id": 1041, "canonical_category_id": 1411, "canonical_category_name": "Dig��r"},
+
+        {"wolt_category": "KOMPOT", "category_id": 1057, "canonical_category_id": 1404, "canonical_category_name": "Kompot"},
+
+        {"wolt_category": "QAZLI COLA NÖV ŞƏKƏRLİ  İÇKİLƏR", "category_id": 1069, "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "QAZLI COLA NÖV ŞƏKƏRSİZ İÇKİLƏR", "category_id": 1068, "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "KVAS", "category_id": 1066, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "TONIK", "category_id": 1060, "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+        {"wolt_category": "BUBBLE TEA", "category_id": 1046, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "QAZLI COLA NÖV KOFEİNSİZ İÇKİLƏR", "category_id": 1070, "canonical_category_id": 1405, "canonical_category_name": "Cola & Soda"},
+
+        {"wolt_category": "LİMONAD", "category_id": 1062, "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "QAZLI MEYVƏ AROMALI İÇKİLƏR", "category_id": 1065, "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "QAZLI MEYVƏ AROMALI KOKTEYL", "category_id": 1064, "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "QAZLI MEYVƏ AROMALI ŞƏKƏRSİZ İÇKİLƏR", "category_id": 1063, "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+        {"wolt_category": "QAZSIZ LİMONAD", "category_id": 1055, "canonical_category_id": 1406, "canonical_category_name": "Limonad"},
+
+        {"wolt_category": "PİVƏ ALKOQOLSUZ YERLİ", "category_id": 596, "canonical_category_id": 1407, "canonical_category_name": "Spirtsiz pivə"},
+        {"wolt_category": "PİVƏ ALKOQOLSUZ  İDXAL", "category_id": 600, "canonical_category_id": 1407, "canonical_category_name": "Spirtsiz pivə"},
+
+        {"wolt_category": "ENERJİ İÇKİSİ SADƏ", "category_id": 1073, "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+        {"wolt_category": "ENERJİ İÇKİSİ ŞƏKƏRSİZ", "category_id": 1072, "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+        {"wolt_category": "ENERJİ İÇKİSİ MEYVƏLİ", "category_id": 1074, "canonical_category_id": 1408, "canonical_category_name": "Enerji içkiləri"},
+
+        {"wolt_category": "SOYUQ ÇAY", "category_id": 1047, "canonical_category_id": 1409, "canonical_category_name": "Soyuq çay"},
+
+        {"wolt_category": "SOYUQ KOFE", "category_id": 1044, "canonical_category_id": 1410, "canonical_category_name": "Soyuq kofe"},
+
+        {"wolt_category": "QAZSIZ SİROPLAR", "category_id": 1052, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "MEYVƏ DİLİMLƏRİ ÖZ SUYUNDA", "category_id": 1050, "canonical_category_id": 1411, "canonical_category_name": "Digər"},
+        {"wolt_category": "ŞALĞAM SUYU SADƏ", "category_id": 1040, "canonical_category_id": 1411, "canonical_category_name": "Digər"}
+    ],
+    "rule_based_mappings": []
+}

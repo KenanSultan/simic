@@ -1,4 +1,4 @@
-from scraping.mongo import (
+from datastore.mongo import (
     araz_raw_pages,
     araz_raw_products,
 )

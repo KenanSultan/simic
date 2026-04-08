@@ -1,0 +1,27 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "cay-kofe",
+    "description": "Maps Wolt Araz tea & coffee categories to canonical category IDs.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Çay və kofe",
+            "rules": [
+                {
+                    "keywords": ["kofe", "qəhvə", "qehve", "coffee", "nescafe", "latte", "cappuccino", "3-u 1-de", "3ü1də"],
+                    "canonical_category_id": 1502,
+                    "canonical_category_name": "Kofe"
+                },
+                {
+                    "keywords": ["kakao", "cocoa", "nesquik"],
+                    "canonical_category_id": 1503,
+                    "canonical_category_name": "Kakao"
+                }
+            ],
+            "default_canonical_category_id": 1501,
+            "default_canonical_category_name": "Çay"
+        }
+    ]
+}

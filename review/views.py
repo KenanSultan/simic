@@ -49,19 +49,28 @@ def dashboard(request, market):
         }
         for item in stats["by_category"]
     ]
+    if stats.get("cross_source"):
+        stats["cross_source"]["tiers"] = [
+            {
+                "type": item["_id"],
+                "count": item["count"],
+                "avg_confidence": round(item.get("avg_confidence", 0), 2),
+            }
+            for item in stats["cross_source"]["tiers"]
+        ]
     return render(request, "review/dashboard.html", {"stats": stats, **_base_context(market)})
 
 
 def golden_list(request, market):
     filters = {}
     param_names = ["category", "brand", "match_type", "size", "packaging",
-                   "product_type", "flavor", "sparkling"]
+                   "product_type", "flavor", "sparkling", "cross_match_type"]
     raw = {p: request.GET.get(p, "") for p in param_names}
     search = request.GET.get("q", "").strip()
 
     if raw["category"]:
         filters["category_id"] = raw["category"]
-    for key in ["brand", "match_type", "size", "packaging", "product_type", "flavor", "sparkling"]:
+    for key in ["brand", "match_type", "size", "packaging", "product_type", "flavor", "sparkling", "cross_match_type"]:
         if raw[key]:
             filters[key] = raw[key]
 
@@ -100,7 +109,7 @@ def golden_list(request, market):
         "current_filters": {**raw, "q": search},
         "categories": get_category_choices(),
         "brands": get_distinct_brands(market),
-        "match_types": ["barcode", "exact", "fuzzy", "single"],
+        "match_types": ["barcode", "exact", "structured", "structured_sparkling", "fuzzy", "single", "website_only", "passthrough"],
         "sizes": get_distinct_sizes(market),
         "packagings": get_distinct_packagings(market),
         "product_types": get_distinct_product_types(market),
@@ -116,7 +125,7 @@ def golden_detail(request, market, match_group_id):
         return render(request, "review/404.html", status=404)
 
     branch_products = get_branch_products_for_match(market, doc)
-    branch_products.sort(key=lambda p: p.get("branch", ""))
+    branch_products.sort(key=lambda p: p.get("branch") or "")
 
     category_map = get_category_map()
     gr = doc.get("golden_record", {})
@@ -190,7 +199,7 @@ def image_gallery(request, market):
     page = int(request.GET.get("page", 1))
     per_page = 20
 
-    docs, total = get_golden_records(
+    docs, total, _ = get_golden_records(
         market, filters=filters, search=search, page=page, per_page=per_page
     )
 

@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-from scraping.mongo import neptun_raw_categories
+from datastore.mongo import neptun_raw_categories
 
 BASE_URL = "https://neptun.az"
 OUTPUT_PATH = Path(__file__).resolve().parents[2] / "data" / "categories" / "neptun-categories.json"

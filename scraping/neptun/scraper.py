@@ -2,7 +2,7 @@ from datetime import datetime, timezone
 import time
 import random
 
-from scraping.mongo import neptun_raw_pages
+from datastore.mongo import neptun_raw_pages
 from scraping.neptun.client import fetch_neptun_category_page
 from scraping.neptun.categories import load_leaf_categories
 from scraping.neptun.attempts import (

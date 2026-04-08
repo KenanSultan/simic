@@ -2,7 +2,7 @@ from datetime import datetime, timezone
 
 from scraping.araz.client import fetch_araz_page
 from scraping.araz.attempts import get_next_attempt, get_last_page_for_attempt
-from scraping.mongo import araz_raw_pages
+from datastore.mongo import araz_raw_pages
 
 
 def scrape_araz(resume_attempt: int | None = None):

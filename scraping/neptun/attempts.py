@@ -1,4 +1,4 @@
-from scraping.mongo import neptun_raw_pages
+from datastore.mongo import neptun_raw_pages
 
 
 def get_next_attempt() -> int:

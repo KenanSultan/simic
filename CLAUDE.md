@@ -28,6 +28,15 @@ python manage.py scrape_neptun
 # Extract structured products from raw scraped data
 python manage.py extract_raw_products --market all
 python manage.py extract_raw_products --market bravo --attempt 3
+
+# Normalize extracted products
+python manage.py normalize_products --market araz --source-type wolt --category spirtsiz-ickiler
+python manage.py normalize_products --market araz --source-type website --category spirtsiz-ickiler
+
+# Match products and create golden records
+python manage.py match_products --scope intra_marketplace --market araz --source-type wolt --category spirtsiz-ickiler
+python manage.py match_products --scope cross_source --market araz --category spirtsiz-ickiler
+python manage.py match_products --scope passthrough --market bazarstore --source-type website --category spirtsiz-ickiler
 ```
 
 ## Architecture
@@ -35,23 +44,48 @@ python manage.py extract_raw_products --market bravo --attempt 3
 ### Dual Database Design
 
 - **SQLite** (Django ORM): Normalized product/pricing data — `Category`, `Product`, `Market`, `MarketBranch`, `MarketProduct`, `Price`
-- **MongoDB** (`simic_raw` database): Raw scraped pages and extracted products, one pair of collections per marketplace (e.g., `araz_raw_pages` / `araz_raw_products`)
+- **MongoDB** (`simic_raw` database): Raw scraped pages, extracted products, normalized products, and product matches
 
-### Data Pipeline (Two-Phase Scraping)
+### Data Pipeline
 
-1. **Phase 1 — Raw Collection**: Scraper fetches pages from marketplace APIs/websites → stores raw JSON/HTML in MongoDB `*_raw_pages` collections
-2. **Phase 2 — Extraction**: Extractor parses raw pages → writes structured product data to `*_raw_products` collections
-3. **Phase 3 — Normalization** (not yet implemented): Transfer extracted products into Django ORM models
+1. **Scraping** (`scraping/`): Fetches raw pages from marketplace APIs/websites → stores in MongoDB `*_raw_pages` → extracts to `*_raw_products`
+2. **Normalization** (`normalizer/`): Parses product names, assigns categories, extracts structured fields → stores in `*_normalised_products`
+3. **Matching** (`matcher/`): Deduplicates within branches, matches across sources, creates golden records → stores in `*_product_matches`
 
 Each scraping run is tracked by an `attempt` number. Writes are idempotent (upsert by attempt + page/product_id), enabling safe resume of interrupted runs.
 
 ### Django Apps
 
+**Infrastructure:**
 - **core** — Abstract `BaseModel` with `created_at`/`updated_at` timestamps; all other models inherit from it
+- **datastore** — MongoDB connection and collection registry (`datastore/mongo.py`)
+
+**Data Pipeline:**
+- **scraping** — Marketplace-specific scrapers (Araz, Bazarstore, Bravo, Neptun, Wolt). Commands: `scrape_*`, `extract_raw_products`, `import_wolt`
+- **normalizer** — Product name parsing, category assignment, market-specific extractors, rule engine. Command: `normalize_products`
+- **matcher** — Product deduplication, multi-tier matching (barcode → exact → structured → fuzzy), golden record creation, cross-source matching. Command: `match_products`
+
+**Domain Models (SQLite):**
 - **catalog** — `Category` model with self-referential parent FK for hierarchical categories
 - **product** — `Product` model (barcode, title, brand, size, unit, category FK)
 - **market** — `Market` (code, name, website) and `MarketBranch` (address, city, coordinates, unique on market+code)
-- **pricing** — `MarketProduct` (links Product to Market via external_product_id, unique on market+external_id) and `Price` (price, discount_price, currency=AZN, fetched_at; indexed on market_product+branch+fetched_at)
+- **pricing** — `MarketProduct` (links Product to Market via external_product_id) and `Price` (price, discount_price, currency=AZN, fetched_at)
+
+**UI:**
+- **review** — Web interface for reviewing matched products, golden records, warnings, and image galleries
+- **discover** — Exploratory query utilities
+
+### App Dependency Flow
+
+```
+datastore/          ← no project deps (pymongo + Django settings)
+    ↑
+scraping/           ← depends on: datastore
+normalizer/         ← depends on: datastore
+    ↑
+matcher/            ← depends on: datastore, normalizer (category utils)
+review/             ← depends on: datastore, normalizer (category utils)
+```
 
 ### Scraper Structure
 
@@ -62,8 +96,15 @@ Each marketplace scraper lives in `scraping/<market_name>/` with a consistent pa
 - `attempts.py` — Tracks attempt numbers and last-fetched page for resume
 
 Shared utilities:
-- `scraping/mongo.py` — MongoDB connection and collection references
+- `datastore/mongo.py` — MongoDB connection and collection references
 - `scraping/raw_products/writer.py` — `write_raw_product()` upsert helper
+
+### Normalizer Structure
+
+- `normalizer/parser.py` — Product name parser (brand, size, flavor, packaging, etc.)
+- `normalizer/category.py` — Two-layer category assigner (direct mapping + keyword rules)
+- `normalizer/extractors/` — Market-specific extractors (Araz, Bazarstore, Neptun, Wolt)
+- `normalizer/rules/` — Hierarchical rule engine (general → category → market → brand scopes)
 
 ### Marketplace-Specific Notes
 
@@ -80,5 +121,6 @@ Shared utilities:
 - Default currency: AZN (Azerbaijani Manat)
 - All models inherit from `core.models.BaseModel`
 - MongoDB database name: `simic_raw`
-- Management commands are in `scraping/management/commands/`
-- No admin registrations, views, URL routing, or API endpoints exist yet (only `admin/` path is configured)
+- MongoDB access: always import from `datastore.mongo`, never connect directly
+- Management commands: `scraping/management/commands/` (scraping), `normalizer/management/commands/` (normalization), `matcher/management/commands/` (matching)
+- Data files (canonical categories, brand dictionary): `data/` directory, referenced via `settings.DATA_DIR`

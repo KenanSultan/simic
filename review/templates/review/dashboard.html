@@ -82,6 +82,60 @@
 </div>
 {% endif %}
 
+<!-- Cross-Source Matching -->
+{% if stats.cross_source %}
+<div class="card mb-6">
+    <div class="card__header">
+        <span class="card__header-title">Cross-Source Matching</span>
+        <span class="card__header-meta">{{ stats.cross_source.total_website }} website products matched</span>
+    </div>
+    <div class="card__body">
+        {% if stats.cross_source.total_website > 0 %}
+        <div class="stacked-bar mb-4">
+            {% for tier in stats.cross_source.tiers %}
+            <div class="stacked-bar__segment stacked-bar__segment--{{ tier.type }}" style="width: {{ tier.count|pct:stats.cross_source.total_website }}%" title="{{ tier.type }}: {{ tier.count }}"></div>
+            {% endfor %}
+            {% if stats.cross_source.website_only > 0 %}
+            <div class="stacked-bar__segment stacked-bar__segment--website_only" style="width: {{ stats.cross_source.website_only|pct:stats.cross_source.total_website }}%" title="website_only: {{ stats.cross_source.website_only }}"></div>
+            {% endif %}
+        </div>
+        {% endif %}
+        <table class="table-compact">
+            <thead>
+                <tr>
+                    <th>Tier</th>
+                    <th class="cell-num">Count</th>
+                    <th class="cell-num">%</th>
+                    <th class="cell-num">Avg Confidence</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for tier in stats.cross_source.tiers %}
+                <tr>
+                    <td><span class="badge badge-{{ tier.type }}">{{ tier.type }}</span></td>
+                    <td class="cell-num">
+                        <a href="{% url 'review:golden-list' market=current_market %}?cross_match_type={{ tier.type }}">{{ tier.count }}</a>
+                    </td>
+                    <td class="cell-num cell-muted">{{ tier.count|pct:stats.cross_source.total_website }}%</td>
+                    <td class="cell-num">{{ tier.avg_confidence }}</td>
+                </tr>
+                {% endfor %}
+                {% if stats.cross_source.website_only > 0 %}
+                <tr>
+                    <td><span class="badge badge-website_only">website_only</span></td>
+                    <td class="cell-num">
+                        <a href="{% url 'review:golden-list' market=current_market %}?match_type=website_only">{{ stats.cross_source.website_only }}</a>
+                    </td>
+                    <td class="cell-num cell-muted">{{ stats.cross_source.website_only|pct:stats.cross_source.total_website }}%</td>
+                    <td class="cell-num cell-muted">-</td>
+                </tr>
+                {% endif %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endif %}
+
 {% else %}
 <div class="stat-grid">
     <div class="stat-card stat-card--accent">

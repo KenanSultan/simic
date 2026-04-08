@@ -1,4 +1,4 @@
-from scraping.mongo import db
+from datastore.mongo import db
 
 
 # ── Market registry ──────────────────────────────────────────────
@@ -119,6 +119,18 @@ def _build_mongo_query(filters, search):
                         query[path] = val
                 else:
                     query[path] = val
+
+        # Cross-source match tier filter (inside products array)
+        cross_mt = filters.get("cross_match_type")
+        if cross_mt:
+            and_conditions.append({
+                "products": {
+                    "$elemMatch": {
+                        "source_type": "website",
+                        "match_type": cross_mt,
+                    }
+                }
+            })
 
     if search:
         and_conditions.append({
@@ -361,6 +373,32 @@ def get_dashboard_stats(market):
             wolt_only = total_golden - both - website_only
             coverage = {"both": both, "wolt_only": wolt_only, "website_only": website_only}
 
+    # Cross-source matching tier breakdown
+    cross_source = None
+    if is_multi_source and coverage:
+        tier_pipeline = [
+            {"$unwind": "$products"},
+            {"$match": {
+                "products.source_type": "website",
+                "products.match_type": {"$exists": True},
+            }},
+            {"$group": {
+                "_id": "$products.match_type",
+                "count": {"$sum": 1},
+                "avg_confidence": {"$avg": "$products.match_confidence"},
+            }},
+            {"$sort": {"count": -1}},
+        ]
+        tier_results = list(product_matches.aggregate(tier_pipeline))
+        website_only_count = product_matches.count_documents({"match_type": "website_only"})
+        total_website = sum(r["count"] for r in tier_results) + website_only_count
+
+        cross_source = {
+            "tiers": tier_results,
+            "website_only": website_only_count,
+            "total_website": total_website,
+        }
+
     return {
         "total_golden": total_golden,
         "total_normalised": total_normalised,
@@ -368,6 +406,7 @@ def get_dashboard_stats(market):
         "normalised_by_source": {s: quality_by_source[s]["total"] for s in quality_by_source},
         "warnings_by_source": {s: quality_by_source[s]["with_warnings"] for s in quality_by_source},
         "coverage": coverage,
+        "cross_source": cross_source,
         "needs_review": product_matches.count_documents({"needs_review": True}),
         "by_type": list(
             product_matches.aggregate(

@@ -8,7 +8,7 @@ from scraping.bazarstore.attempts import (
     get_next_attempt,
     get_last_page_for_category,
 )
-from scraping.mongo import bazarstore_raw_pages
+from datastore.mongo import bazarstore_raw_pages
 
 SHOPIFY_PAGE_SIZE = 30
 

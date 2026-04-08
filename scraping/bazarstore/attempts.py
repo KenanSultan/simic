@@ -1,4 +1,4 @@
-from scraping.mongo import bazarstore_raw_pages
+from datastore.mongo import bazarstore_raw_pages
 
 
 def get_next_attempt() -> int:

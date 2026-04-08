@@ -1,7 +1,7 @@
 import json
 
 from django.core.management.base import BaseCommand
-from scraping.mongo import araz_raw_products
+from datastore.mongo import araz_raw_products
 
 DEFAULT_CATEGORY_IDS = [1503]  # Fill with known Araz category IDs
 

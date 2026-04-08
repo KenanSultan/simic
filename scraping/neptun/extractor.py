@@ -2,7 +2,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-from scraping.mongo import (
+from datastore.mongo import (
     neptun_raw_pages,
     neptun_raw_products,
 )

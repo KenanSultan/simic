@@ -4,7 +4,7 @@ from pathlib import Path
 
 import requests
 
-from scraping.mongo import araz_raw_categories
+from datastore.mongo import araz_raw_categories
 
 API_URL = "https://b7x9kq.arazmarket.az/api/categories"
 HEADERS = {

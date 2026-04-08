@@ -1,0 +1,132 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "spirtsiz-ickiler",
+    "description": "Maps Wolt Araz non-alcoholic beverage categories to canonical category IDs.",
+    "direct_mappings": [
+        {
+            "wolt_category": "Enerji Içkiləri",
+            "canonical_category_id": 1408,
+            "canonical_category_name": "Enerji içkiləri"
+        }
+    ],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Sadə və mineral sular",
+            "rules": [
+                {
+                    "keywords": ["qazoz", "gazoz"],
+                    "canonical_category_id": 1405,
+                    "canonical_category_name": "Cola & Soda"
+                },
+                {
+                    "keywords": ["qazsız", "qazsiz"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["borjomi", "yessentuki", "essentuki", "nabeghlavi", "narzan", "sırma", "sirma", "kızılay", "kizılay", "sarikiz", "sarıkız", "perrier", "sanpellegrino", "san pellegrino", "dr.essent", "dr. essent", "zapovednik", "alleya", "rical"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                },
+                {
+                    "keywords": ["qazlı", "qazli", "mineral", "sparkling", "maden", "maden suyu"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                },
+                {
+                    "keywords": ["vitamin", "vitaminli", "fitnes"],
+                    "canonical_category_id": 1411,
+                    "canonical_category_name": "Digər"
+                }
+            ],
+            "default_canonical_category_id": 1401,
+            "default_canonical_category_name": "Qazsız su"
+        },
+        {
+            "wolt_category": "Şirələr paketləşdirilmiş",
+            "rules": [
+                {
+                    "keywords": ["kompot", "kompotu"],
+                    "canonical_category_id": 1404,
+                    "canonical_category_name": "Kompot"
+                },
+                {
+                    "keywords": ["soyuq cay", "soyuq çay", "ice tea", "fuse tea", "bergtea", "booz tea"],
+                    "canonical_category_id": 1409,
+                    "canonical_category_name": "Soyuq çay"
+                },
+                {
+                    "keywords": ["soyuq kofe", "soyuq qehve", "soyuq qəhvə", "coffee", "kofe", "latte", "mocha", "cappuccino", "kapucino"],
+                    "canonical_category_id": 1410,
+                    "canonical_category_name": "Soyuq kofe"
+                },
+                {
+                    "keywords": ["sirop"],
+                    "canonical_category_id": 1411,
+                    "canonical_category_name": "Digər"
+                }
+            ],
+            "default_canonical_category_id": 1403,
+            "default_canonical_category_name": "Meyvə şirəsi & Nektar"
+        },
+        {
+            "wolt_category": "Spirtsiz Içkilər",
+            "rules": [
+                {
+                    "keywords": ["kompot", "kompotu"],
+                    "canonical_category_id": 1404,
+                    "canonical_category_name": "Kompot"
+                },
+                {
+                    "keywords": ["sire", "nektar", "sok ", "soku", "siresi", "cappy", "frutmativ", "jumper", "rich", "swell"],
+                    "canonical_category_id": 1403,
+                    "canonical_category_name": "Meyvə şirəsi & Nektar"
+                },
+                {
+                    "keywords": ["soyuq cay", "ice tea", "fuse tea", "bergtea", "booz tea", "lipton"],
+                    "canonical_category_id": 1409,
+                    "canonical_category_name": "Soyuq çay"
+                },
+                {
+                    "keywords": ["soyuq kofe", "soyuq qehve", "coffee", "kofe", "latte", "mocha", "cappuccino", "macchiato", "nescafe"],
+                    "canonical_category_id": 1410,
+                    "canonical_category_name": "Soyuq kofe"
+                },
+                {
+                    "keywords": ["qazsız su", "qazsiz su"],
+                    "canonical_category_id": 1401,
+                    "canonical_category_name": "Qazsız su"
+                },
+                {
+                    "keywords": ["mineral su", "essentuki", "yessentuki", "maden suyu", "borjomi", "nabeghlavi", "narzan", "sırma", "sirma", "kızılay", "sarikiz", "sarıkız", "dr.essent", "dr. essent", "zapovednik", "alleya", "rical"],
+                    "canonical_category_id": 1402,
+                    "canonical_category_name": "Qazlı su & Mineral su"
+                },
+                {
+                    "keywords": ["enerji", "energy", "berg", "bizon", "hell", "red bull", "buzz", "monster", "bombbar"],
+                    "canonical_category_id": 1408,
+                    "canonical_category_name": "Enerji içkiləri"
+                },
+                {
+                    "keywords": ["limonad", "lemonade", "düşes", "duses", "tərxun", "terxun"],
+                    "canonical_category_id": 1406,
+                    "canonical_category_name": "Limonad"
+                },
+                {
+                    "keywords": ["spirtsiz pivə", "spirtsiz pive", "alkoqolsuz", "bezalkogolnoe", "non-alcoholic beer"],
+                    "canonical_category_id": 1407,
+                    "canonical_category_name": "Spirtsiz pivə"
+                },
+                {
+                    "keywords": ["kvas", "şalğam", "salgam", "vitamin water", "vitaminli su", "bubble tea", "fitnes"],
+                    "canonical_category_id": 1411,
+                    "canonical_category_name": "Digər"
+                }
+            ],
+            "default_canonical_category_id": 1405,
+            "default_canonical_category_name": "Cola & Soda"
+        }
+    ]
+}

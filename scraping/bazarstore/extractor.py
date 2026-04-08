@@ -1,4 +1,4 @@
-from scraping.mongo import (
+from datastore.mongo import (
     bazarstore_raw_pages,
     bazarstore_raw_products,
 )

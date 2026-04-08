@@ -6,7 +6,7 @@ from scraping.bravo.attempts import (
     get_next_attempt,
     get_last_page_for_attempt,
 )
-from scraping.mongo import bravo_raw_pages
+from datastore.mongo import bravo_raw_pages
 
 CATEGORY_ID = 4497
 PER_PAGE = 24

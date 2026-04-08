@@ -1,0 +1,42 @@
+{
+    "version": 2,
+    "market": "araz",
+    "source_type": "wolt",
+    "canonical_parent": "spirtli-ickiler",
+    "description": "Maps Wolt Araz alcoholic beverage categories to canonical category IDs.",
+    "direct_mappings": [],
+    "rule_based_mappings": [
+        {
+            "wolt_category": "Spirtli içkilər",
+            "rules": [
+                {
+                    "keywords": ["pivə", "pive", "beer", "xırdalan", "baltika", "tuborg", "heineken", "efes", "corona", "carlsberg", "miller"],
+                    "canonical_category_id": 1601,
+                    "canonical_category_name": "Pivə"
+                },
+                {
+                    "keywords": ["şərab", "serab", "wine", "cabernet", "merlot", "sauvignon", "chardonnay", "muscat"],
+                    "canonical_category_id": 1602,
+                    "canonical_category_name": "Şərab"
+                },
+                {
+                    "keywords": ["araq", "vodka", "chacha"],
+                    "canonical_category_id": 1603,
+                    "canonical_category_name": "Araq"
+                },
+                {
+                    "keywords": ["konyak", "cognac", "brandy"],
+                    "canonical_category_id": 1604,
+                    "canonical_category_name": "Konyak"
+                },
+                {
+                    "keywords": ["şampan", "sampan", "prosecco", "champagne", "köpüklü"],
+                    "canonical_category_id": 1606,
+                    "canonical_category_name": "Şampan"
+                }
+            ],
+            "default_canonical_category_id": 1605,
+            "default_canonical_category_name": "Viski & Tekila"
+        }
+    ]
+}

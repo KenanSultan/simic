@@ -1,4 +1,4 @@
-from scraping.normalization.category import load_canonical_categories
+from normalizer.category import load_canonical_categories
 
 _CACHE = None
 

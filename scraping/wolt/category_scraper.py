@@ -6,7 +6,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-from scraping.mongo import wolt_raw_categories
+from datastore.mongo import wolt_raw_categories
 
 BASE_URL = "https://wolt.com/en/aze/baku"
 OUTPUT_DIR = Path(__file__).resolve().parents[2] / "data" / "categories"

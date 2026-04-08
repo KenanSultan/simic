@@ -40,9 +40,29 @@
   color: var(--color-danger);
 }
 
-.badge-neutral, .badge-single, .badge-website_only {
+.badge-neutral, .badge-single, .badge-website_only, .badge-passthrough {
   background: var(--color-neutral-light);
   color: var(--color-neutral);
+}
+
+.badge-exact_shared {
+  background: #dbeafe;
+  color: #2563eb;
+}
+
+.badge-scoring {
+  background: #fef3c7;
+  color: #d97706;
+}
+
+.badge-scoring_review {
+  background: var(--color-danger-light);
+  color: var(--color-danger);
+}
+
+.badge-structured, .badge-structured_sparkling {
+  background: #d1fae5;
+  color: #059669;
 }
 
 /* --- Stat Cards --- */
@@ -693,8 +713,14 @@
 
 .stacked-bar__segment--barcode { background: var(--color-success); }
 .stacked-bar__segment--exact { background: var(--color-info); }
+.stacked-bar__segment--exact_shared { background: #60a5fa; }
+.stacked-bar__segment--structured { background: #34d399; }
+.stacked-bar__segment--structured_sparkling { background: #6ee7b7; }
+.stacked-bar__segment--scoring { background: #fbbf24; }
+.stacked-bar__segment--scoring_review { background: var(--color-danger); }
 .stacked-bar__segment--fuzzy { background: var(--color-warning); }
 .stacked-bar__segment--single { background: var(--color-neutral); }
+.stacked-bar__segment--passthrough { background: var(--color-neutral); }
 .stacked-bar__segment--website_only { background: #a78bfa; }
 
 /* --- Key-Value Grid (for detail pages) --- */

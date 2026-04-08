@@ -2,7 +2,7 @@ import json
 import os
 from collections import defaultdict
 
-from scraping.mongo import (
+from datastore.mongo import (
     wolt_araz_raw_products,
     wolt_bravo_raw_products,
     wolt_neptun_raw_products,
